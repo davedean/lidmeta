@@ -1,3 +1,5 @@
+**This Work Is Pre-Alpha And Not for End Users**
+
 # LidMeta: Lightweight Metadata Server for Lidarr
 
 A high-performance metadata provider for Lidarr that processes MusicBrainz dump data into a normalized, efficient format.
