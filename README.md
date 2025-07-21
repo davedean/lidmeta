@@ -1,23 +1,20 @@
 # Lidarr MusicBrainz Cache Server
+# LidMeta: Lightweight Metadata Server for Lidarr
 
 A high-performance metadata provider for Lidarr that processes MusicBrainz dump data into a normalized, efficient format.
 
-## 🎯 **POC RESULTS: 99.3% Size Reduction Achieved!**
+## Why LidMeta?
 
-**Radiohead Normalization POC Completed Successfully:**
-- **681.73 MB** raw data → **4.83 MB** normalized (99.3% reduction)
-- **6,543 releases** processed with complete track data
-- **568 albums** with full metadata coverage
-- **141x compression ratio** achieved
-- **Complete Lidarr compatibility** confirmed
+LidMeta makes it possible to run your own Lidarr-compatible metadata service completely offline on ordinary hardware. The official metadata server requires roughly **300 GB** of storage when mirrored locally; LidMeta brings that down to **≈30 GB** by shipping pre-flattened JSON files for artist & album endpoints and a compact SQLite database for search.
 
-**Full Dataset Projection:**
-- **285 GB** raw → **~4.1 GB** normalized (98.6% reduction)
-- **Perfect for USB drive processing**
+Key benefits:
+- Works without internet access once the dataset has been generated
+- Order-of-magnitude smaller on-disk footprint (≈90 % reduction)
+- Fully compatible with Lidarr’s existing API
 
 ## Overview
 
-This project processes MusicBrainz JSON dumps to create a comprehensive, normalized metadata cache for Lidarr. The system achieves massive storage efficiency while maintaining complete metadata coverage including:
+This project processes MusicBrainz JSON dumps to create a comprehensive, normalized metadata cache for Lidarr. The system achieves storage efficiency while maintaining most metadata coverage including:
 
 - ✅ **Artist Information**: Name, type, genres, aliases, biography
 - ✅ **Album Metadata**: Title, type, release date, genres, disambiguation
@@ -28,8 +25,7 @@ This project processes MusicBrainz JSON dumps to create a comprehensive, normali
 ## Key Features
 
 ### **Massive Storage Efficiency**
-- **99.3% size reduction** achieved in POC
-- **141x compression ratio**
+- **≈90% size reduction** compared with a full mirror (300 GB → 30 GB)
 - **Eliminates redundancy** in raw dump data
 - **Optimized for Lidarr** field requirements
 
@@ -39,179 +35,132 @@ This project processes MusicBrainz JSON dumps to create a comprehensive, normali
 - **Complete track data**: Titles, durations, positions
 - **Rich metadata**: Genres, ratings, images, links
 
-### **Efficient Processing**
-- **Streaming normalization** from compressed files
-- **Single-pass processing** with constant memory usage
-- **USB drive compatible** processing strategy
-- **Resume capability** for large datasets
-
 ### **Lidarr Integration**
 - **Compatible data structure** with existing mappers
 - **All required fields** included
 - **Direct API integration** ready
-- **Validation against fixtures** completed
 
 ## Current Status
 
 ### ✅ **POC Completed Successfully**
-- Radiohead data normalization validated
 - Complete metadata coverage confirmed
-- Massive compression ratios achieved
 - Lidarr compatibility verified
-
-### 🚀 **Ready for Full Implementation**
-- Processing strategy finalized
-- Technical approach validated
-- Scaling plan established
-- Production pipeline design complete
 
 ## Architecture
 
-```
-Raw MusicBrainz Dumps (285 GB)
-├── Artist data
-├── Release-group data
-└── Release data (4.8M releases)
+The LidMeta Server is composed of three core services that work together to deliver high-performance metadata searching. The system is designed to be deployed as a cohesive stack using Docker Compose, but each service can be run independently for testing and development.
 
-↓ Normalization Process
+LidMeta is designed around a minimal runtime stack backed by an offline build step:
 
-Normalized Metadata (4 GB)
-├── Artist information
-├── Album metadata with releases
-├── Track listings and media info
-└── Rich metadata (genres, ratings, etc.)
+```mermaid
+graph TD
+    A["Lidarr"] --> P["Proxy (dev only)"]
+    P --> C["Caddy"]
+    C --> S["Search Server"]
+    C --> J["Static JSON (artist / album)"]
+
+    subgraph "Offline"
+        D["Data Processor"]
+    end
+    D --> J
+    D --> DB["Search SQLite DB"]
 ```
+
+The architecture includes:
+-   **Caddy Proxy**: A reverse proxy that routes requests from Lidarr to the appropriate backend service.
+-   **Search Service**: The primary endpoint for Lidarr's search queries. It uses a normalized SQLite database to return metadata results quickly.
+-   **Capture Proxy**: A secondary endpoint that captures Lidarr's requests and saves them as test fixtures. This allows for contract testing and validation.
+-   **Data Processor**: An offline component responsible for processing raw MusicBrainz data dumps into a normalized format.
 
 ## Processing Strategy
 
-### **Recommended Approach: Reverse Index Building**
-1. **Build reverse indexes** mapping artists/release-groups to line numbers
-2. **Stream through compressed release file** efficiently
-3. **Match releases to normalized data** using indexes
-4. **Enrich and save final output** with complete metadata
+### **Reverse Index Building**
+The data processing strategy relies on building a reverse index to efficiently map artists and release groups to their corresponding releases. This approach allows for single-pass processing of the massive MusicBrainz release file, which is too large to fit into memory.
 
-### **Benefits**
-- ✅ **Proven compression** (99.3% reduction)
-- ✅ **Complete data coverage** validated
-- ✅ **Fast random access** for efficient processing
-- ✅ **Resume capability** for large dataset
-- ✅ **USB drive compatible** processing
+The process is as follows:
+1.  **Build Indexes**: Create reverse indexes for artists and release groups, mapping their MBIDs to the line number where they appear in the raw data files.
+2.  **Stream Releases**: Stream the compressed release file, which contains over 4.8 million releases.
+3.  **Normalize Data**: For each release, use the reverse indexes to look up the corresponding artist and release group information.
+4.  **Enrich and Save**: Enrich the release data with the full artist and release group metadata, and save the normalized output to a new file.
 
-## Installation
+This strategy has been proven to achieve a 99.3% reduction in data size while maintaining complete data coverage.
+This strategy yields an approximate **10×** reduction in storage requirements compared with mirroring the full MusicBrainz dataset.
+
+## Installation and Setup
+To get started with the LidMeta Server, clone the repository and use the provided Make commands to build and run the services.
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/your-username/lidarr-metadata-server.git
 cd lidarr-metadata-server
 
-# Install dependencies
-pip install -r requirements.txt
+# download a musicbrainz json dump
+`manual steps`
 
-# Run POC normalization
-python tools/normalize_radiohead_data.py
+# Build and run the service stack
+make up
 ```
+
+This will start the Caddy proxy, search service, and capture proxy using Docker Compose.
 
 ## Usage
+The primary way to interact with the server is through the Lidarr interface. Once the services are running, you can configure Lidarr to use the local metadata provider.
 
-### **POC Normalization (Completed)**
-```bash
-# Process Radiohead data with real release information
-python tools/normalize_radiohead_data.py
-```
+### **Testing**
+The repository includes a suite of tests to ensure the system is working correctly. You can run the tests using the following Make command:
 
-### **Full Dataset Processing (Next Phase)**
 ```bash
-# Process full 285GB dataset
-python tools/process_full_dataset.py
+# Run all tests
+make test
 ```
 
 ## Project Structure
 
 ```
 lidarr-metadata-server/
-├── tools/                          # Processing scripts
-│   ├── normalize_radiohead_data.py # POC normalization (COMPLETED)
-│   ├── streaming_normalization.py  # Streaming approach
-│   └── process_full_dataset.py     # Full dataset processing
-├── local/                          # Local data and documentation
-│   ├── normalized_data/            # POC output (4.83 MB)
-│   ├── extracted_data/             # Raw extracted data
-│   └── docs/                       # Documentation
-├── tests/                          # Test suite
-└── lidarr_metadata_server/         # Main application code
+├── capture_proxy/      # Captures Lidarr requests for contract testing
+├── data_processor/     # Processes raw MusicBrainz data
+├── schema_validator/   # Validates data against the Lidarr API schema
+├── search_service/     # Handles search queries from Lidarr
+├── tests/              # Unit and integration tests
+├── tools/              # Helper scripts for development and data analysis
+├── Caddyfile           # Configuration for the Caddy reverse proxy
+├── docker-compose.yml  # Docker Compose file for running the service stack
+├── Makefile            # Makefile for common development tasks
+└── pyproject.toml      # Project dependencies and configuration
 ```
 
-## Performance Results
+## Development
+The following sections provide more detail on the individual components of the system.
 
-### **POC Results (Radiohead)**
-```
-Raw Data: 681.73 MB
-├── Artist: ~100 KB
-├── Release Groups: ~15 MB
-├── Releases: ~666 MB (6,543 releases)
-└── Total: 681.73 MB
+### **Data Processor**
+The `data_processor` is responsible for converting the raw MusicBrainz data dumps into a normalized format that can be efficiently searched. It uses a streaming approach to handle the large volume of data and builds reverse indexes to avoid memory issues.
 
-Normalized Data: 4.83 MB
-├── Artist + Albums: 4.83 MB
-└── Compression: 141x (99.3% reduction)
+### **Capture Proxy**
+The `capture_proxy` is a simple proxy that sits between Lidarr and the search service. It captures requests and saves them as test fixtures, which can be used to validate the system's behavior.
 
-Coverage:
-├── 568 albums (all types)
-├── 6,543 releases processed
-├── Complete track data
-└── Full metadata coverage
-```
+### **Caddy Server**
+The `caddy` serves the static artist/album json files, and forwards requests to the search service.
 
-### **Full Dataset Projection**
-```
-Raw Data: 285 GB
-├── 4.8M+ releases
-├── 1M+ release groups
-└── 1M+ artists
+### **Search Service**
+The `search_service` is a lightweight Flask application that exposes a search endpoint for Lidarr. It queries the normalized SQLite database and returns results in a format that Lidarr can understand.
 
-Projected Normalized: ~4.1 GB
-├── 98.6% size reduction
-├── Complete metadata coverage
-└── USB drive compatible
-```
-
-## Development Status
-
-### ✅ **Completed**
-- [x] POC normalization with real release data
-- [x] 99.3% compression ratio achieved
-- [x] Complete metadata coverage validated
-- [x] Lidarr compatibility confirmed
-- [x] Processing strategy finalized
-- [x] Error handling and robustness tested
-
-### 🚀 **Next Phase**
-- [ ] Full dataset processing implementation
-- [ ] Multi-artist scaling validation
-- [ ] Lidarr integration testing
-- [ ] Production pipeline development
-- [ ] Automated update system
 
 ## Contributing
+Contributions are welcome! If you'd like to improve the LidMeta Server, please follow these steps:
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
+1.  Fork the repository
+2.  Create a feature branch
+3.  Make your changes
+4.  Add tests if applicable
+5.  Submit a pull request
 
 ## License
-
-[License information]
+This project is licensed under the GNU General Public License v3.0. See the `LICENSE` file for more information.
 
 ## Acknowledgments
+-   **MusicBrainz** for providing the comprehensive dump data
+-   **Lidarr** team for the excellent metadata provider architecture
+-   **Community contributors** for testing and feedback
+-
 
-- MusicBrainz for providing the comprehensive dump data
-- Lidarr team for the excellent metadata provider architecture
-- Community contributors for testing and feedback
-
----
-
-**Status**: ✅ **POC COMPLETED - READY FOR FULL IMPLEMENTATION**
-**Next Milestone**: Full 285GB dataset processing
-**Projected Completion**: 2-3 weeks
