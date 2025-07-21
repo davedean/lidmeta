@@ -48,7 +48,7 @@ def search_and_analyze(file_path: str, artist_mbid: str):
 
 def main():
     """Main function."""
-    albums_only_file = "/Users/david/Projects/lidarr_musicbrainz_cache/lidarr-metadata-server/deploy/data/mbjson/dump-20250716-001001/release-group.albums-only"
+    albums_only_file = "./deploy/data/mbjson/dump-20250716-001001/release-group.albums-only"
 
     logger.info("🔍 Analyzing Radiohead albums in albums-only file...")
     logger.info("")
@@ -74,7 +74,7 @@ def main():
     logger.info("🔍 Checking full file for comparison...")
     logger.info("")
 
-    full_file = "/Users/david/Projects/lidarr_musicbrainz_cache/lidarr-metadata-server/deploy/data/mbjson/dump-20250716-001001/release-group"
+    full_file = "./deploy/data/mbjson/dump-20250716-001001/release-group"
 
     # Just get a sample of the first few Radiohead releases from full file
     full_albums = []

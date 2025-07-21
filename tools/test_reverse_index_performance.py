@@ -24,7 +24,7 @@ def test_reverse_index_performance():
     logger.info("REVERSE INDEX PERFORMANCE TEST")
     logger.info("=" * 80)
 
-    dump_dir = Path("/Users/david/Projects/lidarr_musicbrainz_cache/lidarr-metadata-server/deploy/data/mbjson/dump-20250716-001001")
+    dump_dir = Path("./deploy/data/mbjson/dump-20250716-001001")
     release_group_file = dump_dir / "release-group"
     reverse_index_file = dump_dir / "release-group.artist-index"
 

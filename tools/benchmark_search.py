@@ -50,8 +50,8 @@ def get_file_size_mb(file_path: str) -> float:
 def main():
     """Main function to run the benchmark."""
     # File paths
-    full_file = "/Users/david/Projects/lidarr_musicbrainz_cache/lidarr-metadata-server/deploy/data/mbjson/dump-20250716-001001/release-group"
-    albums_only_file = "/Users/david/Projects/lidarr_musicbrainz_cache/lidarr-metadata-server/deploy/data/mbjson/dump-20250716-001001/release-group.albums_only"
+    full_file = "./deploy/data/mbjson/dump-20250716-001001/release-group"
+    albums_only_file = "./deploy/data/mbjson/dump-20250716-001001/release-group.albums_only"
 
     print("=" * 80)
     print("SEARCH PERFORMANCE BENCHMARK")

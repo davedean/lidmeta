@@ -26,7 +26,7 @@ async def test_reverse_index_integration():
     # Test 1: Direct reverse index usage
     print("\n1. Testing direct reverse index usage...")
 
-    dump_dir = Path("/Users/david/Projects/lidarr_musicbrainz_cache/lidarr-metadata-server/deploy/data/mbjson/dump-20250716-001001")
+    dump_dir = Path("./deploy/data/mbjson/dump-20250716-001001")
     release_group_file = dump_dir / "release-group"
     reverse_index_file = dump_dir / "release-group.artist-index"
 
@@ -102,7 +102,7 @@ def _find_artist_albums_scan(artist_mbid: str, limit: int = 200):
     import json
     import mmap
 
-    dump_dir = Path("/Users/david/Projects/lidarr_musicbrainz_cache/lidarr-metadata-server/deploy/data/mbjson/dump-20250716-001001")
+    dump_dir = Path("./deploy/data/mbjson/dump-20250716-001001")
     release_group_file = dump_dir / "release-group"
 
     if not release_group_file.exists():

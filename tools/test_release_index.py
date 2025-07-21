@@ -20,7 +20,7 @@ def test_release_index():
     print("RELEASE INDEX TEST")
     print("=" * 80)
 
-    dump_dir = Path("/Users/david/Projects/lidarr_musicbrainz_cache/lidarr-metadata-server/deploy/data/mbjson/dump-20250716-001001")
+    dump_dir = Path("./deploy/data/mbjson/dump-20250716-001001")
     release_file = dump_dir / "release"
     release_index_file = dump_dir / "release.releasegroup-index"
 

@@ -234,7 +234,7 @@ def benchmark_indexes(file_path: str):
 
 def main():
     """Main function."""
-    file_path = "/Users/david/Projects/lidarr_musicbrainz_cache/lidarr-metadata-server/deploy/data/mbjson/dump-20250716-001001/release-group"
+    file_path = "./deploy/data/mbjson/dump-20250716-001001/release-group"
 
     if not Path(file_path).exists():
         print(f"File not found: {file_path}")
