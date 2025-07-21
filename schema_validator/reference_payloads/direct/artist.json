@@ -1,0 +1,865 @@
+{
+  "Albums": [
+    {
+      "Id": "c8010305-5b8c-3b12-91e7-05074e02286d",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Poor Wayfaring Stranger",
+      "Type": "Album"
+    },
+    {
+      "Id": "ec864492-aa36-4b17-8b65-d740511ddb3c",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Big Rock Candy Mountain",
+      "Type": "Single"
+    },
+    {
+      "Id": "d9402c6f-3a48-387c-bbb1-45042d07724b",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "The Wayfaring Stranger",
+      "Type": "Album"
+    },
+    {
+      "Id": "da0224a9-bf09-3c72-b2ce-0072c46a82a5",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Return of The Wayfaring Stranger",
+      "Type": "Album"
+    },
+    {
+      "Id": "81e9e731-26bf-4989-9598-87cd714e1817",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Troubador",
+      "Type": "Album"
+    },
+    {
+      "Id": "61a16f67-adaa-4145-9428-635950bb35be",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Twelve Days of Christmas",
+      "Type": "Album"
+    },
+    {
+      "Id": "760b0aca-c12b-4742-a9f0-2fed1fcd9abd",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Burl Ives Sings",
+      "Type": "Album"
+    },
+    {
+      "Id": "9a2d19c7-54f0-3e7f-9f43-9c2f21d027ab",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Scouting Along With Burl Ives",
+      "Type": "Album"
+    },
+    {
+      "Id": "ff57013f-cd5c-3899-934a-f6d4cd3f1929",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Riders in the Sky",
+      "Type": "Single"
+    },
+    {
+      "Id": "a634c229-2bff-3d15-8df6-8a264fcf7ceb",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Australian Folk Songs",
+      "Type": "Album"
+    },
+    {
+      "Id": "16fa153c-ee75-34a3-a135-df60b31ab8a7",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Down to the Sea in Ships",
+      "Type": "Album"
+    },
+    {
+      "Id": "03b64d1c-d5a8-318c-87eb-4016da4ba0e5",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Burl Ives Sings Little White Duck and Other Children's Favorites",
+      "Type": "Album"
+    },
+    {
+      "Id": "07a43f2b-1537-472b-86d7-bce61e02f940",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Another Day, Another Year",
+      "Type": "Album"
+    },
+    {
+      "Id": "9650b610-9794-4fd1-8772-8c97d3f3d629",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Genius of Folk",
+      "Type": "Album"
+    },
+    {
+      "Id": "c8f49759-979c-380b-b3bf-06934f00c051",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Uforglemmelige Klassikere",
+      "Type": "Album"
+    },
+    {
+      "Id": "21cd4f9b-ab05-469f-80f2-032c1c1e6da8",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "It's Gonna Be a Mixed Up Xmas",
+      "Type": "Single"
+    },
+    {
+      "Id": "1159b1f9-c81b-3591-81ee-c2ceab967957",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "A Twinkle in Your Eye",
+      "Type": "Album"
+    },
+    {
+      "Id": "a8e78358-344d-3a33-b8bd-dec631aca9b3",
+      "OldIds": [
+        "56643b26-ddd2-4c32-af0b-0bf29fc922c2"
+      ],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Greatest Hits",
+      "Type": "Album"
+    },
+    {
+      "Id": "d750463e-839b-3bef-88ed-ae6a2068d100",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "America's Favorite Balladeer",
+      "Type": "Album"
+    },
+    {
+      "Id": "b0d871ff-2045-30a4-994d-8b0a3f2c3a2a",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "20th Century Masters: The Millennium Collection: The Best of Burl Ives",
+      "Type": "Album"
+    },
+    {
+      "Id": "928cdfa3-487f-3377-8118-21c1b1ec9294",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "20th Century Masters: The Christmas Collection: The Best of Burl Ives",
+      "Type": "Album"
+    },
+    {
+      "Id": "0f698a70-bb23-3e4a-a4f6-da0404d75655",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "The Best of Burl Ives",
+      "Type": "Album"
+    },
+    {
+      "Id": "ae08af49-39d3-3293-bca4-c2998d76298d",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Songs From the Big Rock Candy Mountain",
+      "Type": "Album"
+    },
+    {
+      "Id": "f59ae9e4-7269-40aa-8cd8-6897c01d926d",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Lavender Blue: Songs of Charm, Humour & Sincerity",
+      "Type": "Album"
+    },
+    {
+      "Id": "b3663317-e463-4dc7-80da-d2e8d06bdfa7",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "The Best of Burl Ives",
+      "Type": "Album"
+    },
+    {
+      "Id": "ba40e6bf-3417-44ad-9ad3-e6e33fee1829",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Folk Songs Dramatic and Humorous",
+      "Type": "EP"
+    },
+    {
+      "Id": "275057c9-0e96-4c3e-aa6b-99ae37890c5b",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "The Versatile Burl Ives",
+      "Type": "Album"
+    },
+    {
+      "Id": "8019f0e0-d3d2-4183-806d-0740a1c7591e",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "The Legend",
+      "Type": "Album"
+    },
+    {
+      "Id": "cd4fa0c9-3e11-4d07-8f39-5d8db153a318",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Walt Disney Presents Burl Ives’ Animal Folk",
+      "Type": "Album"
+    },
+    {
+      "Id": "ecb74dd1-80df-49f7-9d0d-5e0f61ca27fc",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "The Collection",
+      "Type": "Album"
+    },
+    {
+      "Id": "d948976d-7346-36d6-8add-e2f60c3f9f04",
+      "OldIds": [
+        "49525888-e2c3-3fa1-a282-e146f1f5154d"
+      ],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "America’s Folk Singer",
+      "Type": "Album"
+    },
+    {
+      "Id": "e8b80f53-adab-4d23-8972-af6e9d7b0c44",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "The Best of Burl's for Boys and Girls",
+      "Type": "Album"
+    },
+    {
+      "Id": "7c42e21c-b70a-41e2-8db6-e7c1c378cb77",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Eight Classic Albums",
+      "Type": "Album"
+    },
+    {
+      "Id": "1dfbd93b-80e3-30e2-8a08-2739ec9e725e",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Christmas Collection: The Best of Burl Ives",
+      "Type": "Album"
+    },
+    {
+      "Id": "84f5421e-7605-3837-b639-82f78ccd4448",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "A Little Bitty Tear",
+      "Type": "Album"
+    },
+    {
+      "Id": "36ae1a3f-8741-3cd1-acb9-c363d7039a95",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Burl Ives: In Memoriam",
+      "Type": "Album"
+    },
+    {
+      "Id": "6d1066dc-89a1-44ee-a717-0e4f01010a7f",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "A Holly Jolly Christmas / Snow For Johnny",
+      "Type": "Single"
+    },
+    {
+      "Id": "1cb49bb1-8b13-4e8b-b594-bb4b585c71d0",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Soundtrack"
+      ],
+      "Title": "Walt Disney Presents From \"Summer Magic\"",
+      "Type": "Single"
+    },
+    {
+      "Id": "0fd738a5-1b5a-423e-aaf8-39e0e216f732",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Burl Ives Sings Pearly Shells and Other Favorites",
+      "Type": "Album"
+    },
+    {
+      "Id": "f5091deb-c057-4ac1-be32-6cd3f47cae5c",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Christmas Eve With Burl Ives",
+      "Type": "Album"
+    },
+    {
+      "Id": "86966f53-0fdd-3229-8fa7-4a09dd2c249f",
+      "OldIds": [
+        "e7422a8b-fc30-346b-933d-f97de77354fa"
+      ],
+      "ReleaseStatuses": [
+        "Official",
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Have a Holly Jolly Christmas",
+      "Type": "Album"
+    },
+    {
+      "Id": "6ca7baa8-3070-394e-beff-a38f834db545",
+      "OldIds": [
+        "85117d2a-f9c2-4319-87a6-1f3d14eddf44"
+      ],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Christmas Album",
+      "Type": "Album"
+    },
+    {
+      "Id": "dba70cd0-8940-4d90-8e4f-aa68bdd35184",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "We Americans: A Musical Journey With Burl Ives",
+      "Type": "Album"
+    },
+    {
+      "Id": "1c602260-5b76-4ddb-a778-0401064c7a6e",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Christmas Eve",
+      "Type": "Album"
+    },
+    {
+      "Id": "68d7fdf4-d7b1-4aa2-9e0f-3fd3345e9413",
+      "OldIds": [],
+      "ReleaseStatuses": [],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "A Little Bitty Tear",
+      "Type": "Album"
+    },
+    {
+      "Id": "f0549d1f-8440-4114-9c3c-76f163742f9b",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Funny Way of Laughin’",
+      "Type": "Single"
+    },
+    {
+      "Id": "f3aa1003-0bb1-34a6-854d-b365e3cef546",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Chim Chim Cheree and Other Childrens’s Choices",
+      "Type": "Album"
+    },
+    {
+      "Id": "f2c545c5-9cf0-443c-80e0-564ecf84263d",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "It’s Just My Funny Way of Laughin’",
+      "Type": "Album"
+    },
+    {
+      "Id": "8c329bc6-46ec-43c0-9f0a-3c09aeb04f6d",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "A Little Bitty Tear / Shanghied",
+      "Type": "Single"
+    },
+    {
+      "Id": "24f744d1-e24c-4c64-a35b-e44fcd29cb83",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Christmas Day In The Morning",
+      "Type": "Album"
+    },
+    {
+      "Id": "d1e50585-93ca-4ef1-91a7-2c71f2be3ff6",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "My Gal Sal",
+      "Type": "Album"
+    },
+    {
+      "Id": "9656f9dd-5bc0-428a-b891-0717c30ee95c",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Singin' Easy",
+      "Type": "Album"
+    },
+    {
+      "Id": "11b68591-3820-415e-a875-3f246aba9390",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "True Love",
+      "Type": "Album"
+    },
+    {
+      "Id": "6cc0dd46-795b-45b3-a1e8-4b55f48663f6",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Burl",
+      "Type": "Album"
+    },
+    {
+      "Id": "1a169fa9-6221-4a4f-887a-e2a0ed957ff6",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "The Wayfaring Stranger",
+      "Type": "Album"
+    },
+    {
+      "Id": "218b83df-ccdc-4eea-bad9-bb0c1e0c60de",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Ballads and Folk Songs, Volume II",
+      "Type": "Album"
+    },
+    {
+      "Id": "156e9579-3f53-3893-a0f6-38c5fdc61b0c",
+      "OldIds": [
+        "c7636341-87ad-3a9f-9bb5-bdc4a88f84d1",
+        "4e5f06ef-133b-3c05-b8a4-8ffb03778d6f",
+        "79d00a15-be0b-3aa2-a1e1-204c6ca84537",
+        "192b2484-df12-35e4-9163-5365372ba7ce",
+        "5c70c0e4-dec0-4924-94ab-ecc908d7fceb"
+      ],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "A Little Bitty Tear: The Nashville Years 1961-1965",
+      "Type": "Album"
+    },
+    {
+      "Id": "3c48e4b3-3599-4033-803e-9d627af3562c",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Songs of the West",
+      "Type": "Album"
+    },
+    {
+      "Id": "ba750385-1e3d-4242-885f-546015cf38ab",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "The Times They Are A‐Changin’",
+      "Type": "Album"
+    },
+    {
+      "Id": "3aa4c86f-7b45-4d5a-a86c-89d9b0510d1f",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "The Very Best Of",
+      "Type": "Album"
+    },
+    {
+      "Id": "e23d6146-d9b8-447d-9b37-4b861d3500a2",
+      "OldIds": [],
+      "ReleaseStatuses": [],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "The Very Best of Burl Ives",
+      "Type": "Album"
+    },
+    {
+      "Id": "7d5e7455-8a58-4520-a2fa-4eb8a0d663f4",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Forever Burl Ives, Vol. 02",
+      "Type": "Album"
+    },
+    {
+      "Id": "95d62c0b-439a-4de6-b906-439d0c268bdc",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Time",
+      "Type": "Album"
+    },
+    {
+      "Id": "ca14f00b-696f-4186-bb00-c09f57109acb",
+      "OldIds": [],
+      "ReleaseStatuses": [],
+      "SecondaryTypes": [],
+      "Title": "The Magic Balladeer",
+      "Type": "Album"
+    },
+    {
+      "Id": "b8e60a6b-d6a1-45ce-bbed-f5f2437bef03",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Man About Town",
+      "Type": "Album"
+    },
+    {
+      "Id": "854f8998-60ee-455e-905d-d031b48fd1d1",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Greatest Hits and Finest Performances",
+      "Type": "Album"
+    },
+    {
+      "Id": "fba85177-f62b-4458-ab89-a1e20718f8bf",
+      "OldIds": [],
+      "ReleaseStatuses": [],
+      "SecondaryTypes": [],
+      "Title": "Christmas With Burl Ives",
+      "Type": "Album"
+    },
+    {
+      "Id": "72a17bc7-9388-48cc-8be8-26fe84f94401",
+      "OldIds": [],
+      "ReleaseStatuses": [],
+      "SecondaryTypes": [],
+      "Title": "Christmas for Kids",
+      "Type": "Album"
+    },
+    {
+      "Id": "903dab24-8a00-4811-b808-1a5446c89eb8",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "True Love Goes On and On / Brave Man",
+      "Type": "Single"
+    },
+    {
+      "Id": "a4e84e6e-112d-33e6-b229-60b9fe203398",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Frankie and Johnny / The Roving Gambler",
+      "Type": "Single"
+    },
+    {
+      "Id": "947f3b5a-432e-3b0c-9f09-208d1a6841e5",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Soundtrack"
+      ],
+      "Title": "Original Sound Track and Music from Rudolph the Red Nosed Reindeer",
+      "Type": "Album"
+    },
+    {
+      "Id": "d29dc3d9-fdaa-40a5-af7f-97e043a502bf",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Big Rock Candy Mountain / Blue Tail Fly / Old English Folk Songs",
+      "Type": "EP"
+    }
+  ],
+  "artistaliases": [
+    "Bur Ives",
+    "Brul Ives"
+  ],
+  "artistname": "Burl Ives",
+  "disambiguation": "",
+  "genres": [
+    "Christmas Music"
+  ],
+  "id": "086c1936-9eaa-4091-b140-ad33a51a3b71",
+  "images": [],
+  "links": [
+    {
+      "target": "https://www.imdb.com/name/nm0412322/",
+      "type": "imdb"
+    },
+    {
+      "target": "https://www.discogs.com/artist/310187",
+      "type": "discogs"
+    },
+    {
+      "target": "http://viaf.org/viaf/51875532",
+      "type": "viaf"
+    },
+    {
+      "target": "https://www.wikidata.org/wiki/Q315723",
+      "type": "wikidata"
+    },
+    {
+      "target": "http://muzikum.eu/en/122-7512/burl-ives/lyrics.html",
+      "type": "muzikum"
+    },
+    {
+      "target": "https://ibdb.com/person.php?id=46295",
+      "type": "ibdb"
+    },
+    {
+      "target": "https://www.allmusic.com/artist/mn0000536754",
+      "type": "allmusic"
+    },
+    {
+      "target": "https://rateyourmusic.com/artist/burl_ives",
+      "type": "rateyourmusic"
+    },
+    {
+      "target": "https://www.deezer.com/artist/15612",
+      "type": "deezer"
+    },
+    {
+      "target": "https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN",
+      "type": "spotify"
+    },
+    {
+      "target": "https://tidal.com/artist/17441",
+      "type": "tidal"
+    },
+    {
+      "target": "https://adp.library.ucsb.edu/names/204836",
+      "type": "ucsb"
+    },
+    {
+      "target": "https://music.apple.com/gb/artist/355906",
+      "type": "apple"
+    }
+  ],
+  "oldids": [
+    "623005ce-c441-496c-bd0a-a3daff0bf7e7"
+  ],
+  "overview": "",
+  "rating": {
+    "Count": 0,
+    "Value": null
+  },
+  "sortname": "Ives, Burl",
+  "status": "ended",
+  "type": "Person"
+}

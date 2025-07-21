@@ -1,0 +1,329 @@
+{
+  "aliases": [],
+  "artistid": "086c1936-9eaa-4091-b140-ad33a51a3b71",
+  "artists": [
+    {
+      "artistaliases": [
+        "Bur Ives",
+        "Brul Ives"
+      ],
+      "artistname": "Burl Ives",
+      "disambiguation": "",
+      "genres": [
+        "Christmas Music"
+      ],
+      "id": "086c1936-9eaa-4091-b140-ad33a51a3b71",
+      "images": [],
+      "links": [
+        {
+          "target": "https://www.imdb.com/name/nm0412322/",
+          "type": "imdb"
+        },
+        {
+          "target": "https://www.discogs.com/artist/310187",
+          "type": "discogs"
+        },
+        {
+          "target": "http://viaf.org/viaf/51875532",
+          "type": "viaf"
+        },
+        {
+          "target": "https://www.wikidata.org/wiki/Q315723",
+          "type": "wikidata"
+        },
+        {
+          "target": "http://muzikum.eu/en/122-7512/burl-ives/lyrics.html",
+          "type": "muzikum"
+        },
+        {
+          "target": "https://ibdb.com/person.php?id=46295",
+          "type": "ibdb"
+        },
+        {
+          "target": "https://www.allmusic.com/artist/mn0000536754",
+          "type": "allmusic"
+        },
+        {
+          "target": "https://rateyourmusic.com/artist/burl_ives",
+          "type": "rateyourmusic"
+        },
+        {
+          "target": "https://www.deezer.com/artist/15612",
+          "type": "deezer"
+        },
+        {
+          "target": "https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN",
+          "type": "spotify"
+        },
+        {
+          "target": "https://tidal.com/artist/17441",
+          "type": "tidal"
+        },
+        {
+          "target": "https://adp.library.ucsb.edu/names/204836",
+          "type": "ucsb"
+        },
+        {
+          "target": "https://music.apple.com/gb/artist/355906",
+          "type": "apple"
+        }
+      ],
+      "oldids": [
+        "623005ce-c441-496c-bd0a-a3daff0bf7e7"
+      ],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "sortname": "Ives, Burl",
+      "status": "ended",
+      "type": "Person"
+    }
+  ],
+  "disambiguation": "",
+  "genres": [],
+  "id": "03b64d1c-d5a8-318c-87eb-4016da4ba0e5",
+  "images": [
+    {
+      "CoverType": "Cover",
+      "Url": "https://imagecache.lidarr.audio/v1/caa/e90efe81-98e4-43b1-9a02-bc58b96bdf84/41142325842-1200.jpg"
+    }
+  ],
+  "links": [
+    {
+      "target": "https://en.wikipedia.org/wiki/Burl_Ives_Sings_Little_White_Duck_and_Other_Children's_Favorites",
+      "type": "wikipedia"
+    },
+    {
+      "target": "https://www.wikidata.org/wiki/Q4999087",
+      "type": "wikidata"
+    }
+  ],
+  "oldids": [],
+  "overview": "",
+  "rating": {
+    "Count": 0,
+    "Value": null
+  },
+  "releasedate": "1991-01-01",
+  "releases": [
+    {
+      "country": [
+        "United States"
+      ],
+      "disambiguation": "",
+      "id": "e90efe81-98e4-43b1-9a02-bc58b96bdf84",
+      "label": [
+        "Columbia"
+      ],
+      "media": [
+        {
+          "Format": "CD",
+          "Name": "",
+          "Position": 1
+        }
+      ],
+      "oldids": [],
+      "releasedate": "1991-01-01",
+      "status": "Official",
+      "title": "Burl Ives Sings Little White Duck and Other Children's Favorites",
+      "track_count": 14,
+      "tracks": [
+        {
+          "artistid": "086c1936-9eaa-4091-b140-ad33a51a3b71",
+          "durationms": 151026,
+          "id": "5fa77fe6-e4ac-38a3-b975-6518b5074170",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "0685d493-3f3f-4abf-af23-92a224b184bb",
+            "34359993-8b1e-4539-982c-8187f99cfbc6"
+          ],
+          "recordingid": "c6c31d21-1888-4f95-b883-3ed2c743e5fe",
+          "trackname": "The Little White Duck",
+          "tracknumber": "1",
+          "trackposition": 1
+        },
+        {
+          "artistid": "086c1936-9eaa-4091-b140-ad33a51a3b71",
+          "durationms": 162040,
+          "id": "a1008b38-3438-3778-a415-a69f90498c0c",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "5cda786a-99b9-4984-8f81-57fe1b67adcc"
+          ],
+          "recordingid": "a526202d-e5fa-4d79-83b0-2f392feff1cc",
+          "trackname": "The Little Engine that Could",
+          "tracknumber": "2",
+          "trackposition": 2
+        },
+        {
+          "artistid": "086c1936-9eaa-4091-b140-ad33a51a3b71",
+          "durationms": 185960,
+          "id": "a412c7a7-0937-3d35-adf1-5751a6572371",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "cbb65cc1-8cbb-4b9c-8bb7-894e5091deb9",
+            "31171bec-b820-4c82-8a99-254f00ef14a2"
+          ],
+          "recordingid": "b18f4e0c-58e9-4a71-9755-b91c55cb4d74",
+          "trackname": "Mr. Froggie Went A-Courtin'",
+          "tracknumber": "3",
+          "trackposition": 3
+        },
+        {
+          "artistid": "086c1936-9eaa-4091-b140-ad33a51a3b71",
+          "durationms": 179066,
+          "id": "e1cdf760-ffbf-33b9-b7b3-f132158c39a0",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "d3885228-81a4-4847-bff0-376040c0b549",
+            "14e9096c-6731-4380-aeec-243f04b46a4b",
+            "0121c4e4-11d9-48eb-902c-8965b6f29a30"
+          ],
+          "recordingid": "cbfc5f57-363c-4cba-a3d6-91a41a0056d1",
+          "trackname": "The Donut Song",
+          "tracknumber": "4",
+          "trackposition": 4
+        },
+        {
+          "artistid": "086c1936-9eaa-4091-b140-ad33a51a3b71",
+          "durationms": 109906,
+          "id": "806aa746-2334-345e-8065-4f9acd5049e1",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [],
+          "recordingid": "33b6f2f6-d713-447d-b56a-80eb30a6a74c",
+          "trackname": "Two Little Owls",
+          "tracknumber": "5",
+          "trackposition": 5
+        },
+        {
+          "artistid": "086c1936-9eaa-4091-b140-ad33a51a3b71",
+          "durationms": 68933,
+          "id": "a9946a10-afee-30d9-9241-578f0de8564f",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "28324137-6927-48ea-bcb1-776b68525a97"
+          ],
+          "recordingid": "3c1ddcf1-9c07-495f-8c44-9e86974932be",
+          "trackname": "Fooba Wooba John",
+          "tracknumber": "6",
+          "trackposition": 6
+        },
+        {
+          "artistid": "086c1936-9eaa-4091-b140-ad33a51a3b71",
+          "durationms": 183026,
+          "id": "b685447e-d80d-380c-8e62-8056e7a2d843",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [],
+          "recordingid": "caf84aaa-c447-4663-8170-8b7265f42be1",
+          "trackname": "The Grey Goose",
+          "tracknumber": "7",
+          "trackposition": 7
+        },
+        {
+          "artistid": "086c1936-9eaa-4091-b140-ad33a51a3b71",
+          "durationms": 93240,
+          "id": "c3bb2512-518c-392e-876d-ad3d5df3a91d",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [],
+          "recordingid": "63e7ac1b-9d25-47af-824a-4e3157bd66c6",
+          "trackname": "The Whale",
+          "tracknumber": "8",
+          "trackposition": 8
+        },
+        {
+          "artistid": "086c1936-9eaa-4091-b140-ad33a51a3b71",
+          "durationms": 93733,
+          "id": "3b0aa649-71f0-30b1-96ac-59715858473d",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [],
+          "recordingid": "598acba0-1083-4edf-83f1-0e8a2bb856d9",
+          "trackname": "Buckeye Jim",
+          "tracknumber": "9",
+          "trackposition": 9
+        },
+        {
+          "artistid": "086c1936-9eaa-4091-b140-ad33a51a3b71",
+          "durationms": 110093,
+          "id": "b0bc4a07-d4c6-3267-ab9e-450924871816",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [],
+          "recordingid": "3fae4e10-7811-433e-b128-01f0160d8ec9",
+          "trackname": "The Sow Took The Measles",
+          "tracknumber": "10",
+          "trackposition": 10
+        },
+        {
+          "artistid": "086c1936-9eaa-4091-b140-ad33a51a3b71",
+          "durationms": 81066,
+          "id": "d1405c14-915c-3649-8f83-7464cd50dd45",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "f059e5a0-15b4-4f8f-b80a-ce2bccd5c00f"
+          ],
+          "recordingid": "30ab0b2d-074c-4681-90fe-a1e346d2519d",
+          "trackname": "The Goat",
+          "tracknumber": "11",
+          "trackposition": 11
+        },
+        {
+          "artistid": "086c1936-9eaa-4091-b140-ad33a51a3b71",
+          "durationms": 97906,
+          "id": "ef4de4e1-c3f2-3023-bd0d-7c89f219aa92",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "06e0cc85-66ff-4353-a6db-d91496c6f7f6",
+            "397a625e-4da6-4b43-8c7e-50c87acaa258"
+          ],
+          "recordingid": "da38ab59-4eab-4a9b-aa31-9deb705bafc9",
+          "trackname": "Mr. Rabbit",
+          "tracknumber": "12",
+          "trackposition": 12
+        },
+        {
+          "artistid": "086c1936-9eaa-4091-b140-ad33a51a3b71",
+          "durationms": 78000,
+          "id": "b16e39a3-36c0-36c1-be48-f9d1bca77175",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [],
+          "recordingid": "bfd3fcf7-a6c0-49c6-9277-5a972fb8f138",
+          "trackname": "The Tailor and the Mouse",
+          "tracknumber": "13",
+          "trackposition": 13
+        },
+        {
+          "artistid": "086c1936-9eaa-4091-b140-ad33a51a3b71",
+          "durationms": 364560,
+          "id": "2217c600-d1ce-30ec-adf4-abd728e0835e",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "beae0bfa-5887-4074-9e7d-13444a49f708",
+            "78528e25-b2ca-4da6-bc4a-3af77e653f72"
+          ],
+          "recordingid": "d670c7af-8440-454d-8c7b-472c8aca1933",
+          "trackname": "Mother Goose Songs",
+          "tracknumber": "14",
+          "trackposition": 14
+        }
+      ]
+    }
+  ],
+  "secondarytypes": [],
+  "title": "Burl Ives Sings Little White Duck and Other Children's Favorites",
+  "type": "Album"
+}

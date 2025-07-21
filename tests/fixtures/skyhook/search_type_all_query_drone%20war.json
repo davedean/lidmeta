@@ -1,0 +1,3220 @@
+[
+  {
+    "album": null,
+    "artist": {
+      "artistaliases": [
+        "War",
+        "Eric Burdon & War",
+        "Eric Burdon & War",
+        "War"
+      ],
+      "artistname": "War",
+      "disambiguation": "US funk/rock band",
+      "genres": [
+        "Funk",
+        "Psychedelic Rock",
+        "Rock"
+      ],
+      "id": "3e6bbdb8-66c8-439c-a3d9-87391ce88740",
+      "images": [],
+      "links": [
+        {
+          "target": "https://www.discogs.com/artist/9707",
+          "type": "discogs"
+        },
+        {
+          "target": "https://www.bbc.co.uk/music/artists/3e6bbdb8-66c8-439c-a3d9-87391ce88740",
+          "type": "bbc"
+        },
+        {
+          "target": "https://www.allmusic.com/artist/mn0000191947",
+          "type": "allmusic"
+        },
+        {
+          "target": "https://www.wikidata.org/wiki/Q2295871",
+          "type": "wikidata"
+        },
+        {
+          "target": "https://www.imdb.com/name/nm0911271/",
+          "type": "imdb"
+        },
+        {
+          "target": "http://www.war.com/",
+          "type": "war"
+        },
+        {
+          "target": "https://rateyourmusic.com/artist/war",
+          "type": "rateyourmusic"
+        },
+        {
+          "target": "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I",
+          "type": "spotify"
+        },
+        {
+          "target": "https://www.facebook.com/WARTHEBAND",
+          "type": "facebook"
+        },
+        {
+          "target": "http://www.pandora.com/war",
+          "type": "pandora"
+        },
+        {
+          "target": "http://viaf.org/viaf/144172265",
+          "type": "viaf"
+        },
+        {
+          "target": "https://d-nb.info/gnd/5549525-4",
+          "type": "d-nb"
+        },
+        {
+          "target": "http://id.loc.gov/authorities/names/n93004995",
+          "type": "loc"
+        },
+        {
+          "target": "https://www.worldcat.org/identities/lccn-n93004995",
+          "type": "worldcat"
+        },
+        {
+          "target": "https://catalogue.bnf.fr/ark:/12148/cb13907396h",
+          "type": "bnf"
+        },
+        {
+          "target": "https://twitter.com/wartheband",
+          "type": "twitter"
+        },
+        {
+          "target": "https://www.songkick.com/artists/339429",
+          "type": "songkick"
+        },
+        {
+          "target": "https://www.musik-sammler.de/artist/war/",
+          "type": "musik-sammler"
+        },
+        {
+          "target": "https://www.amazon.com/-/e/B000AQ3524",
+          "type": "amazon"
+        },
+        {
+          "target": "https://itunes.apple.com/us/artist/id261730408",
+          "type": "apple"
+        },
+        {
+          "target": "https://www.discogs.com/artist/1287974",
+          "type": "discogs"
+        },
+        {
+          "target": "https://www.deezer.com/artist/10129",
+          "type": "deezer"
+        },
+        {
+          "target": "https://tidal.com/artist/3522622",
+          "type": "tidal"
+        }
+      ],
+      "oldids": [
+        "a7e4802f-3eec-44e9-8b18-6184eae89987",
+        "e58c8d36-5744-4105-b3cc-99ce79498bfa",
+        "77d46292-cc27-43a7-935e-dc8fc77f89d9"
+      ],
+      "overview": "",
+      "rating": {
+        "Count": 2,
+        "Value": 10.0
+      },
+      "sortname": "War",
+      "status": "ended",
+      "type": "Group"
+    },
+    "score": 100
+  },
+  {
+    "album": {
+      "aliases": [],
+      "artistid": "afff372b-53cc-4ffb-a792-a072da56b5ad",
+      "artists": [
+        {
+          "artistaliases": [],
+          "artistname": "EPROM",
+          "disambiguation": "electronic artist Sander Dennis",
+          "genres": [
+            "Breakbeat",
+            "Dubstep",
+            "Electronic",
+            "Glitch",
+            "Idm",
+            "Trap Edm",
+            "Dungeon Sound",
+            "Halftime"
+          ],
+          "id": "afff372b-53cc-4ffb-a792-a072da56b5ad",
+          "images": [],
+          "links": [
+            {
+              "target": "https://www.discogs.com/artist/6822",
+              "type": "discogs"
+            },
+            {
+              "target": "http://eprommusic.com/",
+              "type": "eprommusic"
+            },
+            {
+              "target": "https://www.facebook.com/eprombeats",
+              "type": "facebook"
+            },
+            {
+              "target": "https://www.bbc.co.uk/music/artists/afff372b-53cc-4ffb-a792-a072da56b5ad",
+              "type": "bbc"
+            },
+            {
+              "target": "https://myspace.com/eprommusic",
+              "type": "myspace"
+            },
+            {
+              "target": "https://twitter.com/eprombeats",
+              "type": "twitter"
+            },
+            {
+              "target": "https://eprom.bandcamp.com/",
+              "type": "bandcamp"
+            },
+            {
+              "target": "https://rateyourmusic.com/artist/eprom",
+              "type": "rateyourmusic"
+            },
+            {
+              "target": "https://www.allmusic.com/artist/mn0002384382",
+              "type": "allmusic"
+            },
+            {
+              "target": "https://www.last.fm/music/Eprom",
+              "type": "last"
+            },
+            {
+              "target": "https://soundcloud.com/epromofficial",
+              "type": "soundcloud"
+            },
+            {
+              "target": "https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi",
+              "type": "spotify"
+            },
+            {
+              "target": "https://www.deezer.com/artist/392951",
+              "type": "deezer"
+            },
+            {
+              "target": "https://music.apple.com/us/artist/269399600",
+              "type": "apple"
+            },
+            {
+              "target": "https://www.beatport.com/artist/eprom/99967",
+              "type": "beatport"
+            },
+            {
+              "target": "https://tidal.com/artist/3668383",
+              "type": "tidal"
+            },
+            {
+              "target": "https://www.qobuz.com/us-en/interpreter/eprom/626328",
+              "type": "qobuz"
+            },
+            {
+              "target": "https://music.youtube.com/channel/UC1FWbNzcyEsTKcv384NCPOA",
+              "type": "youtube"
+            }
+          ],
+          "oldids": [],
+          "overview": "",
+          "rating": {
+            "Count": 0,
+            "Value": null
+          },
+          "sortname": "EPROM",
+          "status": "active",
+          "type": "Person"
+        }
+      ],
+      "disambiguation": "",
+      "genres": [
+        "Electronic"
+      ],
+      "id": "4f460afa-73f2-4f13-93ee-bc0dd50e9208",
+      "images": [
+        {
+          "CoverType": "Cover",
+          "Url": "https://imagecache.lidarr.audio/v1/caa/9b509e23-d721-4349-affa-1a5bd2e990e9/32968983408-1200.jpg"
+        }
+      ],
+      "links": [],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "releasedate": "2017-11-24",
+      "releases": [
+        {
+          "country": [
+            "[Worldwide]"
+          ],
+          "disambiguation": "",
+          "id": "9b509e23-d721-4349-affa-1a5bd2e990e9",
+          "label": [
+            "1985 Music"
+          ],
+          "media": [
+            {
+              "Format": "Digital Media",
+              "Name": "",
+              "Position": 1
+            }
+          ],
+          "oldids": [],
+          "releasedate": "2017-11-24",
+          "status": "Official",
+          "title": "Drone Warfare",
+          "track_count": 4,
+          "tracks": [
+            {
+              "artistid": "afff372b-53cc-4ffb-a792-a072da56b5ad",
+              "durationms": 145000,
+              "id": "99211fc9-b9b2-4c4b-9a19-022862c48065",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "c11caa4b-0884-405f-bac1-82ed9de66e72",
+              "trackname": "Oksana",
+              "tracknumber": "1",
+              "trackposition": 1
+            },
+            {
+              "artistid": "afff372b-53cc-4ffb-a792-a072da56b5ad",
+              "durationms": 265000,
+              "id": "b026e5bd-f768-43fa-8bdd-50ff8f17a17c",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "c8dc66f9-88dd-4351-b504-aa88288ec056",
+              "trackname": "Drone Warfare",
+              "tracknumber": "2",
+              "trackposition": 2
+            },
+            {
+              "artistid": "afff372b-53cc-4ffb-a792-a072da56b5ad",
+              "durationms": 221000,
+              "id": "708c59d4-14e5-4f79-bbe3-3816160b1159",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "27d19b47-d191-457f-8c9a-0a13bca42b94",
+              "trackname": "Raw Data",
+              "tracknumber": "3",
+              "trackposition": 3
+            },
+            {
+              "artistid": "afff372b-53cc-4ffb-a792-a072da56b5ad",
+              "durationms": 163000,
+              "id": "a2ef0396-1127-4740-a1e7-d3f39d96d461",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "3c9b4a2a-1888-4d65-800c-fc2f6cb01516",
+              "trackname": "Full Mag",
+              "tracknumber": "4",
+              "trackposition": 4
+            }
+          ]
+        },
+        {
+          "country": [
+            "United Kingdom"
+          ],
+          "disambiguation": "",
+          "id": "8177db24-ea98-4185-83f4-6a7db1668124",
+          "label": [
+            "1985 Music"
+          ],
+          "media": [
+            {
+              "Format": "12\" Vinyl",
+              "Name": "",
+              "Position": 1
+            }
+          ],
+          "oldids": [],
+          "releasedate": "2017-11-28",
+          "status": "Official",
+          "title": "Drone Warfare",
+          "track_count": 4,
+          "tracks": [
+            {
+              "artistid": "afff372b-53cc-4ffb-a792-a072da56b5ad",
+              "durationms": 145000,
+              "id": "4944bb67-ec3a-4611-aeaf-bb021e5834d6",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "c11caa4b-0884-405f-bac1-82ed9de66e72",
+              "trackname": "Oksana",
+              "tracknumber": "A1",
+              "trackposition": 1
+            },
+            {
+              "artistid": "afff372b-53cc-4ffb-a792-a072da56b5ad",
+              "durationms": 266000,
+              "id": "b7e5f8e0-a6bb-49dd-9086-20caadfc8bb2",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "c8dc66f9-88dd-4351-b504-aa88288ec056",
+              "trackname": "Drone Warfare",
+              "tracknumber": "A2",
+              "trackposition": 2
+            },
+            {
+              "artistid": "afff372b-53cc-4ffb-a792-a072da56b5ad",
+              "durationms": 221000,
+              "id": "1f86fd60-05d3-4349-9a1d-1cf671e9e04a",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "27d19b47-d191-457f-8c9a-0a13bca42b94",
+              "trackname": "Raw Data",
+              "tracknumber": "B1",
+              "trackposition": 3
+            },
+            {
+              "artistid": "afff372b-53cc-4ffb-a792-a072da56b5ad",
+              "durationms": 163000,
+              "id": "eb9188be-83d7-446b-93fa-7b14facf9d9e",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "3c9b4a2a-1888-4d65-800c-fc2f6cb01516",
+              "trackname": "Full Mag",
+              "tracknumber": "B2",
+              "trackposition": 4
+            }
+          ]
+        }
+      ],
+      "secondarytypes": [],
+      "title": "Drone Warfare",
+      "type": "EP"
+    },
+    "artist": null,
+    "score": 100
+  },
+  {
+    "album": {
+      "aliases": [],
+      "artistid": "66304919-7e15-4e1c-9ac7-766d21495551",
+      "artists": [
+        {
+          "artistaliases": [],
+          "artistname": "Cyence",
+          "disambiguation": "Belfastian DJ/producer Steve Boyd",
+          "genres": [
+            "Breaks",
+            "House",
+            "Techno",
+            "Nu Disco"
+          ],
+          "id": "66304919-7e15-4e1c-9ac7-766d21495551",
+          "images": [],
+          "links": [
+            {
+              "target": "https://soundcloud.com/soundofcyence",
+              "type": "soundcloud"
+            },
+            {
+              "target": "https://www.instagram.com/soundofcyence/",
+              "type": "instagram"
+            },
+            {
+              "target": "https://www.facebook.com/soundofcyence",
+              "type": "facebook"
+            },
+            {
+              "target": "https://ra.co/dj/cyence",
+              "type": "ra"
+            },
+            {
+              "target": "https://www.beatport.com/artist/cyence/803071",
+              "type": "beatport"
+            },
+            {
+              "target": "https://open.spotify.com/artist/2c9tazeSj5b1JkKprySQTb",
+              "type": "spotify"
+            },
+            {
+              "target": "https://www.discogs.com/artist/11715971",
+              "type": "discogs"
+            }
+          ],
+          "oldids": [],
+          "overview": "",
+          "rating": {
+            "Count": 0,
+            "Value": null
+          },
+          "sortname": "Cyence",
+          "status": "active",
+          "type": "Person"
+        }
+      ],
+      "disambiguation": "",
+      "genres": [
+        "Breakbeat",
+        "Breaks",
+        "Disco",
+        "Ebm",
+        "Electronic",
+        "Rave",
+        "Dark Disco"
+      ],
+      "id": "9a3db3df-d336-493f-815e-f909e6c96c10",
+      "images": [
+        {
+          "CoverType": "Cover",
+          "Url": "https://imagecache.lidarr.audio/v1/caa/2476655a-ece2-4038-995c-2146167b646f/31125783940-1200.jpg"
+        }
+      ],
+      "links": [],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "releasedate": "2021-12-03",
+      "releases": [
+        {
+          "country": [
+            "[Worldwide]"
+          ],
+          "disambiguation": "",
+          "id": "2476655a-ece2-4038-995c-2146167b646f",
+          "label": [
+            "Nein Records"
+          ],
+          "media": [
+            {
+              "Format": "Digital Media",
+              "Name": "",
+              "Position": 1
+            }
+          ],
+          "oldids": [],
+          "releasedate": "2021-12-03",
+          "status": "Official",
+          "title": "Drone Wars",
+          "track_count": 5,
+          "tracks": [
+            {
+              "artistid": "66304919-7e15-4e1c-9ac7-766d21495551",
+              "durationms": 426345,
+              "id": "9bfbb1fc-a075-4b3f-bf9c-7241231c2866",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "352e91ca-110a-42ac-9254-fe142d5907cd",
+              "trackname": "Drone Wars",
+              "tracknumber": "1",
+              "trackposition": 1
+            },
+            {
+              "artistid": "66304919-7e15-4e1c-9ac7-766d21495551",
+              "durationms": 324389,
+              "id": "3aab28ab-c283-409c-8e0f-97319615fc9e",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "23445b73-74c1-4a60-ad7d-9248a98ab107",
+              "trackname": "Drone Wars (Man2.0 remix)",
+              "tracknumber": "2",
+              "trackposition": 2
+            },
+            {
+              "artistid": "66304919-7e15-4e1c-9ac7-766d21495551",
+              "durationms": 437399,
+              "id": "7f6d8ca5-04da-4833-b00b-e76dd98e8048",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "3a9eec6d-822a-46fc-bfd9-6e1c23690d3c",
+              "trackname": "Breakout",
+              "tracknumber": "3",
+              "trackposition": 3
+            },
+            {
+              "artistid": "66304919-7e15-4e1c-9ac7-766d21495551",
+              "durationms": 362419,
+              "id": "6f3b4444-ab78-4df1-9c48-d1c9e3227091",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "781d22e7-7c0a-4b63-9014-77cb5f4726f2",
+              "trackname": "Breakout (Tronik Youth remix)",
+              "tracknumber": "4",
+              "trackposition": 4
+            },
+            {
+              "artistid": "66304919-7e15-4e1c-9ac7-766d21495551",
+              "durationms": 429928,
+              "id": "3ba06096-6b45-4b49-9cf5-3c85bf8e88ba",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "c0bbff1e-4320-4c28-bf5e-bc3e916106a1",
+              "trackname": "Outside In",
+              "tracknumber": "5",
+              "trackposition": 5
+            }
+          ]
+        }
+      ],
+      "secondarytypes": [],
+      "title": "Drone Wars",
+      "type": "EP"
+    },
+    "artist": null,
+    "score": 100
+  },
+  {
+    "album": null,
+    "artist": {
+      "artistaliases": [],
+      "artistname": "Drone",
+      "disambiguation": "Finn Donohue, UK, drum & bass",
+      "genres": [
+        "Drum And Bass",
+        "Dubstep",
+        "Grime",
+        "Hip Hop",
+        "Trap",
+        "Dungeon Sound"
+      ],
+      "id": "7d7d9022-4758-41a9-a3bf-51d7b2282559",
+      "images": [],
+      "links": [
+        {
+          "target": "https://soundcloud.com/droneuk",
+          "type": "soundcloud"
+        },
+        {
+          "target": "https://www.facebook.com/droneuk",
+          "type": "facebook"
+        },
+        {
+          "target": "https://twitter.com/droneuk",
+          "type": "twitter"
+        },
+        {
+          "target": "https://www.instagram.com/drone_uk/",
+          "type": "instagram"
+        },
+        {
+          "target": "https://rateyourmusic.com/artist/drone_f7",
+          "type": "rateyourmusic"
+        },
+        {
+          "target": "https://www.discogs.com/artist/6148264",
+          "type": "discogs"
+        },
+        {
+          "target": "https://open.spotify.com/artist/0shWQ9M3KOAHMv2W9lMecN",
+          "type": "spotify"
+        },
+        {
+          "target": "https://www.deezer.com/artist/182713",
+          "type": "deezer"
+        },
+        {
+          "target": "https://music.apple.com/gb/artist/969702139",
+          "type": "apple"
+        },
+        {
+          "target": "https://www.beatport.com/artist/drone/17938",
+          "type": "beatport"
+        },
+        {
+          "target": "https://tidal.com/artist/3876352",
+          "type": "tidal"
+        }
+      ],
+      "oldids": [
+        "daba4c3c-b8c5-48af-85ed-a770ae99d5c3"
+      ],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "sortname": "Drone",
+      "status": "active",
+      "type": "Person"
+    },
+    "score": 93
+  },
+  {
+    "album": null,
+    "artist": {
+      "artistaliases": [],
+      "artistname": "Drone Drone",
+      "disambiguation": "",
+      "genres": [],
+      "id": "b4f4ed8c-17d9-4589-9d7b-16ec1b84a1d8",
+      "images": [],
+      "links": [],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "sortname": "Drone Drone",
+      "status": "active",
+      "type": null
+    },
+    "score": 93
+  },
+  {
+    "album": null,
+    "artist": {
+      "artistaliases": [
+        "Man o' War"
+      ],
+      "artistname": "Manowar",
+      "disambiguation": "",
+      "genres": [
+        "Hard Rock",
+        "Heavy Metal",
+        "Metal",
+        "Power Metal",
+        "Us Power Metal"
+      ],
+      "id": "00eeed6b-5897-4359-8347-b8cd28375331",
+      "images": [],
+      "links": [
+        {
+          "target": "http://manowar.com/",
+          "type": "manowar"
+        },
+        {
+          "target": "https://www.discogs.com/artist/253699",
+          "type": "discogs"
+        },
+        {
+          "target": "https://www.facebook.com/manowar",
+          "type": "facebook"
+        },
+        {
+          "target": "https://www.allmusic.com/artist/mn0000673208",
+          "type": "allmusic"
+        },
+        {
+          "target": "https://www.wikidata.org/wiki/Q156049",
+          "type": "wikidata"
+        },
+        {
+          "target": "http://muzikum.eu/en/122-6385/manowar/lyrics.html",
+          "type": "muzikum"
+        },
+        {
+          "target": "https://rateyourmusic.com/artist/manowar",
+          "type": "rateyourmusic"
+        },
+        {
+          "target": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ",
+          "type": "spotify"
+        },
+        {
+          "target": "https://www.musik-sammler.de/artist/manowar/",
+          "type": "musik-sammler"
+        },
+        {
+          "target": "https://www.metal-archives.com/bands/Manowar/83",
+          "type": "metal-archives"
+        },
+        {
+          "target": "http://viaf.org/viaf/25145970324932252497",
+          "type": "viaf"
+        },
+        {
+          "target": "https://d-nb.info/gnd/10281542-2",
+          "type": "d-nb"
+        },
+        {
+          "target": "http://id.loc.gov/authorities/names/n91037289",
+          "type": "loc"
+        },
+        {
+          "target": "https://www.worldcat.org/identities/lccn-n91037289",
+          "type": "worldcat"
+        },
+        {
+          "target": "https://catalogue.bnf.fr/ark:/12148/cb13904835z",
+          "type": "bnf"
+        },
+        {
+          "target": "https://www.imdb.com/name/nm1659037/",
+          "type": "imdb"
+        },
+        {
+          "target": "https://twitter.com/MANOWAR",
+          "type": "twitter"
+        },
+        {
+          "target": "https://www.songkick.com/artists/539429",
+          "type": "songkick"
+        },
+        {
+          "target": "https://www.bbc.co.uk/music/artists/00eeed6b-5897-4359-8347-b8cd28375331",
+          "type": "bbc"
+        },
+        {
+          "target": "https://www.deezer.com/artist/5530",
+          "type": "deezer"
+        },
+        {
+          "target": "https://www.45cat.com/artist/manowar",
+          "type": "45cat"
+        },
+        {
+          "target": "https://www.bandsintown.com/a/8814",
+          "type": "bandsintown"
+        },
+        {
+          "target": "https://www.amazon.com/-/e/B000AQ0FWM",
+          "type": "amazon"
+        },
+        {
+          "target": "https://itunes.apple.com/us/artist/id157798",
+          "type": "apple"
+        },
+        {
+          "target": "https://www.last.fm/music/Manowar",
+          "type": "last"
+        },
+        {
+          "target": "https://soundcloud.com/manowarofficial",
+          "type": "soundcloud"
+        },
+        {
+          "target": "https://musicmoz.org/Bands_and_Artists/M/Manowar/",
+          "type": "musicmoz"
+        },
+        {
+          "target": "https://genius.com/artists/Manowar",
+          "type": "genius"
+        },
+        {
+          "target": "https://play.google.com/store/music/artist?id=Azq2wzwttsgxhmqb67ihjbytkyu",
+          "type": "google"
+        },
+        {
+          "target": "https://secondhandsongs.com/artist/11121",
+          "type": "secondhandsongs"
+        },
+        {
+          "target": "https://www.setlist.fm/setlists/manowar-53d683a9.html",
+          "type": "setlist"
+        },
+        {
+          "target": "https://www.spirit-of-metal.com/en/band/Manowar",
+          "type": "spirit-of-metal"
+        },
+        {
+          "target": "https://www.whosampled.com/Manowar/",
+          "type": "whosampled"
+        },
+        {
+          "target": "https://www.onkyomusic.com/GB/artist/manowar",
+          "type": "onkyomusic"
+        },
+        {
+          "target": "https://www.7digital.com/artist/manowar",
+          "type": "7digital"
+        },
+        {
+          "target": "https://store.cdbaby.com/Artist/Manowar1",
+          "type": "cdbaby"
+        },
+        {
+          "target": "https://music.amazon.com/artists/B000QJR53A",
+          "type": "amazon"
+        },
+        {
+          "target": "https://tidal.com/artist/10942",
+          "type": "tidal"
+        },
+        {
+          "target": "https://www.youtube.com/channel/UCFcDpTbLxlmlkRdQc7w_mmw",
+          "type": "youtube"
+        },
+        {
+          "target": "https://www.instagram.com/manowarband_official/",
+          "type": "instagram"
+        },
+        {
+          "target": "https://www.threads.com/@manowarband_official",
+          "type": "threads"
+        },
+        {
+          "target": "https://myspace.com/manowardefendersofsteel",
+          "type": "myspace"
+        },
+        {
+          "target": "https://music.youtube.com/channel/UCYNIpBZ3RonbMWRN0ff5OPQ",
+          "type": "youtube"
+        },
+        {
+          "target": "https://music.apple.com/us/artist/157798",
+          "type": "apple"
+        },
+        {
+          "target": "https://www.reverbnation.com/manowar",
+          "type": "reverbnation"
+        },
+        {
+          "target": "https://www.youtube.com/MANOWARband",
+          "type": "youtube"
+        },
+        {
+          "target": "https://us.napster.com/artist/manowar",
+          "type": "napster"
+        },
+        {
+          "target": "https://music.apple.com/mx/artist/157798",
+          "type": "apple"
+        },
+        {
+          "target": "https://music.apple.com/gb/artist/157798",
+          "type": "apple"
+        }
+      ],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 6,
+        "Value": 8.0
+      },
+      "sortname": "Manowar",
+      "status": "active",
+      "type": "Group"
+    },
+    "score": 93
+  },
+  {
+    "album": null,
+    "artist": {
+      "artistaliases": [],
+      "artistname": "Drone",
+      "disambiguation": "German thrash metal band",
+      "genres": [
+        "Groove Metal",
+        "Metalcore",
+        "Thrash Metal"
+      ],
+      "id": "71788d3b-7714-411b-a75f-727e0894ca1d",
+      "images": [],
+      "links": [
+        {
+          "target": "http://www.dronemetal.com/",
+          "type": "dronemetal"
+        },
+        {
+          "target": "https://myspace.com/dronemetal",
+          "type": "myspace"
+        },
+        {
+          "target": "https://www.metal-archives.com/bands/Drone/57108",
+          "type": "metal-archives"
+        },
+        {
+          "target": "https://www.facebook.com/DroneMetal",
+          "type": "facebook"
+        },
+        {
+          "target": "https://twitter.com/dronemetal",
+          "type": "twitter"
+        },
+        {
+          "target": "https://www.youtube.com/user/dronemetal",
+          "type": "youtube"
+        },
+        {
+          "target": "https://soundcloud.com/drone-metal",
+          "type": "soundcloud"
+        },
+        {
+          "target": "https://www.discogs.com/artist/2132768",
+          "type": "discogs"
+        },
+        {
+          "target": "https://www.wikidata.org/wiki/Q18246139",
+          "type": "wikidata"
+        }
+      ],
+      "oldids": [],
+      "overview": "German metal band",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "sortname": "Drone",
+      "status": "active",
+      "type": "Group"
+    },
+    "score": 92
+  },
+  {
+    "album": null,
+    "artist": {
+      "artistaliases": [],
+      "artistname": "Drone",
+      "disambiguation": "Dimitris Magglaris, George Kokkinos, Kostantinos Moshovas, progressive trance",
+      "genres": [],
+      "id": "5518cc6d-be46-45d3-b4af-a3ae1a494b95",
+      "images": [],
+      "links": [
+        {
+          "target": "https://www.discogs.com/artist/206089",
+          "type": "discogs"
+        }
+      ],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "sortname": "Drone",
+      "status": "active",
+      "type": "Group"
+    },
+    "score": 89
+  },
+  {
+    "album": null,
+    "artist": {
+      "artistaliases": [],
+      "artistname": "DRONE",
+      "disambiguation": "German electronic musician",
+      "genres": [],
+      "id": "43ea648a-4d92-4290-80bb-bc7586d8bfd7",
+      "images": [],
+      "links": [
+        {
+          "target": "https://www.discogs.com/artist/761593",
+          "type": "discogs"
+        },
+        {
+          "target": "https://myspace.com/droneonline",
+          "type": "myspace"
+        },
+        {
+          "target": "http://www.upitup.com/roster/artist.php?aid=7",
+          "type": "upitup"
+        }
+      ],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "sortname": "DRONE",
+      "status": "active",
+      "type": "Person"
+    },
+    "score": 89
+  },
+  {
+    "album": null,
+    "artist": {
+      "artistaliases": [],
+      "artistname": "Drone",
+      "disambiguation": "DRoNe Epsylonn, hardcore/tribal/techno/acid",
+      "genres": [],
+      "id": "fe0bab1e-2118-4c25-8c16-9518ffc60384",
+      "images": [],
+      "links": [
+        {
+          "target": "https://www.discogs.com/artist/1106425",
+          "type": "discogs"
+        }
+      ],
+      "oldids": [
+        "a9e82348-39b5-4455-ba48-3ee3261ba08b"
+      ],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "sortname": "Drone",
+      "status": "active",
+      "type": null
+    },
+    "score": 89
+  },
+  {
+    "album": null,
+    "artist": {
+      "artistaliases": [],
+      "artistname": "Drone",
+      "disambiguation": "Cassidy Phillips: electronic / experimental",
+      "genres": [],
+      "id": "84ee1324-2db0-446c-8034-5339d0c325bd",
+      "images": [],
+      "links": [
+        {
+          "target": "https://www.discogs.com/artist/677839",
+          "type": "discogs"
+        },
+        {
+          "target": "https://rateyourmusic.com/artist/drone_f1",
+          "type": "rateyourmusic"
+        }
+      ],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "sortname": "Drone",
+      "status": "active",
+      "type": "Person"
+    },
+    "score": 89
+  },
+  {
+    "album": null,
+    "artist": {
+      "artistaliases": [],
+      "artistname": "Drone",
+      "disambiguation": "New Zealand experimental band",
+      "genres": [],
+      "id": "fb335a8f-906c-4f52-a90f-2cd621265031",
+      "images": [],
+      "links": [
+        {
+          "target": "https://www.discogs.com/artist/196247",
+          "type": "discogs"
+        },
+        {
+          "target": "https://www.audioculture.co.nz/people/drone",
+          "type": "audioculture"
+        },
+        {
+          "target": "http://thebigcity.co.nz/artists/d/drone",
+          "type": "thebigcity"
+        },
+        {
+          "target": "https://rateyourmusic.com/artist/drone",
+          "type": "rateyourmusic"
+        }
+      ],
+      "oldids": [
+        "b81dec8d-8c7c-4524-b7b0-d4162bc994d4"
+      ],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "sortname": "Drone",
+      "status": "ended",
+      "type": "Group"
+    },
+    "score": 89
+  },
+  {
+    "album": {
+      "aliases": [],
+      "artistid": "29b76a19-c471-446e-bfc0-8fc0f0ab0045",
+      "artists": [
+        {
+          "artistaliases": [],
+          "artistname": "Suicide Reference",
+          "disambiguation": "Japanese producer",
+          "genres": [],
+          "id": "29b76a19-c471-446e-bfc0-8fc0f0ab0045",
+          "images": [],
+          "links": [
+            {
+              "target": "https://www.discogs.com/artist/4603087",
+              "type": "discogs"
+            },
+            {
+              "target": "https://www.facebook.com/suicide.reference.noise",
+              "type": "facebook"
+            },
+            {
+              "target": "https://open.spotify.com/artist/5wKBoxl2Go4oMwqRBPcVHD",
+              "type": "spotify"
+            }
+          ],
+          "oldids": [],
+          "overview": "",
+          "rating": {
+            "Count": 0,
+            "Value": null
+          },
+          "sortname": "Reference, Suicide",
+          "status": "active",
+          "type": "Person"
+        }
+      ],
+      "disambiguation": "",
+      "genres": [],
+      "id": "1a918687-e7f7-4f15-804b-ef8048f6a046",
+      "images": [
+        {
+          "CoverType": "Cover",
+          "Url": "https://imagecache.lidarr.audio/v1/caa/4085d0c6-8ca8-426c-bfa4-b64661616173/41530793780-1200.jpg"
+        }
+      ],
+      "links": [],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "releasedate": "2014-08-30",
+      "releases": [],
+      "secondarytypes": [],
+      "title": "Drone Fuck Drone",
+      "type": "EP"
+    },
+    "artist": null,
+    "score": 85
+  },
+  {
+    "album": {
+      "aliases": [],
+      "artistid": "3d0ae598-2dd2-44fb-97c0-131a985060bd",
+      "artists": [
+        {
+          "artistaliases": [],
+          "artistname": "Deep Well of Horror",
+          "disambiguation": "",
+          "genres": [
+            "Funeral Doom Metal"
+          ],
+          "id": "3d0ae598-2dd2-44fb-97c0-131a985060bd",
+          "images": [],
+          "links": [
+            {
+              "target": "https://www.discogs.com/artist/3409159",
+              "type": "discogs"
+            }
+          ],
+          "oldids": [],
+          "overview": "",
+          "rating": {
+            "Count": 0,
+            "Value": null
+          },
+          "sortname": "Deep Well of Horror",
+          "status": "active",
+          "type": "Group"
+        }
+      ],
+      "disambiguation": "",
+      "genres": [],
+      "id": "2355ec3c-7345-341c-83af-b725782ff5a8",
+      "images": [],
+      "links": [],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "releasedate": "2005-07-28",
+      "releases": [
+        {
+          "country": [
+            "Italy"
+          ],
+          "disambiguation": "",
+          "id": "f69900ac-286e-42fe-8d0a-d52ad15577f9",
+          "label": [
+            "[no label]"
+          ],
+          "media": [
+            {
+              "Format": "CD",
+              "Name": "",
+              "Position": 1
+            }
+          ],
+          "oldids": [],
+          "releasedate": "2005-07-28",
+          "status": "Official",
+          "title": "Drone",
+          "track_count": 6,
+          "tracks": [
+            {
+              "artistid": "3d0ae598-2dd2-44fb-97c0-131a985060bd",
+              "durationms": 1302000,
+              "id": "2852b2f5-2fac-3a86-8a3a-bfd3d72ceccf",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "5fe9883d-9103-45d1-a305-6c335c889cbe",
+              "trackname": "Drone",
+              "tracknumber": "1",
+              "trackposition": 1
+            },
+            {
+              "artistid": "3d0ae598-2dd2-44fb-97c0-131a985060bd",
+              "durationms": 610000,
+              "id": "130447d7-1035-32a2-b373-551fb670e9bd",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "36fc7605-0bd1-4fe5-89d7-d8f04a289ada",
+              "trackname": "The Fly, the Valley",
+              "tracknumber": "2",
+              "trackposition": 2
+            },
+            {
+              "artistid": "3d0ae598-2dd2-44fb-97c0-131a985060bd",
+              "durationms": 1069000,
+              "id": "f13eb89f-6ffa-3264-a7c2-96ae7fad2687",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "8fa501b3-400f-498a-a8eb-c725c973e94a",
+              "trackname": "Omen",
+              "tracknumber": "3",
+              "trackposition": 3
+            },
+            {
+              "artistid": "3d0ae598-2dd2-44fb-97c0-131a985060bd",
+              "durationms": 112000,
+              "id": "75f5e372-cbc4-39df-b027-a1eb5e121ce1",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "026eaeaf-5a09-429e-81c1-be506ed6c663",
+              "trackname": "Wholeness",
+              "tracknumber": "4",
+              "trackposition": 4
+            },
+            {
+              "artistid": "3d0ae598-2dd2-44fb-97c0-131a985060bd",
+              "durationms": 616000,
+              "id": "fb127783-107e-3190-949c-4a07daea3cef",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "16f3bda3-cc23-4767-b876-d02fe23dd4b4",
+              "trackname": "The Tree",
+              "tracknumber": "5",
+              "trackposition": 5
+            },
+            {
+              "artistid": "3d0ae598-2dd2-44fb-97c0-131a985060bd",
+              "durationms": 399000,
+              "id": "b16e1690-4f9f-303d-8ea8-aca257311fd9",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "12c892c6-deca-44d1-a6a3-a32443e92769",
+              "trackname": "The Maggots",
+              "tracknumber": "6",
+              "trackposition": 6
+            }
+          ]
+        }
+      ],
+      "secondarytypes": [],
+      "title": "Drone",
+      "type": "Album"
+    },
+    "artist": null,
+    "score": 84
+  },
+  {
+    "album": {
+      "aliases": [],
+      "artistid": "f72bc4b9-0c34-46a6-877b-4827708b2485",
+      "artists": [
+        {
+          "artistaliases": [],
+          "artistname": "Tim Blechmann",
+          "disambiguation": "",
+          "genres": [],
+          "id": "f72bc4b9-0c34-46a6-877b-4827708b2485",
+          "images": [],
+          "links": [
+            {
+              "target": "http://tim.klingt.org/",
+              "type": "klingt"
+            },
+            {
+              "target": "https://www.discogs.com/artist/978812",
+              "type": "discogs"
+            },
+            {
+              "target": "https://rateyourmusic.com/artist/tim_blechmann",
+              "type": "rateyourmusic"
+            }
+          ],
+          "oldids": [],
+          "overview": "",
+          "rating": {
+            "Count": 0,
+            "Value": null
+          },
+          "sortname": "Blechmann, Tim",
+          "status": "active",
+          "type": "Person"
+        }
+      ],
+      "disambiguation": "",
+      "genres": [
+        "Drone",
+        "Electronic",
+        "Experimental"
+      ],
+      "id": "677fba0f-e68c-37d2-9fdf-63cd221ba297",
+      "images": [],
+      "links": [],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "releasedate": "2005-01-01",
+      "releases": [
+        {
+          "country": [],
+          "disambiguation": "",
+          "id": "d00644ce-2b16-4b2e-9313-28f064756ce8",
+          "label": [],
+          "media": [
+            {
+              "Format": "CD",
+              "Name": "",
+              "Position": 1
+            }
+          ],
+          "oldids": [],
+          "releasedate": "2005-01-01",
+          "status": "Official",
+          "title": "Drone",
+          "track_count": 1,
+          "tracks": [
+            {
+              "artistid": "f72bc4b9-0c34-46a6-877b-4827708b2485",
+              "durationms": 3429640,
+              "id": "5ae09c75-ce50-3885-9cb6-dd61ce98a2a6",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "3a6f5aef-4a5f-4b4b-be13-73796bd23942",
+              "trackname": "Drone",
+              "tracknumber": "1",
+              "trackposition": 1
+            }
+          ]
+        }
+      ],
+      "secondarytypes": [],
+      "title": "Drone",
+      "type": "Album"
+    },
+    "artist": null,
+    "score": 84
+  },
+  {
+    "album": {
+      "aliases": [],
+      "artistid": "79e8d1b5-f609-4488-bb73-e365c81e3ff4",
+      "artists": [
+        {
+          "artistaliases": [],
+          "artistname": "Hithlahabuth",
+          "disambiguation": "",
+          "genres": [
+            "Ambient",
+            "Experimental",
+            "Industrial"
+          ],
+          "id": "79e8d1b5-f609-4488-bb73-e365c81e3ff4",
+          "images": [],
+          "links": [
+            {
+              "target": "https://www.discogs.com/artist/145943",
+              "type": "discogs"
+            },
+            {
+              "target": "https://rateyourmusic.com/artist/hithlahabuth",
+              "type": "rateyourmusic"
+            }
+          ],
+          "oldids": [],
+          "overview": "",
+          "rating": {
+            "Count": 0,
+            "Value": null
+          },
+          "sortname": "Hithlahabuth",
+          "status": "active",
+          "type": "Group"
+        }
+      ],
+      "disambiguation": "",
+      "genres": [
+        "Ambient",
+        "Electronic",
+        "Experimental",
+        "Industrial"
+      ],
+      "id": "b1558742-891c-40a7-bd77-afdee4f33fa5",
+      "images": [
+        {
+          "CoverType": "Cover",
+          "Url": "https://imagecache.lidarr.audio/v1/caa/6ea38538-efde-4d0e-a10d-48e4c2668529/31037975103-1200.jpg"
+        },
+        {
+          "CoverType": "Disc",
+          "Url": "https://imagecache.lidarr.audio/v1/caa/6ea38538-efde-4d0e-a10d-48e4c2668529/31037977668-1200.jpg"
+        }
+      ],
+      "links": [],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "releasedate": "1996-05-01",
+      "releases": [
+        {
+          "country": [
+            "Germany"
+          ],
+          "disambiguation": "",
+          "id": "6ea38538-efde-4d0e-a10d-48e4c2668529",
+          "label": [
+            "Drone Records"
+          ],
+          "media": [
+            {
+              "Format": "7\" Vinyl",
+              "Name": "",
+              "Position": 1
+            }
+          ],
+          "oldids": [],
+          "releasedate": "1996-05-01",
+          "status": "Official",
+          "title": "(Drone)",
+          "track_count": 2,
+          "tracks": [
+            {
+              "artistid": "79e8d1b5-f609-4488-bb73-e365c81e3ff4",
+              "durationms": 407000,
+              "id": "37372e10-3ecb-3fb8-86df-459a0bb438b6",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "a433e476-29f9-4ab7-8c3d-a5fb7dfe75d5",
+              "trackname": "Didge-Drone",
+              "tracknumber": "A1",
+              "trackposition": 1
+            },
+            {
+              "artistid": "79e8d1b5-f609-4488-bb73-e365c81e3ff4",
+              "durationms": 515000,
+              "id": "31d86969-bdfe-32a4-a74d-25fc745774df",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "67f11e39-b24b-486e-81d4-23127019cddd",
+              "trackname": "Drown-Drone",
+              "tracknumber": "B1",
+              "trackposition": 2
+            }
+          ]
+        }
+      ],
+      "secondarytypes": [],
+      "title": "(Drone)",
+      "type": "EP"
+    },
+    "artist": null,
+    "score": 84
+  },
+  {
+    "album": {
+      "aliases": [],
+      "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+      "artists": [
+        {
+          "artistaliases": [
+            "Daniel Holter"
+          ],
+          "artistname": "Daniel C. Holter",
+          "disambiguation": "",
+          "genres": [],
+          "id": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+          "images": [],
+          "links": [
+            {
+              "target": "https://www.discogs.com/artist/1075996",
+              "type": "discogs"
+            }
+          ],
+          "oldids": [
+            "820cb89f-66ee-4de5-a7d5-1857c6b28f0c"
+          ],
+          "overview": "",
+          "rating": {
+            "Count": 0,
+            "Value": null
+          },
+          "sortname": "Holter, Daniel C.",
+          "status": "active",
+          "type": "Person"
+        }
+      ],
+      "disambiguation": "",
+      "genres": [],
+      "id": "72f0b196-30dd-4212-9f89-ad5837d272a8",
+      "images": [],
+      "links": [],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "releasedate": "0001-01-01",
+      "releases": [
+        {
+          "country": [
+            "United States"
+          ],
+          "disambiguation": "",
+          "id": "b28275e4-61d7-4410-a1f8-92ee809ab0d3",
+          "label": [
+            "gravity Music Library"
+          ],
+          "media": [
+            {
+              "Format": "CD",
+              "Name": "",
+              "Position": 1
+            }
+          ],
+          "oldids": [],
+          "releasedate": "0001-01-01",
+          "status": "Official",
+          "title": "Drone",
+          "track_count": 99,
+          "tracks": [
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "65469fd1-91b1-3668-a0e5-e92ba1858a5f",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "9f87a3ed-6685-4180-9df5-b5f53a20279c",
+              "trackname": "Affair (full 1)",
+              "tracknumber": "1",
+              "trackposition": 1
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "03ad603a-3c09-3637-bd80-92c81f58471d",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "d9e5b5bf-92f7-4a9c-b7e6-6edb46611c5a",
+              "trackname": "Affair (full 2)",
+              "tracknumber": "2",
+              "trackposition": 2
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "c5725339-7184-34c4-8831-5d7ffed671a9",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "4d33b09f-a595-48a9-9853-7279e665ec64",
+              "trackname": "Analog Pulse (full mix)",
+              "tracknumber": "3",
+              "trackposition": 3
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "ae61c46a-ef18-3900-8f6c-58c8a1b4ebb5",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "37623fb1-5f79-448e-b881-135dae506f05",
+              "trackname": "Animated Darkness (full mix)",
+              "tracknumber": "4",
+              "trackposition": 4
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "c77e645b-6a86-3128-9daa-09e19f004fdb",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "8b3ccc1f-cc10-4b54-8109-34287c933234",
+              "trackname": "Approaching Swarm (full mix)",
+              "tracknumber": "5",
+              "trackposition": 5
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "bc2a4ff7-05e8-301e-a80d-500f012b38ba",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "08a62d25-5566-4ed2-9f4b-85b62734ed03",
+              "trackname": "Black Ice (full 1)",
+              "tracknumber": "6",
+              "trackposition": 6
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "e568e748-cec1-3146-b730-1c0a1a1b0a73",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "96488bf1-6b0d-45e1-af7d-0df8a3440694",
+              "trackname": "Black Ice (full 2)",
+              "tracknumber": "7",
+              "trackposition": 7
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "4e32835f-937a-3c51-a544-3e6828db44f0",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "0ee036b2-2efd-4b21-a2e1-5c7d12ca8630",
+              "trackname": "Black Ice (full 3)",
+              "tracknumber": "8",
+              "trackposition": 8
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "ce788e06-135d-3808-bf0a-da53f2aae561",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "0d49cfb3-ac6c-47ff-a3e0-71501d55d1c9",
+              "trackname": "Children Weep (full 1)",
+              "tracknumber": "9",
+              "trackposition": 9
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "ab76ee18-3bc8-3b16-a41c-78aed8ff29b3",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "a999737f-9f0b-4b13-b57d-1e8554952565",
+              "trackname": "Children Weep (full 2)",
+              "tracknumber": "10",
+              "trackposition": 10
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "efec5f2a-8178-3c80-89ca-87038a8a39ff",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "ee22e295-e8de-4ba5-b061-956278d107a4",
+              "trackname": "Children Weep (full 3)",
+              "tracknumber": "11",
+              "trackposition": 11
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "ef0c6c9a-050f-39db-a6f3-d8b438001b88",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "471effd4-cd52-477e-b3c9-be646a9f98a4",
+              "trackname": "Complex (full 1)",
+              "tracknumber": "12",
+              "trackposition": 12
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "efd4e9b8-79ad-3a11-9da7-8a637d814e4c",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "ee6f346c-55c2-4777-8d46-247ac369e271",
+              "trackname": "Complex (full 2)",
+              "tracknumber": "13",
+              "trackposition": 13
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "0e70f4b2-50ad-3373-96a6-a28e383a3b25",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "4cb20621-848a-4c5f-932c-78d47fda81e8",
+              "trackname": "Complex (full 3)",
+              "tracknumber": "14",
+              "trackposition": 14
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "9f7f49ac-8174-3d90-bec2-cbe0b354cc86",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "a48be61c-cb8f-4465-b524-32a0427b9268",
+              "trackname": "Dark Dream (full 1)",
+              "tracknumber": "15",
+              "trackposition": 15
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "325dbbc7-9c73-3270-989e-c786b3c565a5",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "93dbf5aa-e04f-45db-80c1-a2bc32c168ec",
+              "trackname": "Dark Dream (full 2)",
+              "tracknumber": "16",
+              "trackposition": 16
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "fa1f6aca-5968-36ce-a7d2-b75c91cfecae",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "0ee5cd0a-c8db-4e87-82c6-54e1478c49df",
+              "trackname": "Dark Dream (full 3)",
+              "tracknumber": "17",
+              "trackposition": 17
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "e25f3796-c84b-3699-9e8c-ae6db768f6f0",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "0a6d072d-ab2f-44df-bc0d-8116243ca42c",
+              "trackname": "Dawn of Time (full 1)",
+              "tracknumber": "18",
+              "trackposition": 18
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "4bdff914-0553-3a6d-b8ac-3704f3979c1d",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "856719be-1e58-4e4a-baa0-5aac7941849a",
+              "trackname": "Dawn of Time (full 2)",
+              "tracknumber": "19",
+              "trackposition": 19
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "0e35af85-f10b-3d08-a7a1-b6f110ae57de",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "6fcffab3-558f-4f6c-851d-750025085ff0",
+              "trackname": "Dawn of Time (full 3)",
+              "tracknumber": "20",
+              "trackposition": 20
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "8d3251fb-950c-3b28-a92f-bae42362a719",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "377fac40-c350-4eaa-afc8-9395b2b2e4c0",
+              "trackname": "Dead Ringer (full 1)",
+              "tracknumber": "21",
+              "trackposition": 21
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "57f162c9-64da-3572-9fdb-82f8c0afdace",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "27e69caa-c03f-49d2-8230-754f87f6159d",
+              "trackname": "Dead Ringer (full 2)",
+              "tracknumber": "22",
+              "trackposition": 22
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "0d2253b8-5bef-37bf-97d0-2bb0b0d40bed",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "315750f2-49bc-4119-b838-ce7c4f443632",
+              "trackname": "Dead Ringer (full 3)",
+              "tracknumber": "23",
+              "trackposition": 23
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "1463536b-b9bd-3e3e-9b8b-b1e7792195b4",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "988aa843-7143-410c-aef8-9735061f479f",
+              "trackname": "Death Row (full 1)",
+              "tracknumber": "24",
+              "trackposition": 24
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "a750c645-1b71-3ff9-8159-61fe201038b3",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "327cb19b-0188-45e4-b884-b99f03941acc",
+              "trackname": "Death Row (full 2)",
+              "tracknumber": "25",
+              "trackposition": 25
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "8451adda-42d6-3dc6-a4cb-b9bb39811e99",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "525c02b8-fb61-429c-9f07-84561260b605",
+              "trackname": "Death Row (full 3)",
+              "tracknumber": "26",
+              "trackposition": 26
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "17f94716-2841-33dc-bcd2-c3db65b8d975",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "50916b70-d9f6-4e18-8470-b062f80d5d28",
+              "trackname": "Everlasting (full 1)",
+              "tracknumber": "27",
+              "trackposition": 27
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "d2fd09c5-bf71-303d-a6aa-e3bcf14acf76",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "72c302d4-887a-41e1-a97b-19329178a035",
+              "trackname": "Everlasting (full 2)",
+              "tracknumber": "28",
+              "trackposition": 28
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "9fa25a06-d005-309d-8b9f-a0c3f84cd9db",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "c7357f79-19a3-48aa-a503-5d1254a2110c",
+              "trackname": "Everlasting (full 3)",
+              "tracknumber": "29",
+              "trackposition": 29
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "515539fb-b9bd-3bab-ab01-4581128d7539",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "2a57d5b9-d737-43e9-9233-234697839f80",
+              "trackname": "Frustrated Teradactyl (full mix)",
+              "tracknumber": "30",
+              "trackposition": 30
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "d0569037-a6c0-35f6-9480-e13bb05cce31",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "98f30044-116d-4b6d-80a3-335d0624c4ea",
+              "trackname": "Ghostly Air (full mix)",
+              "tracknumber": "31",
+              "trackposition": 31
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "91363971-74f0-3bf9-b28f-556a7a11ca1e",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "3a62196e-4f52-49b3-b155-133048154bb2",
+              "trackname": "Grand Entrance (full 1)",
+              "tracknumber": "32",
+              "trackposition": 32
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "cb81cb6e-e313-333f-a726-147e411412ac",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "25e8d106-60ed-4fc7-a980-1cf583d22639",
+              "trackname": "Grand Entrance (full 2)",
+              "tracknumber": "33",
+              "trackposition": 33
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "5fbb8fe1-a5cd-391d-af1c-5e998efd45c7",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "cc6ee072-e664-4e28-bb2e-56d7293dbedc",
+              "trackname": "Grand Entrance (full 3)",
+              "tracknumber": "34",
+              "trackposition": 34
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "a0cef2fc-b34b-36c4-b022-fde3004bc373",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "e2c14548-a90a-42c6-9b81-1dd2dfa64d80",
+              "trackname": "Grand Entrance (full 4)",
+              "tracknumber": "35",
+              "trackposition": 35
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "0eb6eaab-c7c4-3416-8ab8-993b8192cea2",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "f711d622-0237-4ba9-9ef4-d447aca6ecea",
+              "trackname": "Guitarists Demise (full 1)",
+              "tracknumber": "36",
+              "trackposition": 36
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "57dfdf11-2da2-3628-af04-54f219621570",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "3f293832-7739-4070-a5e2-9afcfda3040d",
+              "trackname": "Guitarists Demise (full 2)",
+              "tracknumber": "37",
+              "trackposition": 37
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "1bfc594a-5d32-333e-93d3-1182327103b4",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "d754f1c5-8bec-43a5-a367-2bf2ff17df14",
+              "trackname": "Guitarists Demise (full 3)",
+              "tracknumber": "38",
+              "trackposition": 38
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "c0334962-faea-3d7d-8ab6-ff07ad8bcd24",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "05e9573a-04dc-44d2-9b04-886d6df004e6",
+              "trackname": "Holy Torture (full mix)",
+              "tracknumber": "39",
+              "trackposition": 39
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "5dce9d07-7beb-3f63-a862-e0587440b67e",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "135abe04-3950-4fe2-a64d-dff200583b7d",
+              "trackname": "Interference (full 1)",
+              "tracknumber": "40",
+              "trackposition": 40
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "2f565f11-146f-30a4-9e7d-0ebaf8b425ab",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "64c3fae4-b538-4139-b856-7147ed0dcd3b",
+              "trackname": "Interference (full 2)",
+              "tracknumber": "41",
+              "trackposition": 41
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "a6a6f717-461f-38f9-871c-ef48bb0e6cdd",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "3fb2b77c-4e3a-4dfb-981d-896ae88fd69f",
+              "trackname": "Interference (full 3)",
+              "tracknumber": "42",
+              "trackposition": 42
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "6c09d85e-fa3a-3425-8845-4301e651cff3",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "5f8a95db-590f-47a1-94b8-610cff1dd890",
+              "trackname": "Landing (full 1)",
+              "tracknumber": "43",
+              "trackposition": 43
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "5250d9f6-8323-31b0-9c0a-d0c84c1aef2b",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "928546e7-9f2f-4408-9a10-4673beeadf88",
+              "trackname": "Landing (full 2)",
+              "tracknumber": "44",
+              "trackposition": 44
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "055ab7ff-4fb2-3dd6-a86b-79ab565c46c2",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "3606a512-e48a-4d0d-8b09-eaece42566dc",
+              "trackname": "Landing (full 3)",
+              "tracknumber": "45",
+              "trackposition": 45
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "e355b40d-ef83-3c35-bb8a-bc71f3cad7aa",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "c17986c0-e055-45b6-a8df-11399dbcf513",
+              "trackname": "Light Suspense (full 1)",
+              "tracknumber": "46",
+              "trackposition": 46
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "b952e164-93c3-3ee2-b7be-b720347ea5d4",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "4c4913bc-cc2b-4d46-8124-b881f3acf5d8",
+              "trackname": "Light Suspense (full 2)",
+              "tracknumber": "47",
+              "trackposition": 47
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "d7d11a73-0b54-3eae-b790-8b920c4f79be",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "0fd46ead-2975-4f08-82df-981d70668680",
+              "trackname": "Light Suspense (full 3)",
+              "tracknumber": "48",
+              "trackposition": 48
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "b69e7ff8-713d-3644-922c-7524d5a3cc18",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "ee3d995b-0b29-434a-b82e-0f5caf71c4e7",
+              "trackname": "Moon Canyon (full mix)",
+              "tracknumber": "49",
+              "trackposition": 49
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "aae54641-d616-3565-87de-8188dc9b59bc",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "bddf926f-5a25-4b7f-942b-f16c653c3b7a",
+              "trackname": "Masty Freeze (full mix)",
+              "tracknumber": "50",
+              "trackposition": 50
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "dd6b5dcf-39aa-3a6d-a621-771d37556d11",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "66b7f199-70aa-40d6-9c9f-8eb43f522880",
+              "trackname": "Ocean Break (full 1)",
+              "tracknumber": "51",
+              "trackposition": 51
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "8fe2e6b9-a03b-3a31-b8e5-653ce57648b3",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "72ee1824-a41d-4f7a-872c-bb1ec384bb60",
+              "trackname": "Ocean Break (full 2)",
+              "tracknumber": "52",
+              "trackposition": 52
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "d8eb2400-8b1c-3020-9a9a-f4785fdf748e",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "473ccd5b-de7b-4d58-9929-3fb94a8639e8",
+              "trackname": "Ocean Break (full 3)",
+              "tracknumber": "53",
+              "trackposition": 53
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "5e6b2e78-4adf-3823-afec-1d415f07c14e",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "5cba36d4-37c1-43dc-a710-50079cd83e81",
+              "trackname": "Old Skool (full 1)",
+              "tracknumber": "54",
+              "trackposition": 54
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "c4fb6406-044b-329a-ac56-6918e16fc73f",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "395aa964-d3aa-42b9-8ce9-cf7ee929a27b",
+              "trackname": "Old Skool (full 2)",
+              "tracknumber": "55",
+              "trackposition": 55
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "b4f8005f-738a-3867-b095-9ac02742b897",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "d996894e-1fc3-475d-90d2-20f772dea040",
+              "trackname": "Old Skool (full 3)",
+              "tracknumber": "56",
+              "trackposition": 56
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "9d184ae7-3fd7-3c35-ad18-5039c5815a3f",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "fdde80cb-d860-42ab-b33c-6e114d38bef6",
+              "trackname": "Old Skool (full 4)",
+              "tracknumber": "57",
+              "trackposition": 57
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "3d8c8578-c9cb-315b-8a48-44ce0c71a498",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "9ee7f9db-710a-4ee8-87ca-ebfb7410b469",
+              "trackname": "Quaint (full 1)",
+              "tracknumber": "58",
+              "trackposition": 58
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "65271255-55ec-3dfb-9347-bebfdbf393be",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "f9971dcd-db6b-430d-b5a5-47054fe48cb6",
+              "trackname": "Quaint (full 2)",
+              "tracknumber": "59",
+              "trackposition": 59
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "4116bca7-71db-3728-9b15-4f6176b6ddf1",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "bb7bfb64-e1ab-434f-bfc4-9bb90a62941e",
+              "trackname": "Quaint (full 3)",
+              "tracknumber": "60",
+              "trackposition": 60
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "a05a5e0e-fddf-33e8-a039-62da95fcb125",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "cd2a0655-3d8d-400c-aeea-5e1b10a90e92",
+              "trackname": "Rez Sweep (full 1)",
+              "tracknumber": "61",
+              "trackposition": 61
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "1c675d9b-3aad-3462-b117-2854ca83e560",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "e72f0856-e7f8-415f-9283-fe998bef13a9",
+              "trackname": "Rez Sweep (full 2)",
+              "tracknumber": "62",
+              "trackposition": 62
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "8b325df7-9e64-36cb-bf63-9e91e8e7a316",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "aca2ce1b-287a-4777-8cc2-ed5f9d214942",
+              "trackname": "Rez Sweep (full 3)",
+              "tracknumber": "63",
+              "trackposition": 63
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "505effcf-d680-38a8-b992-213f0c4cd0de",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "4fc48ea0-6fb8-49b6-abcb-227f8fa0524b",
+              "trackname": "Sahara Moon (full 1)",
+              "tracknumber": "64",
+              "trackposition": 64
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "765508e3-d416-38b2-a887-4dfb87275c61",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "18fa579f-c40d-4a01-b674-57f2ce55c023",
+              "trackname": "Sahara Moon (full 2)",
+              "tracknumber": "65",
+              "trackposition": 65
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "cadb55fa-8241-3c26-8f0e-4dd098157e69",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "eefed5a4-b298-4b5e-8e85-3af66757b963",
+              "trackname": "Sahara Moon (full 3)",
+              "tracknumber": "66",
+              "trackposition": 66
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "17c94600-f79a-3333-bb9e-c61067bd9488",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "6733e225-30b0-4d42-aaac-a54e2e9e3b81",
+              "trackname": "Simple (full 1)",
+              "tracknumber": "67",
+              "trackposition": 67
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "4c6122f1-5b56-360c-8722-2f8fd2270645",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "4de403bb-8017-4496-8ab4-32312c170f78",
+              "trackname": "Simple (full 2)",
+              "tracknumber": "68",
+              "trackposition": 68
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "62d3587e-c6a9-3876-860f-37902662fb87",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "50cfee50-e4a6-4d43-a5f0-c79de4b1ddd5",
+              "trackname": "Simple (full 3)",
+              "tracknumber": "69",
+              "trackposition": 69
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "2dd625c9-6c44-3b46-8c4d-7f263cfa7c25",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "3342bfca-143a-4248-b67d-d105d6c1b815",
+              "trackname": "Simple (full 4)",
+              "tracknumber": "70",
+              "trackposition": 70
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "49a90516-69c3-32b7-8e42-e9b2b5858576",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "e14f0f10-fe87-4fde-9dbb-05cce32b0548",
+              "trackname": "Sweeper (full 1)",
+              "tracknumber": "71",
+              "trackposition": 71
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "2c5208af-0fbe-31dd-8f04-739548da164c",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "3b8834b7-e309-48f1-9ae0-255d744e9756",
+              "trackname": "Sweeper (full 2)",
+              "tracknumber": "72",
+              "trackposition": 72
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "d3edb87e-5b44-3770-ab00-44f8e6733744",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "7d747eea-313f-44bb-af41-17e9ddca1090",
+              "trackname": "Sweeper (full 3)",
+              "tracknumber": "73",
+              "trackposition": 73
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "ced3a4de-c569-3b26-8a5a-846ac789733a",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "c0da49f3-f5d6-4ddb-a66e-79f138525fff",
+              "trackname": "Sword Runner (full 1)",
+              "tracknumber": "74",
+              "trackposition": 74
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "ecd1480b-191a-393f-8df8-b93c92389988",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "8c4015f3-9a4a-4e85-b074-7398d6c30c01",
+              "trackname": "Sword Runner (full 2)",
+              "tracknumber": "75",
+              "trackposition": 75
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "9d170a29-cda7-309d-93aa-921c2199c37d",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "f793471d-be09-4a34-8e54-bb0e3b2a77ce",
+              "trackname": "Sword Runner (full 3)",
+              "tracknumber": "76",
+              "trackposition": 76
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "1af07f60-f04d-3ee3-8fdb-027214712c36",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "96db450e-ce25-4a9f-afe5-b191e1562e79",
+              "trackname": "Table Saw (full 1)",
+              "tracknumber": "77",
+              "trackposition": 77
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "fa526833-36fb-3a93-9d15-5ec0f7b25f06",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "48653f3b-9bbc-43f8-ab9e-3bac4268e01c",
+              "trackname": "Table Saw (full 2)",
+              "tracknumber": "78",
+              "trackposition": 78
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "4fb2a305-18d9-31be-b17c-3a82958d5b96",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "13ab6240-3633-4573-a2ab-3b73225de953",
+              "trackname": "Table Saw Solo (full 1)",
+              "tracknumber": "79",
+              "trackposition": 79
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "ec7b7ed6-7aa3-3b74-82c9-8479786bc75f",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "79b13b74-d536-4f14-be58-a96a90933e8a",
+              "trackname": "Table Saw Solo (full 2)",
+              "tracknumber": "80",
+              "trackposition": 80
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "e6235ead-397e-3328-9efb-988061664850",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "a95b104d-f73a-4cbb-b5f6-0d2772b38783",
+              "trackname": "Temple (full 1)",
+              "tracknumber": "81",
+              "trackposition": 81
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "90bc39cf-1032-352a-95bf-51780ecad616",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "223ac74c-f8d3-4c43-afeb-192731ab72fc",
+              "trackname": "Temple (full 2)",
+              "tracknumber": "82",
+              "trackposition": 82
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "76c4a0b6-0041-3725-9444-c1959054683d",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "1dd4bd8e-6729-48c2-8eb2-e7c541fd13cf",
+              "trackname": "Temple (full 3)",
+              "tracknumber": "83",
+              "trackposition": 83
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "25545b47-4e46-3447-9174-d991caf698b5",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "5fb3144f-38b5-4b55-b422-47b0e54b5d54",
+              "trackname": "Trek Wash (full 1)",
+              "tracknumber": "84",
+              "trackposition": 84
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "257ce9a2-9d86-341a-a661-9767d15efb95",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "8c7e20b5-54b2-41d4-8d17-8bb3042cfb7c",
+              "trackname": "Trek Wash (full 2)",
+              "tracknumber": "85",
+              "trackposition": 85
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "575ca2dd-786b-3059-9268-5cce73892ba3",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "b305820d-43da-4122-9e62-00276305ec02",
+              "trackname": "Tremble Station (full 1)",
+              "tracknumber": "86",
+              "trackposition": 86
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "b5fb6212-90fc-39c9-8aa9-81be20ab4711",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "9175ffc0-216e-4ead-872f-c8e94512bf0b",
+              "trackname": "Tremble Station (full 2)",
+              "tracknumber": "87",
+              "trackposition": 87
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "0baa6f1e-8961-3bca-9b2d-f97b9523a6f6",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "1338d927-d033-425a-bffb-9162180ca2ea",
+              "trackname": "Twilight (full 1)",
+              "tracknumber": "88",
+              "trackposition": 88
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "9daa67f4-7749-34b5-bd13-c66ef159f265",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "5f8fcfb4-fb75-4939-aa94-82a92b1500da",
+              "trackname": "Twilight (full 2)",
+              "tracknumber": "89",
+              "trackposition": 89
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "e300463f-8fcd-3e40-b2d3-f3b935dac89f",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "8a5ef349-eef7-46ea-b930-5d55ea3abcdd",
+              "trackname": "Twilight (full 3)",
+              "tracknumber": "90",
+              "trackposition": 90
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "52fb7d72-9859-3f55-b466-f78bdcd7da1e",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "52c2da00-7ad1-4541-894f-f8e9487f6e24",
+              "trackname": "Uneasy (full 1)",
+              "tracknumber": "91",
+              "trackposition": 91
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "e3676ec8-e609-36cf-8c51-956a55a7275e",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "ca992580-5a06-4ef1-887d-b8cf779949ff",
+              "trackname": "Uneasy (full 2)",
+              "tracknumber": "92",
+              "trackposition": 92
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "2ec7c36f-aeff-3c5d-88c5-181d696f9c1d",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "8cbf8df3-90c9-4fbc-b72a-c71952ab2db8",
+              "trackname": "Uneasy (full 3)",
+              "tracknumber": "93",
+              "trackposition": 93
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "2ac663da-3340-38d0-b8eb-a90b97512902",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "9876dd2d-7480-45a2-b7f7-e0e62c2136d9",
+              "trackname": "Warble Tone (full mix)",
+              "tracknumber": "94",
+              "trackposition": 94
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "72c97cd3-670d-367a-9db7-472ee0f3e06f",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "79345827-71aa-4965-91a5-1124ace41323",
+              "trackname": "Winds of Hell (full 1)",
+              "tracknumber": "95",
+              "trackposition": 95
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "67beaa5e-2b2a-3c2b-ba8f-7b03e9fa96d4",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "6015d84f-e174-48b3-bb44-abdfa4c5d084",
+              "trackname": "Winds of Hell (full 2)",
+              "tracknumber": "96",
+              "trackposition": 96
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "e09384ca-c921-37f1-a837-75fafeea6305",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "6ce64bc6-ba2d-4a52-a0e5-d763a52880de",
+              "trackname": "Xenon Ring (full 1)",
+              "tracknumber": "97",
+              "trackposition": 97
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "9abe9a3e-cc2c-38b1-94d0-18bc017b457d",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "ff9e80d5-2f60-4d71-b070-2e929d6850d9",
+              "trackname": "Xenon Ring (full 2)",
+              "tracknumber": "98",
+              "trackposition": 98
+            },
+            {
+              "artistid": "15bcfbce-ec72-43dc-9a1e-c8524fa5ee94",
+              "durationms": 30000,
+              "id": "f7f1b89d-1261-3243-b4dc-2302d2d888bd",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "61da3efa-8dca-4102-8b2f-3b8b75cb2a81",
+              "trackname": "Xenon Ring (full 3)",
+              "tracknumber": "99",
+              "trackposition": 99
+            }
+          ]
+        }
+      ],
+      "secondarytypes": [],
+      "title": "Drone",
+      "type": "Other"
+    },
+    "artist": null,
+    "score": 84
+  },
+  {
+    "album": {
+      "aliases": [],
+      "artistid": "c94455f5-8954-4c59-9170-35f3544ab13c",
+      "artists": [
+        {
+          "artistaliases": [],
+          "artistname": "Vomit Orchestra",
+          "disambiguation": "",
+          "genres": [],
+          "id": "c94455f5-8954-4c59-9170-35f3544ab13c",
+          "images": [],
+          "links": [
+            {
+              "target": "https://www.discogs.com/artist/586159",
+              "type": "discogs"
+            },
+            {
+              "target": "https://myspace.com/vorchestra",
+              "type": "myspace"
+            }
+          ],
+          "oldids": [],
+          "overview": "",
+          "rating": {
+            "Count": 0,
+            "Value": null
+          },
+          "sortname": "Vomit Orchestra",
+          "status": "active",
+          "type": "Person"
+        }
+      ],
+      "disambiguation": "",
+      "genres": [],
+      "id": "f2378c26-1834-4da8-a139-548b59b24c85",
+      "images": [],
+      "links": [],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "releasedate": "2002-01-01",
+      "releases": [
+        {
+          "country": [
+            "United States"
+          ],
+          "disambiguation": "",
+          "id": "fbee690e-c8af-48c2-910a-7d4c1038cab8",
+          "label": [],
+          "media": [
+            {
+              "Format": "Cassette",
+              "Name": "",
+              "Position": 1
+            }
+          ],
+          "oldids": [],
+          "releasedate": "2002-01-01",
+          "status": "Official",
+          "title": "Drone",
+          "track_count": 5,
+          "tracks": [
+            {
+              "artistid": "c94455f5-8954-4c59-9170-35f3544ab13c",
+              "durationms": null,
+              "id": "3ffa7da7-ec81-393f-8b41-4a5edd591807",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "4515e2f3-e5d6-45dc-9783-4306de4c9f01",
+              "trackname": "Drone I: The Sea",
+              "tracknumber": "1",
+              "trackposition": 1
+            },
+            {
+              "artistid": "c94455f5-8954-4c59-9170-35f3544ab13c",
+              "durationms": null,
+              "id": "36fccabf-db7b-367b-bdf4-b42d1154dc8d",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "d0650e2c-8e2f-4607-b280-8dbaba8068f0",
+              "trackname": "Drone II: The Oath",
+              "tracknumber": "2",
+              "trackposition": 2
+            },
+            {
+              "artistid": "c94455f5-8954-4c59-9170-35f3544ab13c",
+              "durationms": null,
+              "id": "4fa29692-7aac-3645-a02e-878e070238f3",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "b974ebd6-6579-4230-a603-fa1ee69aaa96",
+              "trackname": "Drone III: Through the Funeral Maelstrom of Evil",
+              "tracknumber": "3",
+              "trackposition": 3
+            },
+            {
+              "artistid": "c94455f5-8954-4c59-9170-35f3544ab13c",
+              "durationms": null,
+              "id": "4f6748e6-0a06-31d9-b4fb-7427bb6a1688",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "9f499cd2-bca3-4434-a54b-aa0ec9614ccf",
+              "trackname": "Drone IV: The Brother Star, Sister Moon",
+              "tracknumber": "4",
+              "trackposition": 4
+            },
+            {
+              "artistid": "c94455f5-8954-4c59-9170-35f3544ab13c",
+              "durationms": null,
+              "id": "ba7207cf-f634-3c67-8221-5a6d0bc54c2a",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "6b0ae050-564a-4217-aea7-55894f19ef27",
+              "trackname": "Drone V: The Pentagram",
+              "tracknumber": "5",
+              "trackposition": 5
+            }
+          ]
+        }
+      ],
+      "secondarytypes": [],
+      "title": "Drone",
+      "type": "EP"
+    },
+    "artist": null,
+    "score": 84
+  },
+  {
+    "album": {
+      "aliases": [],
+      "artistid": "12e27097-cd46-41e4-8b2a-a24719911025",
+      "artists": [
+        {
+          "artistaliases": [],
+          "artistname": "Cisfinitumaaaa",
+          "disambiguation": "",
+          "genres": [],
+          "id": "12e27097-cd46-41e4-8b2a-a24719911025",
+          "images": [],
+          "links": [
+            {
+              "target": "https://www.discogs.com/artist/1210003",
+              "type": "discogs"
+            }
+          ],
+          "oldids": [],
+          "overview": "",
+          "rating": {
+            "Count": 0,
+            "Value": null
+          },
+          "sortname": "Cisfinitumaaaa",
+          "status": "active",
+          "type": "Group"
+        }
+      ],
+      "disambiguation": "",
+      "genres": [
+        "Ambient",
+        "Electronic",
+        "Experimental",
+        "Noise"
+      ],
+      "id": "6a989450-5614-46ae-856c-daf1fe2a705b",
+      "images": [],
+      "links": [
+        {
+          "target": "https://www.discogs.com/master/186328",
+          "type": "discogs"
+        }
+      ],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "releasedate": "2008-08-01",
+      "releases": [
+        {
+          "country": [
+            "Poland"
+          ],
+          "disambiguation": "",
+          "id": "da721b52-0f8e-43f0-bb9e-ad331ee696be",
+          "label": [
+            "Triangle"
+          ],
+          "media": [
+            {
+              "Format": "CD",
+              "Name": "",
+              "Position": 1
+            }
+          ],
+          "oldids": [],
+          "releasedate": "2008-08-01",
+          "status": "Official",
+          "title": "Drone",
+          "track_count": 4,
+          "tracks": [
+            {
+              "artistid": "12e27097-cd46-41e4-8b2a-a24719911025",
+              "durationms": 600880,
+              "id": "d3ccb658-9313-322d-b4e5-e36a1427baa9",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "04b55648-ccf3-4c2c-9b5b-40f2bf08e4b6",
+              "trackname": "Trama Hell Drone",
+              "tracknumber": "1",
+              "trackposition": 1
+            },
+            {
+              "artistid": "12e27097-cd46-41e4-8b2a-a24719911025",
+              "durationms": 1326826,
+              "id": "00b993e2-910e-3927-839f-62a34fcb99e3",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "90fd26f6-022a-45c4-92dc-180b4fd40d08",
+              "trackname": "Advantage of Usociability",
+              "tracknumber": "2",
+              "trackposition": 2
+            },
+            {
+              "artistid": "12e27097-cd46-41e4-8b2a-a24719911025",
+              "durationms": 574960,
+              "id": "04f15bb5-d300-3c99-b30c-f6fe9f0ffda8",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "2dcb9f7a-6432-46b4-b881-5b9fff98e34b",
+              "trackname": "Victoria Bufo",
+              "tracknumber": "3",
+              "trackposition": 3
+            },
+            {
+              "artistid": "12e27097-cd46-41e4-8b2a-a24719911025",
+              "durationms": 1430346,
+              "id": "d78d35c8-4dcf-36e8-9766-c1f451fabb60",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "8af18e06-f8b3-494f-8018-403567e6b300",
+              "trackname": "Dead Bird Shaurma",
+              "tracknumber": "4",
+              "trackposition": 4
+            }
+          ]
+        }
+      ],
+      "secondarytypes": [],
+      "title": "Drone",
+      "type": "Album"
+    },
+    "artist": null,
+    "score": 84
+  },
+  {
+    "album": {
+      "aliases": [],
+      "artistid": "74a0d6ee-0606-4a83-8403-f46e3278cb04",
+      "artists": [
+        {
+          "artistaliases": [],
+          "artistname": "Clyde Rivers",
+          "disambiguation": "",
+          "genres": [],
+          "id": "74a0d6ee-0606-4a83-8403-f46e3278cb04",
+          "images": [],
+          "links": [
+            {
+              "target": "https://www.instagram.com/clyderivers/",
+              "type": "instagram"
+            },
+            {
+              "target": "https://twitter.com/iamclyderivers",
+              "type": "twitter"
+            },
+            {
+              "target": "https://www.facebook.com/clyderiversofficial",
+              "type": "facebook"
+            }
+          ],
+          "oldids": [],
+          "overview": "",
+          "rating": {
+            "Count": 0,
+            "Value": null
+          },
+          "sortname": "Clyde Rivers",
+          "status": "active",
+          "type": "Person"
+        }
+      ],
+      "disambiguation": "",
+      "genres": [
+        "Dance"
+      ],
+      "id": "43026c55-d753-495e-8188-28962fca469a",
+      "images": [
+        {
+          "CoverType": "Cover",
+          "Url": "https://imagecache.lidarr.audio/v1/caa/99339a38-e787-4ef9-b4c0-d5586b0c1a87/16103069841-1200.jpg"
+        }
+      ],
+      "links": [],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "releasedate": "2016-06-14",
+      "releases": [
+        {
+          "country": [],
+          "disambiguation": "",
+          "id": "99339a38-e787-4ef9-b4c0-d5586b0c1a87",
+          "label": [],
+          "media": [],
+          "oldids": [],
+          "releasedate": "2016-06-14",
+          "status": "Official",
+          "title": "Drone",
+          "track_count": 1,
+          "tracks": [
+            {
+              "artistid": "74a0d6ee-0606-4a83-8403-f46e3278cb04",
+              "durationms": 285000,
+              "id": "06b61682-c420-4d89-8a43-cf0c3915d083",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "2ebdf9fa-3f7f-4084-9d82-888f1177d069",
+              "trackname": "Drone",
+              "tracknumber": "1",
+              "trackposition": 1
+            }
+          ]
+        },
+        {
+          "country": [
+            "United States"
+          ],
+          "disambiguation": "The Orchard",
+          "id": "4f780671-e968-4c0e-a85d-5362329d9c22",
+          "label": [
+            "Saon Media, Inc."
+          ],
+          "media": [
+            {
+              "Format": "Digital Media",
+              "Name": "",
+              "Position": 1
+            }
+          ],
+          "oldids": [],
+          "releasedate": "2016-06-17",
+          "status": "Official",
+          "title": "Drone",
+          "track_count": 1,
+          "tracks": [
+            {
+              "artistid": "74a0d6ee-0606-4a83-8403-f46e3278cb04",
+              "durationms": 285036,
+              "id": "fab848bb-ccae-4e4a-aeb6-239588ee89b5",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "2ebdf9fa-3f7f-4084-9d82-888f1177d069",
+              "trackname": "Drone",
+              "tracknumber": "1",
+              "trackposition": 1
+            }
+          ]
+        }
+      ],
+      "secondarytypes": [],
+      "title": "Drone",
+      "type": "Single"
+    },
+    "artist": null,
+    "score": 84
+  }
+]

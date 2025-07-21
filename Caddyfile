@@ -1,0 +1,59 @@
+# Caddyfile for MusicBrainz Flat File Provider
+# Serves static files and provides search API
+
+http://caddy {
+    log {
+        output stdout
+        level  DEBUG
+    }
+
+    # Serve artist files
+    handle /api/v1/artist/* {
+        @artist_rewrite path_regexp ^/api/v1/artist/([0-9a-f]{2})([0-9a-f]{2})([0-9a-f\-]{32})$
+        rewrite @artist_rewrite /artist/{re.1}/{re.2}/{re.1}{re.2}{re.3}.json
+        root * /data/processed
+        file_server
+        header Content-Type application/json
+        header Cache-Control "public, max-age=3600"
+    }
+
+    # Serve album files
+    handle /api/v1/album/* {
+        @album_rewrite path_regexp ^/api/v1/album/([0-9a-f]{2})([0-9a-f]{2})([0-9a-f\-]{32})$
+        rewrite @album_rewrite /album/{re.1}/{re.2}/{re.1}{re.2}{re.3}.json
+        root * /data/processed
+        file_server
+        header Content-Type application/json
+        header Cache-Control "public, max-age=3600"
+    }
+
+    # Search API (reverse proxy to FastAPI)
+    handle /api/v1/search* {
+        rewrite * /search/artists?q={http.request.uri.query.query}
+        reverse_proxy search-service:8001 {
+            transport http {
+                dial_timeout 5s
+            }
+        }
+    }
+
+    # Health check
+    handle /health {
+        respond "OK" 200
+    }
+
+    # API documentation
+    handle /docs* {
+        reverse_proxy search-service:8001
+    }
+
+    # Disable directory listings
+    file_server {
+        hide 404.html
+    }
+
+    # Error handling
+    handle_errors {
+        respond "Not Found" 404
+    }
+}

@@ -1,0 +1,300 @@
+[
+  {
+    "artist": {
+      "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+      "artistName": "Radiohead",
+      "sortName": "Radiohead",
+      "disambiguation": "",
+      "type": "Group",
+      "status": null,
+      "genres": [
+        "Alternative Rock",
+        "Art Rock",
+        "Rock",
+        "British",
+        "Experimental Rock",
+        "Electronic",
+        "Indie Rock",
+        "Art Pop",
+        "Electronica",
+        "Alternative",
+        "Alternative Rock Music",
+        "Post-Britpop",
+        "Progressive Rock Music",
+        "Idm",
+        "Uk",
+        "Britpop",
+        "Post-Grunge",
+        "English",
+        "Chamber Pop",
+        "Indietronica",
+        "Oxford",
+        "Crossover Prog",
+        "Britrock",
+        "Electronic Rock",
+        "Ambient Pop",
+        "Trap Edm",
+        "Post-Rock",
+        "Grunge",
+        "Britannique",
+        "Parlophone",
+        "Melancholic",
+        "Bootleg",
+        "Rock And Indie",
+        "Nude",
+        "Lolicore",
+        "New Grave",
+        "England",
+        "C’Était Mieux Avant",
+        "Sacred Cows",
+        "1992-1998"
+      ],
+      "overview": "",
+      "images": [],
+      "rating": {
+        "count": 0,
+        "value": null
+      },
+      "links": [],
+      "albums": [],
+      "artistAliases": [],
+      "oldids": []
+    },
+    "album": null,
+    "score": 100
+  },
+  {
+    "artist": {
+      "id": "c74f4726-2671-4011-81b6-f70da905c05a",
+      "artistName": "On a Friday",
+      "sortName": "On a Friday",
+      "disambiguation": "pre‐Radiohead group, until 1991",
+      "type": "Group",
+      "status": null,
+      "genres": [
+        "Indie Pop",
+        "Uk",
+        "Oxford",
+        "United Kingdom",
+        "Successor"
+      ],
+      "overview": "",
+      "images": [],
+      "rating": {
+        "count": 0,
+        "value": null
+      },
+      "links": [],
+      "albums": [],
+      "artistAliases": [],
+      "oldids": []
+    },
+    "album": null,
+    "score": 64
+  },
+  {
+    "artist": {
+      "id": "3ecaa799-94ae-45cd-9ad1-bcabae4073e1",
+      "artistName": "radiohead 3",
+      "sortName": "radiohead 3",
+      "disambiguation": "Capsmusic LTD. artist",
+      "type": null,
+      "status": null,
+      "genres": [],
+      "overview": "",
+      "images": [],
+      "rating": {
+        "count": 0,
+        "value": null
+      },
+      "links": [],
+      "albums": [],
+      "artistAliases": [],
+      "oldids": []
+    },
+    "album": null,
+    "score": 63
+  },
+  {
+    "artist": {
+      "id": "b21ab3cc-88ed-4d2b-bd01-6edb83c37900",
+      "artistName": "Fake Plastic Radiohead",
+      "sortName": "Fake Plastic Radiohead",
+      "disambiguation": "",
+      "type": "Group",
+      "status": null,
+      "genres": [],
+      "overview": "",
+      "images": [],
+      "rating": {
+        "count": 0,
+        "value": null
+      },
+      "links": [],
+      "albums": [],
+      "artistAliases": [],
+      "oldids": []
+    },
+    "album": null,
+    "score": 56
+  },
+  {
+    "artist": {
+      "id": "e48fc8b3-e8ab-4dd4-9dc8-6b0f06ef07d6",
+      "artistName": "Radiohead Cover Brasil",
+      "sortName": "Radiohead Cover Brasil",
+      "disambiguation": "",
+      "type": null,
+      "status": null,
+      "genres": [],
+      "overview": "",
+      "images": [],
+      "rating": {
+        "count": 0,
+        "value": null
+      },
+      "links": [],
+      "albums": [],
+      "artistAliases": [],
+      "oldids": []
+    },
+    "album": null,
+    "score": 56
+  },
+  {
+    "artist": {
+      "id": "1545e981-65ca-4123-9223-ae8efd72cf54",
+      "artistName": "An Evening of Radiohead",
+      "sortName": "Evening of Radiohead, An",
+      "disambiguation": "Radiohead cover band",
+      "type": "Group",
+      "status": null,
+      "genres": [],
+      "overview": "",
+      "images": [],
+      "rating": {
+        "count": 0,
+        "value": null
+      },
+      "links": [],
+      "albums": [],
+      "artistAliases": [],
+      "oldids": []
+    },
+    "album": null,
+    "score": 52
+  },
+  {
+    "artist": {
+      "id": "9055fca5-69bc-4d47-b569-ab2012a19565",
+      "artistName": "The Smile",
+      "sortName": "Smile, The",
+      "disambiguation": "side group of Radiohead",
+      "type": "Group",
+      "status": null,
+      "genres": [
+        "Art Rock",
+        "Alternative Rock",
+        "Post-Punk",
+        "Post-Rock",
+        "English",
+        "Electronic",
+        "Psychedelic Folk",
+        "Indie Rock"
+      ],
+      "overview": "",
+      "images": [],
+      "rating": {
+        "count": 0,
+        "value": null
+      },
+      "links": [],
+      "albums": [],
+      "artistAliases": [],
+      "oldids": []
+    },
+    "album": null,
+    "score": 48
+  },
+  {
+    "artist": {
+      "id": "4ab74d13-d1eb-4895-b874-6da5d8b1aac3",
+      "artistName": "Philip Selway",
+      "sortName": "Selway, Philip",
+      "disambiguation": "drummer in Radiohead",
+      "type": "Person",
+      "status": null,
+      "genres": [
+        "Rock",
+        "Post-Rock",
+        "British",
+        "Singer-Songwriter",
+        "Uk",
+        "Contemporary Folk",
+        "English",
+        "Art Pop",
+        "Alternative Rock",
+        "Indie Rock",
+        "Indie Folk"
+      ],
+      "overview": "",
+      "images": [],
+      "rating": {
+        "count": 0,
+        "value": null
+      },
+      "links": [],
+      "albums": [],
+      "artistAliases": [],
+      "oldids": []
+    },
+    "album": null,
+    "score": 45
+  },
+  {
+    "artist": {
+      "id": "827df643-4099-40e3-9ba1-8aebbf351cc1",
+      "artistName": "Plank",
+      "sortName": "Plank",
+      "disambiguation": "Radiohead’s technician",
+      "type": "Person",
+      "status": null,
+      "genres": [],
+      "overview": "",
+      "images": [],
+      "rating": {
+        "count": 0,
+        "value": null
+      },
+      "links": [],
+      "albums": [],
+      "artistAliases": [],
+      "oldids": []
+    },
+    "album": null,
+    "score": 42
+  },
+  {
+    "artist": {
+      "id": "3093e58d-57ce-4757-9919-bfa603ab9a64",
+      "artistName": "Paranoid",
+      "sortName": "Paranoid",
+      "disambiguation": "Radiohead tribute band",
+      "type": null,
+      "status": null,
+      "genres": [],
+      "overview": "",
+      "images": [],
+      "rating": {
+        "count": 0,
+        "value": null
+      },
+      "links": [],
+      "albums": [],
+      "artistAliases": [],
+      "oldids": []
+    },
+    "album": null,
+    "score": 40
+  }
+]

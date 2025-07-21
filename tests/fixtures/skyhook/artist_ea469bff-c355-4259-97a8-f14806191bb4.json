@@ -1,0 +1,189 @@
+{
+  "Albums": [
+    {
+      "Id": "e8119a7c-5710-4bbc-9313-8a2f5700c843",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "In Praise of More",
+      "Type": "Album"
+    },
+    {
+      "Id": "f21d3b1e-8c27-38f5-b919-1738ae198015",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Folly",
+      "Type": "Album"
+    },
+    {
+      "Id": "f0bb0b89-f652-3e77-987b-624fd0819294",
+      "OldIds": [
+        "be9d95a5-2fb4-3a2d-ae45-90bf10031828"
+      ],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Forgiveness",
+      "Type": "Single"
+    },
+    {
+      "Id": "a0e64bc1-ab48-37f6-9f0d-6c3117bd80bf",
+      "OldIds": [
+        "7d526ace-a995-3358-9d43-2628e27f5886",
+        "768f169b-27cf-3972-abd2-11e135482e5d"
+      ],
+      "ReleaseStatuses": [
+        "Official",
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Home",
+      "Type": "Single"
+    },
+    {
+      "Id": "0449c3e2-4d9e-3eac-b6ec-b619c99b0930",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Come In Out of the Rain",
+      "Type": "Single"
+    },
+    {
+      "Id": "459f9b31-cbd1-401c-880b-7047dcd02f2b",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "To an Evergreen",
+      "Type": "EP"
+    },
+    {
+      "Id": "99fc0875-d67c-4468-b985-5add33ea6824",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Three Fact Fader",
+      "Type": "Album"
+    },
+    {
+      "Id": "f10cf587-f268-4869-a1cc-dc8159b549f1",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Clean Coloured Wire",
+      "Type": "Single"
+    },
+    {
+      "Id": "729dbc7d-9a80-357a-b61d-98f13424fce4",
+      "OldIds": [
+        "486ab2fd-bb17-4d2c-ad94-57731feaed49"
+      ],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Engineers",
+      "Type": "Album"
+    },
+    {
+      "Id": "27f6d5cf-ca1f-4162-9c68-bc8194af7620",
+      "OldIds": [
+        "c5246b19-4319-4a71-a19f-f09705225338"
+      ],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Always Returning",
+      "Type": "Album"
+    },
+    {
+      "Id": "729a6ef8-ab80-4a49-b2c4-03ce34612e30",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Pictobug",
+      "Type": "Album"
+    }
+  ],
+  "artistaliases": [],
+  "artistname": "Engineers",
+  "disambiguation": "",
+  "genres": [
+    "Indie Rock",
+    "Shoegaze",
+    "Dream Pop"
+  ],
+  "id": "ea469bff-c355-4259-97a8-f14806191bb4",
+  "images": [],
+  "links": [
+    {
+      "target": "https://www.bbc.co.uk/music/artists/ea469bff-c355-4259-97a8-f14806191bb4",
+      "type": "bbc"
+    },
+    {
+      "target": "https://www.discogs.com/artist/285158",
+      "type": "discogs"
+    },
+    {
+      "target": "https://www.wikidata.org/wiki/Q3725354",
+      "type": "wikidata"
+    },
+    {
+      "target": "https://www.facebook.com/engineersband",
+      "type": "facebook"
+    },
+    {
+      "target": "https://rateyourmusic.com/artist/engineers",
+      "type": "rateyourmusic"
+    },
+    {
+      "target": "https://www.allmusic.com/artist/mn0000758092",
+      "type": "allmusic"
+    },
+    {
+      "target": "https://music.apple.com/us/artist/428018508",
+      "type": "apple"
+    },
+    {
+      "target": "https://engineers.bandcamp.com/",
+      "type": "bandcamp"
+    },
+    {
+      "target": "https://open.spotify.com/artist/3hY7jnks2m5g2JAUCw4avu",
+      "type": "spotify"
+    },
+    {
+      "target": "https://www.last.fm/music/Engineers",
+      "type": "last"
+    },
+    {
+      "target": "https://twitter.com/pageengineers",
+      "type": "twitter"
+    }
+  ],
+  "oldids": [],
+  "overview": "",
+  "rating": {
+    "Count": 0,
+    "Value": null
+  },
+  "sortname": "Engineers",
+  "status": "active",
+  "type": "Group"
+}

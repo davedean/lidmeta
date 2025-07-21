@@ -1,0 +1,4150 @@
+[
+  {
+    "album": null,
+    "artist": {
+      "artistaliases": [],
+      "artistname": "Engineers",
+      "disambiguation": "",
+      "genres": [
+        "Indie Rock",
+        "Shoegaze",
+        "Dream Pop"
+      ],
+      "id": "ea469bff-c355-4259-97a8-f14806191bb4",
+      "images": [],
+      "links": [
+        {
+          "target": "https://www.bbc.co.uk/music/artists/ea469bff-c355-4259-97a8-f14806191bb4",
+          "type": "bbc"
+        },
+        {
+          "target": "https://www.discogs.com/artist/285158",
+          "type": "discogs"
+        },
+        {
+          "target": "https://www.wikidata.org/wiki/Q3725354",
+          "type": "wikidata"
+        },
+        {
+          "target": "https://www.facebook.com/engineersband",
+          "type": "facebook"
+        },
+        {
+          "target": "https://rateyourmusic.com/artist/engineers",
+          "type": "rateyourmusic"
+        },
+        {
+          "target": "https://www.allmusic.com/artist/mn0000758092",
+          "type": "allmusic"
+        },
+        {
+          "target": "https://music.apple.com/us/artist/428018508",
+          "type": "apple"
+        },
+        {
+          "target": "https://engineers.bandcamp.com/",
+          "type": "bandcamp"
+        },
+        {
+          "target": "https://open.spotify.com/artist/3hY7jnks2m5g2JAUCw4avu",
+          "type": "spotify"
+        },
+        {
+          "target": "https://www.last.fm/music/Engineers",
+          "type": "last"
+        },
+        {
+          "target": "https://twitter.com/pageengineers",
+          "type": "twitter"
+        }
+      ],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "sortname": "Engineers",
+      "status": "active",
+      "type": "Group"
+    },
+    "score": 100
+  },
+  {
+    "album": {
+      "aliases": [],
+      "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+      "artists": [
+        {
+          "artistaliases": [],
+          "artistname": "Engineers",
+          "disambiguation": "",
+          "genres": [
+            "Indie Rock",
+            "Shoegaze",
+            "Dream Pop"
+          ],
+          "id": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "images": [],
+          "links": [
+            {
+              "target": "https://www.bbc.co.uk/music/artists/ea469bff-c355-4259-97a8-f14806191bb4",
+              "type": "bbc"
+            },
+            {
+              "target": "https://www.discogs.com/artist/285158",
+              "type": "discogs"
+            },
+            {
+              "target": "https://www.wikidata.org/wiki/Q3725354",
+              "type": "wikidata"
+            },
+            {
+              "target": "https://www.facebook.com/engineersband",
+              "type": "facebook"
+            },
+            {
+              "target": "https://rateyourmusic.com/artist/engineers",
+              "type": "rateyourmusic"
+            },
+            {
+              "target": "https://www.allmusic.com/artist/mn0000758092",
+              "type": "allmusic"
+            },
+            {
+              "target": "https://music.apple.com/us/artist/428018508",
+              "type": "apple"
+            },
+            {
+              "target": "https://engineers.bandcamp.com/",
+              "type": "bandcamp"
+            },
+            {
+              "target": "https://open.spotify.com/artist/3hY7jnks2m5g2JAUCw4avu",
+              "type": "spotify"
+            },
+            {
+              "target": "https://www.last.fm/music/Engineers",
+              "type": "last"
+            },
+            {
+              "target": "https://twitter.com/pageengineers",
+              "type": "twitter"
+            }
+          ],
+          "oldids": [],
+          "overview": "",
+          "rating": {
+            "Count": 0,
+            "Value": null
+          },
+          "sortname": "Engineers",
+          "status": "active",
+          "type": "Group"
+        }
+      ],
+      "disambiguation": "",
+      "genres": [
+        "Indie Rock",
+        "Rock",
+        "Shoegaze",
+        "Dream Pop"
+      ],
+      "id": "729dbc7d-9a80-357a-b61d-98f13424fce4",
+      "images": [
+        {
+          "CoverType": "Cover",
+          "Url": "https://imagecache.lidarr.audio/v1/caa/31b872ab-b128-47c5-a113-cea7d02a2f5d/4085042433-1200.jpg"
+        }
+      ],
+      "links": [
+        {
+          "target": "https://www.bbc.co.uk/music/reviews/5g3n",
+          "type": "bbc"
+        },
+        {
+          "target": "https://www.discogs.com/master/153125",
+          "type": "discogs"
+        },
+        {
+          "target": "https://www.wikidata.org/wiki/Q5377910",
+          "type": "wikidata"
+        },
+        {
+          "target": "https://www.allmusic.com/album/mw0000455530",
+          "type": "allmusic"
+        }
+      ],
+      "oldids": [
+        "486ab2fd-bb17-4d2c-ad94-57731feaed49"
+      ],
+      "overview": "",
+      "rating": {
+        "Count": 1,
+        "Value": 8.0
+      },
+      "releasedate": "2005-03-07",
+      "releases": [
+        {
+          "country": [
+            "United Kingdom"
+          ],
+          "disambiguation": "",
+          "id": "e858210d-9416-3acf-98b7-1a489006d0df",
+          "label": [
+            "Echo"
+          ],
+          "media": [
+            {
+              "Format": "12\" Vinyl",
+              "Name": "",
+              "Position": 1
+            }
+          ],
+          "oldids": [],
+          "releasedate": "2005-03-07",
+          "status": "Official",
+          "title": "Engineers",
+          "track_count": 11,
+          "tracks": [
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 247066,
+              "id": "12478c02-dac0-3697-ae9f-1c12cf9096e7",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "7f2d4c8b-d3ed-4c4d-ae16-a83ea38b35d3",
+                "08054a4c-591d-4a60-b958-7558f29d6787"
+              ],
+              "recordingid": "2707333e-b386-492c-9a99-09618e3aca21",
+              "trackname": "Home",
+              "tracknumber": "A1",
+              "trackposition": 1
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 321773,
+              "id": "05334d14-dd8e-3adc-93ad-a714c4eb2d9f",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "ee0b3597-3e42-449f-a481-6aad60f6ab80"
+              ],
+              "recordingid": "3ee6b8dc-639c-4012-be0b-08ac0beeb945",
+              "trackname": "Waved On",
+              "tracknumber": "A2",
+              "trackposition": 2
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 294133,
+              "id": "4bcd3eaf-df47-3392-b568-a2ccb0c4c4d0",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "321ec5ba-267a-47ef-8ec8-60713b57bedc"
+              ],
+              "recordingid": "e4f85318-ac1f-4092-9b78-da9f0e8abbfe",
+              "trackname": "New Horizons",
+              "tracknumber": "A3",
+              "trackposition": 3
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 219160,
+              "id": "ae290a5c-034f-3c88-8c03-8bfa2d7d2c4d",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "89698a3a-2b00-4992-b071-b2575f0045a2",
+                "bfb03c9c-b3c4-459e-b3ba-536f8c280896",
+                "f6841506-f7c7-4238-941f-badba762fccf",
+                "b1b94441-3590-452c-802a-c1a1c69ef569"
+              ],
+              "recordingid": "2d90d4fc-9e42-4866-b76e-fc244bfd8d65",
+              "trackname": "Forgiveness",
+              "tracknumber": "B1",
+              "trackposition": 4
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 261306,
+              "id": "4f2a9eff-c6e4-3ac2-b71f-6c78a74dbafe",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "feaed8d8-a689-461e-bba4-418bdf14b794"
+              ],
+              "recordingid": "236487b7-7d39-4565-97e8-ffe33c38c8b0",
+              "trackname": "Let's Just See",
+              "tracknumber": "B2",
+              "trackposition": 5
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 244200,
+              "id": "324adf96-1a4f-3c06-b708-8e0f81bc70a3",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "edd16e65-d72f-4fb3-95e1-cbc1e1f7469f",
+                "d3cc4593-2b9d-4851-a429-3960cfa4746c",
+                "0cdc76d7-a410-4533-b246-585f369d11ff"
+              ],
+              "recordingid": "7b4aac45-828f-4336-8501-8298d2a9eb28",
+              "trackname": "Come in Out of the Rain",
+              "tracknumber": "B3",
+              "trackposition": 6
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 82960,
+              "id": "c11277e7-8c3a-33bc-843d-bce042ccfcb4",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "567a2f9d-b8bc-447e-a636-1045c75889f6"
+              ],
+              "recordingid": "e75e5d0d-03b6-491e-9e85-70cf88b17e30",
+              "trackname": "Peter Street",
+              "tracknumber": "C1",
+              "trackposition": 7
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 289506,
+              "id": "375bf792-2eaf-39ac-92c8-e88613239eda",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "2a82e508-4a9a-4783-937c-14db405362a0"
+              ],
+              "recordingid": "611b5b36-91ac-4052-93de-a9a4457cfebd",
+              "trackname": "Said and Done",
+              "tracknumber": "C2",
+              "trackposition": 8
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 232160,
+              "id": "8175eb06-7876-3aca-9c63-84db59f04409",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "a1e6419b-9b3c-4d86-a7de-a3c3f8b4becb"
+              ],
+              "recordingid": "8263cf1a-c1c5-4542-ab70-9282350fe475",
+              "trackname": "Thrasher",
+              "tracknumber": "C3",
+              "trackposition": 9
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 319400,
+              "id": "396e9944-cb8f-3232-9bf6-df66a017511d",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "99692174-efc7-406a-bf13-483ccb15e06c",
+                "8bdaa2b8-33c9-484b-b472-0536e4e7e9d8"
+              ],
+              "recordingid": "2568f722-ca2f-4245-919b-80aa3ea08dc6",
+              "trackname": "How Do You Say Goodbye?",
+              "tracknumber": "D1",
+              "trackposition": 10
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 463334,
+              "id": "e147fe15-08da-3da7-b953-1d0f06309c66",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "344b27a3-f934-401e-b5b3-c932fb1979f6",
+              "trackname": "One in Seven",
+              "tracknumber": "D2",
+              "trackposition": 11
+            }
+          ]
+        },
+        {
+          "country": [
+            "United Kingdom"
+          ],
+          "disambiguation": "",
+          "id": "31b872ab-b128-47c5-a113-cea7d02a2f5d",
+          "label": [
+            "Echo"
+          ],
+          "media": [
+            {
+              "Format": "CD",
+              "Name": "",
+              "Position": 1
+            }
+          ],
+          "oldids": [],
+          "releasedate": "2005-03-07",
+          "status": "Official",
+          "title": "Engineers",
+          "track_count": 11,
+          "tracks": [
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 247066,
+              "id": "883fa0af-75ad-3700-8d55-5947197d3199",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "7f2d4c8b-d3ed-4c4d-ae16-a83ea38b35d3",
+                "08054a4c-591d-4a60-b958-7558f29d6787"
+              ],
+              "recordingid": "2707333e-b386-492c-9a99-09618e3aca21",
+              "trackname": "Home",
+              "tracknumber": "1",
+              "trackposition": 1
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 321773,
+              "id": "2322225a-a02b-3aab-8bb8-a8446accaef2",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "ee0b3597-3e42-449f-a481-6aad60f6ab80"
+              ],
+              "recordingid": "3ee6b8dc-639c-4012-be0b-08ac0beeb945",
+              "trackname": "Waved On",
+              "tracknumber": "2",
+              "trackposition": 2
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 294133,
+              "id": "9b0126c3-2c1a-3229-82d5-65b524f6827c",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "321ec5ba-267a-47ef-8ec8-60713b57bedc"
+              ],
+              "recordingid": "e4f85318-ac1f-4092-9b78-da9f0e8abbfe",
+              "trackname": "New Horizons",
+              "tracknumber": "3",
+              "trackposition": 3
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 219160,
+              "id": "8fde9c08-27c7-3fba-b975-efede1867394",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "89698a3a-2b00-4992-b071-b2575f0045a2",
+                "bfb03c9c-b3c4-459e-b3ba-536f8c280896",
+                "f6841506-f7c7-4238-941f-badba762fccf",
+                "b1b94441-3590-452c-802a-c1a1c69ef569"
+              ],
+              "recordingid": "2d90d4fc-9e42-4866-b76e-fc244bfd8d65",
+              "trackname": "Forgiveness",
+              "tracknumber": "4",
+              "trackposition": 4
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 261306,
+              "id": "ea5041b0-53bf-3556-8a68-3fdec7a9e365",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "feaed8d8-a689-461e-bba4-418bdf14b794"
+              ],
+              "recordingid": "236487b7-7d39-4565-97e8-ffe33c38c8b0",
+              "trackname": "Let's Just See",
+              "tracknumber": "5",
+              "trackposition": 5
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 244200,
+              "id": "370cd10b-fde2-3575-8563-066220ae582a",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "edd16e65-d72f-4fb3-95e1-cbc1e1f7469f",
+                "d3cc4593-2b9d-4851-a429-3960cfa4746c",
+                "0cdc76d7-a410-4533-b246-585f369d11ff"
+              ],
+              "recordingid": "7b4aac45-828f-4336-8501-8298d2a9eb28",
+              "trackname": "Come in Out of the Rain",
+              "tracknumber": "6",
+              "trackposition": 6
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 82960,
+              "id": "8cbc2a16-82e2-3369-960d-3ae890491804",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "567a2f9d-b8bc-447e-a636-1045c75889f6"
+              ],
+              "recordingid": "e75e5d0d-03b6-491e-9e85-70cf88b17e30",
+              "trackname": "Peter Street",
+              "tracknumber": "7",
+              "trackposition": 7
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 289506,
+              "id": "42b33561-5bf8-35d6-95b5-5d43af61ffde",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "2a82e508-4a9a-4783-937c-14db405362a0"
+              ],
+              "recordingid": "611b5b36-91ac-4052-93de-a9a4457cfebd",
+              "trackname": "Said and Done",
+              "tracknumber": "8",
+              "trackposition": 8
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 232160,
+              "id": "46f0dbe0-dd4f-36f0-aa5f-dd85d50fd662",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "a1e6419b-9b3c-4d86-a7de-a3c3f8b4becb"
+              ],
+              "recordingid": "8263cf1a-c1c5-4542-ab70-9282350fe475",
+              "trackname": "Thrasher",
+              "tracknumber": "9",
+              "trackposition": 9
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 319400,
+              "id": "a0640ff7-d690-3b14-96a1-fc3f479dfa38",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "99692174-efc7-406a-bf13-483ccb15e06c",
+                "8bdaa2b8-33c9-484b-b472-0536e4e7e9d8"
+              ],
+              "recordingid": "2568f722-ca2f-4245-919b-80aa3ea08dc6",
+              "trackname": "How Do You Say Goodbye?",
+              "tracknumber": "10",
+              "trackposition": 10
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 463334,
+              "id": "11e52785-da1f-3982-bbeb-8ae08b6e82d1",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "344b27a3-f934-401e-b5b3-c932fb1979f6",
+              "trackname": "One in Seven",
+              "tracknumber": "11",
+              "trackposition": 11
+            }
+          ]
+        },
+        {
+          "country": [
+            "Philippines"
+          ],
+          "disambiguation": "",
+          "id": "0a8b5ef0-bb45-4a4f-9d43-0dd6da0abf32",
+          "label": [
+            "Echo"
+          ],
+          "media": [
+            {
+              "Format": "CD",
+              "Name": "",
+              "Position": 1
+            }
+          ],
+          "oldids": [],
+          "releasedate": "2005-03-07",
+          "status": "Official",
+          "title": "Engineers",
+          "track_count": 13,
+          "tracks": [
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 247000,
+              "id": "ffe08b48-932d-4739-ad69-205f8e9a1e92",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "7f2d4c8b-d3ed-4c4d-ae16-a83ea38b35d3",
+                "08054a4c-591d-4a60-b958-7558f29d6787"
+              ],
+              "recordingid": "2707333e-b386-492c-9a99-09618e3aca21",
+              "trackname": "Home",
+              "tracknumber": "1",
+              "trackposition": 1
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 322000,
+              "id": "aa42bdff-1258-494b-8109-d894625ac7bf",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "ee0b3597-3e42-449f-a481-6aad60f6ab80"
+              ],
+              "recordingid": "3ee6b8dc-639c-4012-be0b-08ac0beeb945",
+              "trackname": "Waved On",
+              "tracknumber": "2",
+              "trackposition": 2
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 294000,
+              "id": "dcfa9804-0e79-417d-b72c-3fbf385522b4",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "321ec5ba-267a-47ef-8ec8-60713b57bedc"
+              ],
+              "recordingid": "e4f85318-ac1f-4092-9b78-da9f0e8abbfe",
+              "trackname": "New Horizons",
+              "tracknumber": "3",
+              "trackposition": 3
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 220000,
+              "id": "857fed3a-07d6-4ec6-93d7-eff679b882bc",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "89698a3a-2b00-4992-b071-b2575f0045a2",
+                "bfb03c9c-b3c4-459e-b3ba-536f8c280896",
+                "f6841506-f7c7-4238-941f-badba762fccf",
+                "b1b94441-3590-452c-802a-c1a1c69ef569"
+              ],
+              "recordingid": "2d90d4fc-9e42-4866-b76e-fc244bfd8d65",
+              "trackname": "Forgiveness",
+              "tracknumber": "4",
+              "trackposition": 4
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 261000,
+              "id": "813872e3-eca2-4b23-9bc6-949f4f9cefe2",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "feaed8d8-a689-461e-bba4-418bdf14b794"
+              ],
+              "recordingid": "236487b7-7d39-4565-97e8-ffe33c38c8b0",
+              "trackname": "Let's Just See",
+              "tracknumber": "5",
+              "trackposition": 5
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 244000,
+              "id": "57dbcd84-3c94-45af-ad15-c5b0e32f8a90",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "edd16e65-d72f-4fb3-95e1-cbc1e1f7469f",
+                "d3cc4593-2b9d-4851-a429-3960cfa4746c",
+                "0cdc76d7-a410-4533-b246-585f369d11ff"
+              ],
+              "recordingid": "7b4aac45-828f-4336-8501-8298d2a9eb28",
+              "trackname": "Come in Out of the Rain",
+              "tracknumber": "6",
+              "trackposition": 6
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 83000,
+              "id": "a7f58759-a351-44e2-9811-6414ca909afc",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "567a2f9d-b8bc-447e-a636-1045c75889f6"
+              ],
+              "recordingid": "e75e5d0d-03b6-491e-9e85-70cf88b17e30",
+              "trackname": "Peter Street",
+              "tracknumber": "7",
+              "trackposition": 7
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 289000,
+              "id": "9d6dd768-cd17-422c-b3b4-4ab04c68b717",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "2a82e508-4a9a-4783-937c-14db405362a0"
+              ],
+              "recordingid": "611b5b36-91ac-4052-93de-a9a4457cfebd",
+              "trackname": "Said and Done",
+              "tracknumber": "8",
+              "trackposition": 8
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 232000,
+              "id": "c33bc568-08fe-418a-b460-5dc183cce572",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "a1e6419b-9b3c-4d86-a7de-a3c3f8b4becb"
+              ],
+              "recordingid": "8263cf1a-c1c5-4542-ab70-9282350fe475",
+              "trackname": "Thrasher",
+              "tracknumber": "9",
+              "trackposition": 9
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 319000,
+              "id": "2fa189a0-1d70-4d6c-96b3-59f2d8c60b12",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "99692174-efc7-406a-bf13-483ccb15e06c",
+                "8bdaa2b8-33c9-484b-b472-0536e4e7e9d8"
+              ],
+              "recordingid": "2568f722-ca2f-4245-919b-80aa3ea08dc6",
+              "trackname": "How Do You Say Goodbye?",
+              "tracknumber": "10",
+              "trackposition": 10
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 479000,
+              "id": "9e061977-85cc-42b3-8d5d-a7c58a883cd2",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "2c00fbca-035b-4e7c-ab49-c9ca74dd4491",
+              "trackname": "One in Seven",
+              "tracknumber": "11",
+              "trackposition": 11
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 289000,
+              "id": "bcaed4b4-ed3e-4081-822b-7cc287075744",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "54c8a448-a3ac-4e9e-ab30-56a30d905d27",
+              "trackname": "Stake to Glory",
+              "tracknumber": "12",
+              "trackposition": 12
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 246000,
+              "id": "180420ae-154f-4d06-ab0c-d89728ca5497",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "c42e5d02-aca8-4c83-af7a-310c713b196f",
+              "trackname": "Cats of Justice",
+              "tracknumber": "13",
+              "trackposition": 13
+            }
+          ]
+        },
+        {
+          "country": [
+            "United States"
+          ],
+          "disambiguation": "",
+          "id": "14c62be5-1d03-4eeb-9e92-4f4053d3cf0d",
+          "label": [
+            "Echo"
+          ],
+          "media": [
+            {
+              "Format": "Digital Media",
+              "Name": "",
+              "Position": 1
+            }
+          ],
+          "oldids": [],
+          "releasedate": "2005-03-07",
+          "status": "Official",
+          "title": "Engineers",
+          "track_count": 11,
+          "tracks": [
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 247000,
+              "id": "1074cc21-9c6a-436b-b591-ba8bcc8ffda0",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "7c5c7aae-f7ce-45ad-948f-045ecdf24c38",
+              "trackname": "Home",
+              "tracknumber": "1",
+              "trackposition": 1
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 321000,
+              "id": "82b55e69-cf1a-4b23-80e7-7666506888dd",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "c78b83ee-3949-4908-896d-93aaead143bd",
+              "trackname": "Waved On",
+              "tracknumber": "2",
+              "trackposition": 2
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 294000,
+              "id": "2e6d9ead-1217-41c6-87a6-4f106caff9b0",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "5bb14f6c-ec60-4756-b9c3-1780eed0a9fe",
+              "trackname": "New Horizons",
+              "tracknumber": "3",
+              "trackposition": 3
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 219000,
+              "id": "5fd9ca39-945a-4432-871e-2a50281c6280",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "607b6ad9-4b15-4363-a9fa-a3740324ff84",
+              "trackname": "Forgiveness",
+              "tracknumber": "4",
+              "trackposition": 4
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 261000,
+              "id": "668f0573-6928-4527-86f7-49f00bb4ea8a",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "bc5b54bd-7c88-4ec6-b6db-df89b1b4d0f2",
+              "trackname": "Let's Just See",
+              "tracknumber": "5",
+              "trackposition": 5
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 244000,
+              "id": "1d3992f4-1968-455f-9aa2-939697cf9506",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "4425aa0d-bcf3-452f-a0fb-235edb6fd824",
+              "trackname": "Come in Out of the Rain",
+              "tracknumber": "6",
+              "trackposition": 6
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 82000,
+              "id": "df5fffc6-391d-449e-a9db-0e2521339dda",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "f6dbdcf6-5f39-41f0-9470-c5690f912f7b",
+              "trackname": "Peter Street",
+              "tracknumber": "7",
+              "trackposition": 7
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 289000,
+              "id": "a608bb9e-96c8-4699-90d2-89d304c0a3e0",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "c2d9b489-b71a-4891-aef9-b563c0dc522a",
+              "trackname": "Said and Done",
+              "tracknumber": "8",
+              "trackposition": 8
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 232000,
+              "id": "70890459-f779-4f5e-a1ef-2244ff9f2dc9",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "9f7187ae-3294-405d-a7fe-33cf1ed8fbec",
+              "trackname": "Thrasher",
+              "tracknumber": "9",
+              "trackposition": 9
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 319000,
+              "id": "95e25959-0681-4e8f-a1be-e8484e1ff3d5",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "fb34d05f-ab1e-4069-8d33-2725caa24197",
+              "trackname": "How Do You Say Goodbye?",
+              "tracknumber": "10",
+              "trackposition": 10
+            },
+            {
+              "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+              "durationms": 463000,
+              "id": "b620256a-e059-4621-94ed-1925d1110353",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "1d256bba-37ab-4b8a-a6e4-96e403d6cd4c",
+              "trackname": "One in Seven",
+              "tracknumber": "11",
+              "trackposition": 11
+            }
+          ]
+        }
+      ],
+      "secondarytypes": [],
+      "title": "Engineers",
+      "type": "Album"
+    },
+    "artist": null,
+    "score": 100
+  },
+  {
+    "album": {
+      "aliases": [],
+      "artistid": "358dacb7-41a8-4e3a-b2ea-57879657aba3",
+      "artists": [
+        {
+          "artistaliases": [],
+          "artistname": "White Star Bulb Company",
+          "disambiguation": "",
+          "genres": [],
+          "id": "358dacb7-41a8-4e3a-b2ea-57879657aba3",
+          "images": [],
+          "links": [
+            {
+              "target": "https://www.whitestarbulbcompany.com/",
+              "type": "whitestarbulbcompany"
+            },
+            {
+              "target": "https://www.facebook.com/White-Star-Bulb-Company-149055656974",
+              "type": "facebook"
+            },
+            {
+              "target": "https://twitter.com/whitestarbulbco",
+              "type": "twitter"
+            },
+            {
+              "target": "https://soundcloud.com/whitestarbulbcompany",
+              "type": "soundcloud"
+            }
+          ],
+          "oldids": [],
+          "overview": "",
+          "rating": {
+            "Count": 0,
+            "Value": null
+          },
+          "sortname": "White Star Bulb Company",
+          "status": "active",
+          "type": "Person"
+        }
+      ],
+      "disambiguation": "",
+      "genres": [],
+      "id": "bfd1559c-e94e-469c-b2aa-da430e5ec36a",
+      "images": [
+        {
+          "CoverType": "Cover",
+          "Url": "https://imagecache.lidarr.audio/v1/caa/da9d46dd-1953-4ea8-8447-84555320f908/17154101609-1200.jpg"
+        }
+      ],
+      "links": [],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "releasedate": "2017-06-19",
+      "releases": [
+        {
+          "country": [
+            "Germany"
+          ],
+          "disambiguation": "",
+          "id": "da9d46dd-1953-4ea8-8447-84555320f908",
+          "label": [
+            "Product Records"
+          ],
+          "media": [
+            {
+              "Format": "Digital Media",
+              "Name": "",
+              "Position": 1
+            }
+          ],
+          "oldids": [],
+          "releasedate": "2017-06-19",
+          "status": "Official",
+          "title": "Engineers",
+          "track_count": 10,
+          "tracks": [
+            {
+              "artistid": "358dacb7-41a8-4e3a-b2ea-57879657aba3",
+              "durationms": 163000,
+              "id": "c505f31c-8902-4b6a-a431-6a6101107ee6",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "c1bc394f-1381-4845-97db-69f55aed5572",
+              "trackname": "Cherry Picker (The Bmx Song)",
+              "tracknumber": "1",
+              "trackposition": 1
+            },
+            {
+              "artistid": "358dacb7-41a8-4e3a-b2ea-57879657aba3",
+              "durationms": 187000,
+              "id": "455c5508-a4be-41ba-9804-586c2ef1e79e",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "4b77593d-7bb6-4595-8da2-3a51ebcb08d2",
+              "trackname": "The Rose and the Wrecking Ball",
+              "tracknumber": "2",
+              "trackposition": 2
+            },
+            {
+              "artistid": "358dacb7-41a8-4e3a-b2ea-57879657aba3",
+              "durationms": 201000,
+              "id": "4149ba2a-089d-4d14-bd1e-c2e7ac60f472",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "0926a1d3-918c-404c-bed9-7ccf22a6259f",
+              "trackname": "A Little Bit of Hope",
+              "tracknumber": "3",
+              "trackposition": 3
+            },
+            {
+              "artistid": "358dacb7-41a8-4e3a-b2ea-57879657aba3",
+              "durationms": 189000,
+              "id": "766bea2a-8380-4694-b1ca-247f84f052f3",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "0b736a27-6acb-4b48-8d88-22515fb25e2f",
+              "trackname": "Switched",
+              "tracknumber": "4",
+              "trackposition": 4
+            },
+            {
+              "artistid": "358dacb7-41a8-4e3a-b2ea-57879657aba3",
+              "durationms": 146000,
+              "id": "d2917c39-a643-46cc-8205-0eec97d086ac",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "e614d17e-5269-4946-83e5-a6eac4a2755b",
+              "trackname": "Wearing the Blues",
+              "tracknumber": "5",
+              "trackposition": 5
+            },
+            {
+              "artistid": "358dacb7-41a8-4e3a-b2ea-57879657aba3",
+              "durationms": 142000,
+              "id": "d4508d34-8ed8-45cb-9da3-ebd0c1626c1c",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "9a23d041-4643-415c-953d-15412d0751d1",
+              "trackname": "The Whistling Song",
+              "tracknumber": "6",
+              "trackposition": 6
+            },
+            {
+              "artistid": "358dacb7-41a8-4e3a-b2ea-57879657aba3",
+              "durationms": 156000,
+              "id": "92859302-d8f8-4051-b943-b7fed5b8e809",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "81be58d1-b593-4edf-9e56-04489663b2c7",
+              "trackname": "Old Son",
+              "tracknumber": "7",
+              "trackposition": 7
+            },
+            {
+              "artistid": "358dacb7-41a8-4e3a-b2ea-57879657aba3",
+              "durationms": 157000,
+              "id": "ca500fef-2360-4d6b-bed9-60eb93ff3306",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "d108b1a2-6f22-47e4-909b-b6f35fd2fe12",
+              "trackname": "Hold On",
+              "tracknumber": "8",
+              "trackposition": 8
+            },
+            {
+              "artistid": "358dacb7-41a8-4e3a-b2ea-57879657aba3",
+              "durationms": 197000,
+              "id": "61da0e39-4f1b-4719-bbf4-51ac213902c7",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "0ce363dd-0c20-419c-a0f0-5b2f90b3af4b",
+              "trackname": "Marxophonia",
+              "tracknumber": "9",
+              "trackposition": 9
+            },
+            {
+              "artistid": "358dacb7-41a8-4e3a-b2ea-57879657aba3",
+              "durationms": 188000,
+              "id": "fca1d7d9-5f72-4a40-9cd8-8427f85960de",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "5dcbd503-27ba-46b2-92c1-cccdf11c393d",
+              "trackname": "Down the Line",
+              "tracknumber": "10",
+              "trackposition": 10
+            }
+          ]
+        }
+      ],
+      "secondarytypes": [],
+      "title": "Engineers",
+      "type": "Album"
+    },
+    "artist": null,
+    "score": 100
+  },
+  {
+    "album": {
+      "aliases": [],
+      "artistid": "b56f1049-4017-4ebd-acb1-ddeba671789c",
+      "artists": [
+        {
+          "artistaliases": [],
+          "artistname": "Bring Prudence",
+          "disambiguation": "",
+          "genres": [
+            "Electronic",
+            "Folk",
+            "Pop",
+            "Singer-Songwriter"
+          ],
+          "id": "b56f1049-4017-4ebd-acb1-ddeba671789c",
+          "images": [],
+          "links": [
+            {
+              "target": "http://bringprudence.com/",
+              "type": "bringprudence"
+            },
+            {
+              "target": "https://www.facebook.com/bringprudence",
+              "type": "facebook"
+            },
+            {
+              "target": "https://twitter.com/BringPrudence",
+              "type": "twitter"
+            },
+            {
+              "target": "https://soundcloud.com/bringprudence",
+              "type": "soundcloud"
+            }
+          ],
+          "oldids": [],
+          "overview": "",
+          "rating": {
+            "Count": 0,
+            "Value": null
+          },
+          "sortname": "Bring Prudence",
+          "status": "active",
+          "type": "Person"
+        }
+      ],
+      "disambiguation": "",
+      "genres": [],
+      "id": "3e0b2996-f01e-40b7-abbd-6353185a8340",
+      "images": [],
+      "links": [],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "releasedate": "2010-12-06",
+      "releases": [
+        {
+          "country": [
+            "United States"
+          ],
+          "disambiguation": "",
+          "id": "0d079497-babf-448c-a483-bc052ee0659d",
+          "label": [],
+          "media": [
+            {
+              "Format": "Digital Media",
+              "Name": "",
+              "Position": 1
+            }
+          ],
+          "oldids": [],
+          "releasedate": "2010-12-06",
+          "status": "Official",
+          "title": "Engineers",
+          "track_count": 9,
+          "tracks": [
+            {
+              "artistid": "b56f1049-4017-4ebd-acb1-ddeba671789c",
+              "durationms": 215000,
+              "id": "686d1f63-7f98-3d76-ba9a-dcb4fbe02b99",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "6c87b909-a06f-46c7-adff-fb3ff8a2c014",
+              "trackname": "Circus",
+              "tracknumber": "1",
+              "trackposition": 1
+            },
+            {
+              "artistid": "b56f1049-4017-4ebd-acb1-ddeba671789c",
+              "durationms": 192000,
+              "id": "5eb35e60-2b17-3aa7-b072-7e58012dd014",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "4d561e34-7efe-478e-b8ef-cf3fd4efdaf4",
+              "trackname": "Dolph Lundgren",
+              "tracknumber": "2",
+              "trackposition": 2
+            },
+            {
+              "artistid": "b56f1049-4017-4ebd-acb1-ddeba671789c",
+              "durationms": 173000,
+              "id": "aaff224d-9e59-3963-a2a1-2b9b54a6e481",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "ffd1f167-72d7-4d08-afaf-c706bc9af160",
+              "trackname": "A Westminster Goodbye",
+              "tracknumber": "3",
+              "trackposition": 3
+            },
+            {
+              "artistid": "b56f1049-4017-4ebd-acb1-ddeba671789c",
+              "durationms": 232000,
+              "id": "72d7897d-8fd3-3e7b-bb9c-13038cd0302f",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "0a394938-1e29-4f85-810c-a01799b7f0ca",
+              "trackname": "Furniture",
+              "tracknumber": "4",
+              "trackposition": 4
+            },
+            {
+              "artistid": "b56f1049-4017-4ebd-acb1-ddeba671789c",
+              "durationms": 162000,
+              "id": "4442f6ae-5df8-34fc-89c5-488c9b3d5da7",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "cd06c2fb-20cb-4805-8d03-bec12a8f5806",
+              "trackname": "Engineers",
+              "tracknumber": "5",
+              "trackposition": 5
+            },
+            {
+              "artistid": "b56f1049-4017-4ebd-acb1-ddeba671789c",
+              "durationms": 104000,
+              "id": "c9c7c20d-313c-3478-9691-49a597cff133",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "01e48bf5-693c-4ed3-9503-b08f10cc55aa",
+              "trackname": "Wolf",
+              "tracknumber": "6",
+              "trackposition": 6
+            },
+            {
+              "artistid": "b56f1049-4017-4ebd-acb1-ddeba671789c",
+              "durationms": 236000,
+              "id": "8bbd9984-73ca-3787-b16d-c19f75f2b2b4",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "71c5042c-416a-4f00-a5f1-c60af2205088",
+              "trackname": "Lights",
+              "tracknumber": "7",
+              "trackposition": 7
+            },
+            {
+              "artistid": "b56f1049-4017-4ebd-acb1-ddeba671789c",
+              "durationms": 312000,
+              "id": "60770d81-7f8b-3989-90e9-f9e2d9275ecb",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "f62a35fd-eb39-4dcb-ab68-ce73e8583c1b",
+              "trackname": "Blush With Me",
+              "tracknumber": "8",
+              "trackposition": 8
+            },
+            {
+              "artistid": "b56f1049-4017-4ebd-acb1-ddeba671789c",
+              "durationms": 149000,
+              "id": "2f03620e-9c8a-35eb-bb7f-1aa6b55186b6",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "b361d150-9dc3-40e3-b7bf-d310c80ae76a",
+              "trackname": "There's a Home Now",
+              "tracknumber": "9",
+              "trackposition": 9
+            }
+          ]
+        }
+      ],
+      "secondarytypes": [],
+      "title": "Engineers",
+      "type": "Album"
+    },
+    "artist": null,
+    "score": 100
+  },
+  {
+    "album": {
+      "aliases": [],
+      "artistid": "6cb79cb2-9087-44d4-828b-5c6fdff2c957",
+      "artists": [
+        {
+          "artistaliases": [
+            "Gary Newman",
+            "Gary Numan -",
+            "G. Webb",
+            "Valeriun",
+            "Gary Numan"
+          ],
+          "artistname": "Gary Numan",
+          "disambiguation": "",
+          "genres": [
+            "Dance-Pop",
+            "Dark Ambient",
+            "Electro-Industrial",
+            "Electronic",
+            "Funk Rock",
+            "Glam Rock",
+            "Gothic Rock",
+            "Industrial",
+            "Industrial Rock",
+            "New Wave",
+            "Pop Rock",
+            "Post-Punk",
+            "Synth-Pop",
+            "Art Pop",
+            "Minimal Wave",
+            "Ambient Pop"
+          ],
+          "id": "6cb79cb2-9087-44d4-828b-5c6fdff2c957",
+          "images": [],
+          "links": [
+            {
+              "target": "http://www.numan.co.uk/",
+              "type": "numan"
+            },
+            {
+              "target": "http://discography.garynuman.info/",
+              "type": "garynuman"
+            },
+            {
+              "target": "https://www.discogs.com/artist/12588",
+              "type": "discogs"
+            },
+            {
+              "target": "http://www.afenet.com/",
+              "type": "afenet"
+            },
+            {
+              "target": "https://myspace.com/garynuman",
+              "type": "myspace"
+            },
+            {
+              "target": "http://www.garynumanfan.com/",
+              "type": "garynumanfan"
+            },
+            {
+              "target": "https://www.bbc.co.uk/music/artists/6cb79cb2-9087-44d4-828b-5c6fdff2c957",
+              "type": "bbc"
+            },
+            {
+              "target": "https://www.nureference.co.uk/",
+              "type": "nureference"
+            },
+            {
+              "target": "http://www.numandiscography.info/",
+              "type": "numandiscography"
+            },
+            {
+              "target": "http://garynumandiscography.info/",
+              "type": "garynumandiscography"
+            },
+            {
+              "target": "https://secondhandsongs.com/artist/2242",
+              "type": "secondhandsongs"
+            },
+            {
+              "target": "http://viaf.org/viaf/76502518",
+              "type": "viaf"
+            },
+            {
+              "target": "https://www.facebook.com/GaryNumanOfficial",
+              "type": "facebook"
+            },
+            {
+              "target": "https://twitter.com/numanofficial",
+              "type": "twitter"
+            },
+            {
+              "target": "https://www.allmusic.com/artist/mn0000183858",
+              "type": "allmusic"
+            },
+            {
+              "target": "https://www.wikidata.org/wiki/Q331731",
+              "type": "wikidata"
+            },
+            {
+              "target": "https://rateyourmusic.com/artist/gary_numan",
+              "type": "rateyourmusic"
+            },
+            {
+              "target": "http://muzikum.eu/en/122-6389/gary-numan/lyrics.html",
+              "type": "muzikum"
+            },
+            {
+              "target": "https://d-nb.info/gnd/121487679",
+              "type": "d-nb"
+            },
+            {
+              "target": "https://www.worldcat.org/identities/lccn-n84-126273",
+              "type": "worldcat"
+            },
+            {
+              "target": "https://commons.wikimedia.org/wiki/File:Gary_Numan_playing.jpg",
+              "type": "wikimedia"
+            },
+            {
+              "target": "https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE",
+              "type": "spotify"
+            },
+            {
+              "target": "https://www.whosampled.com/Gary-Numan/",
+              "type": "whosampled"
+            },
+            {
+              "target": "https://genius.com/artists/Gary-numan",
+              "type": "genius"
+            },
+            {
+              "target": "https://www.45cat.com/artist/gary-numan",
+              "type": "45cat"
+            },
+            {
+              "target": "https://www.discogs.com/artist/410978",
+              "type": "discogs"
+            },
+            {
+              "target": "http://id.loc.gov/authorities/names/n84126273",
+              "type": "loc"
+            },
+            {
+              "target": "https://catalogue.bnf.fr/ark:/12148/cb13925621c",
+              "type": "bnf"
+            },
+            {
+              "target": "https://nla.gov.au/nla.party-1176130",
+              "type": "gov"
+            },
+            {
+              "target": "https://www.imdb.com/name/nm0637885/",
+              "type": "imdb"
+            },
+            {
+              "target": "http://snaccooperative.org/ark:/99166/w6ms40s5",
+              "type": "snaccooperative"
+            },
+            {
+              "target": "https://www.last.fm/music/Gary_Numan",
+              "type": "last"
+            },
+            {
+              "target": "https://www.songkick.com/artists/520156",
+              "type": "songkick"
+            },
+            {
+              "target": "https://itunes.apple.com/gb/artist/id2780160",
+              "type": "apple"
+            },
+            {
+              "target": "https://music.apple.com/gb/artist/2780160",
+              "type": "apple"
+            },
+            {
+              "target": "https://garynuman.com/",
+              "type": "garynuman"
+            },
+            {
+              "target": "https://www.numandiscography.co.uk/",
+              "type": "numandiscography"
+            },
+            {
+              "target": "https://tidal.com/artist/11048",
+              "type": "tidal"
+            },
+            {
+              "target": "https://www.deezer.com/artist/2706",
+              "type": "deezer"
+            },
+            {
+              "target": "https://imvdb.com/n/gary-numan",
+              "type": "imvdb"
+            },
+            {
+              "target": "https://www.instagram.com/garynuman/",
+              "type": "instagram"
+            },
+            {
+              "target": "https://www.discogs.com/artist/474604",
+              "type": "discogs"
+            },
+            {
+              "target": "https://www.youtube.com/channel/UCUxV8b_z4xI8Qbo1tsOTABg",
+              "type": "youtube"
+            },
+            {
+              "target": "https://rateyourmusic.com/artist/gary-numan",
+              "type": "rateyourmusic"
+            }
+          ],
+          "oldids": [
+            "42f6bd4b-e3f2-48ba-8dff-cf8ff7d60442"
+          ],
+          "overview": "",
+          "rating": {
+            "Count": 5,
+            "Value": 9.2
+          },
+          "sortname": "Numan, Gary",
+          "status": "active",
+          "type": "Person"
+        }
+      ],
+      "disambiguation": "",
+      "genres": [],
+      "id": "9b228ce4-0bfa-4efe-bd60-b8445d6c8426",
+      "images": [
+        {
+          "CoverType": "Cover",
+          "Url": "https://imagecache.lidarr.audio/v1/caa/6978dca6-ecd2-40ba-9b61-a05dcf879ebc/21847452048-1200.jpg"
+        }
+      ],
+      "links": [],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "releasedate": "2008-02-25",
+      "releases": [
+        {
+          "country": [
+            "United Kingdom"
+          ],
+          "disambiguation": "",
+          "id": "6978dca6-ecd2-40ba-9b61-a05dcf879ebc",
+          "label": [
+            "Beggars Banquet"
+          ],
+          "media": [
+            {
+              "Format": "CD",
+              "Name": "",
+              "Position": 1
+            }
+          ],
+          "oldids": [],
+          "releasedate": "2008-02-25",
+          "status": "Official",
+          "title": "Engineers",
+          "track_count": 17,
+          "tracks": [
+            {
+              "artistid": "6cb79cb2-9087-44d4-828b-5c6fdff2c957",
+              "durationms": 153000,
+              "id": "35929b8e-e9d2-4f77-82d8-2740beece607",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "96625c6f-815d-4652-9655-b91640958d34",
+              "trackname": "Introduction : Theme From Replicas",
+              "tracknumber": "1",
+              "trackposition": 1
+            },
+            {
+              "artistid": "6cb79cb2-9087-44d4-828b-5c6fdff2c957",
+              "durationms": 189000,
+              "id": "480368fb-d12b-445e-881a-8e3782d7ea2d",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "282f1991-bd69-4de4-b63f-e76cadad0d5e",
+              "trackname": "Airlane",
+              "tracknumber": "2",
+              "trackposition": 2
+            },
+            {
+              "artistid": "6cb79cb2-9087-44d4-828b-5c6fdff2c957",
+              "durationms": 180000,
+              "id": "ecd2a864-4907-46a8-8f7b-94d0a0171872",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "cbe5cff3-eb0a-4d67-a8d1-8a2ac769dac2",
+              "trackname": "Me! I Disconnect From You",
+              "tracknumber": "3",
+              "trackposition": 3
+            },
+            {
+              "artistid": "6cb79cb2-9087-44d4-828b-5c6fdff2c957",
+              "durationms": 236000,
+              "id": "86c79fc9-3f86-452f-8e26-4980f2d11677",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "86a07098-9de3-415c-b0c9-ffe348d1d0c9",
+              "trackname": "Praying To The Aliens",
+              "tracknumber": "4",
+              "trackposition": 4
+            },
+            {
+              "artistid": "6cb79cb2-9087-44d4-828b-5c6fdff2c957",
+              "durationms": 255000,
+              "id": "de5f4343-7fd0-4289-a979-7110fd447a3b",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "ece6acea-ed21-4bf2-a64f-c0e1df8c8006",
+              "trackname": "M.E.",
+              "tracknumber": "5",
+              "trackposition": 5
+            },
+            {
+              "artistid": "6cb79cb2-9087-44d4-828b-5c6fdff2c957",
+              "durationms": 231000,
+              "id": "49ec7b7d-d64c-41a9-a98f-097375a472f0",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "1b2ab0f7-7546-440c-947b-6438cbb102b1",
+              "trackname": "Films",
+              "tracknumber": "6",
+              "trackposition": 6
+            },
+            {
+              "artistid": "6cb79cb2-9087-44d4-828b-5c6fdff2c957",
+              "durationms": 156000,
+              "id": "19e324e3-d6bd-46b0-a65c-25d388b6b389",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "b29b3858-0cbd-4338-b794-245ddca1a1c3",
+              "trackname": "We Are So Fragile",
+              "tracknumber": "7",
+              "trackposition": 7
+            },
+            {
+              "artistid": "6cb79cb2-9087-44d4-828b-5c6fdff2c957",
+              "durationms": 319000,
+              "id": "35129d3f-c38d-4c8a-a794-b8caa1721a5c",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "02bc5c77-7367-4067-8f4b-15292689aa5f",
+              "trackname": "Are 'Friends' Electric?",
+              "tracknumber": "8",
+              "trackposition": 8
+            },
+            {
+              "artistid": "6cb79cb2-9087-44d4-828b-5c6fdff2c957",
+              "durationms": 444000,
+              "id": "5c796c4c-83a7-40aa-84b5-577bc5aabc76",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "38046deb-056b-4551-b373-71a9f0d91413",
+              "trackname": "Conversation",
+              "tracknumber": "9",
+              "trackposition": 9
+            },
+            {
+              "artistid": "6cb79cb2-9087-44d4-828b-5c6fdff2c957",
+              "durationms": 231000,
+              "id": "f880dfa0-ebe7-4fcc-8353-20d4f656c6e8",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "5f4fcfee-f0da-4bb9-9a43-bbb52c2bba6c",
+              "trackname": "Remind Me To Smile",
+              "tracknumber": "10",
+              "trackposition": 10
+            },
+            {
+              "artistid": "6cb79cb2-9087-44d4-828b-5c6fdff2c957",
+              "durationms": 317000,
+              "id": "76589030-0fad-423b-ba1a-225cbe23f39a",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "4459f129-104e-4119-b029-264e76843f15",
+              "trackname": "Replicas",
+              "tracknumber": "11",
+              "trackposition": 11
+            },
+            {
+              "artistid": "6cb79cb2-9087-44d4-828b-5c6fdff2c957",
+              "durationms": 293000,
+              "id": "5bc786fb-00e9-4b14-a60a-8fb4b196aa98",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "4ff9defb-40ab-4a7c-bd71-66b96aee4e3d",
+              "trackname": "Remember I Was Vapour",
+              "tracknumber": "12",
+              "trackposition": 12
+            },
+            {
+              "artistid": "6cb79cb2-9087-44d4-828b-5c6fdff2c957",
+              "durationms": 194000,
+              "id": "765f0e3e-6092-49c8-b56a-717a6652fd33",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "b2e7555b-651e-4d72-b0ea-4a6365af43a5",
+              "trackname": "Trois Gymnopedies",
+              "tracknumber": "13",
+              "trackposition": 13
+            },
+            {
+              "artistid": "6cb79cb2-9087-44d4-828b-5c6fdff2c957",
+              "durationms": 215000,
+              "id": "5069b55b-b24b-4d9c-849f-6281bb1bf880",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "237466d9-8350-4920-8f13-43ecd0c3c41e",
+              "trackname": "Cars",
+              "tracknumber": "14",
+              "trackposition": 14
+            },
+            {
+              "artistid": "6cb79cb2-9087-44d4-828b-5c6fdff2c957",
+              "durationms": 207000,
+              "id": "abcf4007-3854-4772-92dd-9eda3c5ce960",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "0d50543f-8cbf-49e6-a6e4-4f91865bfbad",
+              "trackname": "I Die You Die",
+              "tracknumber": "15",
+              "trackposition": 15
+            },
+            {
+              "artistid": "6cb79cb2-9087-44d4-828b-5c6fdff2c957",
+              "durationms": 328000,
+              "id": "154c10db-8070-4d52-b9cb-6505637632a3",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "8ba0478d-d9f5-44f2-a9f8-bf35f9768459",
+              "trackname": "Bombers",
+              "tracknumber": "16",
+              "trackposition": 16
+            },
+            {
+              "artistid": "6cb79cb2-9087-44d4-828b-5c6fdff2c957",
+              "durationms": 216000,
+              "id": "c301459b-19ce-44bf-ac5e-c50214971d44",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "7fe7cf67-e101-48d9-a704-b5be1d4d8b87",
+              "trackname": "Tracks",
+              "tracknumber": "17",
+              "trackposition": 17
+            }
+          ]
+        }
+      ],
+      "secondarytypes": [
+        "Live"
+      ],
+      "title": "Engineers",
+      "type": "Album"
+    },
+    "artist": null,
+    "score": 100
+  },
+  {
+    "album": {
+      "aliases": [],
+      "artistid": "ae41819a-51e2-4f21-aa3c-b37f22b733ae",
+      "artists": [
+        {
+          "artistaliases": [],
+          "artistname": "H. Hawkline",
+          "disambiguation": "Welsh Folk / Pop composer & performer",
+          "genres": [],
+          "id": "ae41819a-51e2-4f21-aa3c-b37f22b733ae",
+          "images": [],
+          "links": [
+            {
+              "target": "https://soundcloud.com/h-hawkline",
+              "type": "soundcloud"
+            },
+            {
+              "target": "https://www.facebook.com/pages/H-Hawkline/1520401441525531",
+              "type": "facebook"
+            },
+            {
+              "target": "https://twitter.com/h_hawkline",
+              "type": "twitter"
+            },
+            {
+              "target": "https://www.discogs.com/artist/2521322",
+              "type": "discogs"
+            },
+            {
+              "target": "https://www.wikidata.org/wiki/Q20638115",
+              "type": "wikidata"
+            },
+            {
+              "target": "https://tidal.com/artist/4530565",
+              "type": "tidal"
+            },
+            {
+              "target": "https://open.spotify.com/artist/7FmM0XgimRvS48CfObh2ht",
+              "type": "spotify"
+            },
+            {
+              "target": "https://music.apple.com/gb/artist/453607408",
+              "type": "apple"
+            },
+            {
+              "target": "https://open.spotify.com/artist/3riwXLhtBr1rdIr2MePrQi",
+              "type": "spotify"
+            }
+          ],
+          "oldids": [],
+          "overview": "",
+          "rating": {
+            "Count": 0,
+            "Value": null
+          },
+          "sortname": "H. Hawkline",
+          "status": "active",
+          "type": "Person"
+        }
+      ],
+      "disambiguation": "",
+      "genres": [],
+      "id": "8cd95893-4d3e-414e-89a0-3f6bc17a2071",
+      "images": [
+        {
+          "CoverType": "Cover",
+          "Url": "https://imagecache.lidarr.audio/v1/caa/5ac5c307-6642-4557-b724-e9a256c204a2/40699241518-1200.jpg"
+        }
+      ],
+      "links": [],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "releasedate": "2015-11-27",
+      "releases": [
+        {
+          "country": [],
+          "disambiguation": "",
+          "id": "5ac5c307-6642-4557-b724-e9a256c204a2",
+          "label": [
+            "Heavenly Recordings"
+          ],
+          "media": [
+            {
+              "Format": "Digital Media",
+              "Name": "",
+              "Position": 1
+            }
+          ],
+          "oldids": [],
+          "releasedate": "2015-11-27",
+          "status": "Official",
+          "title": "Engineers",
+          "track_count": 1,
+          "tracks": [
+            {
+              "artistid": "ae41819a-51e2-4f21-aa3c-b37f22b733ae",
+              "durationms": 267274,
+              "id": "1cc13839-e5b9-4245-a358-eeb33d779d57",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "bd73f987-f407-427d-8032-e3e4b4bde28d",
+              "trackname": "Engineers",
+              "tracknumber": "1",
+              "trackposition": 1
+            }
+          ]
+        }
+      ],
+      "secondarytypes": [],
+      "title": "Engineers",
+      "type": "Single"
+    },
+    "artist": null,
+    "score": 100
+  },
+  {
+    "album": {
+      "aliases": [],
+      "artistid": "195f9eff-9af2-43b6-87ea-bd1c0cffc254",
+      "artists": [
+        {
+          "artistaliases": [
+            "Epic 45"
+          ],
+          "artistname": "Epic45",
+          "disambiguation": "",
+          "genres": [
+            "Ambient",
+            "Post-Rock",
+            "Dream Pop"
+          ],
+          "id": "195f9eff-9af2-43b6-87ea-bd1c0cffc254",
+          "images": [],
+          "links": [
+            {
+              "target": "http://www.epic45.com/",
+              "type": "epic45"
+            },
+            {
+              "target": "https://myspace.com/epic45",
+              "type": "myspace"
+            },
+            {
+              "target": "https://www.discogs.com/artist/197560",
+              "type": "discogs"
+            },
+            {
+              "target": "https://www.wikidata.org/wiki/Q1346894",
+              "type": "wikidata"
+            },
+            {
+              "target": "https://tidal.com/artist/3699882",
+              "type": "tidal"
+            }
+          ],
+          "oldids": [
+            "c71e19a4-2277-444e-b2e6-33106ada30c4"
+          ],
+          "overview": "",
+          "rating": {
+            "Count": 0,
+            "Value": null
+          },
+          "sortname": "Epic45",
+          "status": "active",
+          "type": "Group"
+        }
+      ],
+      "disambiguation": "",
+      "genres": [
+        "Post-Rock",
+        "Rock"
+      ],
+      "id": "df11a17c-6c2d-34d7-b7ba-0ff6e63d0d17",
+      "images": [
+        {
+          "CoverType": "Cover",
+          "Url": "https://imagecache.lidarr.audio/v1/caa/3dafc165-10e0-4cd8-8de5-41d62618235e/28093753120-1200.jpg"
+        }
+      ],
+      "links": [],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "releasedate": "2002-05-01",
+      "releases": [
+        {
+          "country": [
+            "Canada"
+          ],
+          "disambiguation": "",
+          "id": "3dafc165-10e0-4cd8-8de5-41d62618235e",
+          "label": [
+            "Where Are My Records"
+          ],
+          "media": [
+            {
+              "Format": "CD",
+              "Name": "",
+              "Position": 1
+            }
+          ],
+          "oldids": [],
+          "releasedate": "2002-05-01",
+          "status": "Official",
+          "title": "Reckless Engineers",
+          "track_count": 10,
+          "tracks": [
+            {
+              "artistid": "195f9eff-9af2-43b6-87ea-bd1c0cffc254",
+              "durationms": 259226,
+              "id": "20608bc0-1df8-3c44-aa14-e4d521908345",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "efb0368c-0c05-4f55-a65a-1ed40ae1c3c1",
+              "trackname": "Do Nothing Until You Hear From Me",
+              "tracknumber": "1",
+              "trackposition": 1
+            },
+            {
+              "artistid": "195f9eff-9af2-43b6-87ea-bd1c0cffc254",
+              "durationms": 310173,
+              "id": "d1fae739-71d8-3c4b-98cc-8fb7b1665288",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "57a89aa4-45ae-49cc-9a22-56915f72ef99",
+              "trackname": "A Song for Seasons",
+              "tracknumber": "2",
+              "trackposition": 2
+            },
+            {
+              "artistid": "195f9eff-9af2-43b6-87ea-bd1c0cffc254",
+              "durationms": 301066,
+              "id": "33c8d692-7d11-3131-950e-338980cfa2e7",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "89bb0b7b-99ab-4e51-a9fa-24f1cbaea224",
+              "trackname": "August Passed Away Unnoticed",
+              "tracknumber": "3",
+              "trackposition": 3
+            },
+            {
+              "artistid": "195f9eff-9af2-43b6-87ea-bd1c0cffc254",
+              "durationms": 431000,
+              "id": "8555114a-72fc-30f3-b71b-2d50c4d2a5dc",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "abaf3002-6d7a-4140-a492-71012aa304ce",
+              "trackname": "Low Tide",
+              "tracknumber": "4",
+              "trackposition": 4
+            },
+            {
+              "artistid": "195f9eff-9af2-43b6-87ea-bd1c0cffc254",
+              "durationms": 372560,
+              "id": "1ccd1fb0-3c79-3882-8817-cd4cbe13ab79",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "939829ca-6216-42fd-8765-e19d0fbce51a",
+              "trackname": "Remote Canals",
+              "tracknumber": "5",
+              "trackposition": 5
+            },
+            {
+              "artistid": "195f9eff-9af2-43b6-87ea-bd1c0cffc254",
+              "durationms": 301933,
+              "id": "2ddf9233-d0d0-3d3c-8bdb-b917107bc084",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "dec37d02-2274-4342-a07b-75d426a0f128",
+              "trackname": "Like a Crowbar, Humour Separated Us",
+              "tracknumber": "6",
+              "trackposition": 6
+            },
+            {
+              "artistid": "195f9eff-9af2-43b6-87ea-bd1c0cffc254",
+              "durationms": 256493,
+              "id": "45f701fa-21df-3794-a0b2-e8362493894c",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "54fb00d8-c56e-4c43-835d-590a986cd29e",
+              "trackname": "For Painters of Scenery",
+              "tracknumber": "7",
+              "trackposition": 7
+            },
+            {
+              "artistid": "195f9eff-9af2-43b6-87ea-bd1c0cffc254",
+              "durationms": 185040,
+              "id": "66b3e43b-fef6-3ea7-be4f-4bdb9f03b0dc",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "53478471-3c62-4225-9c86-a62663f9eef2",
+              "trackname": "A Forlorn Reminder of Better Days",
+              "tracknumber": "8",
+              "trackposition": 8
+            },
+            {
+              "artistid": "195f9eff-9af2-43b6-87ea-bd1c0cffc254",
+              "durationms": 474266,
+              "id": "21ec9ea0-1fe0-3057-8522-f27195ae831a",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "5e2f6bd1-e784-4ad4-87f4-4b2082d10004",
+              "trackname": "Estuary",
+              "tracknumber": "9",
+              "trackposition": 9
+            },
+            {
+              "artistid": "195f9eff-9af2-43b6-87ea-bd1c0cffc254",
+              "durationms": 174640,
+              "id": "960b6bf1-3a15-35e3-b4d5-42765ed26ead",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "e2d26ac9-b250-42d1-830c-3429ba59573c",
+              "trackname": "Shorebound",
+              "tracknumber": "10",
+              "trackposition": 10
+            }
+          ]
+        }
+      ],
+      "secondarytypes": [],
+      "title": "Reckless Engineers",
+      "type": "Album"
+    },
+    "artist": null,
+    "score": 85
+  },
+  {
+    "album": {
+      "aliases": [],
+      "artistid": "4de42604-db87-46a7-a8fe-4cc98f84e17a",
+      "artists": [
+        {
+          "artistaliases": [],
+          "artistname": "Aphotic Apathy",
+          "disambiguation": "space/dark ambient",
+          "genres": [],
+          "id": "4de42604-db87-46a7-a8fe-4cc98f84e17a",
+          "images": [],
+          "links": [
+            {
+              "target": "https://aphoticapathy.bandcamp.com/",
+              "type": "bandcamp"
+            },
+            {
+              "target": "https://www.facebook.com/Aphotic-Apathy-721767381278030",
+              "type": "facebook"
+            },
+            {
+              "target": "https://www.discogs.com/artist/4578480",
+              "type": "discogs"
+            }
+          ],
+          "oldids": [],
+          "overview": "",
+          "rating": {
+            "Count": 0,
+            "Value": null
+          },
+          "sortname": "Aphotic Apathy",
+          "status": "active",
+          "type": null
+        }
+      ],
+      "disambiguation": "",
+      "genres": [
+        "Ambient",
+        "Dark Ambient",
+        "Drone",
+        "Space Ambient"
+      ],
+      "id": "c68c3aa4-a33a-4385-936d-3c6e316d1526",
+      "images": [
+        {
+          "CoverType": "Cover",
+          "Url": "https://imagecache.lidarr.audio/v1/caa/2b1ba41d-718c-4c8e-95f1-7cf34f450db4/11094457969-1200.jpg"
+        }
+      ],
+      "links": [],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "releasedate": "2015-03-15",
+      "releases": [
+        {
+          "country": [
+            "[Worldwide]"
+          ],
+          "disambiguation": "",
+          "id": "2b1ba41d-718c-4c8e-95f1-7cf34f450db4",
+          "label": [],
+          "media": [
+            {
+              "Format": "Digital Media",
+              "Name": "",
+              "Position": 1
+            }
+          ],
+          "oldids": [],
+          "releasedate": "2015-03-15",
+          "status": "Official",
+          "title": "The Engineers",
+          "track_count": 11,
+          "tracks": [
+            {
+              "artistid": "4de42604-db87-46a7-a8fe-4cc98f84e17a",
+              "durationms": 303904,
+              "id": "74ad0f50-5a4c-429a-b3fc-f9c6135c0276",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "78efb33b-baad-4e8e-8d50-6cf0dd507ca8",
+              "trackname": "LV-223",
+              "tracknumber": "1",
+              "trackposition": 1
+            },
+            {
+              "artistid": "4de42604-db87-46a7-a8fe-4cc98f84e17a",
+              "durationms": 238528,
+              "id": "ab02ba3a-b7ac-4ecc-a2bb-b40f9d10f14c",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "368e405a-deb0-46f7-9e1d-7a4ef829652e",
+              "trackname": "Discovery",
+              "tracknumber": "2",
+              "trackposition": 2
+            },
+            {
+              "artistid": "4de42604-db87-46a7-a8fe-4cc98f84e17a",
+              "durationms": 330076,
+              "id": "5e7ef43d-f5bf-46b2-bf12-433b18dd8a8a",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "2cd644fb-363c-4abc-9cb5-c516b6c77602",
+              "trackname": "Dream",
+              "tracknumber": "3",
+              "trackposition": 3
+            },
+            {
+              "artistid": "4de42604-db87-46a7-a8fe-4cc98f84e17a",
+              "durationms": 419764,
+              "id": "8190ea3f-e9a1-4bf2-bf29-122db537fea9",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "16b4e33c-8e1a-4371-bd68-6c5f87066146",
+              "trackname": "Designed",
+              "tracknumber": "4",
+              "trackposition": 4
+            },
+            {
+              "artistid": "4de42604-db87-46a7-a8fe-4cc98f84e17a",
+              "durationms": 362072,
+              "id": "f9345ae6-c761-48b8-931d-9bdefd6f1b87",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "64633a99-c196-49f2-9637-7d1cbe54c21b",
+              "trackname": "Temple",
+              "tracknumber": "5",
+              "trackposition": 5
+            },
+            {
+              "artistid": "4de42604-db87-46a7-a8fe-4cc98f84e17a",
+              "durationms": 423550,
+              "id": "48cc245f-cf89-41f8-a8ef-4e461bacfd4f",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "073266c6-e95e-4378-aed3-8b71d7ed8509",
+              "trackname": "Ampules",
+              "tracknumber": "6",
+              "trackposition": 6
+            },
+            {
+              "artistid": "4de42604-db87-46a7-a8fe-4cc98f84e17a",
+              "durationms": 206892,
+              "id": "f3cbf4e0-5be5-4d9b-9d0c-3bdd5fec6469",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "5fb069a0-60eb-499b-8cfa-5908667c8e26",
+              "trackname": "Swarm",
+              "tracknumber": "7",
+              "trackposition": 7
+            },
+            {
+              "artistid": "4de42604-db87-46a7-a8fe-4cc98f84e17a",
+              "durationms": 133103,
+              "id": "e91b53b0-ac02-4493-bc65-82bfb7effd1e",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "ec4fd84e-f06b-445e-8003-cf2189b39f24",
+              "trackname": "Engineers",
+              "tracknumber": "8",
+              "trackposition": 8
+            },
+            {
+              "artistid": "4de42604-db87-46a7-a8fe-4cc98f84e17a",
+              "durationms": 332763,
+              "id": "9c31db30-e5ca-4ff5-b877-2ebb4416d6f9",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "f9460f5f-9606-4928-8fbe-c213afb20103",
+              "trackname": "Pathogen",
+              "tracknumber": "9",
+              "trackposition": 9
+            },
+            {
+              "artistid": "4de42604-db87-46a7-a8fe-4cc98f84e17a",
+              "durationms": 159261,
+              "id": "bf0c9b22-6064-453e-9a9a-de7c854adec9",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "720300e8-e0f4-4e8d-bcbe-5ad82655fef2",
+              "trackname": "Life",
+              "tracknumber": "10",
+              "trackposition": 10
+            },
+            {
+              "artistid": "4de42604-db87-46a7-a8fe-4cc98f84e17a",
+              "durationms": 395106,
+              "id": "813eaf52-4383-4d93-ae19-001b8b71559d",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "a0b40d48-69c0-462d-b7fe-7f89b002819b",
+              "trackname": "Paradise",
+              "tracknumber": "11",
+              "trackposition": 11
+            }
+          ]
+        }
+      ],
+      "secondarytypes": [],
+      "title": "The Engineers",
+      "type": "Album"
+    },
+    "artist": null,
+    "score": 85
+  },
+  {
+    "album": {
+      "aliases": [],
+      "artistid": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+      "artists": [
+        {
+          "artistaliases": [
+            "EXT!ZE",
+            "EXTIZE"
+          ],
+          "artistname": "EXTIZE",
+          "disambiguation": "",
+          "genres": [
+            "Electronic"
+          ],
+          "id": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+          "images": [],
+          "links": [
+            {
+              "target": "https://www.discogs.com/artist/1060432",
+              "type": "discogs"
+            },
+            {
+              "target": "https://myspace.com/ext1ze",
+              "type": "myspace"
+            },
+            {
+              "target": "http://www.extize.com/",
+              "type": "extize"
+            },
+            {
+              "target": "https://www.youtube.com/channel/UCnIPJVN_6J1lurcWSL7pakg",
+              "type": "youtube"
+            },
+            {
+              "target": "https://soundcloud.com/extize",
+              "type": "soundcloud"
+            },
+            {
+              "target": "https://twitter.com/EXTIZE",
+              "type": "twitter"
+            },
+            {
+              "target": "https://vk.com/extize",
+              "type": "vk"
+            },
+            {
+              "target": "https://www.last.fm/music/Extize",
+              "type": "last"
+            },
+            {
+              "target": "https://itunes.apple.com/en/artist/id330810508",
+              "type": "apple"
+            },
+            {
+              "target": "https://www.allmusic.com/artist/mn0001600167",
+              "type": "allmusic"
+            },
+            {
+              "target": "https://rateyourmusic.com/artist/ext_ze",
+              "type": "rateyourmusic"
+            },
+            {
+              "target": "https://www.reverbnation.com/extize",
+              "type": "reverbnation"
+            },
+            {
+              "target": "https://itunes.apple.com/us/podcast/extize-dirt-e-tronic-mix-hard/id275685655?mt=2",
+              "type": "apple"
+            },
+            {
+              "target": "https://open.spotify.com/artist/0P34y61dZnxYluCC6zLcmj",
+              "type": "spotify"
+            },
+            {
+              "target": "https://plus.google.com/109704701227667996196",
+              "type": "google"
+            },
+            {
+              "target": "https://www.allmusic.com/artist/mn0002357137",
+              "type": "allmusic"
+            },
+            {
+              "target": "http://www.amphi-festival.de/2010/ext1ze.html",
+              "type": "amphi-festival"
+            },
+            {
+              "target": "https://www.wikidata.org/wiki/Q1385102",
+              "type": "wikidata"
+            },
+            {
+              "target": "https://extize.bandcamp.com/",
+              "type": "bandcamp"
+            },
+            {
+              "target": "http://graveconcernsezine.com/interviews/ebm-electro-electronica/3165-interview-extze.html",
+              "type": "graveconcernsezine"
+            },
+            {
+              "target": "http://viaf.org/viaf/139440124",
+              "type": "viaf"
+            },
+            {
+              "target": "https://www.facebook.com/EXTIZE666",
+              "type": "facebook"
+            },
+            {
+              "target": "https://commons.wikimedia.org/wiki/File:Cyb3rellaextize.jpg",
+              "type": "wikimedia"
+            },
+            {
+              "target": "https://www.deezer.com/artist/1419353",
+              "type": "deezer"
+            },
+            {
+              "target": "https://music.apple.com/us/artist/330810508",
+              "type": "apple"
+            },
+            {
+              "target": "https://tidal.com/artist/3688341",
+              "type": "tidal"
+            },
+            {
+              "target": "https://music.apple.com/gb/artist/330810508",
+              "type": "apple"
+            },
+            {
+              "target": "https://www.muziekweb.nl/Link/M00000348467/POPULAR/",
+              "type": "muziekweb"
+            }
+          ],
+          "oldids": [
+            "32e6f63e-09af-4e4f-a82f-47696990fe5e"
+          ],
+          "overview": "",
+          "rating": {
+            "Count": 0,
+            "Value": null
+          },
+          "sortname": "EXTIZE",
+          "status": "active",
+          "type": "Group"
+        }
+      ],
+      "disambiguation": "",
+      "genres": [
+        "Electronic",
+        "Industrial",
+        "Techno"
+      ],
+      "id": "b5691f0e-78a7-495c-890e-94ccd41e85d5",
+      "images": [
+        {
+          "CoverType": "Cover",
+          "Url": "https://imagecache.lidarr.audio/v1/caa/abfb9629-70bc-4f67-b54e-9081a597ee1c/9399757601-1200.jpg"
+        },
+        {
+          "CoverType": "Disc",
+          "Url": "https://imagecache.lidarr.audio/v1/caa/c144ea57-1952-453b-8c5a-b57c3a728ba4/9125642692-1200.jpg"
+        }
+      ],
+      "links": [
+        {
+          "target": "https://www.discogs.com/master/481471",
+          "type": "discogs"
+        }
+      ],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "releasedate": "2012-10-13",
+      "releases": [
+        {
+          "country": [
+            "Germany"
+          ],
+          "disambiguation": "normal edition",
+          "id": "abfb9629-70bc-4f67-b54e-9081a597ee1c",
+          "label": [
+            "Future Fame"
+          ],
+          "media": [
+            {
+              "Format": "CD",
+              "Name": "",
+              "Position": 1
+            }
+          ],
+          "oldids": [],
+          "releasedate": "2012-10-13",
+          "status": "Official",
+          "title": "Anarchy Engineers",
+          "track_count": 15,
+          "tracks": [
+            {
+              "artistid": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+              "durationms": 338000,
+              "id": "c263393e-1d8b-4860-a570-6c2796ee4cbd",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "ac94fd9c-b92b-4a02-835d-7bf2be17bd84",
+              "trackname": "I’m on Fire",
+              "tracknumber": "1",
+              "trackposition": 1
+            },
+            {
+              "artistid": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+              "durationms": 295000,
+              "id": "8b817584-03ec-48b5-b7fa-33886a57f8e7",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "2be1fbb0-892c-45e6-88e4-7f6ca7c78ed7",
+                "85b38cd6-43ec-4645-aed3-31cdcf6e28db"
+              ],
+              "recordingid": "56731dce-02c9-4383-94b1-bd4e9c1be7cd",
+              "trackname": "Kiss & Kill",
+              "tracknumber": "2",
+              "trackposition": 2
+            },
+            {
+              "artistid": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+              "durationms": 308000,
+              "id": "ce48bbc9-a74d-4a7c-aac6-df5a243e65bb",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "54c93f1b-ce84-43c4-9813-15925f1f8782",
+              "trackname": "Free",
+              "tracknumber": "3",
+              "trackposition": 3
+            },
+            {
+              "artistid": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+              "durationms": 292000,
+              "id": "084ce38d-fdc3-4459-be23-56d688640b21",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "88f2f935-dc36-49d7-8c8e-e853d40e363e",
+              "trackname": "I Am Nasty",
+              "tracknumber": "4",
+              "trackposition": 4
+            },
+            {
+              "artistid": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+              "durationms": 304000,
+              "id": "b34ea2b5-e74d-4da1-8418-38b94b7179ed",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "56a34008-1e96-4492-a707-9885e3daf964",
+              "trackname": "A Place 2 Die",
+              "tracknumber": "5",
+              "trackposition": 5
+            },
+            {
+              "artistid": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+              "durationms": 290000,
+              "id": "1b111273-85b6-400a-9785-d1ce92748dff",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "cff8d4a0-9dd2-48fd-a8d3-70e1b381f32e",
+              "trackname": "Sex in Surround",
+              "tracknumber": "6",
+              "trackposition": 6
+            },
+            {
+              "artistid": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+              "durationms": 254000,
+              "id": "0591a943-ee06-44b2-a26a-f082e65455f3",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "b0d5cd69-1d13-429a-868b-5e633004f81f",
+              "trackname": "German Beast",
+              "tracknumber": "7",
+              "trackposition": 7
+            },
+            {
+              "artistid": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+              "durationms": 256000,
+              "id": "467c4bfc-4030-4f3d-822d-acbdf1278136",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "8123860e-5466-466a-a02d-41ba1c0a6ca4",
+              "trackname": "Monster Bike",
+              "tracknumber": "8",
+              "trackposition": 8
+            },
+            {
+              "artistid": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+              "durationms": 248000,
+              "id": "a9da0752-0639-4a9f-905f-3f05d08c7d06",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "ec3fe2ce-cd08-4fa1-ba71-b367d691ab5c",
+              "trackname": "Freak Out",
+              "tracknumber": "9",
+              "trackposition": 9
+            },
+            {
+              "artistid": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+              "durationms": 344000,
+              "id": "57f2ffe9-2428-44cc-a0a4-acdb07de8387",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "c2b5acc6-d006-444f-b258-a9015218f548",
+              "trackname": "I Love B.Ä.S.S",
+              "tracknumber": "10",
+              "trackposition": 10
+            },
+            {
+              "artistid": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+              "durationms": 289000,
+              "id": "29829fdd-e1f7-45fe-ae80-f49045e4ab46",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "5942f843-fa30-4835-993c-c47f21243581",
+              "trackname": "Lazer Shark",
+              "tracknumber": "11",
+              "trackposition": 11
+            },
+            {
+              "artistid": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+              "durationms": 238000,
+              "id": "6d8073f2-45d0-401f-9d3a-0887cc97ef1d",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "767c2f3d-b1d5-48b8-b120-469e09aba959",
+              "trackname": "Machine Hearts",
+              "tracknumber": "12",
+              "trackposition": 12
+            },
+            {
+              "artistid": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+              "durationms": 326000,
+              "id": "a20284f3-d146-4b40-a544-3796fbd37b76",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "f556460b-1834-476c-8fcd-b2d7f3b959f7",
+              "trackname": "Goodbye",
+              "tracknumber": "13",
+              "trackposition": 13
+            },
+            {
+              "artistid": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+              "durationms": 312000,
+              "id": "a9ba9042-c4b5-4bd0-963d-e614dcccdaab",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "35a7fdac-5d8e-49f5-a66b-eb2c1269ad53",
+              "trackname": "À dieu âme rouge",
+              "tracknumber": "14",
+              "trackposition": 14
+            },
+            {
+              "artistid": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+              "durationms": 393000,
+              "id": "100fa781-a75d-4503-a061-11d66d836c35",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "0b9169df-d619-4533-b4a3-21ba052be6ec",
+              "trackname": "Runaway",
+              "tracknumber": "15",
+              "trackposition": 15
+            }
+          ]
+        },
+        {
+          "country": [
+            "Germany"
+          ],
+          "disambiguation": "limited edition",
+          "id": "c144ea57-1952-453b-8c5a-b57c3a728ba4",
+          "label": [
+            "Future Fame"
+          ],
+          "media": [
+            {
+              "Format": "CD",
+              "Name": "",
+              "Position": 1
+            }
+          ],
+          "oldids": [],
+          "releasedate": "2012-10-13",
+          "status": "Official",
+          "title": "Anarchy Engineers",
+          "track_count": 15,
+          "tracks": [
+            {
+              "artistid": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+              "durationms": 338000,
+              "id": "dc00e3c8-a378-3256-bbe8-a0d808957d3d",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "ac94fd9c-b92b-4a02-835d-7bf2be17bd84",
+              "trackname": "I’m on Fire",
+              "tracknumber": "1",
+              "trackposition": 1
+            },
+            {
+              "artistid": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+              "durationms": 295000,
+              "id": "e4cc97b7-99df-374d-8ad5-a88b7550c079",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [
+                "2be1fbb0-892c-45e6-88e4-7f6ca7c78ed7",
+                "85b38cd6-43ec-4645-aed3-31cdcf6e28db"
+              ],
+              "recordingid": "56731dce-02c9-4383-94b1-bd4e9c1be7cd",
+              "trackname": "Kiss & Kill",
+              "tracknumber": "2",
+              "trackposition": 2
+            },
+            {
+              "artistid": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+              "durationms": 308000,
+              "id": "9ef6f939-5173-303d-9d3f-44028c257129",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "54c93f1b-ce84-43c4-9813-15925f1f8782",
+              "trackname": "Free",
+              "tracknumber": "3",
+              "trackposition": 3
+            },
+            {
+              "artistid": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+              "durationms": 292000,
+              "id": "d3169637-d0a2-392d-8fa5-d84bf1709af5",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "88f2f935-dc36-49d7-8c8e-e853d40e363e",
+              "trackname": "I Am Nasty",
+              "tracknumber": "4",
+              "trackposition": 4
+            },
+            {
+              "artistid": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+              "durationms": 304000,
+              "id": "2c4a2439-79e9-369d-9064-0fe8ae6fea65",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "56a34008-1e96-4492-a707-9885e3daf964",
+              "trackname": "A Place 2 Die",
+              "tracknumber": "5",
+              "trackposition": 5
+            },
+            {
+              "artistid": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+              "durationms": 290000,
+              "id": "4d2ab586-ca66-3cfc-b98b-ad70f23d5ea3",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "cff8d4a0-9dd2-48fd-a8d3-70e1b381f32e",
+              "trackname": "Sex in Surround",
+              "tracknumber": "6",
+              "trackposition": 6
+            },
+            {
+              "artistid": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+              "durationms": 254000,
+              "id": "2629d6bb-7d0c-30cf-87ea-22c795cfb9cc",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "b0d5cd69-1d13-429a-868b-5e633004f81f",
+              "trackname": "German Beast",
+              "tracknumber": "7",
+              "trackposition": 7
+            },
+            {
+              "artistid": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+              "durationms": 256000,
+              "id": "667df475-e032-3252-9b23-79c0f97bebeb",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "8123860e-5466-466a-a02d-41ba1c0a6ca4",
+              "trackname": "Monster Bike",
+              "tracknumber": "8",
+              "trackposition": 8
+            },
+            {
+              "artistid": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+              "durationms": 248000,
+              "id": "ec5f4008-87a9-3646-8b13-62b541c94c8e",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "ec3fe2ce-cd08-4fa1-ba71-b367d691ab5c",
+              "trackname": "Freak Out",
+              "tracknumber": "9",
+              "trackposition": 9
+            },
+            {
+              "artistid": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+              "durationms": 344000,
+              "id": "4ef157d0-d938-3357-a89a-a2e9be459308",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "c2b5acc6-d006-444f-b258-a9015218f548",
+              "trackname": "I Love B.Ä.S.S",
+              "tracknumber": "10",
+              "trackposition": 10
+            },
+            {
+              "artistid": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+              "durationms": 289000,
+              "id": "fcc05750-4084-3e24-8a12-8a51aa123eb9",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "5942f843-fa30-4835-993c-c47f21243581",
+              "trackname": "Lazer Shark",
+              "tracknumber": "11",
+              "trackposition": 11
+            },
+            {
+              "artistid": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+              "durationms": 238000,
+              "id": "aff28fb2-9622-3300-901a-9de724cec19f",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "767c2f3d-b1d5-48b8-b120-469e09aba959",
+              "trackname": "Machine Hearts",
+              "tracknumber": "12",
+              "trackposition": 12
+            },
+            {
+              "artistid": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+              "durationms": 326000,
+              "id": "5f76051d-54a9-3c61-bccd-31213b13f578",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "f556460b-1834-476c-8fcd-b2d7f3b959f7",
+              "trackname": "Goodbye",
+              "tracknumber": "13",
+              "trackposition": 13
+            },
+            {
+              "artistid": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+              "durationms": 312000,
+              "id": "cbe2b865-c9b3-3f39-8e51-1738f622111e",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "35a7fdac-5d8e-49f5-a66b-eb2c1269ad53",
+              "trackname": "À dieu âme rouge",
+              "tracknumber": "14",
+              "trackposition": 14
+            },
+            {
+              "artistid": "a2ce9f67-d7fe-4864-9399-5002524c5754",
+              "durationms": 393000,
+              "id": "e96e0810-ed3f-33e2-9d7b-d0dd6f02748e",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "0b9169df-d619-4533-b4a3-21ba052be6ec",
+              "trackname": "Runaway",
+              "tracknumber": "15",
+              "trackposition": 15
+            }
+          ]
+        }
+      ],
+      "secondarytypes": [],
+      "title": "Anarchy Engineers",
+      "type": "Album"
+    },
+    "artist": null,
+    "score": 85
+  },
+  {
+    "album": {
+      "aliases": [],
+      "artistid": "89ad4ac3-39f7-470e-963a-56509c546377",
+      "artists": [
+        {
+          "artistaliases": [],
+          "artistname": "Gero",
+          "disambiguation": "Hungarian musician Gergely Nagy",
+          "genres": [],
+          "id": "29267ca8-14dd-400d-855e-ca76fd8fb61f",
+          "images": [],
+          "links": [
+            {
+              "target": "https://www.discogs.com/artist/115769",
+              "type": "discogs"
+            },
+            {
+              "target": "https://soundcloud.com/geromusic",
+              "type": "soundcloud"
+            },
+            {
+              "target": "https://www.facebook.com/geromusic.hungary",
+              "type": "facebook"
+            },
+            {
+              "target": "https://www.youtube.com/user/geromusician",
+              "type": "youtube"
+            },
+            {
+              "target": "https://www.mixcloud.com/geromusic/",
+              "type": "mixcloud"
+            },
+            {
+              "target": "https://www.beatport.com/artist/gero/44905",
+              "type": "beatport"
+            },
+            {
+              "target": "https://open.spotify.com/artist/3lhHjM1wj5klJxJ1d9gjrU",
+              "type": "spotify"
+            },
+            {
+              "target": "https://www.deezer.com/artist/245807",
+              "type": "deezer"
+            },
+            {
+              "target": "https://music.apple.com/gb/artist/1112563580",
+              "type": "apple"
+            },
+            {
+              "target": "https://tidal.com/artist/4203806",
+              "type": "tidal"
+            }
+          ],
+          "oldids": [
+            "d648b335-3d6f-451f-a985-4f9c99a11f3d"
+          ],
+          "overview": "",
+          "rating": {
+            "Count": 0,
+            "Value": null
+          },
+          "sortname": "Gero",
+          "status": "active",
+          "type": "Person"
+        },
+        {
+          "artistaliases": [],
+          "artistname": "Modul",
+          "disambiguation": "Hungarian breakbeat producer Márk Jávor",
+          "genres": [
+            "Tech House"
+          ],
+          "id": "94e610f8-fbd3-472d-acff-e660ebaaff4a",
+          "images": [],
+          "links": [
+            {
+              "target": "https://www.discogs.com/artist/8597",
+              "type": "discogs"
+            }
+          ],
+          "oldids": [],
+          "overview": "",
+          "rating": {
+            "Count": 0,
+            "Value": null
+          },
+          "sortname": "Modul",
+          "status": "active",
+          "type": "Person"
+        },
+        {
+          "artistaliases": [],
+          "artistname": "Anorganik",
+          "disambiguation": "",
+          "genres": [],
+          "id": "0c243971-71e7-4f3c-b33a-4fb36b62f2fc",
+          "images": [],
+          "links": [
+            {
+              "target": "https://www.discogs.com/artist/10416",
+              "type": "discogs"
+            },
+            {
+              "target": "https://myspace.com/gabordeutsch",
+              "type": "myspace"
+            },
+            {
+              "target": "https://www.facebook.com/gabor.deutsch.anorganik",
+              "type": "facebook"
+            },
+            {
+              "target": "http://anorganik.net/",
+              "type": "anorganik"
+            },
+            {
+              "target": "https://twitter.com/anorganik",
+              "type": "twitter"
+            },
+            {
+              "target": "https://www.allmusic.com/artist/mn0002740767",
+              "type": "allmusic"
+            },
+            {
+              "target": "https://rateyourmusic.com/artist/anorganik",
+              "type": "rateyourmusic"
+            }
+          ],
+          "oldids": [],
+          "overview": "",
+          "rating": {
+            "Count": 0,
+            "Value": null
+          },
+          "sortname": "Anorganik",
+          "status": "active",
+          "type": "Person"
+        },
+        {
+          "artistaliases": [],
+          "artistname": "Random Soundz",
+          "disambiguation": "",
+          "genres": [],
+          "id": "af94cf25-74f3-46f6-845d-66e5e0e05d3b",
+          "images": [],
+          "links": [],
+          "oldids": [],
+          "overview": "",
+          "rating": {
+            "Count": 0,
+            "Value": null
+          },
+          "sortname": "Random Soundz",
+          "status": "active",
+          "type": null
+        },
+        {
+          "artistaliases": [
+            "مختلف الفنانين",
+            "여러 아티스트",
+            "Various Artists",
+            "Diverse Artiesten",
+            "Diverse Artister",
+            "Diverse Interpreten",
+            "Diverse kunstnere",
+            "Vários artistas",
+            "Varios artistas",
+            "Erinevad esitajad",
+            "Çeşitli sanatçılar",
+            "Różni wykonawcy",
+            "Nhiều ca sĩ",
+            "Razlièni izvajalci",
+            "Artistiaid Amrywiol",
+            "Diverse",
+            "Skratch 'N Sniff",
+            "Diverse Artistar",
+            "Blandade artister",
+            "Різні виконавці",
+            "群星",
+            "รวมศิลปิน",
+            "Razni Izvođači",
+            "Razni Izvođači",
+            "Iedereen",
+            "Razni Izvođači",
+            "Ýmsir hljóðfæraleikarar",
+            "Vari",
+            "Various Artists",
+            "Įvairūs atlikėjai",
+            "розныя выканаўцы",
+            "diversos artistes",
+            "Různí interpreti",
+            "Pluraj artistoj",
+            "Hainbat artista",
+            "هنرمندان مختلف",
+            "Eri esittäjiä",
+            "Variés",
+            "Multi-artistes",
+            "Compilation",
+            "Multi‐interprètes",
+            "Διάφοροι Καλλιτέχνες",
+            "ヴァリアス・アーティスト",
+            "Różni",
+            "KZOK 102.5FM",
+            "Разные артисты",
+            "Разни изведувачи",
+            "Miscellaneous",
+            "Bypass Audio",
+            "Reinelex Records",
+            "(Karaoke) Various Artists",
+            "Wszyscy artysci",
+            "Artisti vari",
+            "Blandat",
+            "Various (not original artists)",
+            "Omnibus",
+            "DESKPOP",
+            "Verschiedene Interpreten",
+            "WiddFam",
+            "Intérpretes Diversos",
+            "Rizni vykonavtsi",
+            "різних виконавців",
+            "различных исполнителей",
+            "Div. kunstnere",
+            "Icelandic Folk Music",
+            "Various Items",
+            "Mixed Artists",
+            "AAVV",
+            "KC101—Connecticut's #1 Hit Music Station",
+            "Divers",
+            "30 Vermont Artists",
+            "Various Big Bands",
+            "Various artists from CISM 89,3 FM",
+            "Amrywiol",
+            "Fitness Workout Music",
+            "The Metal Observer",
+            "Various DJ's",
+            "Blandede Kunstnere",
+            "Bassrush",
+            "Różni artyści",
+            "Coletânea",
+            "หลากหลายศิลปิน",
+            "Various Female Artists",
+            "Varias Artistas",
+            "Multi-interprètes",
+            "Tốp ca",
+            "Razni",
+            "Όλοι",
+            "Diverse componisten",
+            "Различные исполнители",
+            "Woman & Home / Classic FM",
+            "Vários intérpretes",
+            "V. Artist",
+            "Insomniac Music Group",
+            "Hợp ca",
+            "[Various Artists]",
+            "Multiple Artists",
+            "Sampler",
+            "Various 80's",
+            "ヴァリアス",
+            "Assorted Artists",
+            "Bande originale",
+            "Vários Artistas",
+            "Rizni vykonavci",
+            "Vari Artisti",
+            "Battle of the Bits",
+            "オムニバス",
+            "Siren Cues",
+            "Time Life Music: Various Artists",
+            "Assorted Christian Artists",
+            "Światowe Przeboje",
+            "Danske Kunstnere",
+            "Encrypted Audio",
+            "Artistes divers",
+            "Nhiều Nghệ Sĩ",
+            "razlichnye ispolniteli",
+            "Nhiều nghệ sĩ",
+            "Erinevad",
+            "Various Composers",
+            "More artists",
+            "Verschiedene Interpret:innen",
+            "Dominicanos Varios",
+            "Vários",
+            "Varios Artistas",
+            "さまざまなアーティスト",
+            "Various Artists (Rock)",
+            "Collégiale",
+            "Various Military Bands",
+            "Tốp ca nam",
+            "Verschiedene",
+            "Various",
+            "La Historia de la Fania",
+            "Various Speakers",
+            "Varios",
+            "American Folk Blues Festival",
+            "Collectif",
+            "A.A.V.V.",
+            "Comp.",
+            "Varied",
+            "Diverse danske artister",
+            "Various Artist - GoGo Wonderful",
+            "Cheapbeats",
+            "AA.VV.",
+            "Diversen",
+            "(various)",
+            "Artistes variés",
+            "Compilaciones",
+            "Variées",
+            "Various (original artists)",
+            "Diverse Kunstnere",
+            "Planets Of The Universe",
+            "Various Celtic Artists",
+            "Circus Records",
+            "Various Talented Artists",
+            "ヴァリアス・アーティスト",
+            "[различные исполнители]",
+            "Multi‐interprètes",
+            "versch. Künstler"
+          ],
+          "artistname": "Various Artists",
+          "disambiguation": "add compilations to this artist",
+          "genres": [],
+          "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+          "images": [],
+          "links": [
+            {
+              "target": "https://www.wikidata.org/wiki/Q3108914",
+              "type": "wikidata"
+            },
+            {
+              "target": "https://www.discogs.com/artist/194",
+              "type": "discogs"
+            },
+            {
+              "target": "https://www.last.fm/music/Various+Artists",
+              "type": "last"
+            },
+            {
+              "target": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of",
+              "type": "spotify"
+            },
+            {
+              "target": "https://music.amazon.com/artists/B000QJO93Y",
+              "type": "amazon"
+            }
+          ],
+          "oldids": [
+            "b27e13b9-3345-409b-bd18-9bee7bea4d31",
+            "edf19b09-6ce1-4850-9496-6cff013d78aa",
+            "9a055a9e-bd52-4c4c-a2f0-f68f8c52425d",
+            "a3075ab3-7cbe-4113-9cd0-a34f74c48cbb",
+            "3c03cd2e-1380-45fe-8cb7-3c8caedae375",
+            "0790b915-72d3-459c-9a4f-d259385e9d39",
+            "06c4fe6f-8b6f-4e1e-9612-fe4a88ecfc34",
+            "db2f1bdd-7224-44a6-8575-fa306fcf526b",
+            "74ed5e11-54a3-49b7-9f58-155e3606a2b3",
+            "097c2a71-6419-47c3-a0a5-fe051faf80d3",
+            "630e20ac-efd3-45b5-9022-ae6f265f4539",
+            "3cb6343f-ddf0-45ae-a47d-830f8b3391c0",
+            "24074c0b-9a80-4002-b29a-cb1bfef2ce4d",
+            "280d8900-4235-468d-ad26-7a7bb7c300d3",
+            "8e355254-4c8b-417b-868b-688f23ef235e",
+            "9a247ca1-e571-417c-9506-529fae747602",
+            "9626c778-5ee7-4ef0-86a2-6689f5b447dd",
+            "11cbacaf-d336-4de8-ac41-87ea24a10fe9",
+            "53188937-1113-4af3-9223-09727662fe60",
+            "0cab173f-2f9b-4dd5-a152-bc297d8f2c54",
+            "d5083ab6-2b31-4bbd-9a94-ec8694afefe7",
+            "ae05b71d-f95d-41b2-82bf-6cabcc23fa59",
+            "b05cc773-4e8e-40bc-ae12-dc88dfc2c9ec",
+            "ec42da79-0a72-480f-a678-c3d685687f2e",
+            "2d61d764-af6a-4bda-a7a2-bf233d2ef84f",
+            "28369487-c9c7-4807-97ee-fbf4a652b51c",
+            "2c49e865-9f79-4505-bd3d-1dde9178f55c",
+            "82e06622-27d8-4551-b1e4-2f13aad057fb",
+            "4f5280fb-e972-4a35-9b20-65e274ac5eea",
+            "083c0de4-a20b-456f-88f0-9e94064f99e0",
+            "fc67d87a-8e21-456b-a4e9-a71116635541",
+            "54f6287f-4efe-4de2-b3b5-3c0f3b65ed6e",
+            "f0b45824-77c9-4e1b-a998-25ddd583f985",
+            "ba6da412-f368-4f71-b5fb-0d891d532c7a",
+            "b661bf76-3942-4dda-b13f-7b3e7b420d06",
+            "9d6c4989-b8ce-4d7f-a438-61de7e7224ac",
+            "7fa5a74b-5985-4f6b-b28d-7084c08def74",
+            "08ceaf04-01bb-4571-a7b4-669adc9f3404",
+            "79e2cd50-b11f-4e9b-8ae4-922e293abf6d",
+            "dae1ca2b-6a02-423d-b88a-cc3a74292788",
+            "909d0684-eb44-4bce-af5b-22de293ac018",
+            "d2a33a08-422e-41ee-9d93-dbe8d8b0c45d",
+            "d24f5f41-1838-413b-a31a-2ef19dbc811b",
+            "931a0538-087c-49b4-a426-d35598181872",
+            "e5e572ad-314a-4507-9fc3-24abcfa91f8f",
+            "a4eaa68b-5ce2-4719-a54b-19d6a6a2cfb2",
+            "6c32b67c-a971-4845-a2c0-f6acf7460eb7",
+            "d7f45b49-c757-41c9-90a1-e2a52179bbad",
+            "6a106315-3f09-4e4d-a0dc-3828ae535d9f",
+            "12b593aa-dc12-4491-8794-5fb8daf6e7c1",
+            "f29e7564-28f1-443e-88b3-6e725eca2fad",
+            "d644387f-3f74-4796-964d-1249c5a8ac82",
+            "4e72df4a-5eee-4083-a3c3-d9004bc361fb",
+            "37986e59-2a97-4162-8e0a-003a79fc516b",
+            "eb45f386-994c-4080-aa7b-652ee9e12257",
+            "b656e1ba-d54d-4eaa-ae6c-c7dd55717fc7",
+            "fe5b7087-438f-4e7e-afaf-6d93c8c888b2",
+            "6586b15d-12a9-4996-b0b1-4c199d79cf05",
+            "764691cc-1719-4a72-aca9-d23094d1c271",
+            "d824e804-7884-479e-a3f3-05b9eec62e66",
+            "a6a7e316-8c2d-45d4-af62-aaa8927ac2ad",
+            "f43e012e-7a47-4e3e-bc07-4c5bef94d100",
+            "8fa057a8-ccfa-415e-9f43-fb02f3c8e3f8",
+            "3253a7fb-3123-477d-9ce5-528ba99c6e4a",
+            "0a81859a-6147-47b4-9cd5-6fd3ec087701",
+            "da6117f1-7cb4-449e-b5d3-1eb4ea874325",
+            "36cf067b-4099-403e-874e-bd90cf92ec45",
+            "e0e8b04c-7bc9-468a-a867-dbbaae440e58",
+            "7f086c12-28d3-409e-99e0-1c1dc8bd0520",
+            "8d0bfec0-6019-47a7-98d6-7e5848e02efc",
+            "c24d296f-a0f7-4d43-8aea-7101dae41b77",
+            "1125cbff-bb3d-411e-8d09-241371645ded",
+            "fce10259-cfe7-4101-8622-243c737a2419",
+            "a3a3c177-1de2-469a-9ebb-3e6318063ca3",
+            "2f322b3a-a46d-424b-81eb-e81127098362",
+            "7d725319-3487-4fe2-8b58-f8cce4107a5f",
+            "c4ea0712-594c-4d3a-b008-76ccbb2a2a82",
+            "692fa30a-c4d2-40a3-abed-e3b8f18e0b58",
+            "e61bde7e-128b-44f7-9307-4ec93299ffb2",
+            "dde6a17e-92d7-4250-a7e0-2fd5e41b8ed3",
+            "5ed359a3-5751-4520-a3f6-c0c57d97504e",
+            "354e2f0c-4d56-486a-8774-d467a376fc24",
+            "d372159f-552d-420a-9a33-473bedf06f2d",
+            "0677ef60-6be5-4e36-9d1e-8bb2bf85b981",
+            "190ae78c-ef03-4bd1-8c98-8f23fc366f45",
+            "6536f2ea-31e0-4281-8596-3c3965389906",
+            "11d838c0-42ac-4e0d-aad3-2735ea76db1e",
+            "4724d425-912f-458d-8b84-43d03b7248a2",
+            "c9150f2a-fae3-47df-b173-d35a2282e9d5",
+            "2667e765-9f58-47e8-803a-7b547e4ae360",
+            "d2255f75-3131-40c9-9072-847b57d1ff22",
+            "0c08a941-5c65-4a3d-b016-f53d72b01dfa",
+            "abe12c00-bb44-4553-bcdb-d8bab51adc09",
+            "ceb9f91b-0d65-4ae0-b651-85db8b017fae",
+            "a6b996ba-cc63-4110-bfcf-7eaac84bf003",
+            "5613e616-45ef-4c81-bd1d-93d34528b44e",
+            "b7c7dfd9-d735-4733-9b10-f060ac75bd6a",
+            "daf0f1b8-db8a-475e-a740-522f2595c591",
+            "3d51b528-0e77-414a-94ac-7a42b520f42d",
+            "74f44a6f-14fa-46ef-a79a-f354f459e0bf",
+            "9bf13ac9-694a-4245-8f57-6ae62344aa1d",
+            "f7675c2a-b5e3-4023-9d95-b2a097ba5ee5",
+            "8bd21e5d-3fd2-4777-80ed-ea5ff403eaaa",
+            "53efe316-3b61-4848-ba56-5dba417f2761",
+            "1fe986f4-a547-4f18-a844-79a1bc12d414",
+            "96eb30d3-b0df-4998-9388-56c7dbd47879",
+            "4b2228f5-e18b-4acc-ace7-b8db13a9306f",
+            "084773d5-7cb5-4053-8086-690677d7ae12",
+            "0b1b2b46-e50e-4693-aad8-b8e072340f38",
+            "4e9e4151-3b7d-4b05-b087-9946dbc3f546",
+            "a833bafd-ea15-4cd4-8d93-1ede38afd2c9",
+            "ebee2b53-8111-4e39-8c04-4369dfb40486",
+            "b480cee0-00aa-410b-b62b-8a179baf68fd",
+            "1d23b94d-6bca-40bb-a394-e77b4cefd899",
+            "81783a39-c73b-4635-87df-d9a78b50c299",
+            "38b3ec7f-b373-4e83-91dd-83d0a97db028",
+            "c1285d61-7c5a-4689-ad1c-8d74575e74b2",
+            "4ed1c213-4e94-4e2a-9c65-146481d1d572",
+            "dace59c4-2408-4f1a-a3f5-102794a92fd0",
+            "cf9e3513-dda2-4804-8963-6fb13a8e1003",
+            "5627accb-3923-4828-a286-7704fec8e569",
+            "ae17ca7f-078c-4779-a21c-9c8ddafb56ee",
+            "2ecc693e-9bf3-4439-a542-bc872d876be4",
+            "da65a369-0f9c-48a0-a33e-89a9af6a835f",
+            "1c263eca-3812-49de-a70d-b5f0085245db",
+            "a5dd1ae9-ed24-452e-91d2-715ccd5d60f3",
+            "046c889d-5b1c-4f54-9c7b-319a8f67e729",
+            "3172c80c-77d5-490d-a10f-5b341d66c1f4",
+            "8b17dc6d-7610-40ad-a50f-e08b9e91fbd7",
+            "63c50e81-f32d-4aa0-a20f-e9c30af11b4a",
+            "1bf34db2-8447-4ecd-9b25-57945b28ef28",
+            "c2d79ce2-698d-4bfc-a8ac-370cd81aa852",
+            "f1a0272f-b656-4ec6-b840-ada446ed8676",
+            "bbac5676-deb3-4c5c-8977-73388cab6ee9",
+            "023671ff-b1ad-4133-a4f3-aadaaadfd2e0",
+            "ca3b3ba5-9634-4137-a9d0-f925d35535ad",
+            "e9a339df-5bd4-473d-8d75-d00ce876a28f",
+            "5fd51551-690d-4363-a9fb-44cd0991b5a4",
+            "d2ba1c02-fcc8-4422-b1b8-ed60eb939280",
+            "eea6d62f-013a-487a-b329-56e711c9292e",
+            "8efc66e3-a5a0-49d1-96ed-dc15e602aa07",
+            "e7cfef75-51e3-47c4-bb5e-081e47b23512",
+            "caece824-fab6-4256-a867-8ed0eb4a7e03",
+            "b11f945e-3bad-4b6d-8a05-b88fc0c67ac9",
+            "b355f387-4708-479d-a376-7848742b4b89",
+            "b9debf9a-08d9-4917-96e0-133f23353fc2",
+            "e9563a0e-384e-4cbe-8d49-5c8d4b5079a6",
+            "548bfbb6-7e32-4913-9c18-a4a9f497ac07",
+            "40892d7c-c3b6-4d98-b95b-8ce406cb6e85",
+            "e5257d66-38f3-466a-80da-0d5413a524b9",
+            "d09e6550-56d0-4569-946e-b5d88e41d7d6",
+            "5b335798-0e1e-4e50-a94b-29d1397f3278",
+            "59077f25-16e5-468a-8387-1890685c41a1",
+            "9b4f9704-9867-4f87-b3aa-e3d7a6731b99",
+            "4d3decba-dff0-4672-b4bc-cacf26db763f",
+            "206c8b69-ca90-44e6-9d73-ffea6cd4701f",
+            "706d301c-5707-45c4-b861-5f92fd551b65",
+            "823f2472-e42d-4f51-8487-ea9584a6a3f4",
+            "d22e7b63-f245-4bb3-aa90-37fcaabc248a",
+            "1f8433d5-2379-4d84-96ac-c36652e8e5b1",
+            "c63bb47e-517c-4a36-8249-d6e36617bd71",
+            "bd9d34fa-887e-49ec-a1eb-45602a0d13da",
+            "b51e13d3-c6bd-4932-a8cc-c5eb1aa5e116",
+            "47a8680c-0f2d-47c2-8c72-52f955efabe3",
+            "841091ae-cd5f-4bcd-9f7e-07a6beb43be7",
+            "be7d92fa-f95a-44e9-a609-4a0f88442373",
+            "6f3623ee-e327-4e13-aed7-5e31176e2caf",
+            "ffd63882-753c-40fb-be9c-ce0f499d7c2e",
+            "2f5055fd-91f7-485c-b251-6d9485ba18fb",
+            "ad01a975-7564-4e1d-9961-58f88ba7e434",
+            "76ea3634-e7d9-4d1f-9d00-d2a5fe8ff21f",
+            "6352f00e-5169-4dd3-b216-30d56007f480",
+            "ea58b1ed-3027-49c0-aedc-c88d05083c67",
+            "6fef2261-87bd-4824-9e9b-12f33b4656e1",
+            "2555f468-dfe3-48c7-b27f-fcd123effb5c",
+            "d02287fe-8a8e-4bcb-b6c1-01de0f9bf4e4",
+            "052a06ae-4775-466e-bb9a-52467c8b9eb2",
+            "a887ee8c-7f88-48f4-8968-b716299d0628",
+            "6d00b16a-8620-42ce-a331-dd9a8cbf3c53",
+            "94c477be-930a-4467-bc07-ca245a4488fd",
+            "228838e8-b69d-42c0-a783-383630914104",
+            "0cb5de0a-ab1c-44c7-ba54-040eef74b163",
+            "989b75c1-d6fd-426b-a1a9-32c49dea761f",
+            "82984875-0341-4dd5-a4e7-4dd4b4ccdccd",
+            "a01d8fb6-41ed-4c77-8f5f-9e9fac525cd3",
+            "6768bbb8-3c20-499f-b19d-5533cabedcc5",
+            "2224d362-0424-44aa-a3bb-03211dac4c96",
+            "4d3ef009-6e7d-49e1-aed5-f9226116d9bf",
+            "50682e46-7097-476c-aca4-812bf0d58d16",
+            "9cfc6897-b34a-45a7-b78e-ff627631a1da",
+            "56fe72ac-85b2-40e1-9171-90435ebd0424",
+            "17190b17-7e64-43ae-aa9e-e319a18fb1b9",
+            "77831e15-a178-4d63-8199-6af1a277af68",
+            "7a96113d-d419-4854-970d-cd2552336cb1",
+            "ea3e6712-c68b-4bca-9154-983e76ec5dc3",
+            "e5ef9a77-9d04-42f9-a28f-e49ac0b1984c",
+            "7e196ffb-e85a-4b97-b259-b2ff54cb46b1",
+            "f52f489d-675a-432c-9fe0-42a5d9ee502b",
+            "c9c32f88-3126-40e8-afee-6e43d10a3663",
+            "bf16d505-28f4-451d-af34-b02c8e4b0a8e",
+            "6976a740-c3d8-42f5-8d46-34815a0a2c38",
+            "e7d1bab5-2c4f-4c4c-a02b-bbe50a16318d",
+            "1a301530-f13a-429c-a878-4e9a911fe987",
+            "022ddcda-0a86-4cec-a8de-f3d4efe435d6",
+            "a18685fb-2792-4bae-a319-119c31d1f068",
+            "7e9b5ee1-dcae-4b6e-bc0e-536aedc4aea1",
+            "e0c1d5fd-9df5-46f0-9008-54740fe8fc13",
+            "5093fc1b-ccf3-4673-9094-46d060fc320c",
+            "b431b9cf-500c-4029-b63e-df711127580b",
+            "7011e870-fdca-4fa5-bcb9-104b1251cf5c",
+            "09848e75-117f-45a4-8165-5e3d37a10cdc",
+            "77cab93d-fa2b-4f6d-bc98-1226e47f0849",
+            "6912e871-118f-42e0-88ee-e35b4db4a362",
+            "aecf32a1-5342-4474-95e0-cab858307252",
+            "0f3db8d9-6142-4a49-a20e-f233e8b9fa9c",
+            "880ae6b7-5087-493a-b9fb-eda8fbb21532",
+            "9baeedbd-3463-4f20-a68d-3f09acdeea71",
+            "97b4e668-6bbd-4b85-b5f2-f0c976eda639",
+            "cb97874e-275d-4cf2-8321-f0be25760f09",
+            "77159a2d-de62-4570-811f-81afae916cf3",
+            "13c38add-7f7d-479c-bce5-895185bdf79d",
+            "2634c89b-17c0-4eff-a32b-ac9e90cef885",
+            "bf8ac6ac-febe-4cde-a6e0-642ac95449f5",
+            "88952a93-3c8d-4fec-884c-c7182c49b363",
+            "9b098e71-bc90-4ea6-91a7-f037a54e3a25",
+            "c2e3c75c-0739-4722-a110-ba36829c6f92",
+            "8d764342-4446-45ea-b1c9-e44fe4c964db",
+            "45404354-ed64-42e9-b4e8-6e7535acfa16",
+            "d01e6b60-95fd-4df6-822d-3b2f4861f578",
+            "4237ee08-0992-4592-9ad6-a03f4e00b4f8",
+            "7d9291e1-28e4-4abd-8d23-75a15272029e",
+            "1eaf8c8c-f85f-49ce-b36b-28a2f0b059f0",
+            "45f2af94-f5a1-4078-a345-655c44509475",
+            "1db15425-88ab-4c0e-a273-2e10828a1aef",
+            "8ecbaf81-b766-4606-b6ab-9046b46280ed",
+            "1a3c3a99-7d9f-48c6-b571-a324ebb0d3c5",
+            "73561ef5-3bfc-4371-b70a-1b025e493219",
+            "8e02bdd1-aa7b-4c03-93c9-db4be69661fc",
+            "2c66220f-eed9-4f08-a527-066b4203acbd",
+            "0ee30ae7-c63c-4e96-8984-25d6e7dd5de1",
+            "07822781-9977-4c9c-83d4-3b3d1f4ca4c4",
+            "d78452bb-5e32-401e-a22c-6b3a0860e333",
+            "4fddc9d3-64c1-4880-a074-16686aca2652",
+            "1f034275-a260-4f82-8fd3-354a6011c4fd",
+            "5ec6c7d1-25c6-4688-8035-8b0788a3f12e",
+            "aeddbd78-5b78-4062-854b-3728897a3105",
+            "c1afd35e-d0c8-438d-86cf-92e9a524e7c6",
+            "41b96bfa-fcdc-44d1-b0cd-a57be7fbfa46",
+            "fbbed106-ca4b-4299-9e2a-14bc23cf628d",
+            "ece697bf-a5b5-47ca-a5f8-87b7005f2e7c",
+            "51614e8d-95df-448d-95cf-4180ba04e7b8"
+          ],
+          "overview": "",
+          "rating": {
+            "Count": 34,
+            "Value": 8.1
+          },
+          "sortname": "Various Artists",
+          "status": "active",
+          "type": "Other"
+        },
+        {
+          "artistaliases": [
+            "SKC"
+          ],
+          "artistname": "SKC",
+          "disambiguation": "HU drum & bass",
+          "genres": [
+            "Drum And Bass"
+          ],
+          "id": "75cb635d-4354-4eb7-83d4-642b7fefee5e",
+          "images": [],
+          "links": [
+            {
+              "target": "https://www.discogs.com/artist/12965",
+              "type": "discogs"
+            },
+            {
+              "target": "https://www.discogs.com/artist/522016",
+              "type": "discogs"
+            },
+            {
+              "target": "http://www.rolldabeats.com/artist/skc",
+              "type": "rolldabeats"
+            },
+            {
+              "target": "https://myspace.com/skcgambo",
+              "type": "myspace"
+            },
+            {
+              "target": "https://www.deezer.com/artist/59530",
+              "type": "deezer"
+            }
+          ],
+          "oldids": [
+            "dfd1bc9d-abf3-4f0a-b1ef-b931b7506509"
+          ],
+          "overview": "",
+          "rating": {
+            "Count": 1,
+            "Value": 10.0
+          },
+          "sortname": "SKC",
+          "status": "active",
+          "type": "Person"
+        },
+        {
+          "artistaliases": [
+            "Chris S.U."
+          ],
+          "artistname": "Chris.SU",
+          "disambiguation": "",
+          "genres": [
+            "Drum And Bass"
+          ],
+          "id": "02e55d3a-f7c3-4ddc-a4aa-a7938f99c81c",
+          "images": [],
+          "links": [
+            {
+              "target": "https://www.discogs.com/artist/36174",
+              "type": "discogs"
+            },
+            {
+              "target": "http://www.rolldabeats.com/artist/chrissu",
+              "type": "rolldabeats"
+            },
+            {
+              "target": "https://soundcloud.com/chrissuofficial",
+              "type": "soundcloud"
+            },
+            {
+              "target": "https://twitter.com/chrissuofficial",
+              "type": "twitter"
+            },
+            {
+              "target": "https://www.beatport.com/artist/chris-su/44373",
+              "type": "beatport"
+            },
+            {
+              "target": "https://www.youtube.com/channel/UCMuAzQn2X3lYleI7CF1SAgg",
+              "type": "youtube"
+            },
+            {
+              "target": "https://www.facebook.com/chrissuofficial",
+              "type": "facebook"
+            },
+            {
+              "target": "https://www.songkick.com/artists/6361379",
+              "type": "songkick"
+            },
+            {
+              "target": "https://www.instagram.com/chrissuofficial/",
+              "type": "instagram"
+            },
+            {
+              "target": "https://www.deezer.com/artist/312853",
+              "type": "deezer"
+            },
+            {
+              "target": "https://www.junodownload.com/artists/Chrissu/releases/",
+              "type": "junodownload"
+            },
+            {
+              "target": "https://itunes.apple.com/us/artist/id323072545",
+              "type": "apple"
+            },
+            {
+              "target": "https://open.spotify.com/artist/2neQ60uQXVdEqkrIIAksVm",
+              "type": "spotify"
+            },
+            {
+              "target": "https://www.beatport.com/artist/chrissu/44373",
+              "type": "beatport"
+            }
+          ],
+          "oldids": [
+            "8755e54a-37c4-4649-93da-9e5b635575dd"
+          ],
+          "overview": "",
+          "rating": {
+            "Count": 0,
+            "Value": null
+          },
+          "sortname": "Chris.SU",
+          "status": "active",
+          "type": "Person"
+        }
+      ],
+      "disambiguation": "",
+      "genres": [
+        "Electronic"
+      ],
+      "id": "a68f3e03-54b2-441f-aa78-2b2e0ae05ea1",
+      "images": [],
+      "links": [],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "releasedate": "2003-02-17",
+      "releases": [],
+      "secondarytypes": [
+        "Compilation",
+        "DJ-mix"
+      ],
+      "title": "Budapest Engineers",
+      "type": "Album"
+    },
+    "artist": null,
+    "score": 85
+  },
+  {
+    "album": {
+      "aliases": [],
+      "artistid": "2aa11716-178c-4ad5-8583-001ab3a65a06",
+      "artists": [
+        {
+          "artistaliases": [],
+          "artistname": "Low End Activist",
+          "disambiguation": "",
+          "genres": [],
+          "id": "2aa11716-178c-4ad5-8583-001ab3a65a06",
+          "images": [],
+          "links": [
+            {
+              "target": "https://www.discogs.com/artist/6029942",
+              "type": "discogs"
+            },
+            {
+              "target": "https://lowendactivist.bandcamp.com/",
+              "type": "bandcamp"
+            },
+            {
+              "target": "https://tidal.com/artist/9287305",
+              "type": "tidal"
+            }
+          ],
+          "oldids": [],
+          "overview": "",
+          "rating": {
+            "Count": 0,
+            "Value": null
+          },
+          "sortname": "Low End Activist",
+          "status": "active",
+          "type": "Person"
+        }
+      ],
+      "disambiguation": "",
+      "genres": [
+        "Breakbeat",
+        "Dub",
+        "Electronic",
+        "Grime",
+        "Jungle",
+        "Uk Garage"
+      ],
+      "id": "438b7248-721c-47bf-a526-8864e695f9f8",
+      "images": [
+        {
+          "CoverType": "Cover",
+          "Url": "https://imagecache.lidarr.audio/v1/caa/5664ec5d-89aa-4bb3-9efd-807d97f53ced/31084441986-1200.jpg"
+        }
+      ],
+      "links": [],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "releasedate": "2021-02-19",
+      "releases": [
+        {
+          "country": [
+            "[Worldwide]"
+          ],
+          "disambiguation": "",
+          "id": "5664ec5d-89aa-4bb3-9efd-807d97f53ced",
+          "label": [
+            "Low End Activism"
+          ],
+          "media": [
+            {
+              "Format": "Digital Media",
+              "Name": "",
+              "Position": 1
+            }
+          ],
+          "oldids": [],
+          "releasedate": "2021-02-19",
+          "status": "Official",
+          "title": "Engineers Origins",
+          "track_count": 3,
+          "tracks": [
+            {
+              "artistid": "2aa11716-178c-4ad5-8583-001ab3a65a06",
+              "durationms": 307458,
+              "id": "55a7cde8-521d-4700-a333-986d814558cb",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "a962dc8f-2c36-485d-bdb6-7de30ff77005",
+              "trackname": "Engineers Origins",
+              "tracknumber": "1",
+              "trackposition": 1
+            },
+            {
+              "artistid": "2aa11716-178c-4ad5-8583-001ab3a65a06",
+              "durationms": 312250,
+              "id": "44b57169-c52e-41c3-9769-4f78f14e6341",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "4ad8bdef-a85b-4f6e-bd9d-fe90bdf91472",
+              "trackname": "Look Up",
+              "tracknumber": "2",
+              "trackposition": 2
+            },
+            {
+              "artistid": "2aa11716-178c-4ad5-8583-001ab3a65a06",
+              "durationms": 305496,
+              "id": "53a01b82-ab9a-4010-a337-891c1d6d0c0d",
+              "mediumnumber": 1,
+              "oldids": [],
+              "oldrecordingids": [],
+              "recordingid": "25da989d-491e-4c8c-83e9-94c8293ed415",
+              "trackname": "Probability 1",
+              "tracknumber": "3",
+              "trackposition": 3
+            }
+          ]
+        }
+      ],
+      "secondarytypes": [],
+      "title": "Engineers Origins",
+      "type": "EP"
+    },
+    "artist": null,
+    "score": 85
+  },
+  {
+    "album": null,
+    "artist": {
+      "artistaliases": [],
+      "artistname": "Future Engineers",
+      "disambiguation": "",
+      "genres": [
+        "Drum And Bass",
+        "Jungle",
+        "Atmospheric Drum And Bass"
+      ],
+      "id": "8018a618-a49f-4229-90ec-d3e663f1c936",
+      "images": [],
+      "links": [
+        {
+          "target": "http://futureengineers.net/",
+          "type": "futureengineers"
+        },
+        {
+          "target": "https://www.discogs.com/artist/10001",
+          "type": "discogs"
+        },
+        {
+          "target": "https://myspace.com/futureengineers",
+          "type": "myspace"
+        },
+        {
+          "target": "https://www.wikidata.org/wiki/Q5510649",
+          "type": "wikidata"
+        },
+        {
+          "target": "https://soundcloud.com/future-engineers",
+          "type": "soundcloud"
+        },
+        {
+          "target": "https://twitter.com/FutureEngineers",
+          "type": "twitter"
+        },
+        {
+          "target": "http://www.rolldabeats.com/artist/future_engineers",
+          "type": "rolldabeats"
+        },
+        {
+          "target": "https://open.spotify.com/artist/4xMDzqEMcD0GrPoxBBWNGN",
+          "type": "spotify"
+        },
+        {
+          "target": "https://www.deezer.com/artist/1190135",
+          "type": "deezer"
+        },
+        {
+          "target": "https://www.beatport.com/artist/future-engineers/2325",
+          "type": "beatport"
+        },
+        {
+          "target": "https://www.junodownload.com/artists/Future+Engineers/releases/",
+          "type": "junodownload"
+        },
+        {
+          "target": "https://www.youtube.com/channel/UCrNrDlp63NOVpkm6Eyw7vKg",
+          "type": "youtube"
+        }
+      ],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "sortname": "Future Engineers",
+      "status": "active",
+      "type": "Group"
+    },
+    "score": 84
+  },
+  {
+    "album": null,
+    "artist": {
+      "artistaliases": [],
+      "artistname": "The Engineers",
+      "disambiguation": "90's breakbeat/techno, Ron Wells & Steve Turvey",
+      "genres": [],
+      "id": "0c8f43cd-ff3c-46e5-93c3-f328233f42b9",
+      "images": [],
+      "links": [
+        {
+          "target": "https://www.discogs.com/artist/300745",
+          "type": "discogs"
+        }
+      ],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "sortname": "Engineers, The",
+      "status": "active",
+      "type": "Group"
+    },
+    "score": 80
+  },
+  {
+    "album": null,
+    "artist": {
+      "artistaliases": [],
+      "artistname": "Engineers Revenge",
+      "disambiguation": "",
+      "genres": [],
+      "id": "90d2955a-615d-435d-a6eb-0845d2a58b71",
+      "images": [],
+      "links": [
+        {
+          "target": "https://www.discogs.com/artist/95351",
+          "type": "discogs"
+        }
+      ],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "sortname": "Engineers Revenge",
+      "status": "active",
+      "type": "Person"
+    },
+    "score": 79
+  },
+  {
+    "album": null,
+    "artist": {
+      "artistaliases": [],
+      "artistname": "Cheese Engineers",
+      "disambiguation": "",
+      "genres": [],
+      "id": "1ae187af-5e6c-4e52-acf5-919cef3b5651",
+      "images": [],
+      "links": [
+        {
+          "target": "https://www.discogs.com/artist/618498",
+          "type": "discogs"
+        }
+      ],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "sortname": "Cheese Engineers",
+      "status": "active",
+      "type": "Group"
+    },
+    "score": 79
+  },
+  {
+    "album": null,
+    "artist": {
+      "artistaliases": [],
+      "artistname": "House Engineers",
+      "disambiguation": "",
+      "genres": [],
+      "id": "ae11001b-d378-4985-95f0-e52f3dfecd06",
+      "images": [],
+      "links": [
+        {
+          "target": "https://www.discogs.com/artist/208761",
+          "type": "discogs"
+        }
+      ],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "sortname": "House Engineers",
+      "status": "active",
+      "type": "Group"
+    },
+    "score": 79
+  },
+  {
+    "album": null,
+    "artist": {
+      "artistaliases": [],
+      "artistname": "The Engineers",
+      "disambiguation": "Jamaican reggae/dub group",
+      "genres": [],
+      "id": "c5c372ea-3825-49f7-8e13-0434e9a86cc2",
+      "images": [],
+      "links": [
+        {
+          "target": "https://www.discogs.com/artist/5327827",
+          "type": "discogs"
+        }
+      ],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "sortname": "Engineers, The",
+      "status": "active",
+      "type": "Group"
+    },
+    "score": 79
+  },
+  {
+    "album": null,
+    "artist": {
+      "artistaliases": [],
+      "artistname": "Junkword Engineers",
+      "disambiguation": "breakbeat / IDM",
+      "genres": [],
+      "id": "27ebacba-c768-48e0-879b-fd6f352d42a7",
+      "images": [],
+      "links": [],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "sortname": "Junkword Engineers",
+      "status": "active",
+      "type": null
+    },
+    "score": 79
+  },
+  {
+    "album": null,
+    "artist": {
+      "artistaliases": [],
+      "artistname": "Sound's Engineers",
+      "disambiguation": "",
+      "genres": [],
+      "id": "8f162033-cd7a-41c7-800b-fe4432cbeb1f",
+      "images": [],
+      "links": [],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "sortname": "Sound's Engineers",
+      "status": "active",
+      "type": null
+    },
+    "score": 79
+  },
+  {
+    "album": null,
+    "artist": {
+      "artistaliases": [],
+      "artistname": "Poison Engineers",
+      "disambiguation": "Psytrance; Vasco Pedrosa & Helder Coutinho",
+      "genres": [],
+      "id": "c8e982c2-5faa-43e9-9dc9-304be4f91d47",
+      "images": [],
+      "links": [
+        {
+          "target": "https://www.discogs.com/artist/748492",
+          "type": "discogs"
+        }
+      ],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "sortname": "Poison Engineers",
+      "status": "active",
+      "type": "Group"
+    },
+    "score": 79
+  }
+]

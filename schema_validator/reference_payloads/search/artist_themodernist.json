@@ -1,0 +1,5410 @@
+[
+  {
+    "album": null, 
+    "artist": {
+      "artistaliases": [], 
+      "artistname": "The Modernist", 
+      "disambiguation": "", 
+      "genres": [], 
+      "id": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+      "images": [], 
+      "links": [
+        {
+          "target": "http://www.the-modernist.com/", 
+          "type": "the-modernist"
+        }, 
+        {
+          "target": "https://www.discogs.com/artist/6969", 
+          "type": "discogs"
+        }, 
+        {
+          "target": "https://open.spotify.com/artist/21BfjoxdHptm7obdPQhk88", 
+          "type": "spotify"
+        }
+      ], 
+      "oldids": [], 
+      "overview": "", 
+      "rating": {
+        "Count": 1, 
+        "Value": 10.0
+      }, 
+      "sortname": "Modernist, The", 
+      "status": "active", 
+      "type": "Person"
+    }, 
+    "score": 100
+  }, 
+  {
+    "album": {
+      "aliases": [], 
+      "artistid": "aad3af83-5b59-4b86-a569-1a8409149b09", 
+      "artists": [
+        {
+          "artistaliases": [
+            "Copland", 
+            "\u30b3\u30fc\u30d7\u30e9\u30f3\u30c9", 
+            "Aaron Copeland", 
+            "Aaronn Copland", 
+            "Copeland", 
+            "Copland, Aaron", 
+            "Aaron Copland (1900-1990)"
+          ], 
+          "artistname": "Aaron Copland", 
+          "disambiguation": "composer", 
+          "genres": [
+            "Contemporary Classical", 
+            "Modern Classical", 
+            "Classical"
+          ], 
+          "id": "aad3af83-5b59-4b86-a569-1a8409149b09", 
+          "images": [], 
+          "links": [
+            {
+              "target": "https://www.discogs.com/artist/767788", 
+              "type": "discogs"
+            }, 
+            {
+              "target": "https://www.imdb.com/name/nm0178716/", 
+              "type": "imdb"
+            }, 
+            {
+              "target": "http://www.pbs.org/wnet/gperf/education/copland.html", 
+              "type": "pbs"
+            }, 
+            {
+              "target": "https://www.bbc.co.uk/music/artists/aad3af83-5b59-4b86-a569-1a8409149b09", 
+              "type": "bbc"
+            }, 
+            {
+              "target": "https://secondhandsongs.com/artist/17256", 
+              "type": "secondhandsongs"
+            }, 
+            {
+              "target": "http://viaf.org/viaf/51874819", 
+              "type": "viaf"
+            }, 
+            {
+              "target": "https://www.wikidata.org/wiki/Q192185", 
+              "type": "wikidata"
+            }, 
+            {
+              "target": "https://www.allmusic.com/artist/mn0000765838", 
+              "type": "allmusic"
+            }, 
+            {
+              "target": "https://rateyourmusic.com/artist/aaron_copland", 
+              "type": "rateyourmusic"
+            }, 
+            {
+              "target": "https://commons.wikimedia.org/wiki/File:Aaron_Copland_1970.JPG", 
+              "type": "wikimedia"
+            }, 
+            {
+              "target": "https://open.spotify.com/artist/0nJvyjVTb8sAULPYyA1bqU", 
+              "type": "spotify"
+            }, 
+            {
+              "target": "https://itunes.apple.com/us/artist/id319663", 
+              "type": "apple"
+            }, 
+            {
+              "target": "https://www.amazon.com/-/e/B000APO3OO", 
+              "type": "amazon"
+            }, 
+            {
+              "target": "http://soundtrackcollector.com/composer/1326/", 
+              "type": "soundtrackcollector"
+            }, 
+            {
+              "target": "https://www.last.fm/music/Aaron+Copland", 
+              "type": "last"
+            }, 
+            {
+              "target": "https://d-nb.info/gnd/118986481", 
+              "type": "d-nb"
+            }, 
+            {
+              "target": "http://id.loc.gov/authorities/names/n79089419", 
+              "type": "loc"
+            }, 
+            {
+              "target": "https://www.worldcat.org/identities/lccn-n79089419", 
+              "type": "worldcat"
+            }, 
+            {
+              "target": "https://catalogue.bnf.fr/ark:/12148/cb13892722j", 
+              "type": "bnf"
+            }, 
+            {
+              "target": "https://nla.gov.au/nla.party-1182628", 
+              "type": "gov"
+            }, 
+            {
+              "target": "https://openlibrary.org/works/OL891064A", 
+              "type": "openlibrary"
+            }, 
+            {
+              "target": "https://imslp.org/wiki/Category:Copland,_Aaron", 
+              "type": "imslp"
+            }, 
+            {
+              "target": "https://www.ibdb.com/person.php?id=11542", 
+              "type": "ibdb"
+            }, 
+            {
+              "target": "http://snaccooperative.org/ark:/99166/w6tn817d", 
+              "type": "snaccooperative"
+            }, 
+            {
+              "target": "https://www.songkick.com/artists/542074", 
+              "type": "songkick"
+            }, 
+            {
+              "target": "https://www.deezer.com/artist/7416", 
+              "type": "deezer"
+            }, 
+            {
+              "target": "https://tidal.com/artist/7140", 
+              "type": "tidal"
+            }, 
+            {
+              "target": "https://adp.library.ucsb.edu/names/102466", 
+              "type": "ucsb"
+            }, 
+            {
+              "target": "https://music.apple.com/us/artist/319663", 
+              "type": "apple"
+            }, 
+            {
+              "target": "https://music.apple.com/us/artist/319663", 
+              "type": "apple"
+            }
+          ], 
+          "oldids": [], 
+          "overview": "Aaron Copland (, KOHP-l\u0259nd; November 14, 1900 \u2013 December 2, 1990) was an American composer, critic, writer, teacher, pianist, and conductor of his own and other American music. Copland was referred to by his peers and critics as the \"Dean of American Composers\". The open, slowly changing harmonies in much of his music are typical of what many consider the sound of American music, evoking the vast American landscape and pioneer spirit. He is best known for the works he wrote in the 1930s and 1940s in a deliberately accessible style often referred to as \"populist\" and which he called his \"vernacular\" style. Works in this vein include the ballets Appalachian Spring, Billy the Kid and Rodeo, his Fanfare for the Common Man and Third Symphony. In addition to his ballets and orchestral works, he produced music in many other genres, including chamber music, vocal works, opera, and film scores.\nAfter some initial studies with composer Rubin Goldmark, Copland traveled to Paris, where he first studied with Isidor Philipp and Paul Vidal, then with noted pedagogue Nadia Boulanger. He studied three years with Boulanger, whose eclectic approach to music inspired his own broad taste. Determined upon his return to the U.S. to make his way as a full-time composer, Copland gave lecture-recitals, wrote works on commission and did some teaching and writing. But he found that composing orchestral music in a modernist style, which he had adopted while studying abroad, was unprofitable, particularly in light of the Great Depression. He shifted in the mid-1930s to a more accessible musical style that mirrored the German idea of Gebrauchsmusik (\"music for use\"), music that could serve utilitarian and artistic purposes. During the Depression years, he traveled extensively to Europe, Africa, and Mexico, formed an important friendship with Mexican composer Carlos Ch\u00e1vez, and began composing his signature works.\nDuring the late 1940s, Copland became aware that Stravinsky and other fellow composers had begun to study Arnold Schoenberg's use of twelve-tone (serial) techniques. After he had been exposed to the works of French composer Pierre Boulez, he incorporated serial techniques into his Piano Quartet (1950), Piano Fantasy (1957), Connotations for orchestra (1961), and Inscape for orchestra (1967). Unlike Schoenberg, Copland used his tone rows in much the same fashion as his tonal material\u2014as sources for melodies and harmonies, rather than as complete statements in their own right, except for crucial events from a structural point of view. From the 1960s onward, Copland's activities turned more from composing to conducting. He became a frequent guest conductor of orchestras in the U.S. and the UK and made a series of recordings of his music, primarily for Columbia Records.", 
+          "rating": {
+            "Count": 1, 
+            "Value": 6.0
+          }, 
+          "sortname": "Copland, Aaron", 
+          "status": "ended", 
+          "type": "Person"
+        }
+      ], 
+      "disambiguation": "", 
+      "genres": [], 
+      "id": "1e66a327-86f8-32a5-afeb-e2d930a5c952", 
+      "images": [
+        {
+          "CoverType": "Cover", 
+          "Url": "https://imagecache.lidarr.audio/v1/caa/5978f7c0-293a-4414-b818-9bdf4aeb4fff/12710207903-1200.jpg"
+        }, 
+        {
+          "CoverType": "Disc", 
+          "Url": "https://imagecache.lidarr.audio/v1/caa/5978f7c0-293a-4414-b818-9bdf4aeb4fff/12710219228-1200.jpg"
+        }
+      ], 
+      "links": [], 
+      "oldids": [], 
+      "overview": "", 
+      "rating": {
+        "Count": 0, 
+        "Value": null
+      }, 
+      "releasedate": "1996-10-15", 
+      "releases": [
+        {
+          "country": [
+            "United States"
+          ], 
+          "disambiguation": "", 
+          "id": "5978f7c0-293a-4414-b818-9bdf4aeb4fff", 
+          "label": [
+            "RCA Victor Red Seal"
+          ], 
+          "media": [
+            {
+              "Format": "CD", 
+              "Name": "", 
+              "Position": 1
+            }
+          ], 
+          "oldids": [], 
+          "releasedate": "1996-10-15", 
+          "status": "Official", 
+          "title": "Copland: The Modernist", 
+          "track_count": 7, 
+          "tracks": [
+            {
+              "artistid": "aad3af83-5b59-4b86-a569-1a8409149b09", 
+              "durationms": 452333, 
+              "id": "4ca743df-8f50-383c-a70a-3be15e8a6e21", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "7960d96c-f1bb-4853-a7e1-b37eeceb34b3", 
+              "trackname": "Concerto for Piano and Orchestra: I. Andante sostenuto", 
+              "tracknumber": "1", 
+              "trackposition": 1
+            }, 
+            {
+              "artistid": "aad3af83-5b59-4b86-a569-1a8409149b09", 
+              "durationms": 577333, 
+              "id": "fcabcccb-21dd-32c8-ae98-57d7ef029bc8", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "60b3f263-5706-4b02-a3e3-eccdc4eb5135", 
+              "trackname": "Concerto for Piano and Orchestra: II. Molto moderato; Allegro assai", 
+              "tracknumber": "2", 
+              "trackposition": 2
+            }, 
+            {
+              "artistid": "aad3af83-5b59-4b86-a569-1a8409149b09", 
+              "durationms": 817000, 
+              "id": "766d2389-49ac-3cc9-9fb5-f830a1258fae", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "2d52f76e-bde6-4a20-9f6f-13a9e2282683", 
+              "trackname": "Orchestral Variations", 
+              "tracknumber": "3", 
+              "trackposition": 3
+            }, 
+            {
+              "artistid": "aad3af83-5b59-4b86-a569-1a8409149b09", 
+              "durationms": 264266, 
+              "id": "cf2c03fb-4c54-3bf2-9270-8b665e0f138d", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "70e029d3-b02b-4db4-ba73-85e06de7d312", 
+              "trackname": "Symphony No. 2 \"Short Symphony\": I. Incisivo", 
+              "tracknumber": "4", 
+              "trackposition": 4
+            }, 
+            {
+              "artistid": "aad3af83-5b59-4b86-a569-1a8409149b09", 
+              "durationms": 300693, 
+              "id": "a7efd7cb-b9be-367b-94fc-082794e53bc2", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "5852e8e6-74db-4608-8042-aac6708ede9d", 
+              "trackname": "Symphony No. 2 \"Short Symphony\": II. Espressivo", 
+              "tracknumber": "5", 
+              "trackposition": 5
+            }, 
+            {
+              "artistid": "aad3af83-5b59-4b86-a569-1a8409149b09", 
+              "durationms": 360040, 
+              "id": "7bc265e9-b7ce-316f-adcc-ec9feb1d4fec", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "17de5fa3-dc71-425c-abd0-a79d03cb1ca6", 
+              "trackname": "Symphony No. 2 \"Short Symphony\": III. Preciso e ritmico", 
+              "tracknumber": "6", 
+              "trackposition": 6
+            }, 
+            {
+              "artistid": "aad3af83-5b59-4b86-a569-1a8409149b09", 
+              "durationms": 1207333, 
+              "id": "56579253-9bdd-39dc-bf84-4d6367ce517b", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "59ce76e3-f0b9-4c8a-8a42-f51d508f129a", 
+              "trackname": "Symphonic Ode", 
+              "tracknumber": "7", 
+              "trackposition": 7
+            }
+          ]
+        }, 
+        {
+          "country": [
+            "Japan"
+          ], 
+          "disambiguation": "Japanese", 
+          "id": "933f3e50-bf6d-4b34-ac02-b4e4f63d7025", 
+          "label": [
+            "RCA Red Seal"
+          ], 
+          "media": [
+            {
+              "Format": "CD", 
+              "Name": "", 
+              "Position": 1
+            }
+          ], 
+          "oldids": [], 
+          "releasedate": "1997-02-21", 
+          "status": "Official", 
+          "title": "Copland: The Modernist", 
+          "track_count": 7, 
+          "tracks": [
+            {
+              "artistid": "aad3af83-5b59-4b86-a569-1a8409149b09", 
+              "durationms": 452333, 
+              "id": "cf6a6380-0985-4f70-b8be-c8b2e9ff306e", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "7960d96c-f1bb-4853-a7e1-b37eeceb34b3", 
+              "trackname": "Concerto for Piano and Orchestra: I. Andante sostenuto", 
+              "tracknumber": "1", 
+              "trackposition": 1
+            }, 
+            {
+              "artistid": "aad3af83-5b59-4b86-a569-1a8409149b09", 
+              "durationms": 577333, 
+              "id": "d250f19d-ec4b-4145-9f0c-e5f291fcc32a", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "60b3f263-5706-4b02-a3e3-eccdc4eb5135", 
+              "trackname": "Concerto for Piano and Orchestra: II. Molto moderato; Allegro assai", 
+              "tracknumber": "2", 
+              "trackposition": 2
+            }, 
+            {
+              "artistid": "aad3af83-5b59-4b86-a569-1a8409149b09", 
+              "durationms": 817000, 
+              "id": "fc74fa20-8829-48ef-8a14-7585685e4bbd", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "2d52f76e-bde6-4a20-9f6f-13a9e2282683", 
+              "trackname": "Orchestral Variations", 
+              "tracknumber": "3", 
+              "trackposition": 3
+            }, 
+            {
+              "artistid": "aad3af83-5b59-4b86-a569-1a8409149b09", 
+              "durationms": 264266, 
+              "id": "8eb45dc5-e246-48bc-a4ec-93fddc7f5a2d", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "70e029d3-b02b-4db4-ba73-85e06de7d312", 
+              "trackname": "Symphony no. 2 \"Short Symphony\": I. Incisivo", 
+              "tracknumber": "4", 
+              "trackposition": 4
+            }, 
+            {
+              "artistid": "aad3af83-5b59-4b86-a569-1a8409149b09", 
+              "durationms": 300693, 
+              "id": "0ef4d705-a8fa-4ce9-8fa7-cd0494132b6b", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "5852e8e6-74db-4608-8042-aac6708ede9d", 
+              "trackname": "Symphony no. 2 \"Short Symphony\": II. Espressivo", 
+              "tracknumber": "5", 
+              "trackposition": 5
+            }, 
+            {
+              "artistid": "aad3af83-5b59-4b86-a569-1a8409149b09", 
+              "durationms": 360040, 
+              "id": "b4c71d3c-304b-4764-8e67-af6ceef73b81", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "17de5fa3-dc71-425c-abd0-a79d03cb1ca6", 
+              "trackname": "Symphony no. 2 \"Short Symphony\": III. Preciso e ritmico", 
+              "tracknumber": "6", 
+              "trackposition": 6
+            }, 
+            {
+              "artistid": "aad3af83-5b59-4b86-a569-1a8409149b09", 
+              "durationms": 1207333, 
+              "id": "f93d0ff7-376c-4f6c-ad1c-6ba127cf5582", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "59ce76e3-f0b9-4c8a-8a42-f51d508f129a", 
+              "trackname": "Symphonic Ode", 
+              "tracknumber": "7", 
+              "trackposition": 7
+            }
+          ]
+        }
+      ], 
+      "secondarytypes": [], 
+      "title": "Copland: The Modernist", 
+      "type": "Album"
+    }, 
+    "artist": null, 
+    "score": 100
+  }, 
+  {
+    "album": {
+      "aliases": [], 
+      "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+      "artists": [
+        {
+          "artistaliases": [], 
+          "artistname": "The Modernist", 
+          "disambiguation": "", 
+          "genres": [], 
+          "id": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+          "images": [], 
+          "links": [
+            {
+              "target": "http://www.the-modernist.com/", 
+              "type": "the-modernist"
+            }, 
+            {
+              "target": "https://www.discogs.com/artist/6969", 
+              "type": "discogs"
+            }, 
+            {
+              "target": "https://open.spotify.com/artist/21BfjoxdHptm7obdPQhk88", 
+              "type": "spotify"
+            }
+          ], 
+          "oldids": [], 
+          "overview": "", 
+          "rating": {
+            "Count": 1, 
+            "Value": 10.0
+          }, 
+          "sortname": "Modernist, The", 
+          "status": "active", 
+          "type": "Person"
+        }
+      ], 
+      "disambiguation": "", 
+      "genres": [
+        "Electronic", 
+        "Techno", 
+        "Minimal Techno"
+      ], 
+      "id": "f943ef14-86f6-3b2c-800d-747247ab1603", 
+      "images": [], 
+      "links": [], 
+      "oldids": [], 
+      "overview": "", 
+      "rating": {
+        "Count": 0, 
+        "Value": null
+      }, 
+      "releasedate": "2001-05-28", 
+      "releases": [
+        {
+          "country": [
+            "Germany"
+          ], 
+          "disambiguation": "", 
+          "id": "694719a1-c2ca-46c2-bb75-387922fdcf88", 
+          "label": [
+            "Kompakt"
+          ], 
+          "media": [
+            {
+              "Format": "12\" Vinyl", 
+              "Name": "", 
+              "Position": 1
+            }
+          ], 
+          "oldids": [], 
+          "releasedate": "2001-05-28", 
+          "status": "Official", 
+          "title": "4 remixe f\u00fcr The Modernist", 
+          "track_count": 4, 
+          "tracks": [
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 539000, 
+              "id": "692c2e89-fda0-31db-bb77-2fcc752dcdda", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "507d1720-ee1a-4530-820d-05f6486d65a0", 
+              "trackname": "Manson Soup (Wassermann remix)", 
+              "tracknumber": "A1", 
+              "trackposition": 1
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 163000, 
+              "id": "7687788f-15f1-3548-90f3-dbafc2e7785e", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "c7315cad-aa02-4ca8-8f8e-3666647c30f0", 
+              "trackname": "Manson Soup (All remix)", 
+              "tracknumber": "A2", 
+              "trackposition": 2
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 335000, 
+              "id": "b8e00d84-eebf-3a05-889e-9d45082ae07d", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "157db2e1-9fc9-467f-aec7-ef7e67754caf", 
+              "trackname": "Face Working (Freiland remix)", 
+              "tracknumber": "B1", 
+              "trackposition": 3
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 392000, 
+              "id": "f9d8128b-816d-3c16-ae22-5370aaaceac1", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "14c0c103-cb96-4531-9688-53a89c96b13b", 
+              "trackname": "Dali Bop Horizon (Auftrieb remix)", 
+              "tracknumber": "B2", 
+              "trackposition": 4
+            }
+          ]
+        }
+      ], 
+      "secondarytypes": [
+        "Remix"
+      ], 
+      "title": "4 remixe f\u00fcr The Modernist", 
+      "type": "Other"
+    }, 
+    "artist": null, 
+    "score": 80
+  }, 
+  {
+    "album": {
+      "aliases": [], 
+      "artistid": "89ad4ac3-39f7-470e-963a-56509c546377", 
+      "artists": [
+        {
+          "artistaliases": [
+            "Superpitscher"
+          ], 
+          "artistname": "Superpitcher", 
+          "disambiguation": "", 
+          "genres": [], 
+          "id": "75224f04-739d-4cef-abe3-d6940e7a1139", 
+          "images": [], 
+          "links": [
+            {
+              "target": "https://www.discogs.com/artist/6648", 
+              "type": "discogs"
+            }, 
+            {
+              "target": "https://en.wikipedia.org/wiki/Superpitcher", 
+              "type": "wikipedia"
+            }, 
+            {
+              "target": "https://www.wikidata.org/wiki/Q121852", 
+              "type": "wikidata"
+            }, 
+            {
+              "target": "https://superpitcherkompakt.bandcamp.com/", 
+              "type": "bandcamp"
+            }, 
+            {
+              "target": "https://open.spotify.com/artist/55BdmUTmTmoUNOFQxm54k5", 
+              "type": "spotify"
+            }, 
+            {
+              "target": "https://www.deezer.com/artist/6375", 
+              "type": "deezer"
+            }, 
+            {
+              "target": "https://music.apple.com/de/artist/35295799", 
+              "type": "apple"
+            }, 
+            {
+              "target": "https://www.beatport.com/artist/superpitcher/7475", 
+              "type": "beatport"
+            }
+          ], 
+          "oldids": [], 
+          "overview": "", 
+          "rating": {
+            "Count": 0, 
+            "Value": null
+          }, 
+          "sortname": "Superpitcher", 
+          "status": "active", 
+          "type": "Person"
+        }, 
+        {
+          "artistaliases": [
+            "\u0645\u062e\u062a\u0644\u0641 \u0627\u0644\u0641\u0646\u0627\u0646\u064a\u0646", 
+            "\uc5ec\ub7ec \uc544\ud2f0\uc2a4\ud2b8", 
+            "Various Artists", 
+            "Diverse Artiesten", 
+            "Diverse Artister", 
+            "Diverse Interpreten", 
+            "Diverse kunstnere", 
+            "V\u00e1rios artistas", 
+            "Varios artistas", 
+            "Erinevad esitajad", 
+            "\u00c7e\u015fitli sanat\u00e7\u0131lar", 
+            "R\u00f3\u017cni wykonawcy", 
+            "Nhi\u1ec1u ca s\u0129", 
+            "Razli\u00e8ni izvajalci", 
+            "Artistiaid Amrywiol", 
+            "Diverse", 
+            "Skratch 'N Sniff", 
+            "Diverse Artistar", 
+            "Blandade artister", 
+            "\u0420\u0456\u0437\u043d\u0456 \u0432\u0438\u043a\u043e\u043d\u0430\u0432\u0446\u0456", 
+            "\u7fa4\u661f", 
+            "\u0e23\u0e27\u0e21\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19", 
+            "Razni Izvo\u0111a\u010di", 
+            "Razni Izvo\u0111a\u010di", 
+            "Iedereen", 
+            "Razni Izvo\u0111a\u010di", 
+            "\u00ddmsir hlj\u00f3\u00f0f\u00e6raleikarar", 
+            "Vari", 
+            "Various Artists", 
+            "\u012evair\u016bs atlik\u0117jai", 
+            "\u0440\u043e\u0437\u043d\u044b\u044f \u0432\u044b\u043a\u0430\u043d\u0430\u045e\u0446\u044b", 
+            "diversos artistes", 
+            "R\u016fzn\u00ed interpreti", 
+            "Pluraj artistoj", 
+            "Hainbat artista", 
+            "\u0647\u0646\u0631\u0645\u0646\u062f\u0627\u0646 \u0645\u062e\u062a\u0644\u0641", 
+            "Eri esitt\u00e4ji\u00e4", 
+            "Vari\u00e9s", 
+            "Multi-artistes", 
+            "Compilation", 
+            "Multi\u2010interpr\u00e8tes", 
+            "\u0394\u03b9\u03ac\u03c6\u03bf\u03c1\u03bf\u03b9 \u039a\u03b1\u03bb\u03bb\u03b9\u03c4\u03ad\u03c7\u03bd\u03b5\u03c2", 
+            "\u30f4\u30a1\u30ea\u30a2\u30b9\u30fb\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8", 
+            "R\u00f3\u017cni", 
+            "KZOK 102.5FM", 
+            "\u0420\u0430\u0437\u043d\u044b\u0435 \u0430\u0440\u0442\u0438\u0441\u0442\u044b", 
+            "\u0420\u0430\u0437\u043d\u0438 \u0438\u0437\u0432\u0435\u0434\u0443\u0432\u0430\u0447\u0438", 
+            "Miscellaneous", 
+            "Bypass Audio", 
+            "Reinelex Records", 
+            "(Karaoke) Various Artists", 
+            "Wszyscy artysci", 
+            "Artisti vari", 
+            "Blandat", 
+            "Various (not original artists)", 
+            "Omnibus", 
+            "DESKPOP", 
+            "Verschiedene Interpreten", 
+            "WiddFam", 
+            "Int\u00e9rpretes Diversos", 
+            "Rizni vykonavtsi", 
+            "\u0440\u0456\u0437\u043d\u0438\u0445 \u0432\u0438\u043a\u043e\u043d\u0430\u0432\u0446\u0456\u0432", 
+            "\u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0438\u0441\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u0435\u0439", 
+            "Div. kunstnere", 
+            "Icelandic Folk Music", 
+            "Various Items", 
+            "Mixed Artists", 
+            "AAVV", 
+            "KC101\u2014Connecticut's #1 Hit Music Station", 
+            "Divers", 
+            "30 Vermont Artists", 
+            "Various Big Bands", 
+            "Various artists from CISM 89,3 FM", 
+            "Amrywiol", 
+            "Fitness Workout Music", 
+            "The Metal Observer", 
+            "Various DJ's", 
+            "Blandede Kunstnere", 
+            "Bassrush", 
+            "R\u00f3\u017cni arty\u015bci", 
+            "Colet\u00e2nea", 
+            "\u0e2b\u0e25\u0e32\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19", 
+            "Various Female Artists", 
+            "Varias Artistas", 
+            "Multi-interpr\u00e8tes", 
+            "T\u1ed1p ca", 
+            "Razni", 
+            "\u038c\u03bb\u03bf\u03b9", 
+            "Diverse componisten", 
+            "\u0420\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0435 \u0438\u0441\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u0438", 
+            "Woman & Home / Classic FM", 
+            "V\u00e1rios int\u00e9rpretes", 
+            "V. Artist", 
+            "Insomniac Music Group", 
+            "H\u1ee3p ca", 
+            "[Various Artists]", 
+            "Multiple Artists", 
+            "Sampler", 
+            "Various 80's", 
+            "\u30f4\u30a1\u30ea\u30a2\u30b9", 
+            "Assorted Artists", 
+            "Bande originale", 
+            "V\u00e1rios Artistas", 
+            "Rizni vykonavci", 
+            "Vari Artisti", 
+            "Battle of the Bits", 
+            "\u30aa\u30e0\u30cb\u30d0\u30b9", 
+            "Siren Cues", 
+            "Time Life Music: Various Artists", 
+            "Assorted Christian Artists", 
+            "\u015awiatowe Przeboje", 
+            "Danske Kunstnere", 
+            "Encrypted Audio", 
+            "Artistes divers", 
+            "Nhi\u1ec1u Ngh\u1ec7 S\u0129", 
+            "razlichnye ispolniteli", 
+            "Nhi\u1ec1u ngh\u1ec7 s\u0129", 
+            "Erinevad", 
+            "Various Composers", 
+            "More artists", 
+            "Verschiedene Interpret:innen", 
+            "Dominicanos Varios", 
+            "V\u00e1rios", 
+            "Varios Artistas", 
+            "\u3055\u307e\u3056\u307e\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8", 
+            "Various Artists (Rock)", 
+            "Coll\u00e9giale", 
+            "Various Military Bands", 
+            "T\u1ed1p ca nam", 
+            "Verschiedene", 
+            "Various", 
+            "La Historia de la Fania", 
+            "Various Speakers", 
+            "Varios", 
+            "American Folk Blues Festival", 
+            "Collectif", 
+            "A.A.V.V.", 
+            "Comp.", 
+            "Varied", 
+            "Diverse danske artister", 
+            "Various Artist - GoGo Wonderful", 
+            "Cheapbeats", 
+            "AA.VV.", 
+            "Diversen", 
+            "(various)", 
+            "Artistes vari\u00e9s", 
+            "Compilaciones", 
+            "Vari\u00e9es", 
+            "Various (original artists)", 
+            "Diverse Kunstnere", 
+            "Planets Of The Universe", 
+            "Various Celtic Artists", 
+            "Circus Records", 
+            "Various Talented Artists", 
+            "\u30f4\u30a1\u30ea\u30a2\u30b9\u30fb\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8", 
+            "[\u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0435 \u0438\u0441\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u0438]", 
+            "Multi\u2010interpr\u00e8tes", 
+            "versch. K\u00fcnstler"
+          ], 
+          "artistname": "Various Artists", 
+          "disambiguation": "add compilations to this artist", 
+          "genres": [], 
+          "id": "89ad4ac3-39f7-470e-963a-56509c546377", 
+          "images": [], 
+          "links": [
+            {
+              "target": "https://www.wikidata.org/wiki/Q3108914", 
+              "type": "wikidata"
+            }, 
+            {
+              "target": "https://www.discogs.com/artist/194", 
+              "type": "discogs"
+            }, 
+            {
+              "target": "https://www.last.fm/music/Various+Artists", 
+              "type": "last"
+            }, 
+            {
+              "target": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of", 
+              "type": "spotify"
+            }, 
+            {
+              "target": "https://music.amazon.com/artists/B000QJO93Y", 
+              "type": "amazon"
+            }
+          ], 
+          "oldids": [
+            "b27e13b9-3345-409b-bd18-9bee7bea4d31", 
+            "edf19b09-6ce1-4850-9496-6cff013d78aa", 
+            "9a055a9e-bd52-4c4c-a2f0-f68f8c52425d", 
+            "a3075ab3-7cbe-4113-9cd0-a34f74c48cbb", 
+            "3c03cd2e-1380-45fe-8cb7-3c8caedae375", 
+            "0790b915-72d3-459c-9a4f-d259385e9d39", 
+            "06c4fe6f-8b6f-4e1e-9612-fe4a88ecfc34", 
+            "db2f1bdd-7224-44a6-8575-fa306fcf526b", 
+            "74ed5e11-54a3-49b7-9f58-155e3606a2b3", 
+            "097c2a71-6419-47c3-a0a5-fe051faf80d3", 
+            "630e20ac-efd3-45b5-9022-ae6f265f4539", 
+            "3cb6343f-ddf0-45ae-a47d-830f8b3391c0", 
+            "24074c0b-9a80-4002-b29a-cb1bfef2ce4d", 
+            "280d8900-4235-468d-ad26-7a7bb7c300d3", 
+            "8e355254-4c8b-417b-868b-688f23ef235e", 
+            "9a247ca1-e571-417c-9506-529fae747602", 
+            "9626c778-5ee7-4ef0-86a2-6689f5b447dd", 
+            "11cbacaf-d336-4de8-ac41-87ea24a10fe9", 
+            "53188937-1113-4af3-9223-09727662fe60", 
+            "0cab173f-2f9b-4dd5-a152-bc297d8f2c54", 
+            "d5083ab6-2b31-4bbd-9a94-ec8694afefe7", 
+            "ae05b71d-f95d-41b2-82bf-6cabcc23fa59", 
+            "b05cc773-4e8e-40bc-ae12-dc88dfc2c9ec", 
+            "ec42da79-0a72-480f-a678-c3d685687f2e", 
+            "2d61d764-af6a-4bda-a7a2-bf233d2ef84f", 
+            "28369487-c9c7-4807-97ee-fbf4a652b51c", 
+            "2c49e865-9f79-4505-bd3d-1dde9178f55c", 
+            "82e06622-27d8-4551-b1e4-2f13aad057fb", 
+            "4f5280fb-e972-4a35-9b20-65e274ac5eea", 
+            "083c0de4-a20b-456f-88f0-9e94064f99e0", 
+            "fc67d87a-8e21-456b-a4e9-a71116635541", 
+            "54f6287f-4efe-4de2-b3b5-3c0f3b65ed6e", 
+            "f0b45824-77c9-4e1b-a998-25ddd583f985", 
+            "ba6da412-f368-4f71-b5fb-0d891d532c7a", 
+            "b661bf76-3942-4dda-b13f-7b3e7b420d06", 
+            "9d6c4989-b8ce-4d7f-a438-61de7e7224ac", 
+            "7fa5a74b-5985-4f6b-b28d-7084c08def74", 
+            "08ceaf04-01bb-4571-a7b4-669adc9f3404", 
+            "79e2cd50-b11f-4e9b-8ae4-922e293abf6d", 
+            "dae1ca2b-6a02-423d-b88a-cc3a74292788", 
+            "909d0684-eb44-4bce-af5b-22de293ac018", 
+            "d2a33a08-422e-41ee-9d93-dbe8d8b0c45d", 
+            "d24f5f41-1838-413b-a31a-2ef19dbc811b", 
+            "931a0538-087c-49b4-a426-d35598181872", 
+            "e5e572ad-314a-4507-9fc3-24abcfa91f8f", 
+            "a4eaa68b-5ce2-4719-a54b-19d6a6a2cfb2", 
+            "6c32b67c-a971-4845-a2c0-f6acf7460eb7", 
+            "d7f45b49-c757-41c9-90a1-e2a52179bbad", 
+            "6a106315-3f09-4e4d-a0dc-3828ae535d9f", 
+            "12b593aa-dc12-4491-8794-5fb8daf6e7c1", 
+            "f29e7564-28f1-443e-88b3-6e725eca2fad", 
+            "d644387f-3f74-4796-964d-1249c5a8ac82", 
+            "4e72df4a-5eee-4083-a3c3-d9004bc361fb", 
+            "37986e59-2a97-4162-8e0a-003a79fc516b", 
+            "eb45f386-994c-4080-aa7b-652ee9e12257", 
+            "b656e1ba-d54d-4eaa-ae6c-c7dd55717fc7", 
+            "fe5b7087-438f-4e7e-afaf-6d93c8c888b2", 
+            "6586b15d-12a9-4996-b0b1-4c199d79cf05", 
+            "764691cc-1719-4a72-aca9-d23094d1c271", 
+            "d824e804-7884-479e-a3f3-05b9eec62e66", 
+            "a6a7e316-8c2d-45d4-af62-aaa8927ac2ad", 
+            "f43e012e-7a47-4e3e-bc07-4c5bef94d100", 
+            "8fa057a8-ccfa-415e-9f43-fb02f3c8e3f8", 
+            "3253a7fb-3123-477d-9ce5-528ba99c6e4a", 
+            "0a81859a-6147-47b4-9cd5-6fd3ec087701", 
+            "da6117f1-7cb4-449e-b5d3-1eb4ea874325", 
+            "36cf067b-4099-403e-874e-bd90cf92ec45", 
+            "e0e8b04c-7bc9-468a-a867-dbbaae440e58", 
+            "7f086c12-28d3-409e-99e0-1c1dc8bd0520", 
+            "8d0bfec0-6019-47a7-98d6-7e5848e02efc", 
+            "c24d296f-a0f7-4d43-8aea-7101dae41b77", 
+            "1125cbff-bb3d-411e-8d09-241371645ded", 
+            "fce10259-cfe7-4101-8622-243c737a2419", 
+            "a3a3c177-1de2-469a-9ebb-3e6318063ca3", 
+            "2f322b3a-a46d-424b-81eb-e81127098362", 
+            "7d725319-3487-4fe2-8b58-f8cce4107a5f", 
+            "c4ea0712-594c-4d3a-b008-76ccbb2a2a82", 
+            "692fa30a-c4d2-40a3-abed-e3b8f18e0b58", 
+            "e61bde7e-128b-44f7-9307-4ec93299ffb2", 
+            "dde6a17e-92d7-4250-a7e0-2fd5e41b8ed3", 
+            "5ed359a3-5751-4520-a3f6-c0c57d97504e", 
+            "354e2f0c-4d56-486a-8774-d467a376fc24", 
+            "d372159f-552d-420a-9a33-473bedf06f2d", 
+            "0677ef60-6be5-4e36-9d1e-8bb2bf85b981", 
+            "190ae78c-ef03-4bd1-8c98-8f23fc366f45", 
+            "6536f2ea-31e0-4281-8596-3c3965389906", 
+            "11d838c0-42ac-4e0d-aad3-2735ea76db1e", 
+            "4724d425-912f-458d-8b84-43d03b7248a2", 
+            "c9150f2a-fae3-47df-b173-d35a2282e9d5", 
+            "2667e765-9f58-47e8-803a-7b547e4ae360", 
+            "d2255f75-3131-40c9-9072-847b57d1ff22", 
+            "0c08a941-5c65-4a3d-b016-f53d72b01dfa", 
+            "abe12c00-bb44-4553-bcdb-d8bab51adc09", 
+            "ceb9f91b-0d65-4ae0-b651-85db8b017fae", 
+            "a6b996ba-cc63-4110-bfcf-7eaac84bf003", 
+            "5613e616-45ef-4c81-bd1d-93d34528b44e", 
+            "b7c7dfd9-d735-4733-9b10-f060ac75bd6a", 
+            "daf0f1b8-db8a-475e-a740-522f2595c591", 
+            "3d51b528-0e77-414a-94ac-7a42b520f42d", 
+            "74f44a6f-14fa-46ef-a79a-f354f459e0bf", 
+            "9bf13ac9-694a-4245-8f57-6ae62344aa1d", 
+            "f7675c2a-b5e3-4023-9d95-b2a097ba5ee5", 
+            "8bd21e5d-3fd2-4777-80ed-ea5ff403eaaa", 
+            "53efe316-3b61-4848-ba56-5dba417f2761", 
+            "1fe986f4-a547-4f18-a844-79a1bc12d414", 
+            "96eb30d3-b0df-4998-9388-56c7dbd47879", 
+            "4b2228f5-e18b-4acc-ace7-b8db13a9306f", 
+            "084773d5-7cb5-4053-8086-690677d7ae12", 
+            "0b1b2b46-e50e-4693-aad8-b8e072340f38", 
+            "4e9e4151-3b7d-4b05-b087-9946dbc3f546", 
+            "a833bafd-ea15-4cd4-8d93-1ede38afd2c9", 
+            "ebee2b53-8111-4e39-8c04-4369dfb40486", 
+            "b480cee0-00aa-410b-b62b-8a179baf68fd", 
+            "1d23b94d-6bca-40bb-a394-e77b4cefd899", 
+            "81783a39-c73b-4635-87df-d9a78b50c299", 
+            "38b3ec7f-b373-4e83-91dd-83d0a97db028", 
+            "c1285d61-7c5a-4689-ad1c-8d74575e74b2", 
+            "4ed1c213-4e94-4e2a-9c65-146481d1d572", 
+            "dace59c4-2408-4f1a-a3f5-102794a92fd0", 
+            "cf9e3513-dda2-4804-8963-6fb13a8e1003", 
+            "5627accb-3923-4828-a286-7704fec8e569", 
+            "ae17ca7f-078c-4779-a21c-9c8ddafb56ee", 
+            "2ecc693e-9bf3-4439-a542-bc872d876be4", 
+            "da65a369-0f9c-48a0-a33e-89a9af6a835f", 
+            "1c263eca-3812-49de-a70d-b5f0085245db", 
+            "a5dd1ae9-ed24-452e-91d2-715ccd5d60f3", 
+            "046c889d-5b1c-4f54-9c7b-319a8f67e729", 
+            "3172c80c-77d5-490d-a10f-5b341d66c1f4", 
+            "8b17dc6d-7610-40ad-a50f-e08b9e91fbd7", 
+            "63c50e81-f32d-4aa0-a20f-e9c30af11b4a", 
+            "1bf34db2-8447-4ecd-9b25-57945b28ef28", 
+            "c2d79ce2-698d-4bfc-a8ac-370cd81aa852", 
+            "f1a0272f-b656-4ec6-b840-ada446ed8676", 
+            "bbac5676-deb3-4c5c-8977-73388cab6ee9", 
+            "023671ff-b1ad-4133-a4f3-aadaaadfd2e0", 
+            "ca3b3ba5-9634-4137-a9d0-f925d35535ad", 
+            "e9a339df-5bd4-473d-8d75-d00ce876a28f", 
+            "5fd51551-690d-4363-a9fb-44cd0991b5a4", 
+            "d2ba1c02-fcc8-4422-b1b8-ed60eb939280", 
+            "eea6d62f-013a-487a-b329-56e711c9292e", 
+            "8efc66e3-a5a0-49d1-96ed-dc15e602aa07", 
+            "e7cfef75-51e3-47c4-bb5e-081e47b23512", 
+            "caece824-fab6-4256-a867-8ed0eb4a7e03", 
+            "b11f945e-3bad-4b6d-8a05-b88fc0c67ac9", 
+            "b355f387-4708-479d-a376-7848742b4b89", 
+            "b9debf9a-08d9-4917-96e0-133f23353fc2", 
+            "e9563a0e-384e-4cbe-8d49-5c8d4b5079a6", 
+            "548bfbb6-7e32-4913-9c18-a4a9f497ac07", 
+            "40892d7c-c3b6-4d98-b95b-8ce406cb6e85", 
+            "e5257d66-38f3-466a-80da-0d5413a524b9", 
+            "d09e6550-56d0-4569-946e-b5d88e41d7d6", 
+            "5b335798-0e1e-4e50-a94b-29d1397f3278", 
+            "59077f25-16e5-468a-8387-1890685c41a1", 
+            "9b4f9704-9867-4f87-b3aa-e3d7a6731b99", 
+            "4d3decba-dff0-4672-b4bc-cacf26db763f", 
+            "206c8b69-ca90-44e6-9d73-ffea6cd4701f", 
+            "706d301c-5707-45c4-b861-5f92fd551b65", 
+            "823f2472-e42d-4f51-8487-ea9584a6a3f4", 
+            "d22e7b63-f245-4bb3-aa90-37fcaabc248a", 
+            "1f8433d5-2379-4d84-96ac-c36652e8e5b1", 
+            "c63bb47e-517c-4a36-8249-d6e36617bd71", 
+            "bd9d34fa-887e-49ec-a1eb-45602a0d13da", 
+            "b51e13d3-c6bd-4932-a8cc-c5eb1aa5e116", 
+            "47a8680c-0f2d-47c2-8c72-52f955efabe3", 
+            "841091ae-cd5f-4bcd-9f7e-07a6beb43be7", 
+            "be7d92fa-f95a-44e9-a609-4a0f88442373", 
+            "6f3623ee-e327-4e13-aed7-5e31176e2caf", 
+            "ffd63882-753c-40fb-be9c-ce0f499d7c2e", 
+            "2f5055fd-91f7-485c-b251-6d9485ba18fb", 
+            "ad01a975-7564-4e1d-9961-58f88ba7e434", 
+            "76ea3634-e7d9-4d1f-9d00-d2a5fe8ff21f", 
+            "6352f00e-5169-4dd3-b216-30d56007f480", 
+            "ea58b1ed-3027-49c0-aedc-c88d05083c67", 
+            "6fef2261-87bd-4824-9e9b-12f33b4656e1", 
+            "2555f468-dfe3-48c7-b27f-fcd123effb5c", 
+            "d02287fe-8a8e-4bcb-b6c1-01de0f9bf4e4", 
+            "052a06ae-4775-466e-bb9a-52467c8b9eb2", 
+            "a887ee8c-7f88-48f4-8968-b716299d0628", 
+            "6d00b16a-8620-42ce-a331-dd9a8cbf3c53", 
+            "94c477be-930a-4467-bc07-ca245a4488fd", 
+            "228838e8-b69d-42c0-a783-383630914104", 
+            "0cb5de0a-ab1c-44c7-ba54-040eef74b163", 
+            "989b75c1-d6fd-426b-a1a9-32c49dea761f", 
+            "82984875-0341-4dd5-a4e7-4dd4b4ccdccd", 
+            "a01d8fb6-41ed-4c77-8f5f-9e9fac525cd3", 
+            "6768bbb8-3c20-499f-b19d-5533cabedcc5", 
+            "2224d362-0424-44aa-a3bb-03211dac4c96", 
+            "4d3ef009-6e7d-49e1-aed5-f9226116d9bf", 
+            "50682e46-7097-476c-aca4-812bf0d58d16", 
+            "9cfc6897-b34a-45a7-b78e-ff627631a1da", 
+            "56fe72ac-85b2-40e1-9171-90435ebd0424", 
+            "17190b17-7e64-43ae-aa9e-e319a18fb1b9", 
+            "77831e15-a178-4d63-8199-6af1a277af68", 
+            "7a96113d-d419-4854-970d-cd2552336cb1", 
+            "ea3e6712-c68b-4bca-9154-983e76ec5dc3", 
+            "e5ef9a77-9d04-42f9-a28f-e49ac0b1984c", 
+            "7e196ffb-e85a-4b97-b259-b2ff54cb46b1", 
+            "f52f489d-675a-432c-9fe0-42a5d9ee502b", 
+            "c9c32f88-3126-40e8-afee-6e43d10a3663", 
+            "bf16d505-28f4-451d-af34-b02c8e4b0a8e", 
+            "6976a740-c3d8-42f5-8d46-34815a0a2c38", 
+            "e7d1bab5-2c4f-4c4c-a02b-bbe50a16318d", 
+            "1a301530-f13a-429c-a878-4e9a911fe987", 
+            "022ddcda-0a86-4cec-a8de-f3d4efe435d6", 
+            "a18685fb-2792-4bae-a319-119c31d1f068", 
+            "7e9b5ee1-dcae-4b6e-bc0e-536aedc4aea1", 
+            "e0c1d5fd-9df5-46f0-9008-54740fe8fc13", 
+            "5093fc1b-ccf3-4673-9094-46d060fc320c", 
+            "b431b9cf-500c-4029-b63e-df711127580b", 
+            "7011e870-fdca-4fa5-bcb9-104b1251cf5c", 
+            "09848e75-117f-45a4-8165-5e3d37a10cdc", 
+            "77cab93d-fa2b-4f6d-bc98-1226e47f0849", 
+            "6912e871-118f-42e0-88ee-e35b4db4a362", 
+            "aecf32a1-5342-4474-95e0-cab858307252", 
+            "0f3db8d9-6142-4a49-a20e-f233e8b9fa9c", 
+            "880ae6b7-5087-493a-b9fb-eda8fbb21532", 
+            "9baeedbd-3463-4f20-a68d-3f09acdeea71", 
+            "97b4e668-6bbd-4b85-b5f2-f0c976eda639", 
+            "cb97874e-275d-4cf2-8321-f0be25760f09", 
+            "77159a2d-de62-4570-811f-81afae916cf3", 
+            "13c38add-7f7d-479c-bce5-895185bdf79d", 
+            "2634c89b-17c0-4eff-a32b-ac9e90cef885", 
+            "bf8ac6ac-febe-4cde-a6e0-642ac95449f5", 
+            "88952a93-3c8d-4fec-884c-c7182c49b363", 
+            "9b098e71-bc90-4ea6-91a7-f037a54e3a25", 
+            "c2e3c75c-0739-4722-a110-ba36829c6f92", 
+            "8d764342-4446-45ea-b1c9-e44fe4c964db", 
+            "45404354-ed64-42e9-b4e8-6e7535acfa16", 
+            "d01e6b60-95fd-4df6-822d-3b2f4861f578", 
+            "4237ee08-0992-4592-9ad6-a03f4e00b4f8", 
+            "7d9291e1-28e4-4abd-8d23-75a15272029e", 
+            "1eaf8c8c-f85f-49ce-b36b-28a2f0b059f0", 
+            "45f2af94-f5a1-4078-a345-655c44509475", 
+            "1db15425-88ab-4c0e-a273-2e10828a1aef", 
+            "8ecbaf81-b766-4606-b6ab-9046b46280ed", 
+            "1a3c3a99-7d9f-48c6-b571-a324ebb0d3c5", 
+            "73561ef5-3bfc-4371-b70a-1b025e493219", 
+            "8e02bdd1-aa7b-4c03-93c9-db4be69661fc", 
+            "2c66220f-eed9-4f08-a527-066b4203acbd", 
+            "0ee30ae7-c63c-4e96-8984-25d6e7dd5de1", 
+            "07822781-9977-4c9c-83d4-3b3d1f4ca4c4", 
+            "d78452bb-5e32-401e-a22c-6b3a0860e333", 
+            "4fddc9d3-64c1-4880-a074-16686aca2652", 
+            "1f034275-a260-4f82-8fd3-354a6011c4fd", 
+            "5ec6c7d1-25c6-4688-8035-8b0788a3f12e", 
+            "aeddbd78-5b78-4062-854b-3728897a3105", 
+            "c1afd35e-d0c8-438d-86cf-92e9a524e7c6", 
+            "41b96bfa-fcdc-44d1-b0cd-a57be7fbfa46", 
+            "fbbed106-ca4b-4299-9e2a-14bc23cf628d", 
+            "ece697bf-a5b5-47ca-a5f8-87b7005f2e7c", 
+            "51614e8d-95df-448d-95cf-4180ba04e7b8"
+          ], 
+          "overview": "", 
+          "rating": {
+            "Count": 34, 
+            "Value": 8.1
+          }, 
+          "sortname": "Various Artists", 
+          "status": "active", 
+          "type": "Other"
+        }, 
+        {
+          "artistaliases": [
+            "Closer Music", 
+            "Closer Muskik", 
+            "Closer Muzik"
+          ], 
+          "artistname": "Closer Musik", 
+          "disambiguation": "", 
+          "genres": [], 
+          "id": "5ad42a9e-8382-4bb4-919e-d53f8fe68866", 
+          "images": [], 
+          "links": [
+            {
+              "target": "https://www.discogs.com/artist/6646", 
+              "type": "discogs"
+            }, 
+            {
+              "target": "https://open.spotify.com/artist/2j7JwncWKK8w0Lfb2xjKdy", 
+              "type": "spotify"
+            }, 
+            {
+              "target": "https://www.deezer.com/artist/582", 
+              "type": "deezer"
+            }, 
+            {
+              "target": "https://music.apple.com/de/artist/67675069", 
+              "type": "apple"
+            }
+          ], 
+          "oldids": [
+            "a18ea44f-b69d-4ffa-8aa0-a1a773efb2dd"
+          ], 
+          "overview": "", 
+          "rating": {
+            "Count": 0, 
+            "Value": null
+          }, 
+          "sortname": "Closer Musik", 
+          "status": "active", 
+          "type": "Group"
+        }
+      ], 
+      "disambiguation": "", 
+      "genres": [], 
+      "id": "e9ee8df7-b5d2-3298-8343-cd15f4d0debb", 
+      "images": [], 
+      "links": [], 
+      "oldids": [], 
+      "overview": "", 
+      "rating": {
+        "Count": 0, 
+        "Value": null
+      }, 
+      "releasedate": "2006-09-04", 
+      "releases": [
+        {
+          "country": [
+            "Germany"
+          ], 
+          "disambiguation": "", 
+          "id": "6f17b944-44cd-411c-99bb-7dfca3e7856e", 
+          "label": [], 
+          "media": [], 
+          "oldids": [], 
+          "releasedate": "2006-09-04", 
+          "status": "Official", 
+          "title": "The Modernist Presents \"Popular Songs\"", 
+          "track_count": 2, 
+          "tracks": [
+            {
+              "artistid": "5ad42a9e-8382-4bb4-919e-d53f8fe68866", 
+              "durationms": null, 
+              "id": "892b459e-d7a0-3102-845d-d85569c499c2", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "f66eb8b9-b974-42f0-8ec3-24de762729e6", 
+              "trackname": "One Two Three (No Gravity) / Microho", 
+              "tracknumber": "1", 
+              "trackposition": 1
+            }, 
+            {
+              "artistid": "75224f04-739d-4cef-abe3-d6940e7a1139", 
+              "durationms": null, 
+              "id": "9c5569bd-6d03-367c-bb64-2b647f779993", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "cdd939ed-ee6b-4922-b78b-1488d2cc064a", 
+              "trackname": "Mushroom Angels", 
+              "tracknumber": "2", 
+              "trackposition": 2
+            }
+          ]
+        }
+      ], 
+      "secondarytypes": [], 
+      "title": "The Modernist Presents \"Popular Songs\"", 
+      "type": "EP"
+    }, 
+    "artist": null, 
+    "score": 79
+  }, 
+  {
+    "album": null, 
+    "artist": {
+      "artistaliases": [], 
+      "artistname": "Modernist", 
+      "disambiguation": "Language Instinct", 
+      "genres": [], 
+      "id": "a103f60c-5c92-47be-bb10-5c50e3d16578", 
+      "images": [], 
+      "links": [], 
+      "oldids": [], 
+      "overview": "", 
+      "rating": {
+        "Count": 0, 
+        "Value": null
+      }, 
+      "sortname": "Modernist", 
+      "status": "active", 
+      "type": null
+    }, 
+    "score": 59
+  }, 
+  {
+    "album": {
+      "aliases": [], 
+      "artistid": "0dd2365b-8c61-4423-9f3f-c38e855bbeb0", 
+      "artists": [
+        {
+          "artistaliases": [], 
+          "artistname": "Ryan Maguire", 
+          "disambiguation": "Virginian musician & programmer", 
+          "genres": [], 
+          "id": "0dd2365b-8c61-4423-9f3f-c38e855bbeb0", 
+          "images": [], 
+          "links": [
+            {
+              "target": "http://ryanmaguiremusic.com/", 
+              "type": "ryanmaguiremusic"
+            }, 
+            {
+              "target": "https://rpm7.bandcamp.com/", 
+              "type": "bandcamp"
+            }
+          ], 
+          "oldids": [], 
+          "overview": "", 
+          "rating": {
+            "Count": 0, 
+            "Value": null
+          }, 
+          "sortname": "Maguire, Ryan", 
+          "status": "active", 
+          "type": "Person"
+        }
+      ], 
+      "disambiguation": "", 
+      "genres": [
+        "Ambient", 
+        "Electronic", 
+        "Experimental", 
+        "Glitch"
+      ], 
+      "id": "c13a1af1-2f30-467e-8ecb-2601b0eb7cf7", 
+      "images": [
+        {
+          "CoverType": "Cover", 
+          "Url": "https://imagecache.lidarr.audio/v1/caa/111f3239-6277-457a-ad2e-e19445605a9e/9700804749-1200.jpg"
+        }
+      ], 
+      "links": [], 
+      "oldids": [], 
+      "overview": "", 
+      "rating": {
+        "Count": 0, 
+        "Value": null
+      }, 
+      "releasedate": "2014-07-16", 
+      "releases": [
+        {
+          "country": [
+            "[Worldwide]"
+          ], 
+          "disambiguation": "", 
+          "id": "111f3239-6277-457a-ad2e-e19445605a9e", 
+          "label": [
+            "[no label]"
+          ], 
+          "media": [
+            {
+              "Format": "Digital Media", 
+              "Name": "", 
+              "Position": 1
+            }
+          ], 
+          "oldids": [], 
+          "releasedate": "2014-07-16", 
+          "status": "Official", 
+          "title": "moDernisT", 
+          "track_count": 1, 
+          "tracks": [
+            {
+              "artistid": "0dd2365b-8c61-4423-9f3f-c38e855bbeb0", 
+              "durationms": 130000, 
+              "id": "a9bf7e69-0706-49d1-bbb8-8c6cde85e68d", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "3257e9ac-3d5e-469f-b712-72c2c64aa3bf", 
+              "trackname": "moDernisT", 
+              "tracknumber": "1", 
+              "trackposition": 1
+            }
+          ]
+        }
+      ], 
+      "secondarytypes": [], 
+      "title": "moDernisT", 
+      "type": "Single"
+    }, 
+    "artist": null, 
+    "score": 57
+  }, 
+  {
+    "album": {
+      "aliases": [], 
+      "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+      "artists": [
+        {
+          "artistaliases": [], 
+          "artistname": "The Modernist", 
+          "disambiguation": "", 
+          "genres": [], 
+          "id": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+          "images": [], 
+          "links": [
+            {
+              "target": "http://www.the-modernist.com/", 
+              "type": "the-modernist"
+            }, 
+            {
+              "target": "https://www.discogs.com/artist/6969", 
+              "type": "discogs"
+            }, 
+            {
+              "target": "https://open.spotify.com/artist/21BfjoxdHptm7obdPQhk88", 
+              "type": "spotify"
+            }
+          ], 
+          "oldids": [], 
+          "overview": "", 
+          "rating": {
+            "Count": 1, 
+            "Value": 10.0
+          }, 
+          "sortname": "Modernist, The", 
+          "status": "active", 
+          "type": "Person"
+        }
+      ], 
+      "disambiguation": "", 
+      "genres": [
+        "Electronic", 
+        "House", 
+        "Techno"
+      ], 
+      "id": "57c0d12b-09de-35b9-afc9-cc83a953402c", 
+      "images": [
+        {
+          "CoverType": "Cover", 
+          "Url": "https://imagecache.lidarr.audio/v1/caa/76690b1d-1b63-49fd-bdbc-09aa0320121f/19375873561-1200.jpg"
+        }, 
+        {
+          "CoverType": "Disc", 
+          "Url": "https://imagecache.lidarr.audio/v1/caa/76690b1d-1b63-49fd-bdbc-09aa0320121f/19375876338-1200.jpg"
+        }
+      ], 
+      "links": [
+        {
+          "target": "https://www.discogs.com/master/62492", 
+          "type": "discogs"
+        }
+      ], 
+      "oldids": [], 
+      "overview": "", 
+      "rating": {
+        "Count": 0, 
+        "Value": null
+      }, 
+      "releasedate": "1997-01-01", 
+      "releases": [
+        {
+          "country": [
+            "Germany"
+          ], 
+          "disambiguation": "", 
+          "id": "76690b1d-1b63-49fd-bdbc-09aa0320121f", 
+          "label": [
+            "Harvest"
+          ], 
+          "media": [
+            {
+              "Format": "CD", 
+              "Name": "", 
+              "Position": 1
+            }
+          ], 
+          "oldids": [], 
+          "releasedate": "1997-01-01", 
+          "status": "Official", 
+          "title": "Opportunity Knox", 
+          "track_count": 14, 
+          "tracks": [
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 289666, 
+              "id": "919fef4b-04b2-3c1e-9c11-eac6490e4b20", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "d5f5af7d-8de3-4f1f-930e-154b8ce3db86", 
+              "trackname": "Opportunity Knox", 
+              "tracknumber": "1", 
+              "trackposition": 1
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 343333, 
+              "id": "ba9d43a7-af80-3de9-a385-3ce23bfa7609", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "1b177031-410f-4c1b-a3b0-0c79f590d4f4", 
+              "trackname": "Hellbent to Paradise", 
+              "tracknumber": "2", 
+              "trackposition": 2
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 212493, 
+              "id": "24835b0c-9317-387f-9ab6-1dbc99b9937b", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "212f6711-706c-44ca-9596-f3b5241d4d8f", 
+              "trackname": "Data Girl", 
+              "tracknumber": "3", 
+              "trackposition": 3
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 318333, 
+              "id": "dd99dd8d-c426-30ba-ad32-e15f6f9b9a4c", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "85c996d7-2bc7-4796-aa92-9c9b66c42391", 
+              "trackname": "Dezimal Shopping", 
+              "tracknumber": "4", 
+              "trackposition": 4
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 196906, 
+              "id": "4f87081d-8010-3f5d-8675-decbe3b98f12", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "fea98e10-0b7c-4b48-9687-1438043aabbc", 
+              "trackname": "Inger Nilsson", 
+              "tracknumber": "5", 
+              "trackposition": 5
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 310626, 
+              "id": "5024ec5f-68e0-3e76-9692-58bc824b25c6", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [
+                "02c9a07c-dc20-42ff-b49b-da5ebae9c257"
+              ], 
+              "recordingid": "00c6450a-2d34-486e-b18b-6b4c8ce2338c", 
+              "trackname": "Dali Bop Horizon", 
+              "tracknumber": "6", 
+              "trackposition": 6
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 204973, 
+              "id": "e019b799-5809-3f2a-bfe2-884bb0504982", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "3334b28a-84c6-4b73-831c-43788c304432", 
+              "trackname": "Pralines & Crime", 
+              "tracknumber": "7", 
+              "trackposition": 7
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 284000, 
+              "id": "1c5eb489-4764-337a-860a-de1042e838e5", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "1bede2d8-c352-441a-a16c-c439cb644c33", 
+              "trackname": "Sgt. Pilcher", 
+              "tracknumber": "8", 
+              "trackposition": 8
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 293760, 
+              "id": "0b8527e0-7046-3976-a77b-2ed794db96b8", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "185636be-a1f1-4e75-8fe1-02207aa9ac1f", 
+              "trackname": "Mrs. Next Spiel", 
+              "tracknumber": "9", 
+              "trackposition": 9
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 211973, 
+              "id": "bb6b0644-3845-305a-9689-514d57218c6d", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "50ae9fb0-cd48-4420-844e-9c8c22a50c1b", 
+              "trackname": "Raw Brill. Mono", 
+              "tracknumber": "10", 
+              "trackposition": 10
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 250000, 
+              "id": "df98c138-66ee-3474-a2c2-f844768ca263", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "985e6a02-0b47-4d91-8b5a-840970fc4d95", 
+              "trackname": "Clandestine", 
+              "tracknumber": "11", 
+              "trackposition": 11
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 215893, 
+              "id": "1aa616aa-0320-3622-a9b5-e91a678326ad", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "8c1ad4ac-c935-4193-8e29-8d193fc68abc", 
+              "trackname": "Tae War", 
+              "tracknumber": "12", 
+              "trackposition": 12
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 221733, 
+              "id": "473adbdc-7472-3c48-bd4b-5cea39382211", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "d7a4b3bb-4f8e-4ac6-a465-b9a17f1a3220", 
+              "trackname": "Wachtmeister Huong", 
+              "tracknumber": "13", 
+              "trackposition": 13
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 243307, 
+              "id": "6c643fc8-b979-3587-b63f-3c34fc04dd6d", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "274e8529-f2c9-46e9-b52d-cc0a31d29bde", 
+              "trackname": "Heroes in Wool", 
+              "tracknumber": "14", 
+              "trackposition": 14
+            }
+          ]
+        }
+      ], 
+      "secondarytypes": [], 
+      "title": "Opportunity Knox", 
+      "type": "Album"
+    }, 
+    "artist": null, 
+    "score": 56
+  }, 
+  {
+    "album": {
+      "aliases": [], 
+      "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+      "artists": [
+        {
+          "artistaliases": [], 
+          "artistname": "The Modernist", 
+          "disambiguation": "", 
+          "genres": [], 
+          "id": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+          "images": [], 
+          "links": [
+            {
+              "target": "http://www.the-modernist.com/", 
+              "type": "the-modernist"
+            }, 
+            {
+              "target": "https://www.discogs.com/artist/6969", 
+              "type": "discogs"
+            }, 
+            {
+              "target": "https://open.spotify.com/artist/21BfjoxdHptm7obdPQhk88", 
+              "type": "spotify"
+            }
+          ], 
+          "oldids": [], 
+          "overview": "", 
+          "rating": {
+            "Count": 1, 
+            "Value": 10.0
+          }, 
+          "sortname": "Modernist, The", 
+          "status": "active", 
+          "type": "Person"
+        }
+      ], 
+      "disambiguation": "", 
+      "genres": [
+        "Electronic", 
+        "Tech House"
+      ], 
+      "id": "2cdaec38-0681-3647-b567-d2e12d0f2d7c", 
+      "images": [], 
+      "links": [
+        {
+          "target": "https://www.discogs.com/master/135258", 
+          "type": "discogs"
+        }
+      ], 
+      "oldids": [], 
+      "overview": "", 
+      "rating": {
+        "Count": 0, 
+        "Value": null
+      }, 
+      "releasedate": "2003-04-25", 
+      "releases": [
+        {
+          "country": [
+            "Germany"
+          ], 
+          "disambiguation": "", 
+          "id": "bc526c1d-432e-437e-a1c0-800f98b6c9be", 
+          "label": [
+            "Wonder Records"
+          ], 
+          "media": [
+            {
+              "Format": "CD", 
+              "Name": "", 
+              "Position": 1
+            }
+          ], 
+          "oldids": [], 
+          "releasedate": "2003-04-25", 
+          "status": "Official", 
+          "title": "Kangmei", 
+          "track_count": 11, 
+          "tracks": [
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 188946, 
+              "id": "a6daa9b1-efb0-3fca-a12c-ca337a0b78d9", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "d24c060a-9674-4709-915b-acab27e29527", 
+              "trackname": "Kangmei Theme", 
+              "tracknumber": "1", 
+              "trackposition": 1
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 291520, 
+              "id": "3479c509-eaa7-331a-b234-98d243433ca9", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "16f7e48c-ba7d-437c-ba93-3586814f1b92", 
+              "trackname": "A Goldberg Violation", 
+              "tracknumber": "2", 
+              "trackposition": 2
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 289813, 
+              "id": "6e80e684-9609-35b5-88f8-5b193c142279", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "75603be9-eb13-447a-92f6-f0365a062fc0", 
+              "trackname": "Prozac Europe", 
+              "tracknumber": "3", 
+              "trackposition": 3
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 289586, 
+              "id": "f00bdb9b-02bd-3cab-bbe7-a8dfc9f95edd", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "819a7b8e-9dbf-4c02-b217-f0f0a12ace89", 
+              "trackname": "When We Were Golden", 
+              "tracknumber": "4", 
+              "trackposition": 4
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 378480, 
+              "id": "845b37f1-e88d-3834-8916-616da743673d", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "f5b0f662-acbd-4a5a-891a-c7e5e57a5b70", 
+              "trackname": "Kangmei, Parts 1 & 2", 
+              "tracknumber": "5", 
+              "trackposition": 5
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 305600, 
+              "id": "9d3048b3-40ad-3cd6-a3c3-edf969da1d40", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "92c63561-48c8-49b9-9166-65cf4c7771b8", 
+              "trackname": "Mickey Finn", 
+              "tracknumber": "6", 
+              "trackposition": 6
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 292960, 
+              "id": "9b3e8abb-8193-3ead-901d-9f03dcdb92f0", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "b058dee6-fc60-4cf6-b13a-24b10aec4890", 
+              "trackname": "Protest Song", 
+              "tracknumber": "7", 
+              "trackposition": 7
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 367346, 
+              "id": "08ce3ab2-10fd-3ff3-84b0-dd84d101d8be", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "a90831d9-af69-4041-85a5-aed0f0c8259f", 
+              "trackname": "Silicon Minor", 
+              "tracknumber": "8", 
+              "trackposition": 8
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 342120, 
+              "id": "83e3cca9-6f8e-3674-91c2-40c35f0161d2", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "b7106f6f-a34b-4927-9843-c63c06ebed5e", 
+              "trackname": "Magic Lantern", 
+              "tracknumber": "9", 
+              "trackposition": 9
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 333333, 
+              "id": "dc1df0d8-a62b-3222-9345-00ce7cc00abc", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "ac248252-ee72-4784-af8e-6336c2f90b84", 
+              "trackname": "Kodac Moments", 
+              "tracknumber": "10", 
+              "trackposition": 10
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 315294, 
+              "id": "96250e8f-bdb4-3b61-a02c-0127131917fb", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "cec8263d-351a-46ee-b453-d330837c3783", 
+              "trackname": "MK Spitz", 
+              "tracknumber": "11", 
+              "trackposition": 11
+            }
+          ]
+        }
+      ], 
+      "secondarytypes": [], 
+      "title": "Kangmei", 
+      "type": "Album"
+    }, 
+    "artist": null, 
+    "score": 56
+  }, 
+  {
+    "album": {
+      "aliases": [
+        "Explosion"
+      ], 
+      "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+      "artists": [
+        {
+          "artistaliases": [], 
+          "artistname": "The Modernist", 
+          "disambiguation": "", 
+          "genres": [], 
+          "id": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+          "images": [], 
+          "links": [
+            {
+              "target": "http://www.the-modernist.com/", 
+              "type": "the-modernist"
+            }, 
+            {
+              "target": "https://www.discogs.com/artist/6969", 
+              "type": "discogs"
+            }, 
+            {
+              "target": "https://open.spotify.com/artist/21BfjoxdHptm7obdPQhk88", 
+              "type": "spotify"
+            }
+          ], 
+          "oldids": [], 
+          "overview": "", 
+          "rating": {
+            "Count": 1, 
+            "Value": 10.0
+          }, 
+          "sortname": "Modernist, The", 
+          "status": "active", 
+          "type": "Person"
+        }
+      ], 
+      "disambiguation": "", 
+      "genres": [
+        "Electronic", 
+        "Tech House", 
+        "Techno"
+      ], 
+      "id": "06ecf84c-5d72-33f1-8dbc-85d1274510c0", 
+      "images": [
+        {
+          "CoverType": "Cover", 
+          "Url": "https://imagecache.lidarr.audio/v1/caa/aa1d0dc8-8091-46a8-8c43-6caa1bddf75e/35230384106-1200.jpg"
+        }
+      ], 
+      "links": [
+        {
+          "target": "https://www.discogs.com/master/135257", 
+          "type": "discogs"
+        }
+      ], 
+      "oldids": [
+        "908f9389-2f71-4af3-8be1-450d2cf13031", 
+        "cc0d1930-4324-38af-90a8-c2f1b23606c4"
+      ], 
+      "overview": "", 
+      "rating": {
+        "Count": 0, 
+        "Value": null
+      }, 
+      "releasedate": "1999-11-29", 
+      "releases": [
+        {
+          "country": [
+            "Germany"
+          ], 
+          "disambiguation": "", 
+          "id": "aa1d0dc8-8091-46a8-8c43-6caa1bddf75e", 
+          "label": [
+            "Popular Tools"
+          ], 
+          "media": [
+            {
+              "Format": "CD", 
+              "Name": "", 
+              "Position": 1
+            }
+          ], 
+          "oldids": [], 
+          "releasedate": "1999-11-29", 
+          "status": "Official", 
+          "title": "Explosion 1999", 
+          "track_count": 13, 
+          "tracks": [
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 319000, 
+              "id": "f8b508ae-d74c-3750-8cbe-571b20062779", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "9b32818e-4447-4748-8d20-1f0e95012acb", 
+              "trackname": "Victor Ludorum (The Winner Takes It All)", 
+              "tracknumber": "1", 
+              "trackposition": 1
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 334000, 
+              "id": "48cb94c7-0272-3e03-82ed-c72a6f438608", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "c8d7885d-c149-4042-ac6d-bc5ada3f1047", 
+              "trackname": "Fade Like Glenn", 
+              "tracknumber": "2", 
+              "trackposition": 2
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 314000, 
+              "id": "d58412f5-37c6-37fc-98e1-c1a288ac4e32", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "34583715-6031-4e89-8f7c-381ee0e3eb69", 
+              "trackname": "Header", 
+              "tracknumber": "3", 
+              "trackposition": 3
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 262000, 
+              "id": "9346fade-1fad-364a-9405-3b562ada3098", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "b1d54fc7-a9a2-4272-ae89-21f2b6b2043c", 
+              "trackname": "Inspiratio", 
+              "tracknumber": "4", 
+              "trackposition": 4
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 363000, 
+              "id": "4a71c030-f4ba-35d5-9162-d14f51227fca", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "3aec7f68-f1d3-4b51-ad92-dfb7d22593dc", 
+              "trackname": "Mrs. New Deal", 
+              "tracknumber": "5", 
+              "trackposition": 5
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 352000, 
+              "id": "c053259b-b2b1-3722-a713-a29316d90729", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "093e524b-abef-4651-9161-ab13abe3253e", 
+              "trackname": "Crown", 
+              "tracknumber": "6", 
+              "trackposition": 6
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 373000, 
+              "id": "f7573580-a8d0-32ee-87f5-efb6ab679aa5", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "b8bcf5e4-cec2-4b0b-80ba-6bf65c835608", 
+              "trackname": "Manson Soup", 
+              "tracknumber": "7", 
+              "trackposition": 7
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 309000, 
+              "id": "70ce8f29-b781-3f09-a244-92f9214b740a", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "25aaa97b-82f5-4449-8dbb-3ec4a00f146c", 
+              "trackname": "Global Entertainment", 
+              "tracknumber": "8", 
+              "trackposition": 8
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 268000, 
+              "id": "0a899974-ade5-34fb-802e-9bd1fed256aa", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "404982fc-ad62-4f32-bd14-bb27d7d5df12", 
+              "trackname": "Alphatier Brian", 
+              "tracknumber": "9", 
+              "trackposition": 9
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 284000, 
+              "id": "fc78ae5e-de57-3733-81c9-757d5057f46c", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "786b0fd2-13c1-450f-b381-04c3f8b5a67f", 
+              "trackname": "Love Among European Moderns", 
+              "tracknumber": "10", 
+              "trackposition": 10
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 329000, 
+              "id": "43657791-c6bb-351e-83f2-398cb562baa3", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "114d81ff-e524-4e8a-a5d3-fd4360b46ce1", 
+              "trackname": "Faceworking (original)", 
+              "tracknumber": "11", 
+              "trackposition": 11
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 302000, 
+              "id": "b8a0e9bb-5c0b-303c-b4ec-843d7e4464a9", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "1e46cc7c-8cf5-4b53-a351-e0c4459b1fe7", 
+              "trackname": "Liverpool 8", 
+              "tracknumber": "12", 
+              "trackposition": 12
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 303000, 
+              "id": "9dac9580-03d6-38cb-8f00-e143ae77bd30", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "6c86f9e3-d695-4c82-94e4-19f3b7cfa7cd", 
+              "trackname": "Architainment, Part 1", 
+              "tracknumber": "13", 
+              "trackposition": 13
+            }
+          ]
+        }, 
+        {
+          "country": [
+            "Belgium"
+          ], 
+          "disambiguation": "", 
+          "id": "16e538fa-842f-492b-a79a-5197f9c5e26c", 
+          "label": [
+            "Double T Music"
+          ], 
+          "media": [
+            {
+              "Format": "CD", 
+              "Name": "", 
+              "Position": 1
+            }
+          ], 
+          "oldids": [], 
+          "releasedate": "1999-01-01", 
+          "status": "Official", 
+          "title": "Explosion 1999", 
+          "track_count": 14, 
+          "tracks": [
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 319146, 
+              "id": "f6d8687d-601c-3067-9267-2f1e33b4af62", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "bb92dca3-3b9d-416d-b958-ae9d5723087d", 
+              "trackname": "Victor Ludorum (The Winner Takes It All)", 
+              "tracknumber": "1", 
+              "trackposition": 1
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 334333, 
+              "id": "4a3815c6-feb0-3561-83b7-dbb4e18b4865", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "b1ade63c-dfb6-4df5-8bfc-c2f4625773fb", 
+              "trackname": "Fade Like Glenn", 
+              "tracknumber": "2", 
+              "trackposition": 2
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 314813, 
+              "id": "1668a0b8-a0ee-3e77-8db4-350778a8c9a4", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "5ffa4d4d-b34d-45bc-91a6-249986fa9bda", 
+              "trackname": "Header", 
+              "tracknumber": "3", 
+              "trackposition": 3
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 262453, 
+              "id": "48261361-0a61-3ca3-bf20-2df259f92813", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [
+                "4fc021e2-fa8b-41dd-bccc-2a376da6bbe4"
+              ], 
+              "recordingid": "8328e991-9292-4bfc-8b97-5f136cbe1b8b", 
+              "trackname": "Inspiratio", 
+              "tracknumber": "4", 
+              "trackposition": 4
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 363800, 
+              "id": "cdf82670-2784-3b1b-9ba3-17d39daecffa", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "f4c403cd-91bd-40f3-b840-fdf92048f95e", 
+              "trackname": "Mrs. New Deal", 
+              "tracknumber": "5", 
+              "trackposition": 5
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 352200, 
+              "id": "4bfcdb91-f83d-369a-9dbe-0fd1bcdb2d23", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "f1a6caf8-7243-4c0c-81f9-0b4411ea17ee", 
+              "trackname": "Crown", 
+              "tracknumber": "6", 
+              "trackposition": 6
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 373186, 
+              "id": "7c1e2a7b-94da-373a-8661-537ca4ad38c7", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "ca30e456-a250-42eb-9272-b5418ab2dbab", 
+              "trackname": "Manson Soup", 
+              "tracknumber": "7", 
+              "trackposition": 7
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 309360, 
+              "id": "6850c551-b58d-361b-833b-85239f64eb78", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "52db0e6d-307b-4d1b-8d7f-d6c9082a0861", 
+              "trackname": "Global Entertainment", 
+              "tracknumber": "8", 
+              "trackposition": 8
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 268000, 
+              "id": "58d67061-85a3-3184-8197-a1dc568e9bd1", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "ebd00d80-939c-4c7b-9088-b9eceddab0d4", 
+              "trackname": "Alphatier Brian", 
+              "tracknumber": "9", 
+              "trackposition": 9
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 284120, 
+              "id": "5f4c7d51-7b59-31a3-a37c-bc2f1d5cae8a", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "5e825448-ccf9-4eb9-8268-26eb949a9a1b", 
+              "trackname": "Love Among European Moderns", 
+              "tracknumber": "10", 
+              "trackposition": 10
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 329386, 
+              "id": "9404ea01-2de6-3a19-b842-07cdb282a419", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "40e0bb23-c205-483c-9392-ece64964fd87", 
+              "trackname": "Faceworking", 
+              "tracknumber": "11", 
+              "trackposition": 11
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 302253, 
+              "id": "bc49f049-9f28-3e76-897b-4226ff0c2068", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "7de20a29-fe13-43a1-8a03-54862242cae1", 
+              "trackname": "Liverpool 8", 
+              "tracknumber": "12", 
+              "trackposition": 12
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 306666, 
+              "id": "ffa7ee34-689d-383d-b4ed-1e541bf0f7ad", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "b42d33f5-3be1-4240-b8f1-dc66915ec1d3", 
+              "trackname": "Architainment, Part 1", 
+              "tracknumber": "13", 
+              "trackposition": 13
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 278280, 
+              "id": "e2300276-0e4e-323d-bd55-27521a191d4e", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "97fb91bf-0486-4707-ab1f-a7e6f59d3525", 
+              "trackname": "Architechno (live)", 
+              "tracknumber": "14", 
+              "trackposition": 14
+            }
+          ]
+        }, 
+        {
+          "country": [
+            "United States"
+          ], 
+          "disambiguation": "", 
+          "id": "15aac005-203d-4e94-a36a-b14c8de42e20", 
+          "label": [
+            "Matador"
+          ], 
+          "media": [
+            {
+              "Format": "12\" Vinyl", 
+              "Name": "", 
+              "Position": 1
+            }
+          ], 
+          "oldids": [], 
+          "releasedate": "2000-01-01", 
+          "status": "Official", 
+          "title": "Explosion", 
+          "track_count": 10, 
+          "tracks": [
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 332000, 
+              "id": "279cd4da-da29-3659-93d5-a8df2de79aba", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "a23faf97-ca3c-42d5-9500-c13ba10bcd03", 
+              "trackname": "Fade Like Glenn", 
+              "tracknumber": "A1", 
+              "trackposition": 1
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 313000, 
+              "id": "24e58589-ab0c-3aa1-b580-946501e78158", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "36d09fcf-dfc9-42d4-82dc-74cd0e5f9eee", 
+              "trackname": "Header", 
+              "tracknumber": "A2", 
+              "trackposition": 2
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 315000, 
+              "id": "4ef7585e-a63f-310e-8e69-42f8eef0e660", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "590b58d0-1011-422a-9ab4-8c262614780c", 
+              "trackname": "Victor Ludorum (The Winner Takes It All)", 
+              "tracknumber": "B1", 
+              "trackposition": 3
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 319000, 
+              "id": "b7becabc-b6bf-361e-a60a-428a8e951d20", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "77c9de3a-4e6c-49a9-a20a-dba46eeb8e6a", 
+              "trackname": "Alphatier Brian (Live Update)", 
+              "tracknumber": "B2", 
+              "trackposition": 4
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 295000, 
+              "id": "84ecc451-6099-3322-a3d3-c9c25edebde9", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "038ccc26-bb44-492d-9c00-98392615ec00", 
+              "trackname": "Eurojah (Immigrant Dub)", 
+              "tracknumber": "B3", 
+              "trackposition": 5
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 369000, 
+              "id": "d0bc4d7d-6177-3b70-91fb-2175234e8d38", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "6b1b3903-49b6-4b1e-9794-e30ee87979eb", 
+              "trackname": "Manson Soup", 
+              "tracknumber": "C1", 
+              "trackposition": 6
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 362000, 
+              "id": "936d0436-4a1d-3462-87ff-76fef0880168", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "858992d6-7672-408a-a888-678eb1c41f76", 
+              "trackname": "Mrs. New Deal", 
+              "tracknumber": "C2", 
+              "trackposition": 7
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 283000, 
+              "id": "804c8c19-a4e7-3a9b-b0dc-d83a44663fdd", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "f5e5c1cf-2a4a-4bfd-adef-a75b02065f5f", 
+              "trackname": "Love Among European Moderns", 
+              "tracknumber": "D1", 
+              "trackposition": 8
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 260000, 
+              "id": "62336ea4-edf5-3429-93aa-8d51dcacdd49", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [
+                "4fc021e2-fa8b-41dd-bccc-2a376da6bbe4"
+              ], 
+              "recordingid": "8328e991-9292-4bfc-8b97-5f136cbe1b8b", 
+              "trackname": "Inspiratio", 
+              "tracknumber": "D2", 
+              "trackposition": 9
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": 370000, 
+              "id": "7da35045-dbe1-3ee2-9560-d54f503f6273", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "c9b2d206-bc1b-41ef-a9cb-8ed135f72382", 
+              "trackname": "Channel 28", 
+              "tracknumber": "D3", 
+              "trackposition": 10
+            }
+          ]
+        }
+      ], 
+      "secondarytypes": [], 
+      "title": "Explosion 1999", 
+      "type": "Album"
+    }, 
+    "artist": null, 
+    "score": 56
+  }, 
+  {
+    "album": {
+      "aliases": [], 
+      "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+      "artists": [
+        {
+          "artistaliases": [], 
+          "artistname": "The Modernist", 
+          "disambiguation": "", 
+          "genres": [], 
+          "id": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+          "images": [], 
+          "links": [
+            {
+              "target": "http://www.the-modernist.com/", 
+              "type": "the-modernist"
+            }, 
+            {
+              "target": "https://www.discogs.com/artist/6969", 
+              "type": "discogs"
+            }, 
+            {
+              "target": "https://open.spotify.com/artist/21BfjoxdHptm7obdPQhk88", 
+              "type": "spotify"
+            }
+          ], 
+          "oldids": [], 
+          "overview": "", 
+          "rating": {
+            "Count": 1, 
+            "Value": 10.0
+          }, 
+          "sortname": "Modernist, The", 
+          "status": "active", 
+          "type": "Person"
+        }
+      ], 
+      "disambiguation": "", 
+      "genres": [
+        "Electronic", 
+        "Tech House"
+      ], 
+      "id": "b779f485-89b4-3b2d-ae2a-3a9d3434940e", 
+      "images": [], 
+      "links": [], 
+      "oldids": [], 
+      "overview": "", 
+      "rating": {
+        "Count": 0, 
+        "Value": null
+      }, 
+      "releasedate": "1999-01-01", 
+      "releases": [
+        {
+          "country": [
+            "Germany"
+          ], 
+          "disambiguation": "", 
+          "id": "7ad44939-8fb1-4c26-a489-820155ea5d4a", 
+          "label": [
+            "Popular Tools"
+          ], 
+          "media": [
+            {
+              "Format": "12\" Vinyl", 
+              "Name": "", 
+              "Position": 1
+            }
+          ], 
+          "oldids": [], 
+          "releasedate": "1999-01-01", 
+          "status": "Official", 
+          "title": "Architainment", 
+          "track_count": 4, 
+          "tracks": [
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": null, 
+              "id": "f8db2ec5-1c62-3052-8e15-71c3495fcb5f", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "dad8ca82-3465-4127-9fd3-aaeb3e9347c7", 
+              "trackname": "Architainment, Part 1", 
+              "tracknumber": "A1", 
+              "trackposition": 1
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": null, 
+              "id": "7c14570b-4fba-3637-b4e4-65b31bce5787", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "4c79bc86-c36f-4429-94b1-f0e10203d53c", 
+              "trackname": "Architainment, Part 2", 
+              "tracknumber": "A2", 
+              "trackposition": 2
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": null, 
+              "id": "0415376e-8c31-34b4-b59c-3e3544ad3337", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "fcef4c79-98b4-4153-a0a8-33240b42a31f", 
+              "trackname": "Face Working", 
+              "tracknumber": "B1", 
+              "trackposition": 3
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": null, 
+              "id": "ca885c76-3f93-3371-9c24-2f345ee6dfc7", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "8b562b03-a181-4b85-a454-b0c17390ac8a", 
+              "trackname": "Face Working (Profan-mix)", 
+              "tracknumber": "B2", 
+              "trackposition": 4
+            }
+          ]
+        }
+      ], 
+      "secondarytypes": [], 
+      "title": "Architainment", 
+      "type": "EP"
+    }, 
+    "artist": null, 
+    "score": 56
+  }, 
+  {
+    "album": {
+      "aliases": [], 
+      "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+      "artists": [
+        {
+          "artistaliases": [], 
+          "artistname": "The Modernist", 
+          "disambiguation": "", 
+          "genres": [], 
+          "id": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+          "images": [], 
+          "links": [
+            {
+              "target": "http://www.the-modernist.com/", 
+              "type": "the-modernist"
+            }, 
+            {
+              "target": "https://www.discogs.com/artist/6969", 
+              "type": "discogs"
+            }, 
+            {
+              "target": "https://open.spotify.com/artist/21BfjoxdHptm7obdPQhk88", 
+              "type": "spotify"
+            }
+          ], 
+          "oldids": [], 
+          "overview": "", 
+          "rating": {
+            "Count": 1, 
+            "Value": 10.0
+          }, 
+          "sortname": "Modernist, The", 
+          "status": "active", 
+          "type": "Person"
+        }
+      ], 
+      "disambiguation": "", 
+      "genres": [
+        "Electronic", 
+        "Tech House"
+      ], 
+      "id": "03cd00fe-8a4b-31e7-8a21-86c6699195f7", 
+      "images": [], 
+      "links": [
+        {
+          "target": "https://www.discogs.com/master/62487", 
+          "type": "discogs"
+        }
+      ], 
+      "oldids": [], 
+      "overview": "", 
+      "rating": {
+        "Count": 0, 
+        "Value": null
+      }, 
+      "releasedate": "1997-11-24", 
+      "releases": [
+        {
+          "country": [
+            "Germany"
+          ], 
+          "disambiguation": "", 
+          "id": "43a649b6-ff4c-47ec-9ccb-51f3c385fd62", 
+          "label": [
+            "Harvest"
+          ], 
+          "media": [
+            {
+              "Format": "12\" Vinyl", 
+              "Name": "", 
+              "Position": 1
+            }
+          ], 
+          "oldids": [], 
+          "releasedate": "1997-11-24", 
+          "status": "Official", 
+          "title": "Dali Bop Horizon", 
+          "track_count": 4, 
+          "tracks": [
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": null, 
+              "id": "aeb4ff44-448a-3c55-afdf-e26ee5dc5479", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "06cc4629-2591-4687-a511-6cfa56dedd9f", 
+              "trackname": "Dali Bop Horizon", 
+              "tracknumber": "A1", 
+              "trackposition": 1
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": null, 
+              "id": "4b4d67a0-fae4-3de4-8a46-b4d3ab4ce5f6", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "b8ec9a5f-0773-468c-8ca5-8417305fbbc1", 
+              "trackname": "Raw Brill. Mono", 
+              "tracknumber": "A2", 
+              "trackposition": 2
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": null, 
+              "id": "5f4d0965-776f-3537-a4b5-dc17bac14f6c", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "a5897d1b-c40c-49cf-ab51-548b626c681c", 
+              "trackname": "Dali Bop Horizon (Reval mix)", 
+              "tracknumber": "B1", 
+              "trackposition": 3
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": null, 
+              "id": "4d66a756-84f6-3bf2-9ec0-e223aa85208c", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "95f5cdff-7797-4571-b671-0f21114b2801", 
+              "trackname": "Dali Bop Horizon (Auftrieb mix)", 
+              "tracknumber": "B2", 
+              "trackposition": 4
+            }
+          ]
+        }
+      ], 
+      "secondarytypes": [], 
+      "title": "Dali Bop Horizon", 
+      "type": "EP"
+    }, 
+    "artist": null, 
+    "score": 56
+  }, 
+  {
+    "album": {
+      "aliases": [], 
+      "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+      "artists": [
+        {
+          "artistaliases": [], 
+          "artistname": "The Modernist", 
+          "disambiguation": "", 
+          "genres": [], 
+          "id": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+          "images": [], 
+          "links": [
+            {
+              "target": "http://www.the-modernist.com/", 
+              "type": "the-modernist"
+            }, 
+            {
+              "target": "https://www.discogs.com/artist/6969", 
+              "type": "discogs"
+            }, 
+            {
+              "target": "https://open.spotify.com/artist/21BfjoxdHptm7obdPQhk88", 
+              "type": "spotify"
+            }
+          ], 
+          "oldids": [], 
+          "overview": "", 
+          "rating": {
+            "Count": 1, 
+            "Value": 10.0
+          }, 
+          "sortname": "Modernist, The", 
+          "status": "active", 
+          "type": "Person"
+        }
+      ], 
+      "disambiguation": "", 
+      "genres": [
+        "Electronic", 
+        "Tech House"
+      ], 
+      "id": "a5f28ff0-1fd4-3875-a250-462bab5008a2", 
+      "images": [], 
+      "links": [
+        {
+          "target": "https://www.discogs.com/master/96834", 
+          "type": "discogs"
+        }
+      ], 
+      "oldids": [], 
+      "overview": "", 
+      "rating": {
+        "Count": 0, 
+        "Value": null
+      }, 
+      "releasedate": "1998-01-01", 
+      "releases": [
+        {
+          "country": [
+            "Germany"
+          ], 
+          "disambiguation": "", 
+          "id": "9af19cd5-6d61-4afb-afed-959dd79c3ec1", 
+          "label": [
+            "Harvest"
+          ], 
+          "media": [
+            {
+              "Format": "12\" Vinyl", 
+              "Name": "", 
+              "Position": 1
+            }
+          ], 
+          "oldids": [], 
+          "releasedate": "1998-01-01", 
+          "status": "Official", 
+          "title": "Orange Coloured Sky", 
+          "track_count": 4, 
+          "tracks": [
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": null, 
+              "id": "9acdd334-9580-309c-998a-5cbebb230bec", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "fbb64a96-6748-498e-97a0-293b82ca0894", 
+              "trackname": "Orange Coloured Sky", 
+              "tracknumber": "A1", 
+              "trackposition": 1
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": null, 
+              "id": "991d9c1d-d81c-3e47-a7eb-79d8754c8c23", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "ea649964-f890-4dfe-9701-c95d0bed8663", 
+              "trackname": "Victor Ludorum", 
+              "tracknumber": "A2", 
+              "trackposition": 2
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": null, 
+              "id": "e037478d-6ffd-3933-a67e-fe566e13a664", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "321dbc47-b11d-4fd0-8508-7aadc0b24cdc", 
+              "trackname": "Apple Electronics (club mix)", 
+              "tracknumber": "B1", 
+              "trackposition": 3
+            }, 
+            {
+              "artistid": "182f2fdb-5d69-43f5-9976-4770373c508b", 
+              "durationms": null, 
+              "id": "e819a7ef-e843-3cc4-a5e9-2dc8e7bc1802", 
+              "mediumnumber": 1, 
+              "oldids": [], 
+              "oldrecordingids": [], 
+              "recordingid": "964844b8-3d07-4bb5-9298-a2e30bbcb61a", 
+              "trackname": "Eurojah", 
+              "tracknumber": "B2", 
+              "trackposition": 4
+            }
+          ]
+        }
+      ], 
+      "secondarytypes": [], 
+      "title": "Orange Coloured Sky", 
+      "type": "EP"
+    }, 
+    "artist": null, 
+    "score": 56
+  }, 
+  {
+    "album": null, 
+    "artist": {
+      "artistaliases": [
+        "\u0645\u062e\u062a\u0644\u0641 \u0627\u0644\u0641\u0646\u0627\u0646\u064a\u0646", 
+        "\uc5ec\ub7ec \uc544\ud2f0\uc2a4\ud2b8", 
+        "Various Artists", 
+        "Diverse Artiesten", 
+        "Diverse Artister", 
+        "Diverse Interpreten", 
+        "Diverse kunstnere", 
+        "V\u00e1rios artistas", 
+        "Varios artistas", 
+        "Erinevad esitajad", 
+        "\u00c7e\u015fitli sanat\u00e7\u0131lar", 
+        "R\u00f3\u017cni wykonawcy", 
+        "Nhi\u1ec1u ca s\u0129", 
+        "Razli\u00e8ni izvajalci", 
+        "Artistiaid Amrywiol", 
+        "Diverse", 
+        "Skratch 'N Sniff", 
+        "Diverse Artistar", 
+        "Blandade artister", 
+        "\u0420\u0456\u0437\u043d\u0456 \u0432\u0438\u043a\u043e\u043d\u0430\u0432\u0446\u0456", 
+        "\u7fa4\u661f", 
+        "\u0e23\u0e27\u0e21\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19", 
+        "Razni Izvo\u0111a\u010di", 
+        "Razni Izvo\u0111a\u010di", 
+        "Iedereen", 
+        "Razni Izvo\u0111a\u010di", 
+        "\u00ddmsir hlj\u00f3\u00f0f\u00e6raleikarar", 
+        "Vari", 
+        "Various Artists", 
+        "\u012evair\u016bs atlik\u0117jai", 
+        "\u0440\u043e\u0437\u043d\u044b\u044f \u0432\u044b\u043a\u0430\u043d\u0430\u045e\u0446\u044b", 
+        "diversos artistes", 
+        "R\u016fzn\u00ed interpreti", 
+        "Pluraj artistoj", 
+        "Hainbat artista", 
+        "\u0647\u0646\u0631\u0645\u0646\u062f\u0627\u0646 \u0645\u062e\u062a\u0644\u0641", 
+        "Eri esitt\u00e4ji\u00e4", 
+        "Vari\u00e9s", 
+        "Multi-artistes", 
+        "Compilation", 
+        "Multi\u2010interpr\u00e8tes", 
+        "\u0394\u03b9\u03ac\u03c6\u03bf\u03c1\u03bf\u03b9 \u039a\u03b1\u03bb\u03bb\u03b9\u03c4\u03ad\u03c7\u03bd\u03b5\u03c2", 
+        "\u30f4\u30a1\u30ea\u30a2\u30b9\u30fb\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8", 
+        "R\u00f3\u017cni", 
+        "KZOK 102.5FM", 
+        "\u0420\u0430\u0437\u043d\u044b\u0435 \u0430\u0440\u0442\u0438\u0441\u0442\u044b", 
+        "\u0420\u0430\u0437\u043d\u0438 \u0438\u0437\u0432\u0435\u0434\u0443\u0432\u0430\u0447\u0438", 
+        "Miscellaneous", 
+        "Bypass Audio", 
+        "Reinelex Records", 
+        "(Karaoke) Various Artists", 
+        "Wszyscy artysci", 
+        "Artisti vari", 
+        "Blandat", 
+        "Various (not original artists)", 
+        "Omnibus", 
+        "DESKPOP", 
+        "Verschiedene Interpreten", 
+        "WiddFam", 
+        "Int\u00e9rpretes Diversos", 
+        "Rizni vykonavtsi", 
+        "\u0440\u0456\u0437\u043d\u0438\u0445 \u0432\u0438\u043a\u043e\u043d\u0430\u0432\u0446\u0456\u0432", 
+        "\u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0438\u0441\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u0435\u0439", 
+        "Div. kunstnere", 
+        "Icelandic Folk Music", 
+        "Various Items", 
+        "Mixed Artists", 
+        "AAVV", 
+        "KC101\u2014Connecticut's #1 Hit Music Station", 
+        "Divers", 
+        "30 Vermont Artists", 
+        "Various Big Bands", 
+        "Various artists from CISM 89,3 FM", 
+        "Amrywiol", 
+        "Fitness Workout Music", 
+        "The Metal Observer", 
+        "Various DJ's", 
+        "Blandede Kunstnere", 
+        "Bassrush", 
+        "R\u00f3\u017cni arty\u015bci", 
+        "Colet\u00e2nea", 
+        "\u0e2b\u0e25\u0e32\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19", 
+        "Various Female Artists", 
+        "Varias Artistas", 
+        "Multi-interpr\u00e8tes", 
+        "T\u1ed1p ca", 
+        "Razni", 
+        "\u038c\u03bb\u03bf\u03b9", 
+        "Diverse componisten", 
+        "\u0420\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0435 \u0438\u0441\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u0438", 
+        "Woman & Home / Classic FM", 
+        "V\u00e1rios int\u00e9rpretes", 
+        "V. Artist", 
+        "Insomniac Music Group", 
+        "H\u1ee3p ca", 
+        "[Various Artists]", 
+        "Multiple Artists", 
+        "Sampler", 
+        "Various 80's", 
+        "\u30f4\u30a1\u30ea\u30a2\u30b9", 
+        "Assorted Artists", 
+        "Bande originale", 
+        "V\u00e1rios Artistas", 
+        "Rizni vykonavci", 
+        "Vari Artisti", 
+        "Battle of the Bits", 
+        "\u30aa\u30e0\u30cb\u30d0\u30b9", 
+        "Siren Cues", 
+        "Time Life Music: Various Artists", 
+        "Assorted Christian Artists", 
+        "\u015awiatowe Przeboje", 
+        "Danske Kunstnere", 
+        "Encrypted Audio", 
+        "Artistes divers", 
+        "Nhi\u1ec1u Ngh\u1ec7 S\u0129", 
+        "razlichnye ispolniteli", 
+        "Nhi\u1ec1u ngh\u1ec7 s\u0129", 
+        "Erinevad", 
+        "Various Composers", 
+        "More artists", 
+        "Verschiedene Interpret:innen", 
+        "Dominicanos Varios", 
+        "V\u00e1rios", 
+        "Varios Artistas", 
+        "\u3055\u307e\u3056\u307e\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8", 
+        "Various Artists (Rock)", 
+        "Coll\u00e9giale", 
+        "Various Military Bands", 
+        "T\u1ed1p ca nam", 
+        "Verschiedene", 
+        "Various", 
+        "La Historia de la Fania", 
+        "Various Speakers", 
+        "Varios", 
+        "American Folk Blues Festival", 
+        "Collectif", 
+        "A.A.V.V.", 
+        "Comp.", 
+        "Varied", 
+        "Diverse danske artister", 
+        "Various Artist - GoGo Wonderful", 
+        "Cheapbeats", 
+        "AA.VV.", 
+        "Diversen", 
+        "(various)", 
+        "Artistes vari\u00e9s", 
+        "Compilaciones", 
+        "Vari\u00e9es", 
+        "Various (original artists)", 
+        "Diverse Kunstnere", 
+        "Planets Of The Universe", 
+        "Various Celtic Artists", 
+        "Circus Records", 
+        "Various Talented Artists", 
+        "\u30f4\u30a1\u30ea\u30a2\u30b9\u30fb\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8", 
+        "[\u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0435 \u0438\u0441\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u0438]", 
+        "Multi\u2010interpr\u00e8tes", 
+        "versch. K\u00fcnstler"
+      ], 
+      "artistname": "Various Artists", 
+      "disambiguation": "add compilations to this artist", 
+      "genres": [], 
+      "id": "89ad4ac3-39f7-470e-963a-56509c546377", 
+      "images": [], 
+      "links": [
+        {
+          "target": "https://www.wikidata.org/wiki/Q3108914", 
+          "type": "wikidata"
+        }, 
+        {
+          "target": "https://www.discogs.com/artist/194", 
+          "type": "discogs"
+        }, 
+        {
+          "target": "https://www.last.fm/music/Various+Artists", 
+          "type": "last"
+        }, 
+        {
+          "target": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of", 
+          "type": "spotify"
+        }, 
+        {
+          "target": "https://music.amazon.com/artists/B000QJO93Y", 
+          "type": "amazon"
+        }
+      ], 
+      "oldids": [
+        "b27e13b9-3345-409b-bd18-9bee7bea4d31", 
+        "edf19b09-6ce1-4850-9496-6cff013d78aa", 
+        "9a055a9e-bd52-4c4c-a2f0-f68f8c52425d", 
+        "a3075ab3-7cbe-4113-9cd0-a34f74c48cbb", 
+        "3c03cd2e-1380-45fe-8cb7-3c8caedae375", 
+        "0790b915-72d3-459c-9a4f-d259385e9d39", 
+        "06c4fe6f-8b6f-4e1e-9612-fe4a88ecfc34", 
+        "db2f1bdd-7224-44a6-8575-fa306fcf526b", 
+        "74ed5e11-54a3-49b7-9f58-155e3606a2b3", 
+        "097c2a71-6419-47c3-a0a5-fe051faf80d3", 
+        "630e20ac-efd3-45b5-9022-ae6f265f4539", 
+        "3cb6343f-ddf0-45ae-a47d-830f8b3391c0", 
+        "24074c0b-9a80-4002-b29a-cb1bfef2ce4d", 
+        "280d8900-4235-468d-ad26-7a7bb7c300d3", 
+        "8e355254-4c8b-417b-868b-688f23ef235e", 
+        "9a247ca1-e571-417c-9506-529fae747602", 
+        "9626c778-5ee7-4ef0-86a2-6689f5b447dd", 
+        "11cbacaf-d336-4de8-ac41-87ea24a10fe9", 
+        "53188937-1113-4af3-9223-09727662fe60", 
+        "0cab173f-2f9b-4dd5-a152-bc297d8f2c54", 
+        "d5083ab6-2b31-4bbd-9a94-ec8694afefe7", 
+        "ae05b71d-f95d-41b2-82bf-6cabcc23fa59", 
+        "b05cc773-4e8e-40bc-ae12-dc88dfc2c9ec", 
+        "ec42da79-0a72-480f-a678-c3d685687f2e", 
+        "2d61d764-af6a-4bda-a7a2-bf233d2ef84f", 
+        "28369487-c9c7-4807-97ee-fbf4a652b51c", 
+        "2c49e865-9f79-4505-bd3d-1dde9178f55c", 
+        "82e06622-27d8-4551-b1e4-2f13aad057fb", 
+        "4f5280fb-e972-4a35-9b20-65e274ac5eea", 
+        "083c0de4-a20b-456f-88f0-9e94064f99e0", 
+        "fc67d87a-8e21-456b-a4e9-a71116635541", 
+        "54f6287f-4efe-4de2-b3b5-3c0f3b65ed6e", 
+        "f0b45824-77c9-4e1b-a998-25ddd583f985", 
+        "ba6da412-f368-4f71-b5fb-0d891d532c7a", 
+        "b661bf76-3942-4dda-b13f-7b3e7b420d06", 
+        "9d6c4989-b8ce-4d7f-a438-61de7e7224ac", 
+        "7fa5a74b-5985-4f6b-b28d-7084c08def74", 
+        "08ceaf04-01bb-4571-a7b4-669adc9f3404", 
+        "79e2cd50-b11f-4e9b-8ae4-922e293abf6d", 
+        "dae1ca2b-6a02-423d-b88a-cc3a74292788", 
+        "909d0684-eb44-4bce-af5b-22de293ac018", 
+        "d2a33a08-422e-41ee-9d93-dbe8d8b0c45d", 
+        "d24f5f41-1838-413b-a31a-2ef19dbc811b", 
+        "931a0538-087c-49b4-a426-d35598181872", 
+        "e5e572ad-314a-4507-9fc3-24abcfa91f8f", 
+        "a4eaa68b-5ce2-4719-a54b-19d6a6a2cfb2", 
+        "6c32b67c-a971-4845-a2c0-f6acf7460eb7", 
+        "d7f45b49-c757-41c9-90a1-e2a52179bbad", 
+        "6a106315-3f09-4e4d-a0dc-3828ae535d9f", 
+        "12b593aa-dc12-4491-8794-5fb8daf6e7c1", 
+        "f29e7564-28f1-443e-88b3-6e725eca2fad", 
+        "d644387f-3f74-4796-964d-1249c5a8ac82", 
+        "4e72df4a-5eee-4083-a3c3-d9004bc361fb", 
+        "37986e59-2a97-4162-8e0a-003a79fc516b", 
+        "eb45f386-994c-4080-aa7b-652ee9e12257", 
+        "b656e1ba-d54d-4eaa-ae6c-c7dd55717fc7", 
+        "fe5b7087-438f-4e7e-afaf-6d93c8c888b2", 
+        "6586b15d-12a9-4996-b0b1-4c199d79cf05", 
+        "764691cc-1719-4a72-aca9-d23094d1c271", 
+        "d824e804-7884-479e-a3f3-05b9eec62e66", 
+        "a6a7e316-8c2d-45d4-af62-aaa8927ac2ad", 
+        "f43e012e-7a47-4e3e-bc07-4c5bef94d100", 
+        "8fa057a8-ccfa-415e-9f43-fb02f3c8e3f8", 
+        "3253a7fb-3123-477d-9ce5-528ba99c6e4a", 
+        "0a81859a-6147-47b4-9cd5-6fd3ec087701", 
+        "da6117f1-7cb4-449e-b5d3-1eb4ea874325", 
+        "36cf067b-4099-403e-874e-bd90cf92ec45", 
+        "e0e8b04c-7bc9-468a-a867-dbbaae440e58", 
+        "7f086c12-28d3-409e-99e0-1c1dc8bd0520", 
+        "8d0bfec0-6019-47a7-98d6-7e5848e02efc", 
+        "c24d296f-a0f7-4d43-8aea-7101dae41b77", 
+        "1125cbff-bb3d-411e-8d09-241371645ded", 
+        "fce10259-cfe7-4101-8622-243c737a2419", 
+        "a3a3c177-1de2-469a-9ebb-3e6318063ca3", 
+        "2f322b3a-a46d-424b-81eb-e81127098362", 
+        "7d725319-3487-4fe2-8b58-f8cce4107a5f", 
+        "c4ea0712-594c-4d3a-b008-76ccbb2a2a82", 
+        "692fa30a-c4d2-40a3-abed-e3b8f18e0b58", 
+        "e61bde7e-128b-44f7-9307-4ec93299ffb2", 
+        "dde6a17e-92d7-4250-a7e0-2fd5e41b8ed3", 
+        "5ed359a3-5751-4520-a3f6-c0c57d97504e", 
+        "354e2f0c-4d56-486a-8774-d467a376fc24", 
+        "d372159f-552d-420a-9a33-473bedf06f2d", 
+        "0677ef60-6be5-4e36-9d1e-8bb2bf85b981", 
+        "190ae78c-ef03-4bd1-8c98-8f23fc366f45", 
+        "6536f2ea-31e0-4281-8596-3c3965389906", 
+        "11d838c0-42ac-4e0d-aad3-2735ea76db1e", 
+        "4724d425-912f-458d-8b84-43d03b7248a2", 
+        "c9150f2a-fae3-47df-b173-d35a2282e9d5", 
+        "2667e765-9f58-47e8-803a-7b547e4ae360", 
+        "d2255f75-3131-40c9-9072-847b57d1ff22", 
+        "0c08a941-5c65-4a3d-b016-f53d72b01dfa", 
+        "abe12c00-bb44-4553-bcdb-d8bab51adc09", 
+        "ceb9f91b-0d65-4ae0-b651-85db8b017fae", 
+        "a6b996ba-cc63-4110-bfcf-7eaac84bf003", 
+        "5613e616-45ef-4c81-bd1d-93d34528b44e", 
+        "b7c7dfd9-d735-4733-9b10-f060ac75bd6a", 
+        "daf0f1b8-db8a-475e-a740-522f2595c591", 
+        "3d51b528-0e77-414a-94ac-7a42b520f42d", 
+        "74f44a6f-14fa-46ef-a79a-f354f459e0bf", 
+        "9bf13ac9-694a-4245-8f57-6ae62344aa1d", 
+        "f7675c2a-b5e3-4023-9d95-b2a097ba5ee5", 
+        "8bd21e5d-3fd2-4777-80ed-ea5ff403eaaa", 
+        "53efe316-3b61-4848-ba56-5dba417f2761", 
+        "1fe986f4-a547-4f18-a844-79a1bc12d414", 
+        "96eb30d3-b0df-4998-9388-56c7dbd47879", 
+        "4b2228f5-e18b-4acc-ace7-b8db13a9306f", 
+        "084773d5-7cb5-4053-8086-690677d7ae12", 
+        "0b1b2b46-e50e-4693-aad8-b8e072340f38", 
+        "4e9e4151-3b7d-4b05-b087-9946dbc3f546", 
+        "a833bafd-ea15-4cd4-8d93-1ede38afd2c9", 
+        "ebee2b53-8111-4e39-8c04-4369dfb40486", 
+        "b480cee0-00aa-410b-b62b-8a179baf68fd", 
+        "1d23b94d-6bca-40bb-a394-e77b4cefd899", 
+        "81783a39-c73b-4635-87df-d9a78b50c299", 
+        "38b3ec7f-b373-4e83-91dd-83d0a97db028", 
+        "c1285d61-7c5a-4689-ad1c-8d74575e74b2", 
+        "4ed1c213-4e94-4e2a-9c65-146481d1d572", 
+        "dace59c4-2408-4f1a-a3f5-102794a92fd0", 
+        "cf9e3513-dda2-4804-8963-6fb13a8e1003", 
+        "5627accb-3923-4828-a286-7704fec8e569", 
+        "ae17ca7f-078c-4779-a21c-9c8ddafb56ee", 
+        "2ecc693e-9bf3-4439-a542-bc872d876be4", 
+        "da65a369-0f9c-48a0-a33e-89a9af6a835f", 
+        "1c263eca-3812-49de-a70d-b5f0085245db", 
+        "a5dd1ae9-ed24-452e-91d2-715ccd5d60f3", 
+        "046c889d-5b1c-4f54-9c7b-319a8f67e729", 
+        "3172c80c-77d5-490d-a10f-5b341d66c1f4", 
+        "8b17dc6d-7610-40ad-a50f-e08b9e91fbd7", 
+        "63c50e81-f32d-4aa0-a20f-e9c30af11b4a", 
+        "1bf34db2-8447-4ecd-9b25-57945b28ef28", 
+        "c2d79ce2-698d-4bfc-a8ac-370cd81aa852", 
+        "f1a0272f-b656-4ec6-b840-ada446ed8676", 
+        "bbac5676-deb3-4c5c-8977-73388cab6ee9", 
+        "023671ff-b1ad-4133-a4f3-aadaaadfd2e0", 
+        "ca3b3ba5-9634-4137-a9d0-f925d35535ad", 
+        "e9a339df-5bd4-473d-8d75-d00ce876a28f", 
+        "5fd51551-690d-4363-a9fb-44cd0991b5a4", 
+        "d2ba1c02-fcc8-4422-b1b8-ed60eb939280", 
+        "eea6d62f-013a-487a-b329-56e711c9292e", 
+        "8efc66e3-a5a0-49d1-96ed-dc15e602aa07", 
+        "e7cfef75-51e3-47c4-bb5e-081e47b23512", 
+        "caece824-fab6-4256-a867-8ed0eb4a7e03", 
+        "b11f945e-3bad-4b6d-8a05-b88fc0c67ac9", 
+        "b355f387-4708-479d-a376-7848742b4b89", 
+        "b9debf9a-08d9-4917-96e0-133f23353fc2", 
+        "e9563a0e-384e-4cbe-8d49-5c8d4b5079a6", 
+        "548bfbb6-7e32-4913-9c18-a4a9f497ac07", 
+        "40892d7c-c3b6-4d98-b95b-8ce406cb6e85", 
+        "e5257d66-38f3-466a-80da-0d5413a524b9", 
+        "d09e6550-56d0-4569-946e-b5d88e41d7d6", 
+        "5b335798-0e1e-4e50-a94b-29d1397f3278", 
+        "59077f25-16e5-468a-8387-1890685c41a1", 
+        "9b4f9704-9867-4f87-b3aa-e3d7a6731b99", 
+        "4d3decba-dff0-4672-b4bc-cacf26db763f", 
+        "206c8b69-ca90-44e6-9d73-ffea6cd4701f", 
+        "706d301c-5707-45c4-b861-5f92fd551b65", 
+        "823f2472-e42d-4f51-8487-ea9584a6a3f4", 
+        "d22e7b63-f245-4bb3-aa90-37fcaabc248a", 
+        "1f8433d5-2379-4d84-96ac-c36652e8e5b1", 
+        "c63bb47e-517c-4a36-8249-d6e36617bd71", 
+        "bd9d34fa-887e-49ec-a1eb-45602a0d13da", 
+        "b51e13d3-c6bd-4932-a8cc-c5eb1aa5e116", 
+        "47a8680c-0f2d-47c2-8c72-52f955efabe3", 
+        "841091ae-cd5f-4bcd-9f7e-07a6beb43be7", 
+        "be7d92fa-f95a-44e9-a609-4a0f88442373", 
+        "6f3623ee-e327-4e13-aed7-5e31176e2caf", 
+        "ffd63882-753c-40fb-be9c-ce0f499d7c2e", 
+        "2f5055fd-91f7-485c-b251-6d9485ba18fb", 
+        "ad01a975-7564-4e1d-9961-58f88ba7e434", 
+        "76ea3634-e7d9-4d1f-9d00-d2a5fe8ff21f", 
+        "6352f00e-5169-4dd3-b216-30d56007f480", 
+        "ea58b1ed-3027-49c0-aedc-c88d05083c67", 
+        "6fef2261-87bd-4824-9e9b-12f33b4656e1", 
+        "2555f468-dfe3-48c7-b27f-fcd123effb5c", 
+        "d02287fe-8a8e-4bcb-b6c1-01de0f9bf4e4", 
+        "052a06ae-4775-466e-bb9a-52467c8b9eb2", 
+        "a887ee8c-7f88-48f4-8968-b716299d0628", 
+        "6d00b16a-8620-42ce-a331-dd9a8cbf3c53", 
+        "94c477be-930a-4467-bc07-ca245a4488fd", 
+        "228838e8-b69d-42c0-a783-383630914104", 
+        "0cb5de0a-ab1c-44c7-ba54-040eef74b163", 
+        "989b75c1-d6fd-426b-a1a9-32c49dea761f", 
+        "82984875-0341-4dd5-a4e7-4dd4b4ccdccd", 
+        "a01d8fb6-41ed-4c77-8f5f-9e9fac525cd3", 
+        "6768bbb8-3c20-499f-b19d-5533cabedcc5", 
+        "2224d362-0424-44aa-a3bb-03211dac4c96", 
+        "4d3ef009-6e7d-49e1-aed5-f9226116d9bf", 
+        "50682e46-7097-476c-aca4-812bf0d58d16", 
+        "9cfc6897-b34a-45a7-b78e-ff627631a1da", 
+        "56fe72ac-85b2-40e1-9171-90435ebd0424", 
+        "17190b17-7e64-43ae-aa9e-e319a18fb1b9", 
+        "77831e15-a178-4d63-8199-6af1a277af68", 
+        "7a96113d-d419-4854-970d-cd2552336cb1", 
+        "ea3e6712-c68b-4bca-9154-983e76ec5dc3", 
+        "e5ef9a77-9d04-42f9-a28f-e49ac0b1984c", 
+        "7e196ffb-e85a-4b97-b259-b2ff54cb46b1", 
+        "f52f489d-675a-432c-9fe0-42a5d9ee502b", 
+        "c9c32f88-3126-40e8-afee-6e43d10a3663", 
+        "bf16d505-28f4-451d-af34-b02c8e4b0a8e", 
+        "6976a740-c3d8-42f5-8d46-34815a0a2c38", 
+        "e7d1bab5-2c4f-4c4c-a02b-bbe50a16318d", 
+        "1a301530-f13a-429c-a878-4e9a911fe987", 
+        "022ddcda-0a86-4cec-a8de-f3d4efe435d6", 
+        "a18685fb-2792-4bae-a319-119c31d1f068", 
+        "7e9b5ee1-dcae-4b6e-bc0e-536aedc4aea1", 
+        "e0c1d5fd-9df5-46f0-9008-54740fe8fc13", 
+        "5093fc1b-ccf3-4673-9094-46d060fc320c", 
+        "b431b9cf-500c-4029-b63e-df711127580b", 
+        "7011e870-fdca-4fa5-bcb9-104b1251cf5c", 
+        "09848e75-117f-45a4-8165-5e3d37a10cdc", 
+        "77cab93d-fa2b-4f6d-bc98-1226e47f0849", 
+        "6912e871-118f-42e0-88ee-e35b4db4a362", 
+        "aecf32a1-5342-4474-95e0-cab858307252", 
+        "0f3db8d9-6142-4a49-a20e-f233e8b9fa9c", 
+        "880ae6b7-5087-493a-b9fb-eda8fbb21532", 
+        "9baeedbd-3463-4f20-a68d-3f09acdeea71", 
+        "97b4e668-6bbd-4b85-b5f2-f0c976eda639", 
+        "cb97874e-275d-4cf2-8321-f0be25760f09", 
+        "77159a2d-de62-4570-811f-81afae916cf3", 
+        "13c38add-7f7d-479c-bce5-895185bdf79d", 
+        "2634c89b-17c0-4eff-a32b-ac9e90cef885", 
+        "bf8ac6ac-febe-4cde-a6e0-642ac95449f5", 
+        "88952a93-3c8d-4fec-884c-c7182c49b363", 
+        "9b098e71-bc90-4ea6-91a7-f037a54e3a25", 
+        "c2e3c75c-0739-4722-a110-ba36829c6f92", 
+        "8d764342-4446-45ea-b1c9-e44fe4c964db", 
+        "45404354-ed64-42e9-b4e8-6e7535acfa16", 
+        "d01e6b60-95fd-4df6-822d-3b2f4861f578", 
+        "4237ee08-0992-4592-9ad6-a03f4e00b4f8", 
+        "7d9291e1-28e4-4abd-8d23-75a15272029e", 
+        "1eaf8c8c-f85f-49ce-b36b-28a2f0b059f0", 
+        "45f2af94-f5a1-4078-a345-655c44509475", 
+        "1db15425-88ab-4c0e-a273-2e10828a1aef", 
+        "8ecbaf81-b766-4606-b6ab-9046b46280ed", 
+        "1a3c3a99-7d9f-48c6-b571-a324ebb0d3c5", 
+        "73561ef5-3bfc-4371-b70a-1b025e493219", 
+        "8e02bdd1-aa7b-4c03-93c9-db4be69661fc", 
+        "2c66220f-eed9-4f08-a527-066b4203acbd", 
+        "0ee30ae7-c63c-4e96-8984-25d6e7dd5de1", 
+        "07822781-9977-4c9c-83d4-3b3d1f4ca4c4", 
+        "d78452bb-5e32-401e-a22c-6b3a0860e333", 
+        "4fddc9d3-64c1-4880-a074-16686aca2652", 
+        "1f034275-a260-4f82-8fd3-354a6011c4fd", 
+        "5ec6c7d1-25c6-4688-8035-8b0788a3f12e", 
+        "aeddbd78-5b78-4062-854b-3728897a3105", 
+        "c1afd35e-d0c8-438d-86cf-92e9a524e7c6", 
+        "41b96bfa-fcdc-44d1-b0cd-a57be7fbfa46", 
+        "fbbed106-ca4b-4299-9e2a-14bc23cf628d", 
+        "ece697bf-a5b5-47ca-a5f8-87b7005f2e7c", 
+        "51614e8d-95df-448d-95cf-4180ba04e7b8"
+      ], 
+      "overview": "", 
+      "rating": {
+        "Count": 34, 
+        "Value": 8.1
+      }, 
+      "sortname": "Various Artists", 
+      "status": "active", 
+      "type": "Other"
+    }, 
+    "score": 52
+  }, 
+  {
+    "album": null, 
+    "artist": {
+      "artistaliases": [
+        "\u62ab\u982d\u56db", 
+        "The Beatles", 
+        "Les Beatles", 
+        "\u30b6\u30fb\u30d3\u30fc\u30c8\u30eb\u30ba", 
+        "Los Beatles", 
+        "\u0627\u0644\u0628\u064a\u062a\u0644\u0632", 
+        "\u12d8 \u1262\u1270\u120d\u1235", 
+        "\u09a6\u09cd\u09af \u09ac\u09bf\u099f\u09b2\u09cd\u200c\u09b8", 
+        "\u0628\u06cc\u062a\u0644\u0632", 
+        "\u0aa7 \u0aac\u0abf\u0a9f\u0ab2\u0acd\u0ab8", 
+        "\u05d4\u05d1\u05d9\u05d8\u05dc\u05e1", 
+        "\ub354 \ube44\ud2c0\uc988", 
+        "\u0926 \u092c\u0940\u091f\u0932\u094d\u0938", 
+        "B\u00edtlarnir", 
+        "\u0ca6\u0cbf \u0cac\u0cc0\u0c9f\u0cb2\u0ccd\u0cb8\u0ccd", 
+        "\u0d26\u0d3f \u0d2c\u0d40\u0d31\u0d4d\u0d31\u0d3f\u0d7d\u0d38\u0d4d", 
+        "\u0411\u0438\u0442\u043b\u0441\u0438", 
+        "\u0a26 \u0a2c\u0a40\u0a1f\u0a32\u0a1c\u0a3c", 
+        "\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd\u0bb8\u0bcd", 
+        "\u0c26 \u0c2c\u0c40\u0c1f\u0c3f\u0c32\u0c4d\u0c38\u0c4d", 
+        "\u0e40\u0e14\u0e2d\u0e30\u0e1a\u0e35\u0e40\u0e17\u0e34\u0e25\u0e2a\u0e4c", 
+        "\u0628\u06cc\u0679\u0644\u0632", 
+        "\u10d1\u10d8\u10d7\u10da\u10d6\u10d8", 
+        "Die Beatles", 
+        "I Beatles", 
+        "The Silver Beatles", 
+        "\u62ab\u5934\u58eb", 
+        "\u0411\u0438\u0442\u043b\u0437", 
+        "\u0411\u0456\u0442\u043b\u0437", 
+        "\u05d3\u05d9 \u05d1\u05d9\u05d8\u05dc\u05e1", 
+        "\u1c6b\u1c5a \u1c75\u1c64\u1c74\u1c5e\u1c6e\u1c65", 
+        "\u0926 \u092c\u093f\u091f\u0932\u094d\u0938", 
+        "\u1018\u102e\u1038\u1010\u1032\u101c\u103a\u1021\u1016\u103d\u1032\u1037", 
+        "\u054a\u056b\u0569\u056c\u057d", 
+        "\u62ab\u982d\u56db\u6a02\u968a", 
+        "Beatles", 
+        "\u62ab\u982d\u56db\u6a02\u5718", 
+        "\u62ab\u5934\u58eb\u4e50\u961f", 
+        "\u62ab\u5934\u58eb\u4e50\u961f"
+      ], 
+      "artistname": "The Beatles", 
+      "disambiguation": "UK rock band, \u201cThe Fab Four\u201d", 
+      "genres": [
+        "Classic Rock", 
+        "Mainstream Rock", 
+        "Pop", 
+        "Pop Rock", 
+        "Psychedelic Pop", 
+        "Psychedelic Rock", 
+        "Rock", 
+        "Rock And Roll", 
+        "Merseybeat"
+      ], 
+      "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d", 
+      "images": [], 
+      "links": [
+        {
+          "target": "https://www.thebeatles.com/", 
+          "type": "thebeatles"
+        }, 
+        {
+          "target": "https://www.discogs.com/artist/82730", 
+          "type": "discogs"
+        }, 
+        {
+          "target": "https://www.imdb.com/name/nm1397313/", 
+          "type": "imdb"
+        }, 
+        {
+          "target": "https://myspace.com/thebeatles", 
+          "type": "myspace"
+        }, 
+        {
+          "target": "https://www.bbc.co.uk/music/artists/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d", 
+          "type": "bbc"
+        }, 
+        {
+          "target": "http://www.britishbeatlesfanclub.co.uk/", 
+          "type": "britishbeatlesfanclub"
+        }, 
+        {
+          "target": "https://twitter.com/thebeatles", 
+          "type": "twitter"
+        }, 
+        {
+          "target": "https://www.youtube.com/channel/UCc4K7bAqpdBP8jh1j9XZAww", 
+          "type": "youtube"
+        }, 
+        {
+          "target": "https://www.facebook.com/thebeatles", 
+          "type": "facebook"
+        }, 
+        {
+          "target": "https://www.allmusic.com/artist/mn0000754032", 
+          "type": "allmusic"
+        }, 
+        {
+          "target": "https://www.last.fm/music/The+Beatles", 
+          "type": "last"
+        }, 
+        {
+          "target": "http://viaf.org/viaf/141205608", 
+          "type": "viaf"
+        }, 
+        {
+          "target": "https://www.wikidata.org/wiki/Q1299", 
+          "type": "wikidata"
+        }, 
+        {
+          "target": "https://www.45cat.com/artist/the-beatles", 
+          "type": "45cat"
+        }, 
+        {
+          "target": "https://rateyourmusic.com/artist/the-beatles", 
+          "type": "rateyourmusic"
+        }, 
+        {
+          "target": "https://soundcloud.com/thebeatles", 
+          "type": "soundcloud"
+        }, 
+        {
+          "target": "https://commons.wikimedia.org/wiki/File:The_Fabs.JPG", 
+          "type": "wikimedia"
+        }, 
+        {
+          "target": "https://www.deezer.com/artist/1", 
+          "type": "deezer"
+        }, 
+        {
+          "target": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2", 
+          "type": "spotify"
+        }, 
+        {
+          "target": "https://www.whosampled.com/The-Beatles/", 
+          "type": "whosampled"
+        }, 
+        {
+          "target": "https://www.amazon.co.uk/-/e/B000APTK6K", 
+          "type": "amazon"
+        }, 
+        {
+          "target": "https://genius.com/artists/The-beatles", 
+          "type": "genius"
+        }, 
+        {
+          "target": "http://www.pandora.com/beatles", 
+          "type": "pandora"
+        }, 
+        {
+          "target": "https://play.google.com/store/music/artist?id=Apyx6rt3d2amstq7u3ntxenxhkq", 
+          "type": "google"
+        }, 
+        {
+          "target": "https://www.musicmeter.nl/artist/13409", 
+          "type": "musicmeter"
+        }, 
+        {
+          "target": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html", 
+          "type": "setlist"
+        }, 
+        {
+          "target": "https://www.musik-sammler.de/artist/the-beatles/", 
+          "type": "musik-sammler"
+        }, 
+        {
+          "target": "https://d-nb.info/gnd/2005535-3", 
+          "type": "d-nb"
+        }, 
+        {
+          "target": "http://id.loc.gov/authorities/names/n79018119", 
+          "type": "loc"
+        }, 
+        {
+          "target": "https://catalogue.bnf.fr/ark:/12148/cb13901884f", 
+          "type": "bnf"
+        }, 
+        {
+          "target": "https://nla.gov.au/nla.party-1212427", 
+          "type": "gov"
+        }, 
+        {
+          "target": "https://openlibrary.org/works/OL2741516A", 
+          "type": "openlibrary"
+        }, 
+        {
+          "target": "https://www.instagram.com/thebeatles/", 
+          "type": "instagram"
+        }, 
+        {
+          "target": "https://www.songkick.com/artists/417271", 
+          "type": "songkick"
+        }, 
+        {
+          "target": "https://www.spirit-of-rock.com/en/band/The_Beatles", 
+          "type": "spirit-of-rock"
+        }, 
+        {
+          "target": "http://soundtrackcollector.com/composer/294/", 
+          "type": "soundtrackcollector"
+        }, 
+        {
+          "target": "https://www.onkyomusic.com/GB/artist/the-beatles", 
+          "type": "onkyomusic"
+        }, 
+        {
+          "target": "https://secondhandsongs.com/artist/41", 
+          "type": "secondhandsongs"
+        }, 
+        {
+          "target": "https://itunes.apple.com/gb/artist/id136975", 
+          "type": "apple"
+        }, 
+        {
+          "target": "https://tidal.com/artist/3634161", 
+          "type": "tidal"
+        }, 
+        {
+          "target": "https://www.musixmatch.com/artist/The-Beatles", 
+          "type": "musixmatch"
+        }, 
+        {
+          "target": "https://www.progarchives.com/artist.asp?id=2407", 
+          "type": "progarchives"
+        }, 
+        {
+          "target": "https://imvdb.com/n/the-beatles", 
+          "type": "imvdb"
+        }, 
+        {
+          "target": "https://music.amazon.com/artists/B00GB0QTOY", 
+          "type": "amazon"
+        }, 
+        {
+          "target": "https://us.napster.com/artist/the-beatles", 
+          "type": "napster"
+        }, 
+        {
+          "target": "https://music.apple.com/gb/artist/136975", 
+          "type": "apple"
+        }, 
+        {
+          "target": "https://music.apple.com/gb/artist/136975", 
+          "type": "apple"
+        }, 
+        {
+          "target": "https://www.cdjapan.co.jp/person/132351", 
+          "type": "cdjapan"
+        }, 
+        {
+          "target": "https://mora.jp/artist/222117/all", 
+          "type": "mora"
+        }, 
+        {
+          "target": "https://www.muziekweb.nl/Link/M00000016837/POPULAR/", 
+          "type": "muziekweb"
+        }, 
+        {
+          "target": "https://www.qobuz.com/gb-en/interpreter/the-beatles/26390", 
+          "type": "qobuz"
+        }, 
+        {
+          "target": "https://www.qobuz.com/gb-en/interpreter/the-beatles/26390", 
+          "type": "qobuz"
+        }, 
+        {
+          "target": "https://music.migu.cn/v3/music/artist/961", 
+          "type": "migu"
+        }, 
+        {
+          "target": "https://www.yesasia.com/0-aid3935936-0-bpt.47-en/list.html", 
+          "type": "yesasia"
+        }, 
+        {
+          "target": "https://www.boomplay.com/artists/3199029", 
+          "type": "boomplay"
+        }, 
+        {
+          "target": "https://play.anghami.com/artist/4689", 
+          "type": "anghami"
+        }, 
+        {
+          "target": "https://www.kkbox.com/hk/en/artist/OsUSXTUzyafhCb7Mt7", 
+          "type": "kkbox"
+        }, 
+        {
+          "target": "https://aboutthebeatles.com/", 
+          "type": "aboutthebeatles"
+        }, 
+        {
+          "target": "https://www.beatles.ru/", 
+          "type": "beatles"
+        }, 
+        {
+          "target": "https://beatlesfanclub.nl/", 
+          "type": "beatlesfanclub"
+        }, 
+        {
+          "target": "https://www.dmbeatles.com/", 
+          "type": "dmbeatles"
+        }, 
+        {
+          "target": "https://muzikum.eu/en/the-beatles/lyrics", 
+          "type": "muzikum"
+        }, 
+        {
+          "target": "https://castalbums.org/people/The-Beatles/118334", 
+          "type": "castalbums"
+        }, 
+        {
+          "target": "https://musicmoz.org/Bands_and_Artists/B/Beatles,_The/", 
+          "type": "musicmoz"
+        }, 
+        {
+          "target": "https://id.oclc.org/worldcat/entity/E39QQPVp7YDyFJKp4fX79YyFWt", 
+          "type": "oclc"
+        }, 
+        {
+          "target": "https://music.youtube.com/channel/UC2XdaAVUannpujzv32jcouQ", 
+          "type": "youtube"
+        }, 
+        {
+          "target": "https://musicalbums.ai/artist/The%20Beatles", 
+          "type": "musicalbums"
+        }
+      ], 
+      "oldids": [
+        "333b16c0-c1fc-4fa0-ab58-367adf2c8e2e", 
+        "f8b6c151-03ff-4fd7-8df0-ff0980d6ae4c"
+      ], 
+      "overview": "", 
+      "rating": {
+        "Count": 83, 
+        "Value": 9.6
+      }, 
+      "sortname": "Beatles, The", 
+      "status": "ended", 
+      "type": "Group"
+    }, 
+    "score": 52
+  }, 
+  {
+    "album": null, 
+    "artist": {
+      "artistaliases": [], 
+      "artistname": "MODERNIST 76", 
+      "disambiguation": "Another moniker of malo420", 
+      "genres": [], 
+      "id": "4ff63467-b3a6-401a-bc97-2f8100cf3974", 
+      "images": [], 
+      "links": [
+        {
+          "target": "https://www.discogs.com/artist/7727436", 
+          "type": "discogs"
+        }
+      ], 
+      "oldids": [], 
+      "overview": "", 
+      "rating": {
+        "Count": 0, 
+        "Value": null
+      }, 
+      "sortname": "MODERNIST 76", 
+      "status": "active", 
+      "type": null
+    }, 
+    "score": 51
+  }, 
+  {
+    "album": null, 
+    "artist": {
+      "artistaliases": [
+        "Bruce Springsteen", 
+        "The Boss", 
+        "\u30d6\u30eb\u30fc\u30b9\u30fb\u30b9\u30d7\u30ea\u30f3\u30b0\u30b9\u30c6\u30a3\u30fc\u30f3"
+      ], 
+      "artistname": "Bruce Springsteen", 
+      "disambiguation": "", 
+      "genres": [
+        "Americana", 
+        "Aor", 
+        "Contemporary Folk", 
+        "Folk", 
+        "Pop Rock", 
+        "Rock", 
+        "Rock And Roll", 
+        "Singer-Songwriter", 
+        "Heartland Rock"
+      ], 
+      "id": "70248960-cb53-4ea4-943a-edb18f7d336f", 
+      "images": [], 
+      "links": [
+        {
+          "target": "http://brucespringsteen.net/", 
+          "type": "brucespringsteen"
+        }, 
+        {
+          "target": "https://www.discogs.com/artist/219986", 
+          "type": "discogs"
+        }, 
+        {
+          "target": "https://myspace.com/brucespringsteenestreet", 
+          "type": "myspace"
+        }, 
+        {
+          "target": "https://www.facebook.com/brucespringsteen", 
+          "type": "facebook"
+        }, 
+        {
+          "target": "https://www.bbc.co.uk/music/artists/70248960-cb53-4ea4-943a-edb18f7d336f", 
+          "type": "bbc"
+        }, 
+        {
+          "target": "https://www.imdb.com/name/nm0819803/", 
+          "type": "imdb"
+        }, 
+        {
+          "target": "https://www.allmusic.com/artist/mn0000530745", 
+          "type": "allmusic"
+        }, 
+        {
+          "target": "https://www.last.fm/music/Bruce+Springsteen", 
+          "type": "last"
+        }, 
+        {
+          "target": "http://viaf.org/viaf/84960550", 
+          "type": "viaf"
+        }, 
+        {
+          "target": "https://twitter.com/springsteen", 
+          "type": "twitter"
+        }, 
+        {
+          "target": "https://www.wikidata.org/wiki/Q1225", 
+          "type": "wikidata"
+        }, 
+        {
+          "target": "https://commons.wikimedia.org/wiki/File:Bruce_Springsteen_-_Roskilde_Festival_2012.jpg", 
+          "type": "wikimedia"
+        }, 
+        {
+          "target": "http://muzikum.eu/en/122-4038/bruce-springsteen/lyrics.html", 
+          "type": "muzikum"
+        }, 
+        {
+          "target": "https://soundcloud.com/brucespringsteen", 
+          "type": "soundcloud"
+        }, 
+        {
+          "target": "http://www.springsteenlyrics.com/", 
+          "type": "springsteenlyrics"
+        }, 
+        {
+          "target": "http://www.greasylake.org/", 
+          "type": "greasylake"
+        }, 
+        {
+          "target": "http://www.brucespringsteen.it/Discox.htm", 
+          "type": "brucespringsteen"
+        }, 
+        {
+          "target": "http://www.brucespringsteen.it/", 
+          "type": "brucespringsteen"
+        }, 
+        {
+          "target": "http://www.brucespringsteen.nl/", 
+          "type": "brucespringsteen"
+        }, 
+        {
+          "target": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT", 
+          "type": "spotify"
+        }, 
+        {
+          "target": "https://www.instagram.com/springsteen/", 
+          "type": "instagram"
+        }, 
+        {
+          "target": "https://www.songkick.com/artists/227030", 
+          "type": "songkick"
+        }, 
+        {
+          "target": "https://www.amazon.com/-/e/B000AQ2ZLQ", 
+          "type": "amazon"
+        }, 
+        {
+          "target": "https://www.amazon.com/-/e/B000AQ2ZLQ", 
+          "type": "amazon"
+        }, 
+        {
+          "target": "https://www.musik-sammler.de/artist/bruce-springsteen/", 
+          "type": "musik-sammler"
+        }, 
+        {
+          "target": "https://d-nb.info/gnd/118752286", 
+          "type": "d-nb"
+        }, 
+        {
+          "target": "http://id.loc.gov/authorities/names/n83017057", 
+          "type": "loc"
+        }, 
+        {
+          "target": "https://www.worldcat.org/identities/lccn-n83017057", 
+          "type": "worldcat"
+        }, 
+        {
+          "target": "https://catalogue.bnf.fr/ark:/12148/cb138999861", 
+          "type": "bnf"
+        }, 
+        {
+          "target": "https://nla.gov.au/nla.party-1000809", 
+          "type": "gov"
+        }, 
+        {
+          "target": "http://snaccooperative.org/ark:/99166/w6j69mfj", 
+          "type": "snaccooperative"
+        }, 
+        {
+          "target": "https://musicmoz.org/Bands_and_Artists/S/Springsteen,_Bruce/", 
+          "type": "musicmoz"
+        }, 
+        {
+          "target": "https://secondhandsongs.com/artist/934", 
+          "type": "secondhandsongs"
+        }, 
+        {
+          "target": "https://rateyourmusic.com/artist/bruce-springsteen", 
+          "type": "rateyourmusic"
+        }, 
+        {
+          "target": "https://www.whosampled.com/Bruce-Springsteen/", 
+          "type": "whosampled"
+        }, 
+        {
+          "target": "https://www.bandsintown.com/a/26654", 
+          "type": "bandsintown"
+        }, 
+        {
+          "target": "https://www.setlist.fm/setlists/bruce-springsteen-2bd6dcce.html", 
+          "type": "setlist"
+        }, 
+        {
+          "target": "https://imvdb.com/n/bruce-springsteen", 
+          "type": "imvdb"
+        }, 
+        {
+          "target": "https://genius.com/artists/Bruce-springsteen", 
+          "type": "genius"
+        }, 
+        {
+          "target": "https://tidal.com/artist/509", 
+          "type": "tidal"
+        }, 
+        {
+          "target": "https://www.deezer.com/artist/4762", 
+          "type": "deezer"
+        }, 
+        {
+          "target": "https://play.google.com/store/music/artist?id=A6paynybk7yx7tszgqgiarhfaeq", 
+          "type": "google"
+        }, 
+        {
+          "target": "https://www.7digital.com/artist/bruce-springsteen", 
+          "type": "7digital"
+        }, 
+        {
+          "target": "https://www.spirit-of-rock.com/en/band/Bruce_Springsteen", 
+          "type": "spirit-of-rock"
+        }, 
+        {
+          "target": "http://brucebase.wikidot.com/", 
+          "type": "wikidot"
+        }, 
+        {
+          "target": "http://brucebase.wikidot.com/", 
+          "type": "wikidot"
+        }, 
+        {
+          "target": "https://www.musixmatch.com/artist/Bruce-Springsteen", 
+          "type": "musixmatch"
+        }, 
+        {
+          "target": "https://www.45cat.com/artist/bruce-springsteen", 
+          "type": "45cat"
+        }, 
+        {
+          "target": "http://soundtrackcollector.com/composer/13015/", 
+          "type": "soundtrackcollector"
+        }, 
+        {
+          "target": "https://castalbums.org/people/Bruce-Springsteen/83917", 
+          "type": "castalbums"
+        }, 
+        {
+          "target": "https://www.ibdb.com/broadway-cast-staff/bruce-springsteen-515481", 
+          "type": "ibdb"
+        }, 
+        {
+          "target": "https://music.amazon.com/artists/B000QJJW2M", 
+          "type": "amazon"
+        }, 
+        {
+          "target": "https://www.livefans.jp/artists/33995", 
+          "type": "livefans"
+        }, 
+        {
+          "target": "https://us.napster.com/artist/bruce-springsteen", 
+          "type": "napster"
+        }, 
+        {
+          "target": "https://www.qobuz.com/de-de/interpreter/bruce-springsteen/download-streaming-albums", 
+          "type": "qobuz"
+        }, 
+        {
+          "target": "https://www.hdtracks.com/#/artist/Bruce%20Springsteen", 
+          "type": "hdtracks"
+        }, 
+        {
+          "target": "https://www.ibdb.com/person.php?id=515481", 
+          "type": "ibdb"
+        }, 
+        {
+          "target": "https://www.musicstack.com/discography/bruce+springsteen+%2526+the+e-street+band", 
+          "type": "musicstack"
+        }, 
+        {
+          "target": "https://music.apple.com/us/artist/178834", 
+          "type": "apple"
+        }, 
+        {
+          "target": "https://music.apple.com/us/artist/178834", 
+          "type": "apple"
+        }, 
+        {
+          "target": "https://music.youtube.com/channel/UCyFqJ_5TyAeTD7rHpLikbKQ", 
+          "type": "youtube"
+        }, 
+        {
+          "target": "https://www.yesasia.com/0-aid273620-0-bpt.47-en/list.html", 
+          "type": "yesasia"
+        }, 
+        {
+          "target": "https://music.migu.cn/v3/music/artist/30115", 
+          "type": "migu"
+        }, 
+        {
+          "target": "https://www.muziekweb.nl/Link/M00000078266/POPULAR/", 
+          "type": "muziekweb"
+        }, 
+        {
+          "target": "https://www.cdjapan.co.jp/person/700182981", 
+          "type": "cdjapan"
+        }, 
+        {
+          "target": "https://mora.jp/artist/37562/all", 
+          "type": "mora"
+        }, 
+        {
+          "target": "https://www.youtube.com/channel/UCcu7ANuD9J7hnTQCREqIc4Q", 
+          "type": "youtube"
+        }, 
+        {
+          "target": "https://www.youtube.com/channel/UCkZu0HAGinESFynhe3R4hxQ", 
+          "type": "youtube"
+        }, 
+        {
+          "target": "https://bookbrainz.org/author/40060843-fca9-4290-b46e-b9a9532a57a0", 
+          "type": "bookbrainz"
+        }, 
+        {
+          "target": "https://tower.jp/artist/174593", 
+          "type": "tower"
+        }, 
+        {
+          "target": "https://www.wolfgangs.com/music/bruce-springsteen/", 
+          "type": "wolfgangs"
+        }, 
+        {
+          "target": "https://music.apple.com/gb/artist/178834", 
+          "type": "apple"
+        }
+      ], 
+      "oldids": [], 
+      "overview": "", 
+      "rating": {
+        "Count": 15, 
+        "Value": 8.8
+      }, 
+      "sortname": "Springsteen, Bruce", 
+      "status": "active", 
+      "type": "Person"
+    }, 
+    "score": 51
+  }, 
+  {
+    "album": null, 
+    "artist": {
+      "artistaliases": [
+        "ok\u00e4nd artist", 
+        "[tundmatu]", 
+        "[desconocido]", 
+        "\uff08\u30ab\u30e9\u30aa\u30b1\uff09", 
+        "[tuntematon]", 
+        "Others", 
+        "Onbekend", 
+        "[unknown]", 
+        "Singer3", 
+        "[unbekannt]", 
+        "Koro", 
+        "Orchestra", 
+        "minddrops", 
+        "Original Motion Picture Cast", 
+        "[\u043d\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0439]", 
+        "[ubekendt]", 
+        "[desconegut]", 
+        "[onbekend]", 
+        "Julemusikk", 
+        "Nezin\u0101ms autors", 
+        "[sconosciuto]", 
+        "[inconnu]", 
+        "\u3014\u672a\u77e5\u3015", 
+        "Various IHOP staff", 
+        "Group", 
+        "Chorus", 
+        "[ne\u017einomas]", 
+        "unspecified", 
+        "Saber Marionette J", 
+        "\"Higher And Higher\" Cast", 
+        "\"Manchali\" Chorus", 
+        "\"Dames\" Chorines", 
+        "\u0ab5\u0ac3\u0a82\u0aa6", 
+        "Movie Score", 
+        "Full Cast", 
+        "[classical music]", 
+        "Tv Theme", 
+        "The Associated Board of the Royal Schools of Music", 
+        "Total Guitar", 
+        "Musafir Various", 
+        "Intro", 
+        "Clark/moyet", 
+        "Silent M\u00f6bius", 
+        "\"Gold Diggers of 1935\" Chorines", 
+        "White Label", 
+        "Happy Birthday", 
+        "Unknown", 
+        "National Lampoon's Christmas Vacation Cast", 
+        "Bollywood", 
+        "Happy Divorce", 
+        "Copyright Control", 
+        "Asian Zen Meditation", 
+        "PLATINUMGAMES", 
+        "Philips", 
+        "unlisted", 
+        "Piano Solo", 
+        "Bonus", 
+        "Singer2", 
+        "[interlude]", 
+        "OST", 
+        "Buddhist Monks", 
+        "Field workers", 
+        "Choir", 
+        "Original Motion Picture Soundtrak", 
+        "Christmas Spirit", 
+        "\u0430\u0432\u0442\u043e\u0440 \u043d\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d", 
+        "B.O. Film", 
+        "Film Hits", 
+        "Latvie\u0161u tautas dziesmas", 
+        "Originaldarsteller", 
+        "Unblocked - Musik aus Osteuropa", 
+        "Concert Band", 
+        "\"Rakhwala\" Chorus 2", 
+        "Olde English Carol", 
+        "Musical Interlude", 
+        "Harp, Violin & Flute", 
+        "\"Dinosaur Planet\" Chorus", 
+        "Happy Graduation", 
+        "\"Gundaraj\" Chorus", 
+        "[tautas dziesma]", 
+        "Kinderlieder-Klassiker", 
+        "Cayapa singer", 
+        "Punk Covers", 
+        "Kyoto Shakuhachi Master", 
+        "Aut. nez.", 
+        "12 Exitazos Rancheros", 
+        "LucasArts", 
+        "\"Night Of The Demon\" Studio Orchestra", 
+        "Desconhecido", 
+        "Various Artists Children's Choir", 
+        "\"Chaalbaaz\" Chorus", 
+        "[unkn.]", 
+        "Chorus", 
+        "grup de soli\u0219ti", 
+        "Tuntematon", 
+        "kor", 
+        "Unknown Cameroonian", 
+        "Have I Got News for You", 
+        "\"Cheetah\" Chorus", 
+        "geleneksel", 
+        "Oh! My Goddess!", 
+        "Numerous Artist", 
+        "Mixed", 
+        "Cayapa shaman", 
+        "Unidentified", 
+        "Onegai Sensei", 
+        "\u201cAb ayega mazaa\u201d Chorus", 
+        "Unutulmayan Ask Sarkilari", 
+        "Original Motion Picture Soundtrack", 
+        "Latin hymn, 17th century", 
+        "DJ Mix", 
+        "Chorus", 
+        "\"Gold Diggers of 1935\" Chorus", 
+        "Spooky Sounds", 
+        "Dixieland", 
+        "Nursery Rhymes", 
+        "Girl Group", 
+        "Author Unknown", 
+        "\u0418\u0437\u0432\u043e\u0440\u043d\u0430 \u041d\u0430\u0440\u043e\u0434\u043d\u0430", 
+        "Instrumental Music", 
+        "CLASSICS 100", 
+        "[unknown female]", 
+        "Singer1", 
+        "HTOA Test CD", 
+        "(Instrumental)", 
+        "Original Sound Track", 
+        "[television theme songs]", 
+        "Mystery Artist", 
+        "\"Yaarana\" Chorus", 
+        "World Premiere Song", 
+        "Kurz vor Zw\u00f6lf", 
+        "New Age Artists", 
+        "\"Double Gadbad\" Chorus", 
+        "\"Silsila\" Chorus", 
+        "New York Life presents", 
+        "Winkler/Rauch", 
+        "\u05d7\u05d1\u05d5\u05e8\u05d4", 
+        "Alto Saxophone", 
+        "\"Pathar Ke Insan\" Chorus", 
+        "Movie Love Songs", 
+        "Grease Soundtrack", 
+        "\"Chaahat Ek Nasha\" Chorus", 
+        "\"42nd Street\" Chorus", 
+        "[Instrumental]", 
+        "3D Realms", 
+        "Instrumental", 
+        "Intro & Outro", 
+        "\u05d7\u05d1\u05d5\u05e8\u05ea \u05d1\u05e0\u05d9\u05dd \u05d1\u05e0\u05d5\u05ea", 
+        "\u201cDharmatma\u201d Chorus", 
+        "\"Shiva\" Chorus", 
+        "Chorus", 
+        "(karaoke)", 
+        "Unknown Greece Artists", 
+        "[no artist listed]", 
+        "\"The Abominable Snowman\" Studio Orchestra", 
+        "[tautasdziesma]", 
+        "Book of Mormon", 
+        "Various Kannada Singers", 
+        "Various Malian Artists", 
+        "Kindermusik", 
+        "Unknown (German version)", 
+        "Several", 
+        "inconnu", 
+        "\u201cBarood\u201d Chorus", 
+        "Kuoro", 
+        "Baby Genius", 
+        "Porter Music Box Company", 
+        "Piano & Orchestra", 
+        "\"In Caliente\" Chorus", 
+        "TV TOONS", 
+        "Instrumentaali", 
+        "Chorus", 
+        "unown", 
+        "Nezn\u00e1m\u00fd", 
+        "\"Shree 420\" Chorus", 
+        "Unidentified Performers", 
+        "Instrumental Version", 
+        "Chromalox", 
+        "Unlisted Artist", 
+        "Karaoke", 
+        "\"Chauraha\" Chorus", 
+        "\u30eb\u30fc\u30ab\u30b9\u82b8\u8853", 
+        "\u672a\u77e5\u306e\u82b8\u8853\u5bb6", 
+        "\"Wonder Bar\" Chorus", 
+        "[field musicians]", 
+        "Bakuretsu Hunters", 
+        "grup de copii", 
+        "\"Dames\" Chorus", 
+        "Jule musikk", 
+        "[tiidm\u00e4ld\u00e4]", 
+        "non connu", 
+        "20th Century Fox", 
+        "Avex Trax", 
+        "\"Baazi (1994)\" Chorus", 
+        "[12th century French processional]", 
+        "\"Machine Gun Kelly\" Studio Orchestra", 
+        "Halloween Sounds", 
+        "Spiderman Theme", 
+        "Sublime Frequencies", 
+        "Happy Retirement", 
+        "\u30b5\u30f3\u30c8\u30e9", 
+        "Boys and Girls Group", 
+        "Guitar Techniques", 
+        "Nickelodeon", 
+        "Hunter X Hunter", 
+        "Coros", 
+        "Little Britain", 
+        "(unknown)", 
+        "Jingle", 
+        "Public Domain", 
+        "\"Sanam Teri Kasam\" Chorus", 
+        "Unknown Artist", 
+        "Artist", 
+        "\"Andaz\" Chorus", 
+        "\"Higher And Higher\" Studio Orchestra", 
+        "Colorado man in his forties", 
+        "Ning\u00fan artista", 
+        "(Unidentified small jazz combo)", 
+        "\"Angrakshak\" Chorus", 
+        "\u201cDisco Dancer\u201d Chorus", 
+        "Sierra On-Line", 
+        "LaserLight Digital", 
+        "chorus (india)", 
+        "[Christmas music]", 
+        "'Akhand Sowbhagyavati' Chorus", 
+        "The World Of Flamenco", 
+        "\u201cThe Horror of Dracula\u201d Studio Orchestra", 
+        "Anthologie Des Musiques De Bali", 
+        "Kofan shaman", 
+        "Mohawk Carol", 
+        "Simply Yoga", 
+        "BBC SFX 16 .", 
+        "Just a Minute", 
+        "\uff34\uff36\u30b5\u30f3\u30c8\u30e9", 
+        "Card Captor Sakura", 
+        "[east african music]", 
+        "nez", 
+        "\u041d\u0430\u0440\u043e\u0434\u043d\u0430 \u041f\u0435\u0441\u043c\u0430", 
+        "M\u00e4nner Trio", 
+        "\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u60c5\u5831\u306a\u3057", 
+        "Original Soundtrack Score", 
+        "British Broadcasting Corporation", 
+        "[news report]", 
+        "Dubstep", 
+        "Unknown Moroccan Musicians", 
+        "Klassik", 
+        "Karaoke Playback", 
+        "Not Attributed", 
+        "Mbuti Pygmies of the Ituri Rainforest", 
+        "Various Ghanaian Musicians", 
+        "Unidentified Prisoners", 
+        "The Unknown Artist", 
+        "\"Amar\" Chorus", 
+        "\"Dirlada\" Chorus", 
+        "\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30ab\u30e9\u30aa\u30b1", 
+        "Federico De Alvera", 
+        "Bib", 
+        "\"\u039f\u03c1\u03bf\u03c0\u03ad\u03b4\u03b9\u03bf\" Chorus", 
+        "(Unlisted 3 Second Track)", 
+        "Unknown Trio", 
+        "\u2605\u30ab\u30e9\u30aa\u30b1", 
+        "Cinema Century", 
+        "\"Laadla\" Chorus", 
+        "Film ST", 
+        "[instr.]", 
+        "Chinese Orchestra", 
+        "[soundtrack]", 
+        "Sioni shaman & ayahuasca ritual participants", 
+        "Unknown Group", 
+        "\"The Great Gambler Train\" Chorus", 
+        "\"The Indian Tomb\" Studio Orchestra", 
+        "\"Dharmatma\" Chorus", 
+        "Symphony Orchestra", 
+        "[Unknow]", 
+        "14th Century Carol", 
+        "Prison Break", 
+        "Masters Of The Roll Compilations", 
+        "Pickin' On", 
+        "Ukendt", 
+        "Cartoni animati", 
+        "nh\u1ea1c n\u01b0\u1edbc ngo\u1ea1i", 
+        "\u30ab\u30e9\u30aa\u30b1", 
+        "Autors nezin\u0101ms", 
+        "Best of GuitarPlayer", 
+        "\"Jewel Thief\" Chorus", 
+        "Happy Marriage", 
+        "\u0412\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0439 \u0430\u043d\u0441\u0430\u043c\u0431\u043b\u044c", 
+        "Instrumental JK", 
+        "unnamed artist", 
+        "Music of the Central African Pygmies", 
+        "Pamplin Music", 
+        "Les Mis\u00e9rables Cast", 
+        "Romantic Christmas", 
+        "Dong People", 
+        "Karav\u012bru dz.", 
+        "[instrumental]", 
+        "Classical Chinese", 
+        "[Unknown Orchestra]", 
+        "Twin Peaks Soundtrack", 
+        "Kinderlieder", 
+        "Coros - La Bella y la Bestia", 
+        "Happy Anniversary", 
+        "\"Anhonee\" Chorus", 
+        "Unkown", 
+        "\"Ghayal\" Chorus", 
+        "\"Fashions of 1934\" Chorines", 
+        "\"Li'l Abner\" Chorus", 
+        "\"Army\" Chorus", 
+        "Capitol Records Chorus", 
+        "Outro", 
+        "\"The Deadly Mantis\" Studio Orchestra", 
+        "Diverse koren en solisten", 
+        "Kingsway Music", 
+        "\u039f\u03c1\u03c7\u03b7\u03c3\u03c4\u03c1\u03b9\u03ba\u03cc", 
+        "Scary Sounds", 
+        "\"Jane Anjane\" Chorus", 
+        "Unknown Singer", 
+        "Prism Leisure Corp.", 
+        "[uncredited]", 
+        "\"Aw\u0101ra\" Chorus", 
+        "Performers Unknown", 
+        "\"Gold Diggers of 1933\" Chorus", 
+        "Un", 
+        "\"Preetam\" Chorus", 
+        "Panfl\u00f6te & Orchestra", 
+        "GDR Propaganda", 
+        "(Bolivia - Afroyungas)", 
+        "Waorani singers", 
+        "Pickin' on Series", 
+        "Chorus", 
+        "TV Theme Songs", 
+        "Alt\u0131n \u015eark\u0131lar 03", 
+        "Cantonese Opera", 
+        "Female Secoya singers", 
+        "news report", 
+        "Collections", 
+        "Various Korean Artists", 
+        "Instr.", 
+        "Instrumental Score", 
+        "Original Soundtack", 
+        "Unknown Composer", 
+        "\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af", 
+        "T.O.T.S. - Cast", 
+        "Hillsborough Various Artists", 
+        "Chorus", 
+        "Nieznany", 
+        "Chorus", 
+        "[ukendt]", 
+        "Uncredited", 
+        "Unknown (Country Banjos)", 
+        "\"\u038e\u03bc\u03bd\u03bf\u03b9 \u0391\u03b3\u03b3\u03ad\u03bb\u03c9\u03bd \u03a3\u03b5 \u03a1\u03c5\u03b8\u03bc\u03bf\u03cd\u03c2 \u0391\u03bd\u03b8\u03c1\u03ce\u03c0\u03c9\u03bd\" Chorus", 
+        "(Peru)", 
+        "\"Madam\" Chorus", 
+        "Autori nezin\u0101mi", 
+        "\"Na Tum Jaano Na Hum\" Chorus", 
+        "unknown writer", 
+        "Unknown Indian Artist", 
+        "Allegro Corporation", 
+        "Scotland Yard (radio play)", 
+        "Unknown Guitarists", 
+        "hidden artist", 
+        "Children Favorites", 
+        "instrumental", 
+        "ACapella Classics", 
+        "Chorus", 
+        "Chorus", 
+        "No credit", 
+        "(Bolivia)", 
+        "Lucas Arts", 
+        "Forente Artister", 
+        "\"The Burning Train\" Chorus", 
+        "\u30aa\u30eb\u30b4\u30fc\u30eb", 
+        "\"Footlight Parade\" Chorus", 
+        "\u043d\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0439", 
+        "ukjent", 
+        "Unforgettable Panpipes", 
+        "Pan Flute Favourites", 
+        "unbekannt", 
+        "\"Narsaiyyanee Hundi\" Chorus", 
+        "[Japanese Kouta]", 
+        "Cartoon Network", 
+        "(none listed)", 
+        "Unidentified man", 
+        "Porter Twin Disc Music Box", 
+        "\"\u03a4\u03b1 \u0391\u03bd\u03c4\u03ac\u03c1\u03c4\u03b9\u03ba\u03b1\" Chorus", 
+        "\u30b2\u30fc\u30e0\u30fb\u30df\u30e5\u30fc\u30b8\u30c3\u30af", 
+        "Camp Stories Soundtrack", 
+        "h\u00f2a t\u1ea5u", 
+        "\"Bhavani Junction\" Chorus", 
+        "Original Soundtrack", 
+        "Javanese Gamelan", 
+        "Aut. nezin\u0101ms", 
+        "Colorado shaman", 
+        "Unknown Artist - Vocals:Tatiana", 
+        "Popular Collection", 
+        "Melan-ryu, Kimpu-ryu, Tozan-ryu, Ikuta-ryu and Kikusue-ryu", 
+        "Cayapa harmonica player", 
+        "Chorus", 
+        "Aka", 
+        "Sense", 
+        "not specified", 
+        "\"Gold Diggers of 1937\" Chorus", 
+        "\u0e2b\u0e21\u0e39\u0e48"
+      ], 
+      "artistname": "[unknown]", 
+      "disambiguation": "Special Purpose Artist \u2013 Do not add releases here, if possible.", 
+      "genres": [], 
+      "id": "125ec42a-7229-4250-afc5-e057484327fe", 
+      "images": [], 
+      "links": [
+        {
+          "target": "https://www.last.fm/music/%5Bunknown%5D", 
+          "type": "last"
+        }, 
+        {
+          "target": "https://www.discogs.com/artist/355", 
+          "type": "discogs"
+        }, 
+        {
+          "target": "https://www.wikidata.org/wiki/Q56678558", 
+          "type": "wikidata"
+        }, 
+        {
+          "target": "https://www.discogs.com/artist/6452254", 
+          "type": "discogs"
+        }, 
+        {
+          "target": "https://www.setlist.fm/setlists/unknown-43d4d3ab.html", 
+          "type": "setlist"
+        }, 
+        {
+          "target": "https://rateyourmusic.com/artist/_unknown-artist", 
+          "type": "rateyourmusic"
+        }, 
+        {
+          "target": "https://bookbrainz.org/author/6c1b8f55-4c7e-4739-bfa2-1979da4c68e1", 
+          "type": "bookbrainz"
+        }, 
+        {
+          "target": "https://www.beatport.com/artist/unknown/1096464", 
+          "type": "beatport"
+        }, 
+        {
+          "target": "https://www.theaudiodb.com/artist/183853-%E4%BD%9A%E5%90%8D", 
+          "type": "theaudiodb"
+        }, 
+        {
+          "target": "https://open.spotify.com/artist/2MpxaqGTQeft5RU4wvwm57", 
+          "type": "spotify"
+        }, 
+        {
+          "target": "https://nocs.acum.org.il/acumsitesearchdb/results?creatorid=A-000907714-0", 
+          "type": "org"
+        }
+      ], 
+      "oldids": [
+        "8443f34f-1130-4a15-8ad2-e114aa107d51", 
+        "7c874c72-ec92-4c9f-b3e2-837d4c929f64", 
+        "331092bf-a2c1-4042-b2a6-21876eb6099b", 
+        "58835c77-8d4c-465b-90ed-5414c379b0ce", 
+        "75654659-2b6d-4cb2-a305-d8cc2a8a752b", 
+        "c75644f8-3aa6-49e3-ad47-89484bde879f", 
+        "5dae7e2e-1367-4294-9062-4618779bc91d", 
+        "5c385485-f123-4b0a-aaa7-c9bfdee6170b", 
+        "d7b114e3-fb88-4171-bd4a-7f7d357c9ae1", 
+        "d1c3aa50-f97d-4709-b32f-45925a4db8e5", 
+        "06d64ded-05b4-4c62-9c6d-d344b439e15d", 
+        "6fa91d41-f7a2-4627-9dc1-a8d2865e7b9e", 
+        "c04934a8-b2f2-454b-bf5b-bb40b559e2e0", 
+        "f251ca1e-0aaf-49d9-8141-92a4ef76f1c1", 
+        "8ae0829a-b6d6-4f1b-8a4c-31fbe5180262", 
+        "1a50b180-7c3e-4688-a4bd-d8ea44220218", 
+        "ca223d30-fdf8-43d7-bdd4-dddce4638250", 
+        "e5006f09-6970-468b-9fa7-4d31b98a173a", 
+        "dfa1128c-2fca-486b-a2c1-caeaa2d43cce", 
+        "6dd63290-1b5d-4434-8d27-2a7b322ac33c", 
+        "b3d65c32-8edf-4b12-85b5-553beef1f8b5", 
+        "e7a33692-d6a6-4bf7-bfcb-eaa9a68a97e8", 
+        "1c8febd2-613e-41c0-92d2-31e923ad6853", 
+        "ee78021d-23be-4d23-bfbe-dc0417cd278c", 
+        "57d2de1f-bd57-4e34-975e-f3cc219acffd", 
+        "69a93963-e454-490d-a5df-2355419e45e9", 
+        "aa6a0e52-08ea-4490-b4d7-74f63b4ebd46", 
+        "3fdbfd74-ebe0-48db-b23c-267cd1f30afa", 
+        "3fd918a8-e755-4415-9eef-23af8fa8f51e", 
+        "45f88cf6-7634-4238-8bfe-806e49ebc074", 
+        "8522bd2b-7953-4320-9293-2fa1e4947b8a", 
+        "4f6dcf49-1ed7-429b-ac2a-a76d1abe1f2a", 
+        "66167ed2-e61a-4f77-b011-443fa45cfa22", 
+        "e9691f2c-7182-457b-8559-feb4929cf9b6", 
+        "203b6058-2401-4bf0-89e3-8dc3d37c3f12", 
+        "53197cb2-d660-4aec-88d0-b7bb25a49b82", 
+        "e7fcf213-6027-4162-9cae-cd01403826b1", 
+        "94ddbbb3-5046-4a50-8d40-b257b34d3523", 
+        "1b479bce-9e24-4866-9f80-c70f9ace6f1b", 
+        "f08ab41c-9d17-43f1-8211-ad2c0ef1ac97", 
+        "e7ff2d9a-8c27-4219-8e85-7d1070e41fac", 
+        "5e760f5a-ea55-4b53-a18f-021c0d9779a6", 
+        "cc23a560-14dd-456a-a3d6-0050fab6842e", 
+        "1d8bc797-ec8a-40d2-8d80-b1346b56a65f", 
+        "9520f13a-c0cb-479f-968b-c56533258fcf", 
+        "f51d121e-b2c4-43fd-85ca-6584198b6ed5", 
+        "f72827cb-379d-42a2-822a-838347a76aef", 
+        "c0d40cb2-2dcf-4ca8-87a7-ff0314d5559d", 
+        "b840bc2b-3b92-4ec0-9fef-2bd705810454", 
+        "1d805f3e-f056-41eb-9930-288e4c0c4c42", 
+        "ff5df507-8ae1-420a-9543-a1787a556cdf", 
+        "58d617ca-6e34-4300-944a-74365e6500af", 
+        "bb45cf3d-81eb-4848-b165-adf682c5c160", 
+        "c0daa356-1ebb-4f23-bce4-e0cf1f95711f", 
+        "309baf24-33fa-4276-9a5c-e4192e7d6d46", 
+        "e196c317-e3c5-4bb4-9ca1-42affdc7448d", 
+        "b20a640d-70ce-4887-90e0-80b72a550aa1", 
+        "b6d9ecf8-47e4-48cc-8c2b-cd0c7365a584", 
+        "69c19da4-3672-4645-a579-67cd9a34aad6", 
+        "66d7ece6-dcf6-4201-8dd2-83863e51026f", 
+        "cf4824b5-197d-489e-9e6f-564b7b65ac9b", 
+        "c9de2c8d-b500-4e0a-875b-8ef810bedea0", 
+        "25f6e851-dc6f-4aab-911c-2132922d40e7", 
+        "e4f19f23-d621-43b9-a3b7-c3b67c285f82", 
+        "171c0cde-1622-4278-8ae7-56813225e49b", 
+        "fa3138b2-c669-44ad-b7ce-f1e236470192", 
+        "4695edc3-9fea-42a7-8e4e-749835da418a", 
+        "d8c48c52-1363-41ab-b986-35e4f24f2a99", 
+        "57c398bb-319b-4eb5-9063-ba16ac4d9cb2", 
+        "7406cf93-eafb-4e51-b5ab-86b21149e772", 
+        "5f6f521a-232d-41d8-a2b8-ab6edddaffd9", 
+        "427071f2-c25f-4691-a7b8-2e1f079074b3", 
+        "6050e402-dd0b-47c0-9dd2-5b943913e14e", 
+        "bca3fc45-751f-49bb-9cf0-cf360cd7eea7", 
+        "16bf7d52-e1fb-4a59-98af-8293b64aa638", 
+        "eea50253-7a54-4721-9056-b322a0adb5df", 
+        "f49cc9f4-dc00-48ab-9aab-6387c02738cf", 
+        "7734d67f-44d9-4ba2-91e3-9b067263210e", 
+        "b83e4344-8b20-4fce-b9df-3d64f336e820", 
+        "ff620231-0002-4009-b08f-3a8e34698087", 
+        "0d57bd39-284a-4420-bd87-5132244140e9", 
+        "2d3be8a0-6e8b-4b9d-b58c-ec5fba5b94e9", 
+        "b57a6309-e51f-428f-9a0d-27dcd7473819", 
+        "49e3490a-d04f-4575-963f-04b78335a25d", 
+        "20d49b87-ed54-4188-a423-dc3b7a6cbdec", 
+        "79d451c6-3ea6-4484-82cd-a90e4326e07a", 
+        "c694aba7-4961-4930-baa8-a5e7946587fd", 
+        "51a5eeae-0270-4fe2-9aff-3aff8864c775", 
+        "5e8291f5-00bc-4f63-b09a-63acaf84b162", 
+        "8f8cd6ad-bac3-4e44-81de-6e4dae989ce9", 
+        "be75baa0-9f1e-4e77-ac19-fa4ac062b774", 
+        "0cff2b1a-a442-4332-8403-e3ab1bd37d9e", 
+        "b0b7012c-7838-4006-88f6-2d5e8887dcec", 
+        "8ea3add2-cce2-4075-9d39-0d1f2947c99e", 
+        "9d137487-1daa-423f-9049-f4eac85673f9", 
+        "0035056d-72ac-41fa-8ea6-0e27e55f42f7", 
+        "5d0ec843-6eab-4bc9-bed0-cad2d6fe616f", 
+        "306764e4-a7e7-435a-be68-6fca5367a899", 
+        "134b042e-7804-47a3-ae5e-5b7570d076dc", 
+        "a79e62d3-ae26-4559-b17e-e8e507f30fc9", 
+        "ffa60bb4-ec13-4123-a696-8bad2149690d", 
+        "f9fdf30e-bb40-4921-8877-74bc23408f88", 
+        "66c80605-9133-4da7-bea9-34c6257eeb23", 
+        "182efcad-7316-450b-b1da-0c8fdf49079a", 
+        "3a59f34f-537d-45b7-8385-b22244958539", 
+        "a4b3925f-6cdf-4695-958b-d1b517403630", 
+        "177c3b3a-79ae-4469-9c46-4499de27c926", 
+        "f667559e-ba4f-42a3-9018-d1e99a9442f4", 
+        "c7e8832e-46b7-4d17-b66d-59a71396d839", 
+        "98f1c1fd-6253-42b9-afdb-ba34161f6377", 
+        "dfb971c9-a7c1-47b9-aa87-cebb55de1198", 
+        "22b681d5-a7d2-44f8-91ef-25652845860e", 
+        "f0f1accd-b20f-466a-81be-b45430f204a8", 
+        "34b27357-d641-4d5f-a6ba-8eb45251c273", 
+        "b7a71012-4ca1-491f-86ac-f5554cce1bdb", 
+        "2009d541-d650-45e9-b414-d47e8730d8b0", 
+        "097caff7-dd3c-47de-aadf-d58fa5a7be60", 
+        "be53e6d9-0241-4a28-b0c1-bed9f27d8975", 
+        "4d148608-4689-4dfa-86d3-8dccfb809ecc", 
+        "157f3d96-4185-47a7-86b0-3f7921f7e298", 
+        "796011ec-128e-428b-bb5e-fe861158f842", 
+        "fb6f871b-af55-478f-9ed3-0eb47e41cb0f", 
+        "bb5d48b6-0e98-4dcf-80a3-d47337e11f68", 
+        "3004e2cc-ccda-4305-8240-440b3434847a", 
+        "00e8ff2b-b155-41c5-b2bb-1a2b0008aa9f", 
+        "b76a6fe2-89ed-4f42-8a3d-ae3790297413", 
+        "eb77466f-121f-434c-9d36-5690e9c03579", 
+        "ad66e986-645a-4304-af81-bc6093265229", 
+        "91bcaf16-0170-4dc1-9868-6bcd5f3e7d69", 
+        "b61bcfa1-80a7-471f-ae90-88a104a35476", 
+        "6616c29c-e320-4da6-ba22-89229f1b4011", 
+        "e262961c-5e59-47a6-9b14-8db8aee921ba", 
+        "8a249aaf-b857-45b0-bf7c-7173d42af559", 
+        "1da32245-ea98-49bd-9dec-e9bb240ca71a", 
+        "a865620f-e7c0-4b60-a0e6-d61b9bea501d", 
+        "7354a844-f202-4fbb-a93c-2f2249f52234", 
+        "cb9f4611-9abf-47cf-b2dc-734d1515f705", 
+        "70e72749-3df7-41db-a083-fef4cf368674", 
+        "0d81f598-e671-4f90-a06f-a8282e54273c", 
+        "98e16928-af23-43a3-bc14-69da3cd2e8f7", 
+        "0aafdc11-88d4-465f-936b-4c54530d86c1", 
+        "050fad35-4772-4494-bc8c-848178d27442", 
+        "94ba983a-2c6b-4861-8d69-ac6f74adb4b3", 
+        "9dc27c6a-e9d0-447c-9dde-e0097050084d", 
+        "f8e233ae-c167-4783-be3b-4d0c068af97b", 
+        "9a204dfc-1cf5-47ed-bcb5-e51f89df5107", 
+        "ee73608e-1f95-4ed2-8b97-341107c2a0fe", 
+        "35d2a91c-e03e-423b-b3ca-d16cc061fbc8", 
+        "18f82545-96dd-45cc-824b-d2e3125a34ab", 
+        "1a8122bb-7d9a-4df5-893f-dc6f01c51803", 
+        "633abf6c-edd9-417c-996c-44593789f9f8", 
+        "77e8930e-d3cb-4b27-b7fd-184dd29194b9", 
+        "d2c33e9b-bfab-4b8f-bc8b-acae708216b8", 
+        "96d2a871-aacf-4caa-a138-98d89d179bcd", 
+        "7f910e41-4db8-4719-8bec-7e784ebbeb65", 
+        "375d302d-5877-42ab-8301-f13c32821bd6", 
+        "945c2645-3d97-47ae-a6d3-269280baba79", 
+        "87241b87-06a0-4048-aa22-24709f6eadd2", 
+        "2871da6e-5d4b-48ef-8045-00c9fa54cb9a", 
+        "ba5015a9-e3f3-4ed1-a86c-30db25af00d5", 
+        "9854e167-54ee-4083-9f4d-315929e39442", 
+        "3c8e673f-6485-453e-bd91-4b3bd5b2fc98", 
+        "9f4e4f24-8e75-4340-b789-8795d7ce8000", 
+        "03414930-411a-462d-be17-b9548e90bb37", 
+        "8d377f0d-e091-41e3-ba11-87ad338019e4", 
+        "f368542b-0896-4f2c-aa78-9b20df45375b", 
+        "6d16f02b-5b1e-40bb-a623-d51f6aebe623", 
+        "d19e6a92-6853-4a4f-a8a3-1bec2bda014f", 
+        "42a0a72c-fc57-4bc1-af50-2f14d09b7a5d", 
+        "a47e66f1-722b-4d96-a245-df7d0b77e293", 
+        "a411cf1e-c426-4dac-b7a6-4d0d77e64c17", 
+        "e3ebaa2c-6f2c-43a6-b196-c7d9b6815e00", 
+        "69f318ce-2801-4d5a-9fa0-99f494054bbf", 
+        "d6bd72bc-b1e2-4525-92aa-0f853cbb41bf", 
+        "9e44f539-f3fc-4120-bce2-94c8716437fa", 
+        "3aed979c-6367-43bc-a73f-06efdd72a095", 
+        "b9fbdd12-5f6d-416d-a872-0225980103f7", 
+        "0de54155-5ced-4316-b0fe-b9aeaa4be017", 
+        "221e04f7-84d8-4423-a2c1-df09fffeeb7e", 
+        "9272d829-8511-4926-893d-eca0f8cf4d3d", 
+        "1c2053b4-7216-4d10-b5d9-1d9c5f7e1bae", 
+        "7ee51608-67dd-4aa6-a453-7af4375fdfd6", 
+        "f978cdc6-e458-4c31-853e-f38fa190aa7d", 
+        "e00f36d3-ce92-4c4a-9a34-daaac6161a2a", 
+        "f41d5722-6c98-4a23-bcd5-c3ec31b1f062", 
+        "750bdc2c-6d90-44fb-b460-075c1e99af33", 
+        "12821d20-059e-4d58-a4e8-cd3cd8119a8f", 
+        "5b9c296a-9cf4-4990-a1a6-6310add93388", 
+        "7d3a1ca6-c9f6-433a-8c91-b48283a3d67d", 
+        "93874d77-85e5-4bb6-ad1e-78aca53803e7", 
+        "56807ea2-8332-4ec8-baea-f3dc57946f58", 
+        "cf6c21b9-800a-4fad-99b7-eed33107fa31", 
+        "d53348ed-55ed-4500-a9de-6ea3ee7a0684", 
+        "aad8e864-f167-4f2c-845c-38865de49d33", 
+        "dc7f9e90-ae5c-4891-81e8-e9ad2966a368", 
+        "89e6af3e-3a56-462b-bc0c-45d678011111", 
+        "e897f9a4-3c42-4216-b40b-9847a27afc49", 
+        "a0dc0c1d-7d74-4ef1-91c2-75ea16c1366d", 
+        "1633baab-1e0d-47ab-a018-d9c10b8b979a", 
+        "1be2b473-8491-4928-a329-e99c911ae9d3", 
+        "19718086-a5a2-45bb-b65d-8a4da3d77441", 
+        "5b8655c9-ab18-43c3-9995-a331542d677e", 
+        "d7fd8fa5-97ff-47bc-b599-81d7ea560d9e", 
+        "5a725b29-643c-4843-b49f-f461ebaf1c38", 
+        "9319ecb6-23e8-478e-b7d8-a93a0d8706c9", 
+        "b1073f33-c30e-4d82-8234-30b76a257254", 
+        "4a339602-7ff2-45f0-acff-170939941a34", 
+        "9d7c0bbf-99ec-4332-88e1-a82a8aeb9873", 
+        "6f7386bb-0572-4aa0-92b4-c9e96d1e08d8", 
+        "31f4f6fd-2f92-4731-892b-28906aa35963", 
+        "c130b6cd-6720-415d-9c14-b769bc23c5d5", 
+        "679d6460-5663-41ea-8b58-e0e8c0547337", 
+        "07cc8013-578c-48e5-9e10-d1f22bd871d5", 
+        "5b8f1e10-5d25-4499-a4db-494f16029fbe", 
+        "fbcad8b6-ce64-4345-8ef5-d304a084c812", 
+        "5de2f411-35cc-4e20-bc1c-548cc94c3ac4", 
+        "35846136-6850-4d52-a040-0a9815db811e", 
+        "13ceba15-ccc4-4d25-a4b7-efb489844600", 
+        "99365a1c-95e3-4609-982c-94f0e5b05e4b", 
+        "f13e78ac-b584-46e6-8f36-925af0b13024", 
+        "206344dc-a2ab-4a1c-82cb-9a0cc6f9d5c3", 
+        "94589d84-7361-4b1e-82b7-9fd02e422d23", 
+        "6e8ae52d-1719-4fd5-bba8-228cec8fe1bb", 
+        "7e84195b-3753-41e1-87c7-1017b2032de0", 
+        "6d4a4389-668d-4ec9-94fe-17b7d5f53a51", 
+        "e53c6f71-ce6f-4e7d-88b7-205f6d3a2ec0", 
+        "6147a957-9320-49d5-a14e-f49b1a0ae5b7", 
+        "ae84a6dc-7e52-45e1-8253-8117be7f61d9", 
+        "cbda8d1c-cf8e-4da2-8b28-7644624d1779", 
+        "00b9df8b-1207-4e66-92af-2178f7d3f49b", 
+        "0bfb4324-5c54-4621-abd3-9500437ef3db", 
+        "cb0aee22-c840-45c8-9562-9ac3e8ec8911", 
+        "2347cb5b-8f9b-4095-af4e-f88c1bcb6899", 
+        "e33c893b-baba-470e-964e-3b510ba8ba1c", 
+        "9d1892ef-ae5b-4f3c-9636-b351e73e5150", 
+        "a318f4d8-4dd2-41fd-9cc6-d0f363e25602", 
+        "8fb3be9c-9f53-4f19-8479-a819aa329e90", 
+        "8ac50c6f-0927-4c56-9333-9b74fea51721", 
+        "27bac352-72ac-4569-802e-0343e5c7be42", 
+        "64e43dfc-a54f-4158-92ea-4e6fe2d74449", 
+        "92bdf58e-8a6c-4a87-8629-78bc5f46864e", 
+        "1ceea1a4-f8da-4f52-b907-0c4a5b608a04", 
+        "a0a6d997-0912-4f57-893e-760089b25471", 
+        "1ace9814-d9da-458b-8d57-20a5515e673b", 
+        "6f05fd5f-d38f-4b57-b70c-da5f9fe31300", 
+        "8223016a-db00-449d-9879-c1fc4e56e248", 
+        "23b26ef6-c39a-40cf-ab3d-9a22897aa6aa", 
+        "f939174e-9d35-479d-8867-48e064874ee2", 
+        "f5a5cf4b-68f4-411b-bddc-84a9513488a5", 
+        "c9e29ab9-5cc3-4626-96ff-ea02cecf6700", 
+        "4b576406-138c-4665-9337-127b38559ecb", 
+        "d04b7504-24e5-481b-b360-f6ba9cd828f9", 
+        "71e40c0d-3285-4fc5-9b19-9248b7aaf978", 
+        "0187fe48-c87d-4dd8-beca-9c07ef535603", 
+        "b7a65056-72f0-48d4-8829-af0536321b05", 
+        "24922592-66e7-44fd-a6c0-c3acc63877da", 
+        "e01e74b7-0452-4862-a7b8-19f6c18e17be", 
+        "a76fd9d3-dca0-4511-a665-c68ec722a336", 
+        "337af896-e23e-4530-90b0-fccdab3298ad", 
+        "382fcefe-a700-47aa-a201-7a3ffdc7a5cb", 
+        "4f945fbd-e4ba-4652-9a47-ad2648d8d6d7", 
+        "68ff2691-b27d-417e-9deb-c46b7356af53", 
+        "f7cd9c66-e0d6-4203-b9eb-0f592e8353e7", 
+        "c4466a99-4aa5-4338-8770-b7c9f2e3f292", 
+        "3dd86178-ec1b-4857-a74c-e19c63f2932d", 
+        "f24a824b-470b-4197-bed9-8b9d6fd16729", 
+        "c8da3989-f6ff-4aab-950c-2f5bbe9f012d", 
+        "b6f0ef3f-b150-4d2c-8606-3f199efbe0d0", 
+        "7bdea6f2-c0e6-41f7-810c-c8b13fee0346", 
+        "a5002331-0277-4417-89bc-3a08c9b576ae", 
+        "76dadc47-2fec-4c0d-9f42-7723209d6e9d", 
+        "783777f3-737b-472d-9373-b043f9c6ae15", 
+        "22b0fa46-0867-45e4-b4d7-a05a8017b04d", 
+        "f2d3efa0-e2d3-4814-874b-f49054d3dab1", 
+        "862ca74e-c920-4ee7-bec3-f5a460321007", 
+        "0a8316e8-a503-4bfe-871a-2bac166393e9", 
+        "b1240113-8a0f-4d08-8d39-b73be1b09b30", 
+        "37805e08-e473-4bdb-95e7-dae7aee9faf7", 
+        "c677ba02-3344-4367-a949-614939825f8d", 
+        "bb8e1455-1493-43f3-b9be-6cfb7b48b99d", 
+        "05902c8d-b10b-45cd-866a-081dedfa8bed", 
+        "8fc293d6-3ce9-4af0-9f1b-effc82f53bc0", 
+        "9ca3a112-decd-4db8-afe8-ff47940c9d01", 
+        "f03d4003-3dba-440b-ac2a-200e565ad33a", 
+        "a8c5a4f7-1a50-4124-83e4-492f9b3f389c", 
+        "da839767-acf6-4caa-bce7-34ce2ba6adff", 
+        "ead58162-355c-4d54-898b-0ef3c15f0a35", 
+        "7a61e22b-4137-45c4-bfd9-531a1da8eb46", 
+        "8ee1f9c6-9e09-4a2f-828c-4de5c807572a", 
+        "a61ea146-ade2-43b7-ac04-787a035619f9", 
+        "01b6927f-3740-4943-85be-564e17688ce3", 
+        "da4441a7-a750-427f-9b1b-da6ec9ec8807", 
+        "2a4ab380-5b10-4829-a833-7ddca02b157e", 
+        "87b4ae5c-d8c0-4b31-ae9e-e989991bfb70", 
+        "0802894e-2706-418d-933a-ffbe8512a771", 
+        "a17b356c-ccfd-4ee4-97f5-0b28fe0a17e6", 
+        "34c3444e-ecb4-4037-8e46-55a22dcbaca4", 
+        "80135dc8-8b3b-4061-b1bc-7a7712b8f527", 
+        "f072479c-7c3a-4ab7-9466-1aea6c4e8b8a", 
+        "236519db-4fa4-49a6-921a-2242af0cb5bb", 
+        "5da219fc-df44-4a02-99b8-ec9f982b0e08", 
+        "38307872-0090-453f-b1c6-ce3926b9c9bf", 
+        "0f8dc785-0a3e-48e0-b544-be46ce104551", 
+        "5a26c056-9c6c-4e54-9563-3b4e58f113ec", 
+        "81875c35-dd53-490e-98b7-3bda9be0d17a", 
+        "863a0b51-47b8-4190-bd21-72b52ec84217", 
+        "5907a446-2f18-4a8a-a14f-c80dfc6a9dad", 
+        "90f1a6f4-55a0-42fb-bd1e-c5ecf0b655fd", 
+        "f7b826c1-d822-4d24-8b0f-7b66b4dd2672", 
+        "6846b497-7b0b-4150-be2c-92dcc3fbd917", 
+        "2cefe044-6d37-45b2-b06a-e2e8d372c632", 
+        "78a8a8e0-e846-494b-81ef-2b5d525f9aec", 
+        "37c241a6-edba-4d51-99db-d567a5042bab", 
+        "059a9bbd-5b1e-46fb-a3df-e668e163f2b7", 
+        "a54c5df6-3378-464f-9868-b8799bde0b15", 
+        "3c8f1f2b-66dd-412e-89bd-6f4d39feb6f6", 
+        "0b12017b-cb93-4ca9-9b8b-a2a51910a30e", 
+        "99357899-b3da-4aa3-b89c-4c296a76fa93", 
+        "93e0646d-cfb6-4717-8d9f-7c3bfbd6c25e", 
+        "1359295f-e80a-4970-8a31-1fe07ebd22f1", 
+        "d76686b7-9f36-4a6c-b3b2-d5075039cf29", 
+        "4f847bcf-3145-4c22-9a9c-201def3f5c06", 
+        "7ff42a57-6089-46dd-8435-38b1b1ee71d8", 
+        "b3732263-3593-4323-ab66-51d60a73c9e0", 
+        "1d4e8607-41e2-450c-8199-ffbe854470fd", 
+        "9de138fb-ebcf-400e-bd57-222093da22ab", 
+        "a88ea9ae-2e42-455d-b905-ea4be047964e", 
+        "2538c096-9050-46dc-a142-21b5929c0248", 
+        "731a52b3-2c77-4b9b-a8d3-fbdafac90b72", 
+        "957318e2-e532-427c-b2cc-1424dade365d", 
+        "b18ff63e-6b92-4e1e-8bee-3f7b7007ee35", 
+        "02fbb622-00ad-48e3-962c-597e04c0ff77", 
+        "c7d851ce-1b1d-44c4-b171-488e9496dd2d", 
+        "19dad3d7-82c7-4e1e-a7f3-733177bbe0df", 
+        "b674aa15-fbe3-4361-b3a3-92e0e1f2f935", 
+        "37359fb4-2f49-4b99-9b4d-166fcfdec7e9", 
+        "85928d48-bd46-4e0f-8754-5f397b3cbfdc", 
+        "d86b9a45-22e6-4eee-aad3-8bf6eabbc083", 
+        "21b801d0-4bb4-427b-8c07-ff953b4db6df", 
+        "0c7da042-d25c-4526-a4f4-5ed1746d25b6", 
+        "4b183d2b-330c-4f14-8385-106c9c41c49c", 
+        "714e93d4-d030-473b-9f3e-926d877a4493", 
+        "fbbdee62-49f4-4e63-96bd-cf3f7f7e9499", 
+        "44ad4727-299b-4a79-89fc-5acf4f0b12cf", 
+        "de45be48-78a1-4e42-b884-16668688a26f", 
+        "a3f839cf-65f0-4698-af96-1c2c36e3ca01", 
+        "4132c22b-9099-4954-9d3e-d9d6ed65b4be", 
+        "0d5a3f07-5d36-4cc0-954e-03cf11bd916c", 
+        "6b4c78c1-c26e-4261-a1df-8cfe9f63973d", 
+        "5fc64c11-a452-407e-8f4f-3474f9a0c5e4", 
+        "8ac7743a-c942-4001-8801-9cc064cf3a00", 
+        "814a6166-1573-44cb-9a27-f372beebc9c6", 
+        "f586bef8-7f15-48d2-bde0-263704e0bf5d", 
+        "6d803a11-827f-481d-b24d-fcaaa933d342", 
+        "1cd7c563-1e1f-4137-8205-499dafecd4c5", 
+        "f225269b-b27e-4daf-9b9a-aaa8503bdc84", 
+        "e2731c69-eac1-48de-84f3-d5ad45699237", 
+        "90661b5a-978f-44bf-9102-6346252b25f6", 
+        "c440a42a-6d60-4ea2-83aa-fb0a77b324ef", 
+        "5acddf87-b427-49e2-acdb-0d2ceb7c7b08", 
+        "13f52c40-e674-4a02-bff3-be5a362c4f3a", 
+        "6ec9e578-4002-40cb-a3c9-3cfe1b597db5", 
+        "4d6f5d2a-8204-4ce7-be28-08dc29f34464", 
+        "c0b69266-8513-4727-9da1-d20c34faa33e", 
+        "d0aeafc1-d9c0-43b4-91b0-ecaec63d5f17", 
+        "dfb47cac-edd2-443a-bd8b-ce7839a7b4d3", 
+        "603b01f3-8bc7-483e-8875-dc8b28929872", 
+        "87791a38-8a94-4cd6-a0c7-5951029053c6", 
+        "45f8e33f-fe18-4e18-8df4-856a2c188592", 
+        "2d3501b6-bc95-4028-9b5c-b76e3ed5bdd4", 
+        "afa78c9b-f559-454c-98bf-06d08aeb9f13", 
+        "de41acfc-21ea-43ae-a18a-5afeecc4a425", 
+        "d7c76f8e-9f52-4d76-af28-fb9abad99881"
+      ], 
+      "overview": "", 
+      "rating": {
+        "Count": 10, 
+        "Value": 8.4
+      }, 
+      "sortname": "[unknown]", 
+      "status": "active", 
+      "type": "Other"
+    }, 
+    "score": 51
+  }, 
+  {
+    "album": null, 
+    "artist": {
+      "artistaliases": [
+        "Rolling Stones", 
+        "\u30ed\u30fc\u30ea\u30f3\u30b0\u30fb\u30b9\u30c8\u30fc\u30f3\u30ba", 
+        "The Stones", 
+        "Stones"
+      ], 
+      "artistname": "The Rolling Stones", 
+      "disambiguation": "", 
+      "genres": [
+        "Blues", 
+        "Blues Rock", 
+        "Classic Rock", 
+        "Pop Rock", 
+        "Psychedelic Rock", 
+        "Rock", 
+        "Rock And Roll", 
+        "British Rhythm & Blues"
+      ], 
+      "id": "b071f9fa-14b0-4217-8e97-eb41da73f598", 
+      "images": [], 
+      "links": [
+        {
+          "target": "http://www.rollingstones.com/", 
+          "type": "rollingstones"
+        }, 
+        {
+          "target": "http://musicmoz.org/Bands_and_Artists/R/Rolling_Stones/", 
+          "type": "musicmoz"
+        }, 
+        {
+          "target": "https://www.discogs.com/artist/20991", 
+          "type": "discogs"
+        }, 
+        {
+          "target": "https://www.youtube.com/channel/UCB_Z6rBg3WW3NL4-QimhC2A", 
+          "type": "youtube"
+        }, 
+        {
+          "target": "https://www.imdb.com/name/nm1213869/", 
+          "type": "imdb"
+        }, 
+        {
+          "target": "https://www.bbc.co.uk/music/artists/b071f9fa-14b0-4217-8e97-eb41da73f598", 
+          "type": "bbc"
+        }, 
+        {
+          "target": "http://www.timeisonourside.com/", 
+          "type": "timeisonourside"
+        }, 
+        {
+          "target": "http://www.beggarsbanquetonline.com/", 
+          "type": "beggarsbanquetonline"
+        }, 
+        {
+          "target": "https://www.rockhall.com/inductees/rolling-stones#bio", 
+          "type": "rockhall"
+        }, 
+        {
+          "target": "https://www.allmusic.com/artist/mn0000894465", 
+          "type": "allmusic"
+        }, 
+        {
+          "target": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe", 
+          "type": "spotify"
+        }, 
+        {
+          "target": "https://www.facebook.com/therollingstones", 
+          "type": "facebook"
+        }, 
+        {
+          "target": "http://viaf.org/viaf/156609707", 
+          "type": "viaf"
+        }, 
+        {
+          "target": "https://www.last.fm/music/The+Rolling+Stones", 
+          "type": "last"
+        }, 
+        {
+          "target": "https://www.wikidata.org/wiki/Q11036", 
+          "type": "wikidata"
+        }, 
+        {
+          "target": "https://rateyourmusic.com/artist/the-rolling-stones", 
+          "type": "rateyourmusic"
+        }, 
+        {
+          "target": "https://commons.wikimedia.org/wiki/File:Stones_members_montage2.jpg", 
+          "type": "wikimedia"
+        }, 
+        {
+          "target": "https://twitter.com/RollingStones", 
+          "type": "twitter"
+        }, 
+        {
+          "target": "https://myspace.com/therollingstones", 
+          "type": "myspace"
+        }, 
+        {
+          "target": "http://www.deezer.com/artist/11", 
+          "type": "deezer"
+        }, 
+        {
+          "target": "https://genius.com/artists/The-rolling-stones", 
+          "type": "genius"
+        }, 
+        {
+          "target": "https://imvdb.com/n/the-rolling-stones", 
+          "type": "imvdb"
+        }, 
+        {
+          "target": "https://www.45cat.com/artist/the-rolling-stones", 
+          "type": "45cat"
+        }, 
+        {
+          "target": "https://www.whosampled.com/The-Rolling-Stones/", 
+          "type": "whosampled"
+        }, 
+        {
+          "target": "https://secondhandsongs.com/artist/206", 
+          "type": "secondhandsongs"
+        }, 
+        {
+          "target": "https://play.google.com/store/music/artist?id=Awzwm4jcbbi6kjfvsetcte5mdbq", 
+          "type": "google"
+        }, 
+        {
+          "target": "https://www.instagram.com/therollingstones/", 
+          "type": "instagram"
+        }, 
+        {
+          "target": "https://plus.google.com/+TheRollingStones/posts", 
+          "type": "google"
+        }, 
+        {
+          "target": "https://www.setlist.fm/setlists/the-rolling-stones-bd6ad22.html", 
+          "type": "setlist"
+        }, 
+        {
+          "target": "https://www.bandsintown.com/a/1002", 
+          "type": "bandsintown"
+        }, 
+        {
+          "target": "https://www.songkick.com/artists/379603", 
+          "type": "songkick"
+        }, 
+        {
+          "target": "https://www.amazon.de/-/e/B000APYW40", 
+          "type": "amazon"
+        }, 
+        {
+          "target": "https://d-nb.info/gnd/2074630-1", 
+          "type": "d-nb"
+        }, 
+        {
+          "target": "http://id.loc.gov/authorities/names/n80123108", 
+          "type": "loc"
+        }, 
+        {
+          "target": "https://www.worldcat.org/identities/lccn-n80123108", 
+          "type": "worldcat"
+        }, 
+        {
+          "target": "https://catalogue.bnf.fr/ark:/12148/cb13906219j", 
+          "type": "bnf"
+        }, 
+        {
+          "target": "https://tidal.com/artist/573", 
+          "type": "tidal"
+        }, 
+        {
+          "target": "https://music.apple.com/us/artist/1249595", 
+          "type": "apple"
+        }, 
+        {
+          "target": "https://music.apple.com/us/artist/1249595", 
+          "type": "apple"
+        }, 
+        {
+          "target": "https://soundcloud.com/rolling-stones-official", 
+          "type": "soundcloud"
+        }, 
+        {
+          "target": "https://www.musik-sammler.de/artist/the-rolling-stones/", 
+          "type": "musik-sammler"
+        }, 
+        {
+          "target": "https://fanart.tv/artist/b071f9fa-14b0-4217-8e97-eb41da73f598/", 
+          "type": "fanart"
+        }, 
+        {
+          "target": "https://www.tiktok.com/@therollingstones", 
+          "type": "tiktok"
+        }, 
+        {
+          "target": "https://music.youtube.com/channel/UCNYhhkQqeFLUc-YEDcLpSYQ", 
+          "type": "youtube"
+        }, 
+        {
+          "target": "https://jaxsta.com/profile/03f81dde-65de-4e58-a310-5f6f66a9e9d0", 
+          "type": "jaxsta"
+        }, 
+        {
+          "target": "https://muzikum.eu/en/the-rolling-stones/lyrics", 
+          "type": "muzikum"
+        }
+      ], 
+      "oldids": [], 
+      "overview": "", 
+      "rating": {
+        "Count": 23, 
+        "Value": 9.3
+      }, 
+      "sortname": "Rolling Stones, The", 
+      "status": "active", 
+      "type": "Group"
+    }, 
+    "score": 50
+  }, 
+  {
+    "album": null, 
+    "artist": {
+      "artistaliases": [], 
+      "artistname": "The E Street Band", 
+      "disambiguation": "", 
+      "genres": [
+        "Pop Rock", 
+        "Rock", 
+        "Heartland Rock"
+      ], 
+      "id": "d6652e7b-33fe-49ef-8336-4c863b4f996f", 
+      "images": [], 
+      "links": [
+        {
+          "target": "https://www.allmusic.com/artist/mn0000940507", 
+          "type": "allmusic"
+        }, 
+        {
+          "target": "https://www.wikidata.org/wiki/Q1276681", 
+          "type": "wikidata"
+        }, 
+        {
+          "target": "https://www.discogs.com/artist/408247", 
+          "type": "discogs"
+        }, 
+        {
+          "target": "https://www.discogs.com/artist/760706", 
+          "type": "discogs"
+        }, 
+        {
+          "target": "https://rateyourmusic.com/artist/e_street_band", 
+          "type": "rateyourmusic"
+        }, 
+        {
+          "target": "http://viaf.org/viaf/213418875", 
+          "type": "viaf"
+        }, 
+        {
+          "target": "https://d-nb.info/gnd/7593535-1", 
+          "type": "d-nb"
+        }, 
+        {
+          "target": "http://id.loc.gov/authorities/names/n88619746", 
+          "type": "loc"
+        }, 
+        {
+          "target": "https://www.worldcat.org/identities/lccn-n88619746", 
+          "type": "worldcat"
+        }, 
+        {
+          "target": "https://catalogue.bnf.fr/ark:/12148/cb14013392z", 
+          "type": "bnf"
+        }, 
+        {
+          "target": "https://open.spotify.com/artist/6Gt8nwunKGTUYQq5UqiDR2", 
+          "type": "spotify"
+        }
+      ], 
+      "oldids": [], 
+      "overview": "", 
+      "rating": {
+        "Count": 1, 
+        "Value": 10.0
+      }, 
+      "sortname": "E Street Band, The", 
+      "status": "active", 
+      "type": "Group"
+    }, 
+    "score": 50
+  }, 
+  {
+    "album": null, 
+    "artist": {
+      "artistaliases": [
+        "U2 Kiwi", 
+        "U2 - Until The"
+      ], 
+      "artistname": "U2", 
+      "disambiguation": "Irish rock band", 
+      "genres": [
+        "Alternative Dance", 
+        "Alternative Rock", 
+        "Arena Rock", 
+        "Electronic", 
+        "Pop Rock", 
+        "Post-Punk", 
+        "Rock"
+      ], 
+      "id": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432", 
+      "images": [], 
+      "links": [
+        {
+          "target": "http://www.u2wanderer.org/", 
+          "type": "u2wanderer"
+        }, 
+        {
+          "target": "http://www.u2.com/", 
+          "type": "u2"
+        }, 
+        {
+          "target": "http://musicmoz.org/Bands_and_Artists/U/U2/", 
+          "type": "musicmoz"
+        }, 
+        {
+          "target": "https://www.discogs.com/artist/6520", 
+          "type": "discogs"
+        }, 
+        {
+          "target": "http://www.atu2.com/", 
+          "type": "atu2"
+        }, 
+        {
+          "target": "https://www.imdb.com/name/nm1277752/", 
+          "type": "imdb"
+        }, 
+        {
+          "target": "https://myspace.com/u2", 
+          "type": "myspace"
+        }, 
+        {
+          "target": "https://www.bbc.co.uk/music/artists/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432", 
+          "type": "bbc"
+        }, 
+        {
+          "target": "https://twitter.com/u2", 
+          "type": "twitter"
+        }, 
+        {
+          "target": "https://www.allmusic.com/artist/mn0000219203", 
+          "type": "allmusic"
+        }, 
+        {
+          "target": "https://www.last.fm/music/U2", 
+          "type": "last"
+        }, 
+        {
+          "target": "https://rateyourmusic.com/artist/u2", 
+          "type": "rateyourmusic"
+        }, 
+        {
+          "target": "https://secondhandsongs.com/artist/297", 
+          "type": "secondhandsongs"
+        }, 
+        {
+          "target": "http://viaf.org/viaf/124268369", 
+          "type": "viaf"
+        }, 
+        {
+          "target": "https://www.wikidata.org/wiki/Q396", 
+          "type": "wikidata"
+        }, 
+        {
+          "target": "https://plus.google.com/+U2", 
+          "type": "google"
+        }, 
+        {
+          "target": "http://muzikum.eu/en/122-4025/u2/lyrics.html", 
+          "type": "muzikum"
+        }, 
+        {
+          "target": "http://u2discography.free.fr/u2/", 
+          "type": "free"
+        }, 
+        {
+          "target": "http://www.worldcat.org/identities/lccn-n85208690/", 
+          "type": "worldcat"
+        }, 
+        {
+          "target": "http://www.purevolume.com/U2", 
+          "type": "purevolume"
+        }, 
+        {
+          "target": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ", 
+          "type": "spotify"
+        }, 
+        {
+          "target": "https://www.setlist.fm/setlists/u2-23d6b80f.html", 
+          "type": "setlist"
+        }, 
+        {
+          "target": "https://www.bandsintown.com/a/315", 
+          "type": "bandsintown"
+        }, 
+        {
+          "target": "https://imvdb.com/n/u2", 
+          "type": "imvdb"
+        }, 
+        {
+          "target": "https://www.45cat.com/artist/u2", 
+          "type": "45cat"
+        }, 
+        {
+          "target": "https://play.google.com/store/music/artist?id=Ae3hkk6q7nm6zchy7ru4u5sxdle", 
+          "type": "google"
+        }, 
+        {
+          "target": "https://genius.com/artists/U2", 
+          "type": "genius"
+        }, 
+        {
+          "target": "https://www.songkick.com/artists/313388", 
+          "type": "songkick"
+        }, 
+        {
+          "target": "https://www.deezer.com/artist/163", 
+          "type": "deezer"
+        }, 
+        {
+          "target": "https://tidal.com/artist/17123", 
+          "type": "tidal"
+        }, 
+        {
+          "target": "https://www.whosampled.com/U2/", 
+          "type": "whosampled"
+        }, 
+        {
+          "target": "https://d-nb.info/gnd/5122685-6", 
+          "type": "d-nb"
+        }, 
+        {
+          "target": "http://id.loc.gov/authorities/names/n85208690", 
+          "type": "loc"
+        }, 
+        {
+          "target": "https://catalogue.bnf.fr/ark:/12148/cb13907265z", 
+          "type": "bnf"
+        }, 
+        {
+          "target": "https://ibdb.com/person.php?id=489410", 
+          "type": "ibdb"
+        }, 
+        {
+          "target": "https://www.instagram.com/u2/", 
+          "type": "instagram"
+        }, 
+        {
+          "target": "https://www.youtube.com/channel/UC4gPNusMDwx2Xm-YI35AkCA", 
+          "type": "youtube"
+        }, 
+        {
+          "target": "https://soundcloud.com/u2", 
+          "type": "soundcloud"
+        }, 
+        {
+          "target": "http://u2.tumblr.com/", 
+          "type": "tumblr"
+        }, 
+        {
+          "target": "http://u2.livejournal.com/", 
+          "type": "livejournal"
+        }, 
+        {
+          "target": "https://www.spirit-of-rock.com/en/band/U2", 
+          "type": "spirit-of-rock"
+        }, 
+        {
+          "target": "https://music.amazon.com/artists/B000QJP7SA", 
+          "type": "amazon"
+        }, 
+        {
+          "target": "https://www.cdjapan.co.jp/person/700225055", 
+          "type": "cdjapan"
+        }, 
+        {
+          "target": "https://www.musixmatch.com/artist/U2", 
+          "type": "musixmatch"
+        }, 
+        {
+          "target": "https://us.napster.com/artist/U2", 
+          "type": "napster"
+        }, 
+        {
+          "target": "https://www.beatport.com/artist/u2/63192", 
+          "type": "beatport"
+        }, 
+        {
+          "target": "https://www.junodownload.com/artists/U2/releases/", 
+          "type": "junodownload"
+        }, 
+        {
+          "target": "https://us.7digital.com/artist/u2", 
+          "type": "7digital"
+        }, 
+        {
+          "target": "https://uk.7digital.com/artist/u2", 
+          "type": "7digital"
+        }, 
+        {
+          "target": "https://music.apple.com/gb/artist/78500", 
+          "type": "apple"
+        }, 
+        {
+          "target": "https://www.livefans.jp/artists/21717", 
+          "type": "livefans"
+        }, 
+        {
+          "target": "https://www.qobuz.com/gb-en/interpreter/u2/download-streaming-albums", 
+          "type": "qobuz"
+        }, 
+        {
+          "target": "https://www.u2songs.com/", 
+          "type": "u2songs"
+        }, 
+        {
+          "target": "https://www.musik-sammler.de/artist/1061/", 
+          "type": "musik-sammler"
+        }, 
+        {
+          "target": "https://commons.wikimedia.org/wiki/File:U2_montage.jpg", 
+          "type": "wikimedia"
+        }, 
+        {
+          "target": "https://www.muziekweb.nl/Link/M00000077046/POPULAR/", 
+          "type": "muziekweb"
+        }, 
+        {
+          "target": "https://www.tiktok.com/@u2", 
+          "type": "tiktok"
+        }, 
+        {
+          "target": "https://www.facebook.com/5678046685", 
+          "type": "facebook"
+        }, 
+        {
+          "target": "https://castalbums.org/people/U2/27522", 
+          "type": "castalbums"
+        }, 
+        {
+          "target": "https://www.goodreads.com/author/show/56632", 
+          "type": "goodreads"
+        }, 
+        {
+          "target": "https://www.librarything.com/author/1321396846", 
+          "type": "librarything"
+        }, 
+        {
+          "target": "https://openlibrary.org/authors/OL11478381A", 
+          "type": "openlibrary"
+        }, 
+        {
+          "target": "https://openlibrary.org/authors/OL2630477A", 
+          "type": "openlibrary"
+        }, 
+        {
+          "target": "http://www.maniadb.com/artist/132520", 
+          "type": "maniadb"
+        }, 
+        {
+          "target": "https://j-lyric.net/artist/a051023/", 
+          "type": "j-lyric"
+        }, 
+        {
+          "target": "https://www.universal-music.co.jp/u2/discography/", 
+          "type": "universal-music"
+        }, 
+        {
+          "target": "https://mora.jp/artist/124399/", 
+          "type": "mora"
+        }, 
+        {
+          "target": "https://www.hdtracks.com/#/artist/U2", 
+          "type": "hdtracks"
+        }, 
+        {
+          "target": "https://jaxsta.com/profile/004df15b-f86b-4758-8580-581eb851b670", 
+          "type": "jaxsta"
+        }, 
+        {
+          "target": "https://itunes.apple.com/us/artist/id78500", 
+          "type": "apple"
+        }
+      ], 
+      "oldids": [
+        "f89807ed-f328-46e8-845c-51219695f9b9"
+      ], 
+      "overview": "", 
+      "rating": {
+        "Count": 31, 
+        "Value": 8.7
+      }, 
+      "sortname": "U2", 
+      "status": "active", 
+      "type": "Group"
+    }, 
+    "score": 48
+  }
+]

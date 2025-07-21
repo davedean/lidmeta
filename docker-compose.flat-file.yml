@@ -1,0 +1,153 @@
+services:
+  # Data processing container - handles MusicBrainz dumps and normalization
+  data-processor:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: development
+    container_name: musicbrainz-data-processor
+    environment:
+      - PYTHONPATH=/app
+      - PYTHONDONTWRITEBYTECODE=1
+      - PYTHONUNBUFFERED=1
+      - ARTIST_LIMIT=10000
+    volumes:
+      # Mount input data (MusicBrainz tar files)
+      - ./deploy/data/input:/data/current:ro
+      # Mount output directory for processed data
+      - ./deploy/data/processed:/data/processed
+    command: >
+      sh -c "
+        echo '--- Running Step 1: Extracting data ---' &&
+        python data_processor/extract.py &&
+        echo '--- Running Step 2: Schema-guided preprocessing (NEW!) ---' &&
+        python data_processor/preprocess.py &&
+        echo '--- Running Step 3: Building processing indexes ---' &&
+        python data_processor/build_indexes.py &&
+        echo '--- Running Step 4: Processing data with optimizations ---' &&
+        python data_processor/main.py
+      "
+    restart: "no"  # Don't restart - this is a one-time processing job
+    networks:
+      - musicbrainz_network
+
+  # Search service - FastAPI service for search functionality
+  search-service:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: development
+    container_name: search-service
+    environment:
+      - SEARCH_SERVICE_PORT=8001
+      - PYTHONPATH=/app
+      - PYTHONDONTWRITEBYTECODE=1
+      - PYTHONUNBUFFERED=1
+      - HTTPS_PROXY=${HTTP_PROXY}
+      - HTTP_PROXY=${HTTP_PROXY}
+      - http_proxy=${HTTP_PROXY}
+      - https_proxy=${HTTP_PROXY}
+      - no_proxy=${no_proxy}
+      - NO_PROXY=${no_proxy}
+    volumes:
+      # Mount processed data (artist files, album files, search databases)
+      - ./deploy/data/processed:/data/processed:ro
+    ports:
+      - "8001:8001"
+    command: python search_service/main.py
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8001/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+    networks:
+      - musicbrainz_network
+
+  # Caddy for static file serving and reverse proxy
+  caddy:
+    image: caddy:2-alpine
+    container_name: caddy
+    environment:
+      - HTTPS_PROXY=${HTTP_PROXY}
+      - HTTP_PROXY=${HTTP_PROXY}
+      - http_proxy=${HTTP_PROXY}
+      - https_proxy=${HTTP_PROXY}
+      - no_proxy=${no_proxy}
+      - NO_PROXY=${no_proxy}
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      # Mount Caddy configuration
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      # Mount processed data for static serving
+      - ./deploy/data/processed:/data/processed:ro
+      # Mount Caddy data for certificates
+      - caddy_data:/data
+      - caddy_config:/config
+    restart: unless-stopped
+    depends_on:
+      - search-service
+    networks:
+      - musicbrainz_network
+
+  # Optional: Lidarr for testing integration
+  lidarr:
+    image: lscr.io/linuxserver/lidarr:latest
+    container_name: lidarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=UTC
+      - HTTPS_PROXY=${HTTP_PROXY}
+      - HTTP_PROXY=${HTTP_PROXY}
+      - http_proxy=${HTTP_PROXY}
+      - https_proxy=${HTTP_PROXY}
+      - no_proxy=${no_proxy}
+      - NO_PROXY=${no_proxy}
+    volumes:
+      - ./deploy/lidarr_config:/config
+    ports:
+      - "8686:8686"
+    restart: unless-stopped
+    depends_on:
+      - caddy
+      - proxy
+      - search-service
+    networks:
+      - musicbrainz_network
+
+
+  proxy:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: development
+    command: poetry run uvicorn capture_proxy.main:app --host 0.0.0.0 --port 5000
+    container_name: skyhook-proxy
+    environment:
+      - UPSTREAM_BASE=https://api.musicinfo.pro
+      - LOCAL_BASE=http://caddy:80
+      - ROUTE_LOCAL_PREFIXES=/api/v1/artist,/api/v1/album,/api/v1/search
+      - HTTPS_PROXY=${HTTP_PROXY}
+      - HTTP_PROXY=${HTTP_PROXY}
+      - http_proxy=${HTTP_PROXY}
+      - https_proxy=${HTTP_PROXY}
+      - no_proxy=${no_proxy}
+      - NO_PROXY=${no_proxy}
+    volumes:
+      - ./capture_logs:/app/capture_logs
+    ports:
+      - "5150:5000"
+    networks:
+      - musicbrainz_network
+
+volumes:
+  caddy_data:
+  caddy_config:
+
+networks:
+  musicbrainz_network:
+    driver: bridge

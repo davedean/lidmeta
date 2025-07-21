@@ -1,0 +1,453 @@
+openapi: 3.0.0
+info:
+  title: Lidarr-Compatible Metadata API
+  description: API specification for a metadata provider compatible with Lidarr's SkyHook proxy.
+  version: "1.0.0"
+
+paths:
+  /artist/{id}:
+    get:
+      summary: Get Artist by ID
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+            format: uuid
+      responses:
+        '200':
+          description: A single artist.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ArtistResource'
+  /album/{id}:
+    get:
+      summary: Get Album by ID
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+            format: uuid
+      responses:
+        '200':
+          description: A single album.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AlbumResource'
+  /api/v1/search:
+    get:
+      summary: Lidarr search endpoint
+      parameters:
+        - in: query
+          name: query
+          schema: { type: string }
+        - in: query
+          name: type
+          schema: { type: string, enum: [all, artist] }
+      responses:
+        '200':
+          description: Array of search results containing artists and/or albums with relevance scores
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/SearchResultArray'
+
+components:
+  schemas:
+    ArtistResource:
+      type: object
+      required:
+        - id
+        - artistname
+        - sortname
+        - type
+        - status
+        - artistaliases
+        - genres
+        - links
+        - images
+        - rating
+        - oldids
+        - Albums
+      properties:
+        id:
+          type: string
+          format: uuid
+        artistname:
+          type: string
+        sortname:
+          type: string
+        disambiguation:
+          type: string
+        type:
+          type: string
+        status:
+          type: string
+        overview:
+          type: string
+        artistaliases:
+          type: array
+          items:
+            type: string
+        genres:
+          type: array
+          items:
+            type: string
+        links:
+          type: array
+          items:
+            $ref: '#/components/schemas/Link'
+        images:
+          type: array
+          items:
+            $ref: '#/components/schemas/Image'
+        rating:
+          $ref: '#/components/schemas/Rating'
+        oldids:
+          type: array
+          items:
+            type: string
+        Albums:
+          type: array
+          items:
+            $ref: '#/components/schemas/AlbumSummary'
+
+    AlbumResource:
+      type: object
+      required:
+        - id
+        - title
+        - artistid
+        - type
+        - releasedate
+        - rating
+        - genres
+        - releases
+        - secondarytypes
+        - artists
+        - images
+        - links
+        - aliases
+        - oldids
+      properties:
+        id:
+          type: string
+          format: uuid
+        title:
+          type: string
+        artistid:
+          type: string
+          format: uuid
+        type:
+          type: string
+        disambiguation:
+          type: string
+        overview:
+          type: string
+        releasedate:
+          type: string
+          format: date
+        secondarytypes:
+          type: array
+          items:
+            type: string
+        rating:
+          $ref: '#/components/schemas/Rating'
+        genres:
+          type: array
+          items:
+            type: string
+        releases:
+          type: array
+          items:
+            $ref: '#/components/schemas/Release'
+        artists:
+          type: array
+          items:
+            $ref: '#/components/schemas/ArtistBase'
+        images:
+          type: array
+          items:
+            $ref: '#/components/schemas/Image'
+        links:
+          type: array
+          items:
+            $ref: '#/components/schemas/Link'
+        aliases:
+          type: array
+          items:
+            type: string
+        oldids:
+          type: array
+          items:
+            type: string
+
+    Link:
+      type: object
+      properties:
+        target:
+          type: string
+          format: uri
+        type:
+          type: string
+
+    Image:
+      type: object
+      properties:
+        CoverType:
+          type: string
+        Url:
+          type: string
+          format: uri
+
+    Rating:
+      type: object
+      properties:
+        Count:
+          type: integer
+        Value:
+          anyOf:
+            - type: number
+            - type: "null"
+
+    AlbumSummary:
+      type: object
+      properties:
+        Id:
+          type: string
+          format: uuid
+        OldIds:
+          type: array
+          items:
+            type: string
+
+    # Search endpoint schemas - unified search results
+    SearchArtistInResult:
+      type: object
+      required:
+        - id
+        - artistname
+        - sortname
+        - status
+        - artistaliases
+        - genres
+        - links
+        - images
+        - rating
+        - oldids
+      properties:
+        id:
+          type: string
+          format: uuid
+        artistname:
+          type: string
+        sortname:
+          type: string
+        disambiguation:
+          type: string
+        type:
+          anyOf:
+            - type: string
+            - type: "null"
+        status:
+          type: string
+        overview:
+          type: string
+        artistaliases:
+          type: array
+          items:
+            type: string
+        genres:
+          type: array
+          items:
+            type: string
+        links:
+          type: array
+          items:
+            $ref: '#/components/schemas/Link'
+        images:
+          type: array
+          items:
+            $ref: '#/components/schemas/Image'
+        rating:
+          $ref: '#/components/schemas/Rating'
+        oldids:
+          type: array
+          items:
+            type: string
+        # Albums is optional in search results
+        Albums:
+          type: array
+          items:
+            $ref: '#/components/schemas/AlbumSummary'
+
+    SearchAlbumInResult:
+      type: object
+      required:
+        - id
+        - title
+        - artistid
+        - type
+        - releasedate
+        - rating
+        - genres
+        - releases
+        - artists
+        - images
+        - links
+        - aliases
+        - oldids
+      properties:
+        id:
+          type: string
+          format: uuid
+        title:
+          type: string
+        artistid:
+          type: string
+          format: uuid
+        type:
+          type: string
+        disambiguation:
+          type: string
+        overview:
+          type: string
+        releasedate:
+          type: string
+          format: date
+        rating:
+          $ref: '#/components/schemas/Rating'
+        genres:
+          type: array
+          items:
+            type: string
+        releases:
+          type: array
+          items:
+            $ref: '#/components/schemas/Release'
+        artists:
+          type: array
+          items:
+            $ref: '#/components/schemas/ArtistBase'
+        images:
+          type: array
+          items:
+            $ref: '#/components/schemas/Image'
+        links:
+          type: array
+          items:
+            $ref: '#/components/schemas/Link'
+        aliases:
+          type: array
+          items:
+            type: string
+        oldids:
+          type: array
+          items:
+            type: string
+        secondarytypes:
+          type: array
+          items:
+            type: string
+
+    # Search result format
+    SearchResult:
+      type: object
+      required:
+        - score
+      properties:
+        album:
+          anyOf:
+            - $ref: '#/components/schemas/SearchAlbumInResult'
+            - type: "null"
+        artist:
+          anyOf:
+            - $ref: '#/components/schemas/SearchArtistInResult'
+            - type: "null"
+        score:
+          type: integer
+          description: Relevance score for the search result
+
+    SearchResultArray:
+      type: array
+      items:
+        $ref: '#/components/schemas/SearchResult'
+
+    ArtistBase:
+      type: object
+      properties:
+        artistname:
+          type: string
+        id:
+          type: string
+          format: uuid
+        artistaliases:
+          type: array
+          items:
+            type: string
+
+    Release:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+        title:
+          type: string
+        status:
+          type: string
+        releasedate:
+          type: string
+          format: date-time
+        country:
+          type: array
+          items:
+            type: string
+        label:
+          type: array
+          items:
+            type: string
+        disambiguation:
+          type: string
+        oldids:
+          type: array
+          items:
+            type: string
+        # Media and tracks MUST always be present (can be empty arrays)
+        media:
+          type: array
+          items:
+            type: object
+            properties:
+              Format:
+                type: string
+              Name:
+                type: string
+              Position:
+                type: integer
+        tracks:
+          type: array
+          items:
+            $ref: '#/components/schemas/Track'
+        track_count:
+          type: integer
+
+    Track:
+      type: object
+      required: [id, trackname, tracknumber, trackposition, artistid, mediumnumber, oldids, oldrecordingids]
+      properties:
+        id: { type: string, format: uuid }
+        trackname: { type: string }
+        tracknumber: { type: string }
+        trackposition: { type: integer }
+        durationms: { anyOf: [{ type: integer }, { type: "null" }] }
+        artistid: { type: string, format: uuid }
+        recordingid: { anyOf: [{ type: string, format: uuid }, { type: "null" }] }
+        mediumnumber: { type: integer }
+        oldids: { type: array, items: { type: string } }
+        oldrecordingids: { type: array, items: { type: string } }

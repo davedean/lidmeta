@@ -1,0 +1,509 @@
+{
+  "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+  "artistName": "Radiohead",
+  "sortName": "Radiohead",
+  "disambiguation": "",
+  "type": "Group",
+  "status": null,
+  "genres": [
+    "Alternative Rock",
+    "Art Rock",
+    "Rock",
+    "British",
+    "Experimental Rock",
+    "Electronic",
+    "Art Pop",
+    "Indie Rock",
+    "Alternative",
+    "Alternative Rock Music",
+    "Electronica",
+    "Post-Britpop",
+    "Progressive Rock Music"
+  ],
+  "overview": "",
+  "images": [],
+  "rating": {
+    "count": 0,
+    "value": null
+  },
+  "links": [
+    {
+      "target": "https://www.allmusic.com/artist/mn0000326249",
+      "type": "allmusic"
+    },
+    {
+      "target": "https://radiohead.bandcamp.com/",
+      "type": "bandcamp"
+    },
+    {
+      "target": "https://www.bandsintown.com/a/25874",
+      "type": "bandsintown"
+    },
+    {
+      "target": "https://www.bbc.co.uk/music/artists/a74b1b7f-71a5-4011-9441-d0b5e4122711",
+      "type": "bbc music page"
+    },
+    {
+      "target": "https://radiohead.tumblr.com/",
+      "type": "blog"
+    },
+    {
+      "target": "http://www.btinternet.com/~r.j.arthur/rh/rhdisc.htm",
+      "type": "discography page"
+    },
+    {
+      "target": "https://www.discogs.com/artist/3840",
+      "type": "discogs"
+    },
+    {
+      "target": "https://citizeninsane.eu/",
+      "type": "fanpage"
+    },
+    {
+      "target": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb",
+      "type": "free streaming"
+    },
+    {
+      "target": "https://www.deezer.com/artist/399",
+      "type": "free streaming"
+    },
+    {
+      "target": "https://www.imdb.com/name/nm1955602/",
+      "type": "imdb"
+    },
+    {
+      "target": "https://www.last.fm/music/Radiohead",
+      "type": "last.fm"
+    },
+    {
+      "target": "http://muzikum.eu/en/122-3909/radiohead/lyrics.html",
+      "type": "lyrics"
+    },
+    {
+      "target": "https://genius.com/artists/Radiohead",
+      "type": "lyrics"
+    },
+    {
+      "target": "https://myspace.com/radiohead",
+      "type": "myspace"
+    },
+    {
+      "target": "http://www.radiohead.com/",
+      "type": "official homepage"
+    },
+    {
+      "target": "http://id.loc.gov/authorities/names/no97045991",
+      "type": "other databases"
+    },
+    {
+      "target": "http://musicmoz.org/Bands_and_Artists/R/Radiohead/",
+      "type": "other databases"
+    },
+    {
+      "target": "https://catalogue.bnf.fr/ark:/12148/cb139551041",
+      "type": "other databases"
+    },
+    {
+      "target": "https://d-nb.info/gnd/1707341-8",
+      "type": "other databases"
+    },
+    {
+      "target": "https://imvdb.com/n/radiohead",
+      "type": "other databases"
+    },
+    {
+      "target": "https://jaxsta.com/profile/0e8bd208-ea18-4a75-853d-7391f4c715b2",
+      "type": "other databases"
+    },
+    {
+      "target": "https://rateyourmusic.com/artist/radiohead",
+      "type": "other databases"
+    },
+    {
+      "target": "https://www.45cat.com/artist/radiohead",
+      "type": "other databases"
+    },
+    {
+      "target": "https://www.idref.fr/069877327",
+      "type": "other databases"
+    },
+    {
+      "target": "https://www.musik-sammler.de/artist/3211/",
+      "type": "other databases"
+    },
+    {
+      "target": "https://www.progarchives.com/artist.asp?id=1492",
+      "type": "other databases"
+    },
+    {
+      "target": "https://www.whosampled.com/Radiohead/",
+      "type": "other databases"
+    },
+    {
+      "target": "http://www.spirit-of-rock.com/groupe-groupe-Radiohead-l-en.html",
+      "type": "other databases"
+    },
+    {
+      "target": "https://ra.co/dj/radiohead",
+      "type": "other databases"
+    },
+    {
+      "target": "https://www.worldcat.org/identities/lccn-no97045991",
+      "type": "other databases"
+    },
+    {
+      "target": "https://play.google.com/store/music/artist?id=A3qpbllyfot4yhqo7isoomtctli",
+      "type": "purchase for download"
+    },
+    {
+      "target": "https://music.apple.com/gb/artist/657515",
+      "type": "purchase for download"
+    },
+    {
+      "target": "https://uk.7digital.com/artist/radiohead/",
+      "type": "purchase for download"
+    },
+    {
+      "target": "https://www.beatport.com/artist/radiohead/112220",
+      "type": "purchase for download"
+    },
+    {
+      "target": "https://www.qobuz.com/us-en/interpreter/radiohead/43840",
+      "type": "purchase for download"
+    },
+    {
+      "target": "http://www.purevolume.com/radiohead",
+      "type": "purevolume"
+    },
+    {
+      "target": "https://secondhandsongs.com/artist/2279",
+      "type": "secondhandsongs"
+    },
+    {
+      "target": "https://www.setlist.fm/setlists/radiohead-bd6bd12.html",
+      "type": "setlistfm"
+    },
+    {
+      "target": "https://plus.google.com/118195887388913664436",
+      "type": "social network"
+    },
+    {
+      "target": "https://twitter.com/radiohead",
+      "type": "social network"
+    },
+    {
+      "target": "https://www.facebook.com/radiohead",
+      "type": "social network"
+    },
+    {
+      "target": "https://www.instagram.com/radiohead/",
+      "type": "social network"
+    },
+    {
+      "target": "https://www.tiktok.com/@radiohead",
+      "type": "social network"
+    },
+    {
+      "target": "https://www.songkick.com/artists/253846",
+      "type": "songkick"
+    },
+    {
+      "target": "https://soundcloud.com/radiohead",
+      "type": "soundcloud"
+    },
+    {
+      "target": "https://music.amazon.co.uk/artists/B000QJXOGC",
+      "type": "streaming"
+    },
+    {
+      "target": "https://music.apple.com/gb/artist/657515",
+      "type": "streaming"
+    },
+    {
+      "target": "https://tidal.com/artist/64518",
+      "type": "streaming"
+    },
+    {
+      "target": "https://www.qobuz.com/us-en/interpreter/radiohead/43840",
+      "type": "streaming"
+    },
+    {
+      "target": "https://vgmdb.net/artist/13395",
+      "type": "vgmdb"
+    },
+    {
+      "target": "http://viaf.org/viaf/141028845",
+      "type": "viaf"
+    },
+    {
+      "target": "https://www.dailymotion.com/Radiohead-vevo",
+      "type": "video channel"
+    },
+    {
+      "target": "https://www.wikidata.org/wiki/Q44190",
+      "type": "wikidata"
+    },
+    {
+      "target": "https://www.youtube.com/channel/UCq19-LqvG35A-30oyAiPiqA",
+      "type": "youtube"
+    },
+    {
+      "target": "https://music.youtube.com/channel/UCr_iyUANcn9OX_yy9piYoLw",
+      "type": "youtube music"
+    }
+  ],
+  "albums": [
+    {
+      "id": "cd76f76b-ff15-3784-a71d-4da3078a6851",
+      "title": "Pablo Honey",
+      "type": "Album",
+      "oldIds": [],
+      "releaseStatuses": [
+        "1993-02-22"
+      ],
+      "secondaryTypes": []
+    },
+    {
+      "id": "b8048f24-c026-3398-b23a-b5e50716cbc7",
+      "title": "The Bends",
+      "type": "Album",
+      "oldIds": [],
+      "releaseStatuses": [
+        "1994-11-29"
+      ],
+      "secondaryTypes": []
+    },
+    {
+      "id": "b1392450-e666-3926-a536-22c65f834433",
+      "title": "OK Computer",
+      "type": "Album",
+      "oldIds": [],
+      "releaseStatuses": [
+        "1997-05-21"
+      ],
+      "secondaryTypes": []
+    },
+    {
+      "id": "e75c0549-ad55-39e3-8025-c72c5d4a3c5d",
+      "title": "Kid A",
+      "type": "Album",
+      "oldIds": [],
+      "releaseStatuses": [
+        "2000-08-03"
+      ],
+      "secondaryTypes": []
+    },
+    {
+      "id": "bca9280e-28b4-327f-8fe0-fd918579e486",
+      "title": "Amnesiac",
+      "type": "Album",
+      "oldIds": [],
+      "releaseStatuses": [
+        "2001-06-04"
+      ],
+      "secondaryTypes": []
+    },
+    {
+      "id": "5c14fd50-a2f1-3672-9537-b0dad91bea2f",
+      "title": "Hail to the Thief",
+      "type": "Album",
+      "oldIds": [],
+      "releaseStatuses": [
+        "2003-05-26"
+      ],
+      "secondaryTypes": []
+    },
+    {
+      "id": "6e335887-60ba-38f0-95af-fae7774336bf",
+      "title": "In Rainbows",
+      "type": "Album",
+      "oldIds": [],
+      "releaseStatuses": [
+        "2007-10-10"
+      ],
+      "secondaryTypes": []
+    },
+    {
+      "id": "899b6d09-807e-4c18-a6d4-3642e00d6a3d",
+      "title": "The King of Limbs",
+      "type": "Album",
+      "oldIds": [],
+      "releaseStatuses": [
+        "2011-02-18"
+      ],
+      "secondaryTypes": []
+    },
+    {
+      "id": "bbce0087-d386-4246-a51d-dbcdfdbe8fb2",
+      "title": "A Moon Shaped Pool",
+      "type": "Album",
+      "oldIds": [],
+      "releaseStatuses": [
+        "2016-05-08"
+      ],
+      "secondaryTypes": []
+    },
+    {
+      "id": "b7db08f4-835a-4a69-970b-5321e6305032",
+      "title": "Album Box Set",
+      "type": "Album",
+      "oldIds": [],
+      "releaseStatuses": [
+        "2007-12-10"
+      ],
+      "secondaryTypes": []
+    },
+    {
+      "id": "d8dd81ab-d840-4663-8da3-d8c27c2eaf91",
+      "title": "Radiohead Box",
+      "type": "Album",
+      "oldIds": [],
+      "releaseStatuses": [
+        "2008-01-01"
+      ],
+      "secondaryTypes": []
+    },
+    {
+      "id": "80975c59-4094-30d5-bb58-365e8b061274",
+      "title": "The Best Of",
+      "type": "Album",
+      "oldIds": [],
+      "releaseStatuses": [
+        "2008-05-28"
+      ],
+      "secondaryTypes": []
+    },
+    {
+      "id": "30f765ef-d7f0-4cce-8a3b-d6e1069f1dda",
+      "title": "5 Album Set",
+      "type": "Album",
+      "oldIds": [],
+      "releaseStatuses": [
+        "2012-10-12"
+      ],
+      "secondaryTypes": []
+    },
+    {
+      "id": "6f25f9fb-e9e3-4c0d-8904-ecb8b46cd8aa",
+      "title": "KID A MNESIA",
+      "type": "Album",
+      "oldIds": [],
+      "releaseStatuses": [
+        "2021-11-05"
+      ],
+      "secondaryTypes": []
+    },
+    {
+      "id": "f1b5c8a1-a597-40c5-b244-f3c0f34f83ee",
+      "title": "TKOL RMX 1 2 3 4 5 6 7",
+      "type": "Album",
+      "oldIds": [],
+      "releaseStatuses": [
+        "2011-09-21"
+      ],
+      "secondaryTypes": []
+    },
+    {
+      "id": "1af3fda4-4281-4ed9-ba38-389ed83d9ab2",
+      "title": "MINIDISCS [HACKED]",
+      "type": "Album",
+      "oldIds": [],
+      "releaseStatuses": [
+        "2019-06-05"
+      ],
+      "secondaryTypes": []
+    },
+    {
+      "id": "270ff9af-bcfb-402c-8e6b-d1372a1e8824",
+      "title": "The Interview",
+      "type": "Album",
+      "oldIds": [],
+      "releaseStatuses": [
+        "2010-08-23"
+      ],
+      "secondaryTypes": []
+    },
+    {
+      "id": "0ef22186-e92d-4f03-9b05-500fa2d581ad",
+      "title": "27 5 94: The Astoria London Live",
+      "type": "Album",
+      "oldIds": [],
+      "releaseStatuses": [
+        "1995-05-17"
+      ],
+      "secondaryTypes": []
+    },
+    {
+      "id": "441803f3-eb4d-3847-93cf-ab473cf0b8ec",
+      "title": "1997-06-28: Glastonbury Festival of Contemporary Performing Arts",
+      "type": "Album",
+      "oldIds": [],
+      "releaseStatuses": [
+        "1997-06-28"
+      ],
+      "secondaryTypes": []
+    },
+    {
+      "id": "e404b349-7cef-398f-ac5e-ce06737341d1",
+      "title": "I Might Be Wrong: Live Recordings",
+      "type": "Album",
+      "oldIds": [],
+      "releaseStatuses": [
+        "2001-11-07"
+      ],
+      "secondaryTypes": []
+    },
+    {
+      "id": "605f7f6d-0790-4c70-90ef-6680661fdcbf",
+      "title": "Music Planet 2nite",
+      "type": "Album",
+      "oldIds": [],
+      "releaseStatuses": [
+        "2003"
+      ],
+      "secondaryTypes": []
+    },
+    {
+      "id": "d2f48ef0-9a77-42bc-95af-89dd0c8452b4",
+      "title": "In Rainbows: From the Basement",
+      "type": "Album",
+      "oldIds": [],
+      "releaseStatuses": [
+        "2008-06-24"
+      ],
+      "secondaryTypes": []
+    },
+    {
+      "id": "6ac50c71-cfbf-4f6d-acb0-84af1462aae3",
+      "title": "1995-06-01: PASTE.COM Presents: Radiohead Live at Tramps: New York, NY, USA",
+      "type": "Album",
+      "oldIds": [],
+      "releaseStatuses": [
+        "2013-06-21"
+      ],
+      "secondaryTypes": []
+    },
+    {
+      "id": "b9e65b67-32e2-45ac-9e6b-cad36c248c14",
+      "title": "1997‐07‐04: Eurockéennes Festival, Belfort, France",
+      "type": "Album",
+      "oldIds": [],
+      "releaseStatuses": [
+        "2020-07-02"
+      ],
+      "secondaryTypes": []
+    },
+    {
+      "id": "11f16b31-da2e-48b8-90a1-f65014bc8262",
+      "title": "Greenhouse Effect vs. Radiohead",
+      "type": "Album",
+      "oldIds": [],
+      "releaseStatuses": [
+        "2005-08"
+      ],
+      "secondaryTypes": []
+    }
+  ],
+  "artistAliases": [],
+  "oldids": []
+}

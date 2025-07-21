@@ -1,0 +1,848 @@
+{
+  "aliases": [],
+  "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+  "artists": [
+    {
+      "artistaliases": [],
+      "artistname": "Engineers",
+      "disambiguation": "",
+      "genres": [
+        "Indie Rock",
+        "Shoegaze",
+        "Dream Pop"
+      ],
+      "id": "ea469bff-c355-4259-97a8-f14806191bb4",
+      "images": [],
+      "links": [
+        {
+          "target": "https://www.bbc.co.uk/music/artists/ea469bff-c355-4259-97a8-f14806191bb4",
+          "type": "bbc"
+        },
+        {
+          "target": "https://www.discogs.com/artist/285158",
+          "type": "discogs"
+        },
+        {
+          "target": "https://www.wikidata.org/wiki/Q3725354",
+          "type": "wikidata"
+        },
+        {
+          "target": "https://www.facebook.com/engineersband",
+          "type": "facebook"
+        },
+        {
+          "target": "https://rateyourmusic.com/artist/engineers",
+          "type": "rateyourmusic"
+        },
+        {
+          "target": "https://www.allmusic.com/artist/mn0000758092",
+          "type": "allmusic"
+        },
+        {
+          "target": "https://music.apple.com/us/artist/428018508",
+          "type": "apple"
+        },
+        {
+          "target": "https://engineers.bandcamp.com/",
+          "type": "bandcamp"
+        },
+        {
+          "target": "https://open.spotify.com/artist/3hY7jnks2m5g2JAUCw4avu",
+          "type": "spotify"
+        },
+        {
+          "target": "https://www.last.fm/music/Engineers",
+          "type": "last"
+        },
+        {
+          "target": "https://twitter.com/pageengineers",
+          "type": "twitter"
+        }
+      ],
+      "oldids": [],
+      "overview": "",
+      "rating": {
+        "Count": 0,
+        "Value": null
+      },
+      "sortname": "Engineers",
+      "status": "active",
+      "type": "Group"
+    }
+  ],
+  "disambiguation": "",
+  "genres": [
+    "Indie Rock",
+    "Rock",
+    "Shoegaze",
+    "Dream Pop"
+  ],
+  "id": "729dbc7d-9a80-357a-b61d-98f13424fce4",
+  "images": [
+    {
+      "CoverType": "Cover",
+      "Url": "https://imagecache.lidarr.audio/v1/caa/31b872ab-b128-47c5-a113-cea7d02a2f5d/4085042433-1200.jpg"
+    }
+  ],
+  "links": [
+    {
+      "target": "https://www.bbc.co.uk/music/reviews/5g3n",
+      "type": "bbc"
+    },
+    {
+      "target": "https://www.discogs.com/master/153125",
+      "type": "discogs"
+    },
+    {
+      "target": "https://www.wikidata.org/wiki/Q5377910",
+      "type": "wikidata"
+    },
+    {
+      "target": "https://www.allmusic.com/album/mw0000455530",
+      "type": "allmusic"
+    }
+  ],
+  "oldids": [
+    "486ab2fd-bb17-4d2c-ad94-57731feaed49"
+  ],
+  "overview": "",
+  "rating": {
+    "Count": 1,
+    "Value": 8.0
+  },
+  "releasedate": "2005-03-07",
+  "releases": [
+    {
+      "country": [
+        "United Kingdom"
+      ],
+      "disambiguation": "",
+      "id": "e858210d-9416-3acf-98b7-1a489006d0df",
+      "label": [
+        "Echo"
+      ],
+      "media": [
+        {
+          "Format": "12\" Vinyl",
+          "Name": "",
+          "Position": 1
+        }
+      ],
+      "oldids": [],
+      "releasedate": "2005-03-07",
+      "status": "Official",
+      "title": "Engineers",
+      "track_count": 11,
+      "tracks": [
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 247066,
+          "id": "12478c02-dac0-3697-ae9f-1c12cf9096e7",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "7f2d4c8b-d3ed-4c4d-ae16-a83ea38b35d3",
+            "08054a4c-591d-4a60-b958-7558f29d6787"
+          ],
+          "recordingid": "2707333e-b386-492c-9a99-09618e3aca21",
+          "trackname": "Home",
+          "tracknumber": "A1",
+          "trackposition": 1
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 321773,
+          "id": "05334d14-dd8e-3adc-93ad-a714c4eb2d9f",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "ee0b3597-3e42-449f-a481-6aad60f6ab80"
+          ],
+          "recordingid": "3ee6b8dc-639c-4012-be0b-08ac0beeb945",
+          "trackname": "Waved On",
+          "tracknumber": "A2",
+          "trackposition": 2
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 294133,
+          "id": "4bcd3eaf-df47-3392-b568-a2ccb0c4c4d0",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "321ec5ba-267a-47ef-8ec8-60713b57bedc"
+          ],
+          "recordingid": "e4f85318-ac1f-4092-9b78-da9f0e8abbfe",
+          "trackname": "New Horizons",
+          "tracknumber": "A3",
+          "trackposition": 3
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 219160,
+          "id": "ae290a5c-034f-3c88-8c03-8bfa2d7d2c4d",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "89698a3a-2b00-4992-b071-b2575f0045a2",
+            "bfb03c9c-b3c4-459e-b3ba-536f8c280896",
+            "f6841506-f7c7-4238-941f-badba762fccf",
+            "b1b94441-3590-452c-802a-c1a1c69ef569"
+          ],
+          "recordingid": "2d90d4fc-9e42-4866-b76e-fc244bfd8d65",
+          "trackname": "Forgiveness",
+          "tracknumber": "B1",
+          "trackposition": 4
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 261306,
+          "id": "4f2a9eff-c6e4-3ac2-b71f-6c78a74dbafe",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "feaed8d8-a689-461e-bba4-418bdf14b794"
+          ],
+          "recordingid": "236487b7-7d39-4565-97e8-ffe33c38c8b0",
+          "trackname": "Let's Just See",
+          "tracknumber": "B2",
+          "trackposition": 5
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 244200,
+          "id": "324adf96-1a4f-3c06-b708-8e0f81bc70a3",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "edd16e65-d72f-4fb3-95e1-cbc1e1f7469f",
+            "d3cc4593-2b9d-4851-a429-3960cfa4746c",
+            "0cdc76d7-a410-4533-b246-585f369d11ff"
+          ],
+          "recordingid": "7b4aac45-828f-4336-8501-8298d2a9eb28",
+          "trackname": "Come in Out of the Rain",
+          "tracknumber": "B3",
+          "trackposition": 6
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 82960,
+          "id": "c11277e7-8c3a-33bc-843d-bce042ccfcb4",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "567a2f9d-b8bc-447e-a636-1045c75889f6"
+          ],
+          "recordingid": "e75e5d0d-03b6-491e-9e85-70cf88b17e30",
+          "trackname": "Peter Street",
+          "tracknumber": "C1",
+          "trackposition": 7
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 289506,
+          "id": "375bf792-2eaf-39ac-92c8-e88613239eda",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "2a82e508-4a9a-4783-937c-14db405362a0"
+          ],
+          "recordingid": "611b5b36-91ac-4052-93de-a9a4457cfebd",
+          "trackname": "Said and Done",
+          "tracknumber": "C2",
+          "trackposition": 8
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 232160,
+          "id": "8175eb06-7876-3aca-9c63-84db59f04409",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "a1e6419b-9b3c-4d86-a7de-a3c3f8b4becb"
+          ],
+          "recordingid": "8263cf1a-c1c5-4542-ab70-9282350fe475",
+          "trackname": "Thrasher",
+          "tracknumber": "C3",
+          "trackposition": 9
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 319400,
+          "id": "396e9944-cb8f-3232-9bf6-df66a017511d",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "99692174-efc7-406a-bf13-483ccb15e06c",
+            "8bdaa2b8-33c9-484b-b472-0536e4e7e9d8"
+          ],
+          "recordingid": "2568f722-ca2f-4245-919b-80aa3ea08dc6",
+          "trackname": "How Do You Say Goodbye?",
+          "tracknumber": "D1",
+          "trackposition": 10
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 463334,
+          "id": "e147fe15-08da-3da7-b953-1d0f06309c66",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [],
+          "recordingid": "344b27a3-f934-401e-b5b3-c932fb1979f6",
+          "trackname": "One in Seven",
+          "tracknumber": "D2",
+          "trackposition": 11
+        }
+      ]
+    },
+    {
+      "country": [
+        "United Kingdom"
+      ],
+      "disambiguation": "",
+      "id": "31b872ab-b128-47c5-a113-cea7d02a2f5d",
+      "label": [
+        "Echo"
+      ],
+      "media": [
+        {
+          "Format": "CD",
+          "Name": "",
+          "Position": 1
+        }
+      ],
+      "oldids": [],
+      "releasedate": "2005-03-07",
+      "status": "Official",
+      "title": "Engineers",
+      "track_count": 11,
+      "tracks": [
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 247066,
+          "id": "883fa0af-75ad-3700-8d55-5947197d3199",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "7f2d4c8b-d3ed-4c4d-ae16-a83ea38b35d3",
+            "08054a4c-591d-4a60-b958-7558f29d6787"
+          ],
+          "recordingid": "2707333e-b386-492c-9a99-09618e3aca21",
+          "trackname": "Home",
+          "tracknumber": "1",
+          "trackposition": 1
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 321773,
+          "id": "2322225a-a02b-3aab-8bb8-a8446accaef2",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "ee0b3597-3e42-449f-a481-6aad60f6ab80"
+          ],
+          "recordingid": "3ee6b8dc-639c-4012-be0b-08ac0beeb945",
+          "trackname": "Waved On",
+          "tracknumber": "2",
+          "trackposition": 2
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 294133,
+          "id": "9b0126c3-2c1a-3229-82d5-65b524f6827c",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "321ec5ba-267a-47ef-8ec8-60713b57bedc"
+          ],
+          "recordingid": "e4f85318-ac1f-4092-9b78-da9f0e8abbfe",
+          "trackname": "New Horizons",
+          "tracknumber": "3",
+          "trackposition": 3
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 219160,
+          "id": "8fde9c08-27c7-3fba-b975-efede1867394",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "89698a3a-2b00-4992-b071-b2575f0045a2",
+            "bfb03c9c-b3c4-459e-b3ba-536f8c280896",
+            "f6841506-f7c7-4238-941f-badba762fccf",
+            "b1b94441-3590-452c-802a-c1a1c69ef569"
+          ],
+          "recordingid": "2d90d4fc-9e42-4866-b76e-fc244bfd8d65",
+          "trackname": "Forgiveness",
+          "tracknumber": "4",
+          "trackposition": 4
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 261306,
+          "id": "ea5041b0-53bf-3556-8a68-3fdec7a9e365",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "feaed8d8-a689-461e-bba4-418bdf14b794"
+          ],
+          "recordingid": "236487b7-7d39-4565-97e8-ffe33c38c8b0",
+          "trackname": "Let's Just See",
+          "tracknumber": "5",
+          "trackposition": 5
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 244200,
+          "id": "370cd10b-fde2-3575-8563-066220ae582a",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "edd16e65-d72f-4fb3-95e1-cbc1e1f7469f",
+            "d3cc4593-2b9d-4851-a429-3960cfa4746c",
+            "0cdc76d7-a410-4533-b246-585f369d11ff"
+          ],
+          "recordingid": "7b4aac45-828f-4336-8501-8298d2a9eb28",
+          "trackname": "Come in Out of the Rain",
+          "tracknumber": "6",
+          "trackposition": 6
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 82960,
+          "id": "8cbc2a16-82e2-3369-960d-3ae890491804",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "567a2f9d-b8bc-447e-a636-1045c75889f6"
+          ],
+          "recordingid": "e75e5d0d-03b6-491e-9e85-70cf88b17e30",
+          "trackname": "Peter Street",
+          "tracknumber": "7",
+          "trackposition": 7
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 289506,
+          "id": "42b33561-5bf8-35d6-95b5-5d43af61ffde",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "2a82e508-4a9a-4783-937c-14db405362a0"
+          ],
+          "recordingid": "611b5b36-91ac-4052-93de-a9a4457cfebd",
+          "trackname": "Said and Done",
+          "tracknumber": "8",
+          "trackposition": 8
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 232160,
+          "id": "46f0dbe0-dd4f-36f0-aa5f-dd85d50fd662",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "a1e6419b-9b3c-4d86-a7de-a3c3f8b4becb"
+          ],
+          "recordingid": "8263cf1a-c1c5-4542-ab70-9282350fe475",
+          "trackname": "Thrasher",
+          "tracknumber": "9",
+          "trackposition": 9
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 319400,
+          "id": "a0640ff7-d690-3b14-96a1-fc3f479dfa38",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "99692174-efc7-406a-bf13-483ccb15e06c",
+            "8bdaa2b8-33c9-484b-b472-0536e4e7e9d8"
+          ],
+          "recordingid": "2568f722-ca2f-4245-919b-80aa3ea08dc6",
+          "trackname": "How Do You Say Goodbye?",
+          "tracknumber": "10",
+          "trackposition": 10
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 463334,
+          "id": "11e52785-da1f-3982-bbeb-8ae08b6e82d1",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [],
+          "recordingid": "344b27a3-f934-401e-b5b3-c932fb1979f6",
+          "trackname": "One in Seven",
+          "tracknumber": "11",
+          "trackposition": 11
+        }
+      ]
+    },
+    {
+      "country": [
+        "Philippines"
+      ],
+      "disambiguation": "",
+      "id": "0a8b5ef0-bb45-4a4f-9d43-0dd6da0abf32",
+      "label": [
+        "Echo"
+      ],
+      "media": [
+        {
+          "Format": "CD",
+          "Name": "",
+          "Position": 1
+        }
+      ],
+      "oldids": [],
+      "releasedate": "2005-03-07",
+      "status": "Official",
+      "title": "Engineers",
+      "track_count": 13,
+      "tracks": [
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 247000,
+          "id": "ffe08b48-932d-4739-ad69-205f8e9a1e92",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "7f2d4c8b-d3ed-4c4d-ae16-a83ea38b35d3",
+            "08054a4c-591d-4a60-b958-7558f29d6787"
+          ],
+          "recordingid": "2707333e-b386-492c-9a99-09618e3aca21",
+          "trackname": "Home",
+          "tracknumber": "1",
+          "trackposition": 1
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 322000,
+          "id": "aa42bdff-1258-494b-8109-d894625ac7bf",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "ee0b3597-3e42-449f-a481-6aad60f6ab80"
+          ],
+          "recordingid": "3ee6b8dc-639c-4012-be0b-08ac0beeb945",
+          "trackname": "Waved On",
+          "tracknumber": "2",
+          "trackposition": 2
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 294000,
+          "id": "dcfa9804-0e79-417d-b72c-3fbf385522b4",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "321ec5ba-267a-47ef-8ec8-60713b57bedc"
+          ],
+          "recordingid": "e4f85318-ac1f-4092-9b78-da9f0e8abbfe",
+          "trackname": "New Horizons",
+          "tracknumber": "3",
+          "trackposition": 3
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 220000,
+          "id": "857fed3a-07d6-4ec6-93d7-eff679b882bc",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "89698a3a-2b00-4992-b071-b2575f0045a2",
+            "bfb03c9c-b3c4-459e-b3ba-536f8c280896",
+            "f6841506-f7c7-4238-941f-badba762fccf",
+            "b1b94441-3590-452c-802a-c1a1c69ef569"
+          ],
+          "recordingid": "2d90d4fc-9e42-4866-b76e-fc244bfd8d65",
+          "trackname": "Forgiveness",
+          "tracknumber": "4",
+          "trackposition": 4
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 261000,
+          "id": "813872e3-eca2-4b23-9bc6-949f4f9cefe2",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "feaed8d8-a689-461e-bba4-418bdf14b794"
+          ],
+          "recordingid": "236487b7-7d39-4565-97e8-ffe33c38c8b0",
+          "trackname": "Let's Just See",
+          "tracknumber": "5",
+          "trackposition": 5
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 244000,
+          "id": "57dbcd84-3c94-45af-ad15-c5b0e32f8a90",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "edd16e65-d72f-4fb3-95e1-cbc1e1f7469f",
+            "d3cc4593-2b9d-4851-a429-3960cfa4746c",
+            "0cdc76d7-a410-4533-b246-585f369d11ff"
+          ],
+          "recordingid": "7b4aac45-828f-4336-8501-8298d2a9eb28",
+          "trackname": "Come in Out of the Rain",
+          "tracknumber": "6",
+          "trackposition": 6
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 83000,
+          "id": "a7f58759-a351-44e2-9811-6414ca909afc",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "567a2f9d-b8bc-447e-a636-1045c75889f6"
+          ],
+          "recordingid": "e75e5d0d-03b6-491e-9e85-70cf88b17e30",
+          "trackname": "Peter Street",
+          "tracknumber": "7",
+          "trackposition": 7
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 289000,
+          "id": "9d6dd768-cd17-422c-b3b4-4ab04c68b717",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "2a82e508-4a9a-4783-937c-14db405362a0"
+          ],
+          "recordingid": "611b5b36-91ac-4052-93de-a9a4457cfebd",
+          "trackname": "Said and Done",
+          "tracknumber": "8",
+          "trackposition": 8
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 232000,
+          "id": "c33bc568-08fe-418a-b460-5dc183cce572",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "a1e6419b-9b3c-4d86-a7de-a3c3f8b4becb"
+          ],
+          "recordingid": "8263cf1a-c1c5-4542-ab70-9282350fe475",
+          "trackname": "Thrasher",
+          "tracknumber": "9",
+          "trackposition": 9
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 319000,
+          "id": "2fa189a0-1d70-4d6c-96b3-59f2d8c60b12",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [
+            "99692174-efc7-406a-bf13-483ccb15e06c",
+            "8bdaa2b8-33c9-484b-b472-0536e4e7e9d8"
+          ],
+          "recordingid": "2568f722-ca2f-4245-919b-80aa3ea08dc6",
+          "trackname": "How Do You Say Goodbye?",
+          "tracknumber": "10",
+          "trackposition": 10
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 479000,
+          "id": "9e061977-85cc-42b3-8d5d-a7c58a883cd2",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [],
+          "recordingid": "2c00fbca-035b-4e7c-ab49-c9ca74dd4491",
+          "trackname": "One in Seven",
+          "tracknumber": "11",
+          "trackposition": 11
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 289000,
+          "id": "bcaed4b4-ed3e-4081-822b-7cc287075744",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [],
+          "recordingid": "54c8a448-a3ac-4e9e-ab30-56a30d905d27",
+          "trackname": "Stake to Glory",
+          "tracknumber": "12",
+          "trackposition": 12
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 246000,
+          "id": "180420ae-154f-4d06-ab0c-d89728ca5497",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [],
+          "recordingid": "c42e5d02-aca8-4c83-af7a-310c713b196f",
+          "trackname": "Cats of Justice",
+          "tracknumber": "13",
+          "trackposition": 13
+        }
+      ]
+    },
+    {
+      "country": [
+        "United States"
+      ],
+      "disambiguation": "",
+      "id": "14c62be5-1d03-4eeb-9e92-4f4053d3cf0d",
+      "label": [
+        "Echo"
+      ],
+      "media": [
+        {
+          "Format": "Digital Media",
+          "Name": "",
+          "Position": 1
+        }
+      ],
+      "oldids": [],
+      "releasedate": "2005-03-07",
+      "status": "Official",
+      "title": "Engineers",
+      "track_count": 11,
+      "tracks": [
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 247000,
+          "id": "1074cc21-9c6a-436b-b591-ba8bcc8ffda0",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [],
+          "recordingid": "7c5c7aae-f7ce-45ad-948f-045ecdf24c38",
+          "trackname": "Home",
+          "tracknumber": "1",
+          "trackposition": 1
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 321000,
+          "id": "82b55e69-cf1a-4b23-80e7-7666506888dd",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [],
+          "recordingid": "c78b83ee-3949-4908-896d-93aaead143bd",
+          "trackname": "Waved On",
+          "tracknumber": "2",
+          "trackposition": 2
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 294000,
+          "id": "2e6d9ead-1217-41c6-87a6-4f106caff9b0",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [],
+          "recordingid": "5bb14f6c-ec60-4756-b9c3-1780eed0a9fe",
+          "trackname": "New Horizons",
+          "tracknumber": "3",
+          "trackposition": 3
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 219000,
+          "id": "5fd9ca39-945a-4432-871e-2a50281c6280",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [],
+          "recordingid": "607b6ad9-4b15-4363-a9fa-a3740324ff84",
+          "trackname": "Forgiveness",
+          "tracknumber": "4",
+          "trackposition": 4
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 261000,
+          "id": "668f0573-6928-4527-86f7-49f00bb4ea8a",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [],
+          "recordingid": "bc5b54bd-7c88-4ec6-b6db-df89b1b4d0f2",
+          "trackname": "Let's Just See",
+          "tracknumber": "5",
+          "trackposition": 5
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 244000,
+          "id": "1d3992f4-1968-455f-9aa2-939697cf9506",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [],
+          "recordingid": "4425aa0d-bcf3-452f-a0fb-235edb6fd824",
+          "trackname": "Come in Out of the Rain",
+          "tracknumber": "6",
+          "trackposition": 6
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 82000,
+          "id": "df5fffc6-391d-449e-a9db-0e2521339dda",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [],
+          "recordingid": "f6dbdcf6-5f39-41f0-9470-c5690f912f7b",
+          "trackname": "Peter Street",
+          "tracknumber": "7",
+          "trackposition": 7
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 289000,
+          "id": "a608bb9e-96c8-4699-90d2-89d304c0a3e0",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [],
+          "recordingid": "c2d9b489-b71a-4891-aef9-b563c0dc522a",
+          "trackname": "Said and Done",
+          "tracknumber": "8",
+          "trackposition": 8
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 232000,
+          "id": "70890459-f779-4f5e-a1ef-2244ff9f2dc9",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [],
+          "recordingid": "9f7187ae-3294-405d-a7fe-33cf1ed8fbec",
+          "trackname": "Thrasher",
+          "tracknumber": "9",
+          "trackposition": 9
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 319000,
+          "id": "95e25959-0681-4e8f-a1be-e8484e1ff3d5",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [],
+          "recordingid": "fb34d05f-ab1e-4069-8d33-2725caa24197",
+          "trackname": "How Do You Say Goodbye?",
+          "tracknumber": "10",
+          "trackposition": 10
+        },
+        {
+          "artistid": "ea469bff-c355-4259-97a8-f14806191bb4",
+          "durationms": 463000,
+          "id": "b620256a-e059-4621-94ed-1925d1110353",
+          "mediumnumber": 1,
+          "oldids": [],
+          "oldrecordingids": [],
+          "recordingid": "1d256bba-37ab-4b8a-a6e4-96e403d6cd4c",
+          "trackname": "One in Seven",
+          "tracknumber": "11",
+          "trackposition": 11
+        }
+      ]
+    }
+  ],
+  "secondarytypes": [],
+  "title": "Engineers",
+  "type": "Album"
+}

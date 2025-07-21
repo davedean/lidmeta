@@ -1,0 +1,7217 @@
+
+{
+  "Albums": [
+    {
+      "Id": "e75c0549-ad55-39e3-8025-c72c5d4a3c5d",
+      "OldIds": [
+        "bbaa1179-8503-4d2a-8fd8-15ddf6f10cb5"
+      ],
+      "ReleaseStatuses": [
+        "Official",
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Kid A",
+      "Type": "Album"
+    },
+    {
+      "Id": "407aa2b5-b48b-434e-881f-072ea6690860",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Sail to Montreux",
+      "Type": "Album"
+    },
+    {
+      "Id": "1f4d4fe7-ddb0-36b8-8fd9-283d40190c3b",
+      "OldIds": [
+        "fe7b9784-1173-384f-81f1-d7e30e15721f",
+        "38febb35-6da5-3732-aeab-6581ac748d84"
+      ],
+      "ReleaseStatuses": [
+        "Official",
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Paranoid Android",
+      "Type": "Single"
+    },
+    {
+      "Id": "6a212cfa-0627-3a69-9e3d-457546b9ffad",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Interview"
+      ],
+      "Title": "Interview Disc: The Unauthorised Edition",
+      "Type": "Other"
+    },
+    {
+      "Id": "bca9280e-28b4-327f-8fe0-fd918579e486",
+      "OldIds": [
+        "cace92a2-fec0-45b4-b494-f7642873d350"
+      ],
+      "ReleaseStatuses": [
+        "Official",
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Amnesiac",
+      "Type": "Album"
+    },
+    {
+      "Id": "408b32ef-6387-334f-a44d-b8c3ea6cdb10",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Amnesiac",
+      "Type": "Single"
+    },
+    {
+      "Id": "7b39ccb5-b49c-37e1-80ec-5ac0b2a89fe4",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Airbag / How Am I Driving?",
+      "Type": "EP"
+    },
+    {
+      "Id": "d76a7a67-824e-430e-b4d9-45c98e104ee0",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Idioteque",
+      "Type": "Single"
+    },
+    {
+      "Id": "63b2aeb3-146b-343e-bbb5-0317c8a1e328",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official",
+        "Pseudo-Release"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Itch",
+      "Type": "EP"
+    },
+    {
+      "Id": "0b1fce60-47b8-4664-8f59-3d7520456ae2",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "BBC in Concert 601: Glastonbury Festival 1994",
+      "Type": "Album"
+    },
+    {
+      "Id": "cd76f76b-ff15-3784-a71d-4da3078a6851",
+      "OldIds": [
+        "c5e8a47a-b0a1-3a5d-b040-f30e05f3f515"
+      ],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Pablo Honey",
+      "Type": "Album"
+    },
+    {
+      "Id": "0f1c58c5-497d-3cca-938b-311b988e7d03",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Launch No. 15",
+      "Type": "Single"
+    },
+    {
+      "Id": "30eb21a4-b9df-435f-b779-590617fe9b44",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "In Rainbows Disk 2",
+      "Type": "EP"
+    },
+    {
+      "Id": "b7b8503e-486a-3bb8-9c4e-628fe8be0580",
+      "OldIds": [
+        "12387d31-de79-3e00-9342-fa2640f0b8fc",
+        "8822d28e-13c0-31b9-84ce-6cde1df64498"
+      ],
+      "ReleaseStatuses": [
+        "Official",
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "There There",
+      "Type": "Single"
+    },
+    {
+      "Id": "f8c54de0-d93b-39bb-b820-47d19471e56e",
+      "OldIds": [
+        "0aa627fd-52a5-3ccb-acd3-a20151f3516a"
+      ],
+      "ReleaseStatuses": [
+        "Official",
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Anyone Can Play Guitar",
+      "Type": "Single"
+    },
+    {
+      "Id": "b2246643-115e-3b53-9a96-6d2df930f970",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Drill",
+      "Type": "EP"
+    },
+    {
+      "Id": "fac1932e-3ec5-3cbc-9dec-10f0d4fcabec",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "College EP",
+      "Type": "EP"
+    },
+    {
+      "Id": "e418e013-c2a4-3d77-af37-2e92cd48ba5a",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "College Karma EP",
+      "Type": "EP"
+    },
+    {
+      "Id": "4e653c77-f83f-3972-a384-870fce0d6a31",
+      "OldIds": [
+        "36c8563f-11a9-3b8b-b59d-7a54676d165a"
+      ],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "2 + 2 = 5",
+      "Type": "Single"
+    },
+    {
+      "Id": "88477b42-055d-3d1c-9e5c-7e1de8f35243",
+      "OldIds": [
+        "a20a5d63-11e5-3d9f-83a3-1c34a99c3517",
+        "65bbdc6c-7a27-3d37-aec9-771223d15fd3",
+        "fed813ad-e729-354b-9abc-36959d20c86b",
+        "fdaeb723-1fd6-38c5-9983-f0f22bcee822"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg",
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Street Spirit (Fade Out)",
+      "Type": "Single"
+    },
+    {
+      "Id": "4c497a28-76fd-3570-9303-b0b85e7ce84d",
+      "OldIds": [
+        "7903a158-25c3-36e1-88dd-67362ec4cad2",
+        "91bbdbbf-beaa-3746-a87c-7bffbf63b383",
+        "39e5613b-3d85-3f96-b74b-da2906d5daac",
+        "5f4965c3-e6c9-3bc9-9dfc-339084a68822",
+        "512b88a5-948b-3b68-8035-9d06e9e78edd"
+      ],
+      "ReleaseStatuses": [
+        "Official",
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Pyramid Song",
+      "Type": "Single"
+    },
+    {
+      "Id": "45c42d7a-9d39-3da9-a196-31bef84b6887",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official",
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Pop Is Dead",
+      "Type": "Single"
+    },
+    {
+      "Id": "90521697-19b7-3c78-9acf-dc122712fdd1",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "The Best Thing That You Ever Had",
+      "Type": "Album"
+    },
+    {
+      "Id": "3c67bda1-9eda-4517-933d-8d790d925702",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2012-03-13: 1st Bank Center, Broomfield, CO, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "894e8d3c-1258-391e-9455-1d103f114e45",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Planet Telex",
+      "Type": "Single"
+    },
+    {
+      "Id": "104ac1a8-2412-33a7-9b9b-179a3c939e20",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Talk Show Host",
+      "Type": "EP"
+    },
+    {
+      "Id": "e83bcc2d-5498-36ba-a0c0-8bc05317f323",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [
+        "Interview"
+      ],
+      "Title": "Interview CD",
+      "Type": "Other"
+    },
+    {
+      "Id": "faa8bedc-ab16-3441-8899-dfe1c9879615",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1998-04-18: Radio City Music Hall, New York, NY, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "7b097568-f5be-3f76-b333-7a1777050538",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "High & Dry: Live Package",
+      "Type": "EP"
+    },
+    {
+      "Id": "0dabfb63-de3a-3d49-9232-549b928edb81",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1999-06-13: Tibetan Freedom Concert, Amsterdam, Netherlands",
+      "Type": "Single"
+    },
+    {
+      "Id": "049e68f7-56bd-317e-91b7-7f37c8c44124",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2000-07-09: Old Roman Amphitheatre, Cessaria, Italy",
+      "Type": "Single"
+    },
+    {
+      "Id": "4dba9b89-c003-4d56-8406-c244603d2eb9",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2000-12-14 PRE-FM: BBC Radio 1, UK",
+      "Type": "EP"
+    },
+    {
+      "Id": "377aa3b9-1fc0-3f08-a7e9-a2a17f132784",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Remix"
+      ],
+      "Title": "Ale to the Thieves",
+      "Type": "EP"
+    },
+    {
+      "Id": "e263349d-6dc2-3cba-864a-e28407b2bf2b",
+      "OldIds": [
+        "e37ab878-5393-3c6e-9731-a1ecbc92aaa2",
+        "4027453d-f084-3401-a1d4-33ca33ad6a84",
+        "39687682-dfdd-433b-a04c-e0e5ae8ddb23"
+      ],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "No Surprises",
+      "Type": "Single"
+    },
+    {
+      "Id": "c07c2bb8-0292-3976-9b86-58ac63316eb3",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2001-06-09: Memento for Later: BBC, London, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "fdda10b4-d7e4-373c-89ef-2899824b85fe",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Remix"
+      ],
+      "Title": "Kid 17",
+      "Type": "EP"
+    },
+    {
+      "Id": "62bfe814-969e-3dfb-9dc9-88d7a7d23c94",
+      "OldIds": [
+        "237b3179-fd77-3525-9d1e-58ae4904c7e6",
+        "dae81964-97f7-3669-bf59-091877f2bcbe",
+        "f9309ffc-9e3a-34e4-bb83-1cf6fa51922a"
+      ],
+      "ReleaseStatuses": [
+        "Official",
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Knives Out",
+      "Type": "Single"
+    },
+    {
+      "Id": "78690342-5a02-382c-9778-6b1c3dd741a2",
+      "OldIds": [
+        "7a1e2e9f-d502-3560-8de4-8a62aa222262",
+        "3cffd36d-f7e6-34f5-855a-6ae45ced5649"
+      ],
+      "ReleaseStatuses": [
+        "Official",
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Fake Plastic Trees",
+      "Type": "Single"
+    },
+    {
+      "Id": "518a42f6-2ace-30ff-b0b5-de6b919ba444",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "8 Outtakes From Amnesiac",
+      "Type": "EP"
+    },
+    {
+      "Id": "8ea92211-a70b-3993-9301-bb80e0d1a24a",
+      "OldIds": [
+        "342508e8-aa30-352f-bf07-ce07d3f93d9f"
+      ],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "The Bends",
+      "Type": "Single"
+    },
+    {
+      "Id": "27f41de5-d887-3873-8ae8-eee94401e671",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Live at the Astoria",
+      "Type": "EP"
+    },
+    {
+      "Id": "3ab9fbe7-b809-3db8-96cf-4de6e56bb180",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Radiohead TV Covers",
+      "Type": "EP"
+    },
+    {
+      "Id": "14ab8205-93d7-39c9-9d8f-0f202e978b1d",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Thumbs Down (Webcast)",
+      "Type": "EP"
+    },
+    {
+      "Id": "cd1e8570-67c8-3266-87ba-3efd0b5ccd0d",
+      "OldIds": [
+        "f8eac082-acf3-373d-819d-2ef9cf5ef52d"
+      ],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Jigsaw Falling Into Place",
+      "Type": "Single"
+    },
+    {
+      "Id": "9dc059c7-78a0-3cf9-a8c3-db7de05ed0fb",
+      "OldIds": [
+        "5481672a-cb21-3bd5-9854-107fddad4947"
+      ],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Nude",
+      "Type": "Single"
+    },
+    {
+      "Id": "f1b5c8a1-a597-40c5-b244-f3c0f34f83ee",
+      "OldIds": [
+        "80349bcc-8957-4242-9edc-d0c3fe125c0b"
+      ],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation",
+        "Remix"
+      ],
+      "Title": "TKOL RMX 1 2 3 4 5 6 7",
+      "Type": "Album"
+    },
+    {
+      "Id": "895a0d8b-3ed5-3bd5-be8c-1e01d6146c0d",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Reckoner",
+      "Type": "Single"
+    },
+    {
+      "Id": "d8e20b49-9d91-409f-93b8-a50f36d037a9",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Live at BBC Radio 1992",
+      "Type": "EP"
+    },
+    {
+      "Id": "033e0907-9071-46af-b927-97584eb2c8b7",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "These Are My Twisted Words",
+      "Type": "Single"
+    },
+    {
+      "Id": "30f765ef-d7f0-4cce-8a3b-d6e1069f1dda",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "5 Album Set",
+      "Type": "Album"
+    },
+    {
+      "Id": "bd3aaea6-145a-41bb-a909-91f264c24a8f",
+      "OldIds": [
+        "686d0738-cdc1-370a-bed0-5b5365529922"
+      ],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Stop Whispering",
+      "Type": "Single"
+    },
+    {
+      "Id": "e404b349-7cef-398f-ac5e-ce06737341d1",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg",
+        "Official",
+        "Promotion"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "I Might Be Wrong: Live Recordings",
+      "Type": "Album"
+    },
+    {
+      "Id": "9ff7e13c-06a2-487f-a4c8-2c7a526faf02",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Interview"
+      ],
+      "Title": "2006-06-24: Minnesota Public Radio, Sound Opinions Studio, Chicago, IL, USA",
+      "Type": "Other"
+    },
+    {
+      "Id": "38cbf1e6-1627-4390-bf1e-f080ba7489a4",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Supercollider / The Butcher",
+      "Type": "Single"
+    },
+    {
+      "Id": "4860d0eb-11ab-434a-9c2a-695c3932fb98",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "The Daily Mail / Staircase",
+      "Type": "Single"
+    },
+    {
+      "Id": "e607d0d4-b520-37f9-b82b-8aec9e786c72",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Greatest Hits 98",
+      "Type": "Album"
+    },
+    {
+      "Id": "2fafad4d-54e4-376e-9f5e-1d1557825219",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1996-08-14: Great Woods, Boston, MA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "8a2f8e2a-d51b-3bd1-ba9b-b152f05bcd29",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Oxford\u2019s Angels",
+      "Type": "Album"
+    },
+    {
+      "Id": "0711af11-e061-3ec9-a2a8-8c85738be984",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Fond, but Not in Love: The B Sides",
+      "Type": "Album"
+    },
+    {
+      "Id": "502b7edd-701b-3ba5-b56e-09ce581bdfe1",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Rarities",
+      "Type": "Album"
+    },
+    {
+      "Id": "63fb90c6-e005-3c9a-a808-6900908b9b3b",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Uncut",
+      "Type": "Album"
+    },
+    {
+      "Id": "eaa1e253-c162-3deb-b303-ce56465add67",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1998-06-14: Tibetan Freedom Concert, RFK, Washington DC, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "d4fe59d3-4d22-3f99-8a08-b07cb548c949",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Bootleg No. 2: Do Not Tell Me..",
+      "Type": "Album"
+    },
+    {
+      "Id": "46479293-ce6d-3a4d-8fe9-73ebb5ee5881",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "B-Sides",
+      "Type": "Album"
+    },
+    {
+      "Id": "ec943f17-c8cd-39a2-b523-11f4f7f19e73",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1996-07-28: Big Day Out, Galway, Ireland",
+      "Type": "Album"
+    },
+    {
+      "Id": "53bac4cb-4e44-368c-beed-caa37d690edc",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2001-08-01: Hutchinson Field, Chicago, IL, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "ebaf8e7b-12f5-39db-9caf-f3b82ceda1eb",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Unplugged: The Complete Acoustic Sessions",
+      "Type": "Album"
+    },
+    {
+      "Id": "85a1b388-7b4c-3145-8812-0de4d231c8c5",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Coup d\u2019\u00c9tat",
+      "Type": "Album"
+    },
+    {
+      "Id": "34a992da-2583-3bca-82f8-fd5a3a14fe89",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Remix"
+      ],
+      "Title": "Remix Project",
+      "Type": "Album"
+    },
+    {
+      "Id": "65d99b2c-05c1-378a-9218-5e0c19bc106f",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "A Total Waste of Time",
+      "Type": "Album"
+    },
+    {
+      "Id": "c374b03d-97a3-34df-8863-44aba7cbdc65",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1993-07-12: Creepshow: The Whiskey, Hollywood, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "475d452c-a8c1-3b4f-9cf9-299f93fa01e2",
+      "OldIds": [
+        "8ab72b0a-bbb0-35c2-92dc-1e9a144e0344",
+        "3569e79c-3f8a-3f80-ae3d-361dbac39bcb",
+        "f73872b7-708e-4ffa-92f6-d1d74673dff8"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "NPA Live",
+      "Type": "Album"
+    },
+    {
+      "Id": "d03d753b-9359-3b15-b1a0-b3ce28113eff",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003-05-25: Shepherds Bush Empire, London, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "e449d0a3-5661-338c-a51e-a9910f725fa5",
+      "OldIds": [
+        "ead9b093-8256-3d37-a3ae-b8773940e371",
+        "63b2695a-bc34-3dcb-bdfa-bc8923edaf5b",
+        "d1e4db00-6443-3da3-b002-2c68a5bc4abe",
+        "c1a31544-83d6-37fd-838f-eb30f4c9fa24",
+        "b5d525f0-d29f-344f-a2da-c5c0d145e60a",
+        "8a29fc93-4346-32c6-9998-05263f3a48e7",
+        "ddb52dc6-6fc3-3c7c-be7f-0e948dbfff60",
+        "396099e7-dc34-392d-9ff1-2f05e99076d4",
+        "3299963e-8562-3060-be1d-accc28ffd4f3",
+        "dd9b7d98-cadd-398d-87d9-d3d479db115d",
+        "3bf19383-f7c0-3024-87c8-f70cb4aea26d",
+        "0aacbc3a-b903-369d-96d4-3a1f15aa0c44",
+        "54d86485-b0da-304a-a6f6-e5a024ffccf4",
+        "7fa68bf0-4f5b-3ab9-b948-aeed73041dc9",
+        "926536b1-0344-3856-80ae-cb6d711652a1",
+        "79bb61d4-b08e-39a8-adf6-1b344a6ce3ea",
+        "248cf3f1-15c7-3bd0-83e9-c99abc39d3b8",
+        "bd99cb0f-7a6b-3cb5-95f7-a940cd19febb",
+        "9e9ba536-e31f-3a2d-ae5d-7b5e8b455235",
+        "a583bb73-5458-3a09-a852-625eff1b252f",
+        "9863d2dd-ac53-3e87-94aa-94a8ca390eb7",
+        "28f43690-30ef-3da7-bee7-e2e8b1a225fa",
+        "e435667b-79e4-34ae-955a-7f31c3bd4ee8",
+        "da6930ca-40d6-3206-97d2-2b0c60fe02e0",
+        "e972b940-14c6-33bd-ad15-c66b04218d5f",
+        "733b34b3-c21f-3d09-a6db-ee3a6ab37376",
+        "bd4199be-2122-3a3d-90bd-b215c66ddf15",
+        "b131e845-2b5d-3100-8372-b693222c8cb5",
+        "a65cdf11-c0e3-398e-8ca0-53d85934f883",
+        "f103786c-25ec-3609-8c86-7dbe18d9504f",
+        "84ba31f7-ecb2-31ee-b832-0376b64fc4ec",
+        "1c812a3f-7542-30db-bf2b-abfc7752a31e",
+        "c40d51b4-7af9-376f-ba1c-09f1ade04383"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Towering Above the Rest",
+      "Type": "Album"
+    },
+    {
+      "Id": "4041fb21-abe4-326f-90f5-3d25ee1622e8",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2002-08-02: Benicassim Festival, Benicassim, Spain",
+      "Type": "Album"
+    },
+    {
+      "Id": "1afa76fe-26bc-3dbe-9d5c-45a02bd8f75e",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Pop Is Dead",
+      "Type": "Album"
+    },
+    {
+      "Id": "77382869-e555-3c04-8ab5-acbeedcd61c0",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Raretrax 2",
+      "Type": "Album"
+    },
+    {
+      "Id": "6c8b35d9-f877-3953-907d-0f1c0bdb0f77",
+      "OldIds": [
+        "e364b01a-b74e-3924-924b-6cfaf4f45f90"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003-07-09: Piazza Michelangelo, Florence, Italy",
+      "Type": "Album"
+    },
+    {
+      "Id": "870af0bd-259a-36b2-b4cd-8ef81d8da7dc",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2001-06-27: Shoreline Amphitheatre, Mountain View, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "2664d9c8-0260-3c12-a91f-373b076279e7",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003-05-28: Live Lounge, BBC Radio 1",
+      "Type": "Single"
+    },
+    {
+      "Id": "57af012a-443b-3a41-a875-a6c1870cfcc5",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg",
+        "Promotion"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2000-10-02: Victoria Park, Cheshire, Warrington, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "ceffaef8-3b77-308c-9c26-c47c2052f83f",
+      "OldIds": [
+        "ce557081-2d6a-350f-8280-1ccf3fe3dd93"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2001-06-01: No More Jokes: Rock am Ring, N\u00fcrburgring, Germany",
+      "Type": "Album"
+    },
+    {
+      "Id": "7d47ca14-b3ab-3fe6-b1eb-3e3867d6ad77",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2001-09-29: Osaka, Japan",
+      "Type": "Album"
+    },
+    {
+      "Id": "8d51e3fc-e99c-31cb-b881-32cdb3d3563e",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "The Golden Unplugged Album",
+      "Type": "Album"
+    },
+    {
+      "Id": "aa3bd5a8-61c8-3823-90e9-06cd914c2ffe",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Unplugged Again",
+      "Type": "Album"
+    },
+    {
+      "Id": "df809eea-7bb2-3e94-9b49-1fe4b324a13e",
+      "OldIds": [
+        "99ebf310-8b3d-3d02-9f58-ab46974962c8"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2001-08-03: Molson Park, Barrie, ON, Canada",
+      "Type": "Album"
+    },
+    {
+      "Id": "15506c43-7bdb-3018-8d26-75f2d5bdbb6f",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1994-02-12: Melkweg, Amsterdam, Netherlands",
+      "Type": "Album"
+    },
+    {
+      "Id": "b3e7051a-a312-3681-8c78-37dcb9764fc0",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1993-02-23: Black Session #21: Paris, France",
+      "Type": "Album"
+    },
+    {
+      "Id": "8c4f7ca2-254c-3e57-a2b2-ecee6253f9e2",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1995-02-16: Black Session, Paris, France",
+      "Type": "Album"
+    },
+    {
+      "Id": "ceee3ae6-d614-350d-92ee-9c0b001a1440",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "B Sides",
+      "Type": "Album"
+    },
+    {
+      "Id": "cfb8d0b5-65ed-3cdc-888d-9100efcf3d65",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Gagging Order: Acoustic Renditions",
+      "Type": "Album"
+    },
+    {
+      "Id": "38b29279-b3cd-3992-aca2-ceca145171dd",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2001-08-07: Madison Square Garden, New York, NY, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "e5d384d2-7455-388d-933e-8bc1ae3fad53",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Les Enfants Terrible",
+      "Type": "Album"
+    },
+    {
+      "Id": "da2ca21b-1778-3e5e-a868-e0870568a51f",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003-07-04: Les Eurock\u00e9ennes de Belfort, Belfort, France",
+      "Type": "Album"
+    },
+    {
+      "Id": "03b6118c-c2ad-35ac-805b-ea15deb708b5",
+      "OldIds": [
+        "dce1f885-dee0-370b-83e0-ce21a4455ac3"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2001-06-20: Red Rocks Amphitheatre, Morrison, CO, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "2a3892ce-ce25-3577-8c1c-634dc3faaf8b",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Kill All the Rarities",
+      "Type": "Album"
+    },
+    {
+      "Id": "e383c6d0-1ead-3f4b-80b0-7e70ff72f842",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Painkiller",
+      "Type": "Album"
+    },
+    {
+      "Id": "cfdec81d-bfce-3d65-bef7-071e65bb30f4",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003-05-22: Apollo Theatre, Manchester, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "19584460-e2eb-3825-b8b9-9ec0f9fff3b5",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2001-08-03: Molson Park, ON, Canada",
+      "Type": "Album"
+    },
+    {
+      "Id": "a809bd7f-d8b1-3c9c-85dc-2cc01da74cad",
+      "OldIds": [
+        "9789c9ec-a8eb-4f51-8738-16d89ca0e4aa",
+        "9678bada-1bc5-476c-8983-de54e4f2500d"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1998\u201001\u201023: Akasaka Blitz, Tokyo, Japan",
+      "Type": "Album"
+    },
+    {
+      "Id": "8809e63e-e14e-3ea2-afdc-e8b30be6a321",
+      "OldIds": [
+        "6e1e4724-18d2-3543-84c3-31d889378b4a"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2001-09-11: Parkbuhne Wulheide, Berlin, Germany",
+      "Type": "Album"
+    },
+    {
+      "Id": "3e19d5e9-4ac5-33a9-a1f8-5c8796c80363",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003\u201009\u201029: Breakfast With Radiohead, KROQ, Capitol Records, Hollywood, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "192bf584-8e41-37db-940b-bc888ede76d9",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Les Eurock\u00e9ennes",
+      "Type": "Album"
+    },
+    {
+      "Id": "dcfaca33-c71d-3f2d-b8ce-0194ff7fce43",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Fucking Rarities",
+      "Type": "Album"
+    },
+    {
+      "Id": "e96e022b-7ab3-38d4-ae94-9fb0a8c15a42",
+      "OldIds": [
+        "98f41dbb-e622-3284-a45a-5b7ea64c51d0"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003-09-23: Shoreline Amphitheatre, Mountain View, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "76ba16be-d9f7-3b65-a6f9-f87bd4298f57",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2001-06-04: Pinkpop: Megaland, Landgraaf, Netherlands",
+      "Type": "Album"
+    },
+    {
+      "Id": "b6ef0777-489c-3ff8-b600-9fa4d4a8ad2a",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003\u201010\u201015: Skydome, Toronto, ON, Canada",
+      "Type": "Album"
+    },
+    {
+      "Id": "bb5642ed-a204-3064-9d07-31e54d7ab154",
+      "OldIds": [
+        "07b1c82a-4b19-3e09-8fd1-d9a044a00ba8",
+        "a087330b-53c1-340b-b84e-8cdb6a4afa2a"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003-06-07: Field Day Festival, Giants Stadium, East Rutherford, NJ, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "20de1ad3-9b67-3c8d-aa06-a253e0b065b0",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2001-05-26: Plaza de Toros de Bilbao, Spain",
+      "Type": "Album"
+    },
+    {
+      "Id": "e1f4e1dd-d48f-3842-8cc7-6bb0b2e28889",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003-05-18: Dublin, Ireland",
+      "Type": "Album"
+    },
+    {
+      "Id": "5bf30270-7827-38a2-b74b-3a54211789bf",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2001-08-17: Liberty State Park, Jersey City, NJ, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "ac3f61e8-089f-3dbf-b3ba-c6b9ab8fd60f",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003\u201006\u201002: Musique Plus, Montr\u00e9al, QC, Canada",
+      "Type": "Album"
+    },
+    {
+      "Id": "32c97b05-44a7-309b-b498-3fbfa24bdb11",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Complete B-Sides",
+      "Type": "Album"
+    },
+    {
+      "Id": "5eb3cc91-d633-31e2-86b6-d44f10bf4df2",
+      "OldIds": [
+        "fb43af6c-1945-371f-8932-e6050fe04a54"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003-09-26: Hollywood Bowl, Los Angeles, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "53e003c3-e889-3021-89e8-a54a758d4c18",
+      "OldIds": [
+        "332ddeb2-1192-3b36-ab10-4456715a84c5"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2002-07-22: Coliseu dos Recreios de Lisboa, Lisbon, Portugal",
+      "Type": "Album"
+    },
+    {
+      "Id": "b8a7b98d-9fd9-327e-babf-6f216e429ff6",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003-11-17: Bercy, Paris, France",
+      "Type": "Album"
+    },
+    {
+      "Id": "b4762861-e3b5-3135-8347-546302dca506",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2006-05-01: The Big Ask Live, Koko, London, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "815631d0-385e-3914-9d91-96d0b07e7b5a",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2006-05-15: Civic Hall, Wolverhampton, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "c4d56504-1103-3538-951d-5d240d671af2",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003-11-29: Arena, Nottingham, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "85b7b7b5-cf37-3380-8569-f281c5edbe15",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Climbing Up the Walls",
+      "Type": "Album"
+    },
+    {
+      "Id": "58b086c5-583c-31ac-ac0f-83f1911dab48",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2006-06-04: Bank of America Pavilion, Boston, MA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "94e1bfd2-a8ad-3607-a1c3-b34d3fa14530",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2006-05-13: Empress Ballroom, Blackpool, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "dfeb0832-7425-34cf-abd2-a9afe73d2ee4",
+      "OldIds": [
+        "47e5a102-1f05-3d34-8f75-92cb132e35ce"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2001-08-08: Blossom Center, Cuyahoga Falls, OH, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "873cb3ff-6467-3b2a-8bce-63b4a6ba8591",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Idiot Computer",
+      "Type": "Album"
+    },
+    {
+      "Id": "1704bdf4-1e0c-3fab-97b4-b7099999078e",
+      "OldIds": [
+        "f29bb90b-b8da-3628-826a-a93994de2c80"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2004\u201004\u201024: Sydney Entertainment Centre, Sydney, Australia",
+      "Type": "Album"
+    },
+    {
+      "Id": "6c70ab0d-2559-31d6-b4c5-15cf513aa076",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Oxford Devils",
+      "Type": "Album"
+    },
+    {
+      "Id": "adf10699-3494-3a55-afc0-9b4b23ae0cf9",
+      "OldIds": [
+        "47780aa2-fa4e-3d31-8acc-a888c3e767e9"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2006\u201008\u201015: Rock Oz\u2019 Ar\u00e8nes, Avenches, Switzerland",
+      "Type": "Album"
+    },
+    {
+      "Id": "d31975b1-a760-3337-b0c7-281847e4ecee",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2006\u201005\u201006: KB Hallen, Copenhagen, Denmark",
+      "Type": "Album"
+    },
+    {
+      "Id": "7d1b5def-1631-307a-9c59-7490421a9b25",
+      "OldIds": [
+        "be228989-c242-30f0-984b-71dd1715f460",
+        "eb7948b3-7d19-4a38-bf74-c9d5d34c5615"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008-08-24: Hollywood Bowl, Hollywood, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "3ec4f0df-73c8-466f-97e4-6008ecd6f453",
+      "OldIds": [
+        "af507ee8-ba22-47ec-91fb-3317589f4f18"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Rocks Germany 2001",
+      "Type": "Album"
+    },
+    {
+      "Id": "c448c463-16c8-4826-90b6-9b98b5b681b0",
+      "OldIds": [
+        "d9996e5f-05c5-49f4-92c8-6f6cf19dcccb"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1998\u201004\u201004: Salem Armory Auditorium, Salem, OR, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "bda44c31-e806-4e4e-8769-040011701a79",
+      "OldIds": [
+        "d7b201df-e759-47a7-98d6-f48d8d32eb67"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2001-06-30: Santa Barbara County Bowl, Santa Barbara, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "d7d9fc42-c1b9-42c2-bd52-c10aecedc284",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003-05-28: Jo Whiley Session, BBC Radio1, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "6cdb8a82-bc25-4850-b8c5-cd5590e2f8c9",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008-08-19: Thunderbird Stadium, Vancouver, BC, Canada",
+      "Type": "Album"
+    },
+    {
+      "Id": "eb34222f-7912-4796-bf56-62ce83decc52",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2000-06-18: Villa Reale, Monza, Italy",
+      "Type": "Album"
+    },
+    {
+      "Id": "f8533394-b359-44f7-bcd7-9b488bd8b9dd",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1995-06-03: Johnny Walker Session, BBC Radio1, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "2a4285f6-8ee6-4804-bb2a-bb1d28574ce5",
+      "OldIds": [
+        "9f520c20-96c4-4e6b-9ba3-445e0a39fa66"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1998\u201004\u201013: Molson Theatre, Montreal, QC, Canada",
+      "Type": "Album"
+    },
+    {
+      "Id": "5de773fc-ade8-4a37-953f-8696a2e07d68",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1995\u201006\u201027: I Wanna Be Jim Morrison: The Xanadu, Sapporo, Japan",
+      "Type": "Album"
+    },
+    {
+      "Id": "c682a05a-7a4c-4fe3-831a-0fe340cfe292",
+      "OldIds": [
+        "89c8b918-f311-49d2-95be-d10c339058ea"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2006-06-19: Auditorium Theatre, Chicago, IL, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "0544c3a7-e869-4a64-9763-057d5200da76",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008-10-02: Municipal Central Gymnasium, Osaka, Japan",
+      "Type": "Album"
+    },
+    {
+      "Id": "c0154212-62c7-435e-9079-c66f94d21a29",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1997-07-14 PRE-FM: KROQ Weenie Roast, Irvine Meadows, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "685282da-b3f7-4196-bcd1-647dffc15705",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008-10-04: Saitama Super Arena, Saitama, Japan",
+      "Type": "Album"
+    },
+    {
+      "Id": "ea55d301-13b3-4693-9d16-98b2db1ef947",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003\u201007\u201007: Il Lazzaretto, Bergamo, Italy",
+      "Type": "Album"
+    },
+    {
+      "Id": "61bca2a4-cd40-4765-9d98-404a81e0e2f1",
+      "OldIds": [
+        "38888518-8abb-49f6-afb0-3009e38a0c2b"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003\u201008\u201002: WTC Open Air Stadium, Osaka, Japan",
+      "Type": "Album"
+    },
+    {
+      "Id": "375ddfde-c5c5-49e8-8bbf-c5f03cf615a1",
+      "OldIds": [
+        "66d42a02-6f75-4f73-ab5a-a36f308e55bb"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2006-06-23: Greek Theatre, University of California, Berkeley, Berkeley, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "33d7473f-98cb-42b8-ae4f-8d1d52f42639",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201010\u201008: International Forum, Tokyo, Japan",
+      "Type": "Album"
+    },
+    {
+      "Id": "9ba21b21-862b-4266-be49-54a16695622c",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201008\u201009: Blue Comet Stage, All Points West Music & Arts Festival, Liberty State Park, Jersey City, NJ, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "14bde3ee-0cc5-4396-b9a7-d31e90b7e0d6",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1996\u201007\u201013: T in the Park Festival, Hamilton, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "1fcfe078-6582-44d2-8097-e4435587f639",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008-04-01 (Matinee): BBC Radio 2, BBC Radio Theatre, Broadcasting House, London, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "d8242693-f99f-4255-b8ff-07174fe48f0c",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201008\u201001: Grant Park, Chicago, IL, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "3334a098-9b59-4a8a-a93c-acd98d56c7f2",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2009-03-24: Club Ciudad, Buenos Aires, Argentina",
+      "Type": "Album"
+    },
+    {
+      "Id": "a61c84df-f79c-4816-a289-5639e0f065d9",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008-06-12: Festival Daydream, Parc del F\u00f2rum de Barcelona, Barcelona, Spain",
+      "Type": "Album"
+    },
+    {
+      "Id": "99dc2e64-2a50-40a9-a425-41c4ffb8f033",
+      "OldIds": [
+        "75880636-9aa7-4f59-93c6-f86f0f06a25f"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1997-10-18: Le Z\u00e9nith, Paris, France",
+      "Type": "Album"
+    },
+    {
+      "Id": "569a9328-e234-4e36-86b1-bed7203b6194",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201006\u201017: Civica Arena, Milan, Italy",
+      "Type": "Album"
+    },
+    {
+      "Id": "e1d095b6-0336-4ace-b481-b0fd0477d375",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201001\u201016: Rough Trade East, Brick Lane, London, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "cc02fe65-c2b3-4217-ba92-ed9e61653513",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2006\u201008\u201026: Rock en Seine Festival, Paris, France",
+      "Type": "Album"
+    },
+    {
+      "Id": "091136b3-1e5b-4820-a859-38eeb3323f38",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2+2=5, Are You Listening?",
+      "Type": "Album"
+    },
+    {
+      "Id": "21400083-1bc3-4067-9c72-3daba1229791",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2006-06-13: Madison Square Garden, New York, NY, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "418c3998-3cd4-4e85-9926-1a6549711811",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2004-04-18: Makuhari Messe, Tokyo, Japan",
+      "Type": "Album"
+    },
+    {
+      "Id": "0d65fb5e-8fdb-4108-bc48-c8496a229398",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003\u201012\u201008: Maida Vale Studios, London, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "af44dc42-1bf4-4cdc-ad98-cdfdc2312b09",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "The Best of Radiohead",
+      "Type": "Album"
+    },
+    {
+      "Id": "dc626f33-2cf3-40b1-9612-c1d5bd2edf64",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Pseudo-Release"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Breaks and Beats",
+      "Type": "Album"
+    },
+    {
+      "Id": "e726321f-78f5-4ae9-92a3-8062e112d4e1",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008-07-01: Westergasfabriek, Amsterdam, Netherlands",
+      "Type": "Album"
+    },
+    {
+      "Id": "afe72a58-1de1-4ebf-a671-97a7b5069003",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "OK MTV",
+      "Type": "Album"
+    },
+    {
+      "Id": "53f59e5b-adc9-4c36-a724-cf3aeab69b38",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Computer K.O.",
+      "Type": "Album"
+    },
+    {
+      "Id": "f720c4d7-a80d-4466-b92d-9d1de99ddba7",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "World Ballads Collection",
+      "Type": "Album"
+    },
+    {
+      "Id": "d2f48ef0-9a77-42bc-95af-89dd0c8452b4",
+      "OldIds": [
+        "98650f0b-2ccf-407c-bdf2-ccd381ec9398"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg",
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "In Rainbows: From the Basement",
+      "Type": "Album"
+    },
+    {
+      "Id": "b7db08f4-835a-4a69-970b-5321e6305032",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Album Box Set",
+      "Type": "Album"
+    },
+    {
+      "Id": "4b69ebc4-1219-342a-b364-8a4a6194954e",
+      "OldIds": [
+        "d7bfc9af-6df2-3d57-912d-6e9786df2113"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2000-10-17: Street Spirits: Sears Theatre, Toronto, ON, Canada",
+      "Type": "Album"
+    },
+    {
+      "Id": "7933a219-c594-4e8e-b74c-73828e291a89",
+      "OldIds": [
+        "a637b7c9-552a-4fba-9d8e-ed1c8c8a35c3"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2002-08-07: The Kid Parade: Palacio Congresos, Salamanca, Spain",
+      "Type": "Album"
+    },
+    {
+      "Id": "db3d9e25-a1c9-4c2f-9c40-0fda86f26139",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "I Promise",
+      "Type": "Single"
+    },
+    {
+      "Id": "30fd0c6b-3559-49bb-a2e7-cd6cb5832466",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Bodysnatchers / House of Cards",
+      "Type": "Single"
+    },
+    {
+      "Id": "6ac50c71-cfbf-4f6d-acb0-84af1462aae3",
+      "OldIds": [
+        "dae4c152-5ac4-416e-8a95-58ebf2d6fbcf"
+      ],
+      "ReleaseStatuses": [
+        "Official",
+        "Promotion"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1995-06-01: PASTE.COM Presents: Radiohead Live at Tramps: New York, NY, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "ae075b11-a344-4a6a-8f6a-3d2a5393a7ed",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Un-wired & Raw",
+      "Type": "Album"
+    },
+    {
+      "Id": "59a8a5b2-b991-4c11-8bab-0ae8ab101589",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Radiohead for Haiti",
+      "Type": "Other"
+    },
+    {
+      "Id": "2c435990-69a2-43e0-b124-c96e8b02c455",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Hail and Backtrack",
+      "Type": "Album"
+    },
+    {
+      "Id": "c5bc370b-95c2-3634-bb89-51bb2dce97c3",
+      "OldIds": [
+        "742dba98-e466-369b-bb01-18884f2d681d",
+        "a3eea58d-7210-3ed3-aacc-0329389a78b3",
+        "86c6a63d-fe7d-3804-a180-985a7ea1cbb3",
+        "c6d7f3dd-26ec-3964-9f97-b52e5575a11d",
+        "8b8f7850-699b-4b4b-8746-3348f2c9ffd3",
+        "5876f673-a96e-491d-a853-24c4d64ce508"
+      ],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Creep",
+      "Type": "Single"
+    },
+    {
+      "Id": "bba6d655-2162-4324-a4d5-0c347dd531c0",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "I Might Be Wrong",
+      "Type": "Single"
+    },
+    {
+      "Id": "40e459f4-b86a-4e59-8abc-8c4032947842",
+      "OldIds": [],
+      "ReleaseStatuses": [],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Live in Praha",
+      "Type": "Other"
+    },
+    {
+      "Id": "4e0ea78b-d058-461b-ac7c-3de43823a131",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Oxford Angels: The Rarities",
+      "Type": "Album"
+    },
+    {
+      "Id": "cfb30e6e-48a9-4e3f-b7c9-f70d2f7f7262",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [
+        "Interview"
+      ],
+      "Title": "An Interview with Jonny and Colin Greenwood",
+      "Type": "Album"
+    },
+    {
+      "Id": "1887c325-dfd7-4740-936c-a9ba14afcae1",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Lucky",
+      "Type": "Single"
+    },
+    {
+      "Id": "3eb8efe5-634c-4811-bedc-add6a517f03e",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Lotus Flower",
+      "Type": "Single"
+    },
+    {
+      "Id": "c5f4ea8f-c700-48e3-84f7-f5adb0c66081",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Bones",
+      "Type": "Single"
+    },
+    {
+      "Id": "634571b9-1473-4cde-a03d-e7194b42c7d5",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "How to Disappear Completely",
+      "Type": "Single"
+    },
+    {
+      "Id": "5065f9ad-d1dd-43c9-908f-0dde0a5f0104",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "A Punchup at a Wedding",
+      "Type": "Single"
+    },
+    {
+      "Id": "ea93638f-e9b6-4923-b965-f2487e329ea5",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Staircase",
+      "Type": "Single"
+    },
+    {
+      "Id": "ba663d45-4e09-4e7b-a411-d34c6add19d2",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "All I Need",
+      "Type": "Single"
+    },
+    {
+      "Id": "f6e11713-36f0-4617-82b9-e88a8d1e5077",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Optimistic",
+      "Type": "Single"
+    },
+    {
+      "Id": "979a28b1-bfc9-4c24-bbe2-5a01dc8cc482",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Let Down",
+      "Type": "Single"
+    },
+    {
+      "Id": "3f4063da-b307-4cbe-9735-c2d2fc68e1c1",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "House of Cards",
+      "Type": "Single"
+    },
+    {
+      "Id": "56df5269-0fa3-435b-9150-005f56e99bcc",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Optimistic",
+      "Type": "Album"
+    },
+    {
+      "Id": "fae0450e-c000-4829-be80-f4029272c0f6",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Idioteque / How to Disappear Completely",
+      "Type": "Single"
+    },
+    {
+      "Id": "117728c4-a937-41bc-9b51-15d818de5345",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Live at the HP Pavillion, San Jose",
+      "Type": "Album"
+    },
+    {
+      "Id": "ee51c4a0-4662-45a8-b0ac-c973498527eb",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2012\u201004\u201011: HP Pavilion (San Jose Arena / \u201cThe Shark Tank\u201d), San Jose, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "c6ea1369-bce9-46aa-af17-19c140df4f4f",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008-06-20: Southside Festival, Neuhausen ob Eck, Germany",
+      "Type": "Album"
+    },
+    {
+      "Id": "a2dc03d5-4338-4c75-8a56-020213e96e0d",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2006-05-18: Hammersmith Apollo, London, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "9334e571-656e-4cd5-9c14-f9241e5f8681",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "At the Beacon Theatre, NYC 2003",
+      "Type": "Album"
+    },
+    {
+      "Id": "b7359a82-10ac-49c1-954a-d0ebe9f1f9ca",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Burn the Witch",
+      "Type": "Single"
+    },
+    {
+      "Id": "a1b1494d-fdb8-4e52-9028-eefe1ec1694c",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Daydreaming",
+      "Type": "Single"
+    },
+    {
+      "Id": "bbce0087-d386-4246-a51d-dbcdfdbe8fb2",
+      "OldIds": [
+        "446d65eb-354b-4e46-aa0e-8096c200ed43",
+        "2859a78f-3b26-4cbe-9550-ae7efba6ae4a"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg",
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "A Moon Shaped Pool",
+      "Type": "Album"
+    },
+    {
+      "Id": "f8e8f1ae-e433-422c-b843-6f0cf009f91d",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Remix"
+      ],
+      "Title": "Everything in Its Right Place (Andi M\u00fcller\u2019s Looong mix)",
+      "Type": "Single"
+    },
+    {
+      "Id": "1626bbb8-05bd-3621-a0c7-9278e3b79dca",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official",
+        "Pseudo-Release"
+      ],
+      "SecondaryTypes": [],
+      "Title": "No Surprises / Running From Demons",
+      "Type": "EP"
+    },
+    {
+      "Id": "73d4d70e-4e43-4e19-a440-4ad0b4561ca9",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Lift",
+      "Type": "Single"
+    },
+    {
+      "Id": "c2ac2c8d-51c5-3abf-aafa-3f0e93795151",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Lost Treasures 1993\u20131997",
+      "Type": "Album"
+    },
+    {
+      "Id": "764e4ec4-6e42-4a63-b61e-d47a011aeeca",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Dollars and Cents (live)",
+      "Type": "Single"
+    },
+    {
+      "Id": "9a263941-aef2-46b0-b8c8-c4082c81a70d",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Amnesiac College",
+      "Type": "EP"
+    },
+    {
+      "Id": "4b1c347a-bb99-4c8a-87d7-48597b1dd6f5",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg",
+        "Promotion"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Later\u2026 With Jools Holland",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "5c14fd50-a2f1-3672-9537-b0dad91bea2f",
+      "OldIds": [
+        "56f8a859-381d-3284-909f-42a51aa6dabc",
+        "e9b963c9-5df7-3fa7-ae3d-dbb751773d27",
+        "775a6f75-4260-4db4-a126-60e8f533d0f2",
+        "ea9b8cd4-b579-4cb4-a9ae-5aa0dd6e8326",
+        "e6001148-52ad-4618-be04-2b0da62c15e8",
+        "a12457ff-67cd-419f-97d3-04e27a83d50d"
+      ],
+      "ReleaseStatuses": [
+        "Official",
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Hail to the Thief",
+      "Type": "Album"
+    },
+    {
+      "Id": "9901018d-bc92-4443-a8c9-7f3b3cd6643b",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Present Tense",
+      "Type": "Single"
+    },
+    {
+      "Id": "4d20a2b4-0cba-4f2c-a3f4-60d4db909ec8",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2000\u201010\u201017 Live at Air Canada Centre, Toronto",
+      "Type": "Single"
+    },
+    {
+      "Id": "68a05bba-9e6b-4d71-b588-3262dd46291a",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003\u201005\u201017: Olympia Theatre, Dublin, Ireland",
+      "Type": "Album"
+    },
+    {
+      "Id": "9c351cd2-980e-4e7a-b0b9-e98ba5d1433c",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Soundtrack"
+      ],
+      "Title": "Meeting People Is Easy",
+      "Type": "Other"
+    },
+    {
+      "Id": "229d53e9-37d9-4c10-b3b3-f15a696141f0",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2016\u201007\u201029: Lollapalooza Festival, Chicago, IL, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "e14057b1-b73e-4cc4-bf90-5e4cb478b605",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Live at Glastonbury Festival, England",
+      "Type": "Album"
+    },
+    {
+      "Id": "0839d708-bf20-4a07-9261-e43b7c469e0b",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Identikit",
+      "Type": "Single"
+    },
+    {
+      "Id": "68d3eb76-d802-4191-9bc5-4db17acdd0f8",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [
+        "Remix"
+      ],
+      "Title": "Bloom (Creatures mix for Jun Takahashi)",
+      "Type": "Single"
+    },
+    {
+      "Id": "bb10f1d5-c85d-4c97-8e5c-75ede46130d3",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Aprils Showers",
+      "Type": "Album"
+    },
+    {
+      "Id": "03031fcb-cbcd-47f1-bae7-27582757120f",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Man of War",
+      "Type": "Single"
+    },
+    {
+      "Id": "612fd528-2ebb-43e4-928b-14a6b6090a10",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Mne$i@\u00a2",
+      "Type": "Album"
+    },
+    {
+      "Id": "7fe26c12-b0a2-47c1-a9fc-3ea11b29225b",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Hail to the Thief (B\u2010Sides)",
+      "Type": "Album"
+    },
+    {
+      "Id": "de43d39b-fc89-4d93-9a22-32634ccbc6bc",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2006-06-08: Hummingbird Centre, Toronto, ON, Canada",
+      "Type": "Album"
+    },
+    {
+      "Id": "2915136e-7174-4527-a51e-6d5573be2d12",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Soundtrack"
+      ],
+      "Title": "The Most Gigantic Lying Mouth of All Time",
+      "Type": "Other"
+    },
+    {
+      "Id": "72907a4e-b683-47f4-90d3-67c2b54e8391",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation",
+        "Live"
+      ],
+      "Title": "Black Sessions",
+      "Type": "Album"
+    },
+    {
+      "Id": "940eaad8-517f-39d7-8e3b-55d3652fbf1f",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2002\u201008\u201006: Palacio de Congresos, Salamanca, Spain",
+      "Type": "Album"
+    },
+    {
+      "Id": "9bea627f-15a9-3d91-9853-865d053a77f7",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2002-08-07: Palacio de Congresos, Salamanca, Spain",
+      "Type": "Album"
+    },
+    {
+      "Id": "45c89737-53d3-42de-bd0a-ff639719f082",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Unplugged",
+      "Type": "Album"
+    },
+    {
+      "Id": "65281add-0a95-447f-8f7c-a38bcb158469",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Greatest Songs",
+      "Type": "Album"
+    },
+    {
+      "Id": "39baf9d2-f625-4bae-bec8-5505d81c80fd",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Every Last Crumb",
+      "Type": "Album"
+    },
+    {
+      "Id": "1af3fda4-4281-4ed9-ba38-389ed83d9ab2",
+      "OldIds": [
+        "afa3ccf0-c62b-4346-ae64-395ddd0210c4"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg",
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation",
+        "Demo"
+      ],
+      "Title": "MINIDISCS [HACKED]",
+      "Type": "Album"
+    },
+    {
+      "Id": "083d02aa-2770-4d84-8c2c-e70e012fa90e",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Kid Eh?",
+      "Type": "Album"
+    },
+    {
+      "Id": "0ca42b5e-9e27-419d-9906-63d96abca9bb",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Little by Little",
+      "Type": "Single"
+    },
+    {
+      "Id": "8eba2fa6-a9c6-4446-bd9c-d1a24a70365a",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Ill Wind",
+      "Type": "Single"
+    },
+    {
+      "Id": "4860ea72-3857-3546-8d00-a8f333392935",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2006\u201008\u201012: Main Stage, Sziget Fesztiv\u00e1l, Budapest, Hungary",
+      "Type": "Album"
+    },
+    {
+      "Id": "033c07b6-8e92-4a45-9676-0314ad5a3038",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2006\u201006\u201011: Salle Wilfred Pelletier, Place des Arts, Montreal, QC, Canada",
+      "Type": "Album"
+    },
+    {
+      "Id": "bb922132-20bb-4e2f-b07e-15e0ac880cb1",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2006\u201008\u201028: Heineken Music Hall, Amsterdam, Netherlands",
+      "Type": "Album"
+    },
+    {
+      "Id": "ba8926eb-a10e-4542-a1f9-6d53bae3219c",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2006\u201008\u201022: Meadowbank Stadium, Edinburgh, Scotland, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "e3182576-9b4b-4e38-b524-490e1fc20e81",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201005\u201017: Woodlands Pavilion, Houston, TX, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "d5f7b426-3886-4d3f-9215-f1d3204a4d83",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201005\u201009: Verizon Wireless Amphitheater, Charlotte, NC, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "2dc2db37-b5a5-4770-b481-5fb7969d0e58",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2006\u201006\u201024: Greek Theatre, UC Berkeley, Berkeley, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "00cf854a-4dd7-4d2f-91cd-76efc03642a2",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2006\u201005\u201007: KB Hallen, Copenhagen, Denmark",
+      "Type": "Album"
+    },
+    {
+      "Id": "cb78f214-aaaa-4afd-bef6-ecdd32326493",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2006\u201006\u201010: Salle Wilfred Laurier, Place des Arts, Montreal, QC, Canada",
+      "Type": "Album"
+    },
+    {
+      "Id": "4ccb4804-62d4-4415-97d9-a325a1eec129",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2012\u201010\u201016: Le Z\u00e9nith, Strasbourg, France",
+      "Type": "Album"
+    },
+    {
+      "Id": "bd99a57b-5165-4eac-a1e0-a6afc0e646d0",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201005\u201005: Cruzan Amphitheatre, West Palm Beach, FL, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "f06a509a-0e78-4011-9dae-3de60d00c7fc",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201006\u201018: Arena Civica Gianni Brera, Milan, Italy",
+      "Type": "Album"
+    },
+    {
+      "Id": "9eecd38c-252a-4c8f-a55f-0713d482913a",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2006\u201006\u201005: Bank of America Pavilion, Boston, MA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "129ec42b-6f60-37d5-9da0-7195fa7fec77",
+      "OldIds": [
+        "5be9bae4-7640-39c6-8407-34330f82c486"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201008\u201003: Verizon Wireless Music Center, Noblesville, IN, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "9988ed94-990c-4473-95ef-d68a713d29b5",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201008\u201022: Outside Lands Music & Arts Festival, Golden Gate Park, San Francisco, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "00468d75-4011-49ab-beb4-4455078af079",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201008\u201027: Cricket Wireless Amphitheater, Chula Vista, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "a5e22a60-9300-4cfd-9609-9b688cad444d",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201005\u201006: Ford Amphitheatre, Tampa, FL, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "8a14e005-af02-47dd-9e25-4e86fec6a747",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201005\u201018: Superpages.com Center, Dallas, TX, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "aa1b35e9-b698-47cc-bc54-db2a8babc28a",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201008\u201006: Parc Jean Drapeau, Montreal, QC, Canada",
+      "Type": "Album"
+    },
+    {
+      "Id": "b7ed3727-8647-4408-a99a-c9c7d28572e1",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1993\u201011\u201012: Live Music Hall, Cologne, Germany",
+      "Type": "Album"
+    },
+    {
+      "Id": "80975c59-4094-30d5-bb58-365e8b061274",
+      "OldIds": [
+        "8e280de6-2d3d-3593-a64c-4090c698dadd",
+        "02060360-8453-40bf-a20c-d6ca5d6d2bca"
+      ],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "The Best Of",
+      "Type": "Album"
+    },
+    {
+      "Id": "96838f33-94ec-3d55-9147-f158e2247bf3",
+      "OldIds": [
+        "a6ada787-e502-3cda-8501-f00ac3e49a21",
+        "df1d8475-3bd5-38dd-b529-36269e82633e",
+        "b26aeee1-3c86-3071-ab2d-4b3a5bc2c58f",
+        "51b61b8f-c989-33f1-9493-e5b49fe11724"
+      ],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "High & Dry",
+      "Type": "Single"
+    },
+    {
+      "Id": "d7969a3f-1696-446f-b54a-b27ea7fe9758",
+      "OldIds": [
+        "88d7d64b-2f1c-4cd0-97e4-f11dd9109116",
+        "d45ea549-ffc8-436f-8937-07db65e9629b",
+        "5c98b5cb-5ef9-4968-80b2-e2a7e4e4d629",
+        "67af4b11-2194-4434-bfbf-c976a74732c3",
+        "826d5720-0d16-4438-9dfb-d37dc98fd8bb",
+        "23ad0df1-657b-40f9-b302-83973f73a6fc",
+        "c04be2ca-aef0-472e-827d-96ad2a0c32a4",
+        "ba6dd32d-cf85-499c-a1bf-0ecabda0148f",
+        "e677074f-6037-408f-8c4b-6c9f4be021ae"
+      ],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Remix"
+      ],
+      "Title": "TKOL RMX1",
+      "Type": "Single"
+    },
+    {
+      "Id": "0c2d2bb7-a2e5-4406-ae31-ce754659c581",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "I Want None of This",
+      "Type": "Single"
+    },
+    {
+      "Id": "12f97317-edb1-4345-b0dd-55e7118c8cc4",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Remix"
+      ],
+      "Title": "TKOL RMX8",
+      "Type": "Single"
+    },
+    {
+      "Id": "471b4ff5-004f-4a7b-b0ba-a0837c41da14",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Creep",
+      "Type": "EP"
+    },
+    {
+      "Id": "6972f148-6bd0-4cbe-8733-36bf24a3e19e",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Anyone Can Play Guitar",
+      "Type": "EP"
+    },
+    {
+      "Id": "720f8fde-f44c-4c00-a50a-4f9fd2a5a17d",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Talk Show Host (Nellee Hooper mix)",
+      "Type": "Single"
+    },
+    {
+      "Id": "2c2c4603-a366-4b3e-bb66-cd34505fe5a3",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Treefingers (extended version)",
+      "Type": "Single"
+    },
+    {
+      "Id": "4b426376-7beb-42c4-a051-f35c5246cd43",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "The Gloaming (The 33.33333 remix)",
+      "Type": "Single"
+    },
+    {
+      "Id": "345686b4-5976-42df-a6ed-c65711dfee4d",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Kid Amnesiac",
+      "Type": "Album"
+    },
+    {
+      "Id": "62db99f0-2629-305c-8c2d-b860b5b99744",
+      "OldIds": [
+        "c4d7342f-c580-463d-bd9d-1ecfb9d4eba2",
+        "4dd4a542-dbd9-3cd4-8d2b-7729f12f2a82"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg",
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Com Lag: 2plus2isfive",
+      "Type": "EP"
+    },
+    {
+      "Id": "ba55673e-3231-4aa4-a9c8-25d5c52e3241",
+      "OldIds": [
+        "9f4ebd9d-ddf3-437c-a1ce-0820b87d8564"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201008\u201020: White River Amphitheater, Auburn, WA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "f0e8ba2d-a64f-4d44-ab80-92010f789422",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1995-03-29: Sam the Record Man, Toronto, ON, Canada",
+      "Type": "Single"
+    },
+    {
+      "Id": "dccb630d-0e40-4016-b5fb-29cf84956f3a",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1996-03-22: CBC Studios, Vancouver, BC, Canada",
+      "Type": "Album"
+    },
+    {
+      "Id": "a3ad5d8c-afdc-3b2d-ae18-7685a4bb8ba6",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1996-05-25: Pinkpop: Megaland, Landgraaf, The Netherlands",
+      "Type": "Album"
+    },
+    {
+      "Id": "fde66478-3c54-4fe1-ac2c-ddf4090b9f6d",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008-01-28: Later\u2026 With Jools Holland",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "0c7a2fa2-3231-3d28-9b7b-cb2f42cfb13e",
+      "OldIds": [
+        "4ea4eec9-0207-3d1c-a078-589203809049"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2002\u201008\u201005: Palacio de Congresos, Salamanca, Spain",
+      "Type": "Album"
+    },
+    {
+      "Id": "b84e504e-1da0-3ca3-b94c-b047afc82488",
+      "OldIds": [
+        "48c55744-d633-41b2-8751-2bcf48bc6473"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1994-12-13: Beacon Theatre, New York City, NY, USA",
+      "Type": "EP"
+    },
+    {
+      "Id": "dc501ebd-e598-40b7-bed3-1a3dec4d03e7",
+      "OldIds": [
+        "625008ee-1dee-4599-ba13-4f34b0748130"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008-08-04: Blossom Music Center, Cuyahoga Falls, OH, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "b4ac86f1-b03e-3e57-b649-6aa41e870d2f",
+      "OldIds": [
+        "25fe6340-24ad-3e47-9765-c8f4a18082f1"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2002-08-01: Teatro Kursaal, San Sebastian, Spain",
+      "Type": "Album"
+    },
+    {
+      "Id": "8cf049ea-c57b-4982-81ad-5971c3adfa50",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Live From a Tent in Dublin (October 2000) #StayHome #WithMe",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "54bfd4d8-2bd3-4241-9eac-b8dc778b8b3f",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "For Your Consideration \u2013 The Live EP Work Tapes",
+      "Type": "EP"
+    },
+    {
+      "Id": "7b92bef4-4348-4069-986c-860cf34b07d2",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Remix"
+      ],
+      "Title": "Give Up the Ghost (Thriller Houseghost RMX) / Codex (Illum Sphere RMX) / Little by Little (Shed RMX)",
+      "Type": "Single"
+    },
+    {
+      "Id": "71e8905f-bdeb-48dc-b280-747359fbd0b7",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Remix"
+      ],
+      "Title": "Morning Mr Magpie (Nathan Fake RMX) / Bloom (Harmonic 313 RMX) / Bloom (Mark Pritchard RMX)",
+      "Type": "Single"
+    },
+    {
+      "Id": "a2ef2254-a5db-4896-af7a-b5f5f96f9b23",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Remix"
+      ],
+      "Title": "Good Evening Mrs Magpie (Modeselektor RMX) / Bloom (Objekt RMX)",
+      "Type": "Single"
+    },
+    {
+      "Id": "1d2f8f1a-a590-4ece-a697-339a597aa301",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Remix"
+      ],
+      "Title": "Little by Little (Caribou RMX) / Lotus Flower (Jacques Greene RMX)",
+      "Type": "Single"
+    },
+    {
+      "Id": "03393cc5-d252-4a52-b777-e04861389dc0",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Remix"
+      ],
+      "Title": "Feral (Lone RMX) / Morning Mr Magpie (Pearson Sound Scavenger RMX) / Separator (Four Tet RMX)",
+      "Type": "Single"
+    },
+    {
+      "Id": "cb9b0e33-feea-4b88-836b-3e0cd79d9cfd",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Remix"
+      ],
+      "Title": "Give Up the Ghost (Brokenchord RMX) / TKOL (Altrice RMX) / Bloom (Blawan RMX)",
+      "Type": "Single"
+    },
+    {
+      "Id": "dbd234a2-e558-4f0d-ba19-88a2cca7e200",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Live in S\u00e3o Paulo (April 2018) At Home #WithMe",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "0c253d8d-2f26-42d4-93b2-3004d2937d39",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Live in Berlin (September 2016) #StayHome #WithMe",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "d8dd81ab-d840-4663-8da3-d8c27c2eaf91",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Radiohead Box",
+      "Type": "Album"
+    },
+    {
+      "Id": "9373e0ea-e66e-4062-94fc-7dc921898458",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2017\u201004\u201018: Greek Theatre, Berkeley, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "60b9bffe-5959-3de1-ac79-63581b541323",
+      "OldIds": [
+        "6c8e647a-a395-46ee-84dd-0bd5e8a53b79",
+        "3b4d3876-a965-44d9-b2ea-8aad56587023"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Leftover Computer",
+      "Type": "Album"
+    },
+    {
+      "Id": "37410f3e-b7a0-40e3-8bcd-ba3aabc339ce",
+      "OldIds": [
+        "0ec0e0e9-d6f6-4703-aaed-b4e80e038b85"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "B\u2010Sides, Vol. 1",
+      "Type": "Album"
+    },
+    {
+      "Id": "18ebbadc-1b22-4ca3-8fac-5786233cfdff",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2011-09-29: Roseland Ballroom, New York City, NY, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "efa95117-971c-4ad4-aa14-0f2d30a206b3",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Secrets to Be Told",
+      "Type": "Album"
+    },
+    {
+      "Id": "99445a2b-578a-321e-851e-c6539bfbbd7f",
+      "OldIds": [
+        "5e9cc81f-aca6-3a43-8f2b-51c5ea078c98",
+        "40c02964-d0d2-399b-bf05-c6dffa610d0a",
+        "4b2ca42b-ef2a-3d7e-8172-72cc3c32aa8b",
+        "249841e5-8bb3-3baa-94da-28d83edfef79",
+        "a5582a89-248a-392c-9ba6-2a02017e4aaf"
+      ],
+      "ReleaseStatuses": [
+        "Official",
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "My Iron Lung",
+      "Type": "EP"
+    },
+    {
+      "Id": "35179fe9-eebe-4ab2-86fa-f6407a041c91",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Remix"
+      ],
+      "Title": "Codex (deadmau5 cover)",
+      "Type": "Single"
+    },
+    {
+      "Id": "9b46dc8b-623e-47c9-b3aa-1612f199d517",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2016\u201007\u201027: Madison Square Garden, NY, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "07a88745-2798-4d9a-8624-637bf22a9f4f",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "The Numbers: Jonny, Thom & a CR78",
+      "Type": "Single"
+    },
+    {
+      "Id": "138582a8-e022-4577-ab1b-9f60b2ad26bd",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1995\u201003\u201024: Kentish Town Forum, London, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "8d48f253-7d63-495c-9418-479e2b6711c9",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1995\u201011\u201006: Corn Exchange, Cambridge, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "46f1e9a8-6036-4ebb-a39a-63fcd5d8c8c1",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2011\u201011\u201029: Roseland Ballroom, New York, NY, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "07110440-7dae-4e49-a2f8-a5807f7fb5ab",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201001\u201001: Scotch Mist",
+      "Type": "Album"
+    },
+    {
+      "Id": "af0fdfe0-8a18-4177-ab98-01eb033d0cf0",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1994\u201012\u201002: Melkweg, Amsterdam, Netherlands",
+      "Type": "Album"
+    },
+    {
+      "Id": "f5303281-0713-4aeb-8b37-f5321d409e91",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2012\u201010\u201008: O2 Arena, London, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "b16ccb48-92dd-4348-a8f6-0d7c2980a590",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2016\u201005\u201024: Le Z\u00e9nith, Paris, France",
+      "Type": "Album"
+    },
+    {
+      "Id": "1bdf7149-666c-4d0a-9d8c-8506774e7393",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2017\u201006\u201018: Best Kept Secret, Hilvarenbeek, Netherlands",
+      "Type": "Album"
+    },
+    {
+      "Id": "f4786605-bdf3-470e-9ac8-01c03688cacc",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2016\u201008\u201021: Summer Sonic Festival, Chiba, Japan",
+      "Type": "Album"
+    },
+    {
+      "Id": "68b46350-86b6-46df-8a7e-3e8d9f7d5bb2",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2012\u201003\u201006: Austin City Limits Festival, Austin, TX, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "19928cfa-33de-42fb-9de9-4dae6020428f",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2012\u201004\u201014: Coachella Valley Music & Arts Festival, Indio, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "c2902d29-5402-43e8-ade7-55f07b2e80b2",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1998\u201012\u201010: Amnesty International Concert, Paris, France",
+      "Type": "Album"
+    },
+    {
+      "Id": "af7872a7-3e0e-48b0-8117-7f0ab3330ee8",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201010\u201007: International Forum, Tokyo, Japan",
+      "Type": "Album"
+    },
+    {
+      "Id": "c5b9e8da-cd2d-400f-b70b-f446e9e7dc92",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2012\u201007\u201010: Ar\u00e8nes de N\u00eemes, N\u00eemes, France",
+      "Type": "Album"
+    },
+    {
+      "Id": "45f7b43d-990b-4f14-a709-ca8d3a055b49",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2016\u201008\u201020: Summer Sonic Festival, Osaka, Japan",
+      "Type": "Album"
+    },
+    {
+      "Id": "3637c839-808f-44ad-b395-0d8fb43b66f2",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2012\u201006\u201008: Bonnaroo Music & Arts Festival, Manchester, TN, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "40910436-5fed-4061-a8c1-ab1cd4d993c4",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1992: Unknown Venue",
+      "Type": "Album"
+    },
+    {
+      "Id": "4b4c59b4-7da0-481e-ae66-d1fd03ec4ce2",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2006\u201005\u201019: Hammersmith Apollo, London, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "992a29e7-79fa-4a6e-bac5-b42afdd59c9e",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2009\u201003\u201022: Rain Down, Parque Ch\u00e1cara Do Jockey, S\u00e3o Paulo, Brazil",
+      "Type": "Album"
+    },
+    {
+      "Id": "4afea28b-0149-4ba7-846f-9b3624a06bbb",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1993\u201005\u201005: Bevrijdingspop, Haarlem, Netherlands",
+      "Type": "Album"
+    },
+    {
+      "Id": "aee397bc-3586-43c6-905f-11f79e70fd04",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1995\u201002\u201021: Black Session, Paris, France",
+      "Type": "Album"
+    },
+    {
+      "Id": "11c028cc-1b8c-4630-b1b0-28cb7ccb05e1",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1994\u201005\u201020: EPFL, Lausanne, Switzerland",
+      "Type": "Album"
+    },
+    {
+      "Id": "b9e65b67-32e2-45ac-9e6b-cad36c248c14",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg",
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1997\u201007\u201004: Eurock\u00e9ennes Festival, Belfort, France",
+      "Type": "Album"
+    },
+    {
+      "Id": "9e3ffbf9-7e64-4640-8047-422ecbed6d0c",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2017\u201006\u201016: I\u2010Days Festival, Monza, Italy",
+      "Type": "Album"
+    },
+    {
+      "Id": "e968f625-0f9b-4084-8294-c953d8ce1314",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2016\u201007\u201002: OpenAir St. Gallen, Switzerland",
+      "Type": "Album"
+    },
+    {
+      "Id": "8eff04b5-0b40-4e32-a8fb-f30a6cfd6628",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1995\u201008\u201027: Lowlands Festival, Biddinghuizen, Netherlands",
+      "Type": "Album"
+    },
+    {
+      "Id": "12429989-226b-4e89-9941-3770815fb2e9",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2012\u201007\u201015: Nos Alive Festival, Oeiras, Portugal",
+      "Type": "Album"
+    },
+    {
+      "Id": "22578110-7d61-4494-b07e-25fc050c29bf",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2016\u201007\u201009: Nos Alive Festival, Oeiras, Portugal",
+      "Type": "Album"
+    },
+    {
+      "Id": "ac01db5f-0e41-4fa8-bc23-16e4a6472183",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2016\u201007\u201031: Osheaga Festival, Montreal, QC, Canada",
+      "Type": "Album"
+    },
+    {
+      "Id": "589a1357-0d8f-4d5a-a0c6-316fc975ce38",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1996\u201005\u201027: Pinkpop Festival, Netherlands",
+      "Type": "Album"
+    },
+    {
+      "Id": "d630f9b4-c611-46e2-ae35-0567bdaf3657",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2017\u201006\u201030: Rock Werchter Festival, Werchter, Belgium",
+      "Type": "Album"
+    },
+    {
+      "Id": "60e0fd7d-5155-4841-a3f5-2caea3283904",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1994\u201007\u201002: Roskilde Festival, Roskilde, Denmark",
+      "Type": "Album"
+    },
+    {
+      "Id": "7aa37855-4c6e-4812-9363-8a2d8fc30a82",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1995\u201006\u201015: The Palace Theatre, Los Angeles, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "d0d97b6a-859e-44d8-a6be-ddec08417ec0",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1998\u201006\u201014: Tibetan Freedom Concert Festival, Washington, DC, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "441803f3-eb4d-3847-93cf-ab473cf0b8ec",
+      "OldIds": [
+        "85a649f0-c8ad-3c17-a3db-8b16544fc41d",
+        "75eba759-a7b8-3f92-9dcb-3c9effc9246c",
+        "3454f5ec-7f89-4d3d-b82a-555d58a0e6ad"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg",
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1997-06-28: Glastonbury Festival of Contemporary Performing Arts",
+      "Type": "Album"
+    },
+    {
+      "Id": "9c5e29ea-b148-4bbb-95a6-ad043025d94c",
+      "OldIds": [
+        "c8cdc5bd-eed1-3acb-ae8d-8f382bb87e92",
+        "0c99ec12-3786-3b3d-a711-05c0030affea"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "South Park: Complete, Live & Uncut",
+      "Type": "Album"
+    },
+    {
+      "Id": "6f25f9fb-e9e3-4c0d-8904-ecb8b46cd8aa",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "KID A MNESIA",
+      "Type": "Album"
+    },
+    {
+      "Id": "9e55e78a-cd94-41af-a93f-4d9d6b5a0e2a",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "If You Say the Word",
+      "Type": "Single"
+    },
+    {
+      "Id": "be2ea7c6-1b86-4090-ae13-d7f041261093",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2012\u201004\u201012: Santa Barbara Bowl, Santa Barbara, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "aed96293-b66e-3637-a1e1-2bdbf6548afa",
+      "OldIds": [
+        "09208512-2d27-36da-9801-b6d57bbe7a71",
+        "3cb6f94a-fbf6-46af-9cbc-6297ed26509a"
+      ],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "The Bends (Pinkpop edition)",
+      "Type": "EP"
+    },
+    {
+      "Id": "6e335887-60ba-38f0-95af-fae7774336bf",
+      "OldIds": [
+        "c8cde419-c64b-4ef3-a03f-9da34088a60b",
+        "0783d58d-64ce-4710-9770-405976cda575",
+        "a7843877-6f7a-454b-a262-5cec618eb8d6",
+        "e8039302-726f-410b-a554-0bdddaf694e4"
+      ],
+      "ReleaseStatuses": [
+        "Official",
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "In Rainbows",
+      "Type": "Album"
+    },
+    {
+      "Id": "75842db8-4a9c-45d7-b0d4-530a386d9fc1",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "93 Feet East Webcast",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "a520c2b3-fa00-4a5e-b6ee-250b45eeac76",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Primavera Sound 2016",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "c2844436-f7b9-469e-8fd9-ab7465375a68",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Cytadela City Park 2009",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "c1e81ea1-5dc9-4175-a537-71006c8d44ba",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Thieves in New York",
+      "Type": "Album"
+    },
+    {
+      "Id": "decdfa41-e09b-486a-a0b3-d728dcc4904f",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Follow Me Around",
+      "Type": "Single"
+    },
+    {
+      "Id": "e0a25d1b-a439-4029-b43a-f8b9c3251c35",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2006\u201008\u201017: Pukkelpop Festival, Kiewit, Belgium",
+      "Type": "Album"
+    },
+    {
+      "Id": "b8048f24-c026-3398-b23a-b5e50716cbc7",
+      "OldIds": [
+        "3e0e7d88-8287-34f9-b6bb-024a480c4ef1",
+        "d7a71d05-afcb-381f-8da1-9210df9a2d32",
+        "44df9848-6384-40d3-bbc0-97c400d89f2b",
+        "f79f5b7e-e0ea-4378-9b51-0fb3840b8b72"
+      ],
+      "ReleaseStatuses": [
+        "Official",
+        "Promotion",
+        "Withdrawn"
+      ],
+      "SecondaryTypes": [],
+      "Title": "The Bends",
+      "Type": "Album"
+    },
+    {
+      "Id": "d740874c-81ab-4fbc-b6fa-6bf6c3aefe78",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2006\u201005\u201012: Empress Ballroom, Blackpool, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "39430136-b21b-4441-89c5-9a9dbe4d513f",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2005\u201003\u201027: Ether Fest, London, UK",
+      "Type": "Other"
+    },
+    {
+      "Id": "8e04b5c4-ab2b-4f5e-a1ca-4cc7ad8eff4b",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2000\u201006\u201013: Th\u00e9\u00e2tre Antique d\u2019Arles, Arles, France",
+      "Type": "Other"
+    },
+    {
+      "Id": "9ed59aec-effe-4e1b-b77e-dd42be4b1e46",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2000\u201010\u201020: Greek Theatre, Los Angeles, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "79659bfe-1392-4ad4-935f-60fa3cf602dd",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [
+        "Demo"
+      ],
+      "Title": "Radiohead",
+      "Type": "Other"
+    },
+    {
+      "Id": "b6041118-02c0-47c7-bc46-fe9dc87a9f00",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201005\u201014: Verizon Wireless Amphitheater, Maryland Heights, MO, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "e9537650-b90e-4c16-9b8d-3bca6512a49c",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [
+        "Remix"
+      ],
+      "Title": "Street Spirit (Oakenfold remix)",
+      "Type": "Single"
+    },
+    {
+      "Id": "59f25ce9-ae14-43c7-a09e-3a911060043a",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Radiohead",
+      "Type": "EP"
+    },
+    {
+      "Id": "71cf51e2-cc31-43f5-83de-e779ea8561e2",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Bittersweet Distractions",
+      "Type": "Album"
+    },
+    {
+      "Id": "f2e27e97-a1b5-4625-a090-29e16dca8a19",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2009\u201003\u201027: Pista Atl\u00e9tica, Santiago, Chile",
+      "Type": "Album"
+    },
+    {
+      "Id": "72a87f54-b800-3fa2-81c1-eae0633b7eaf",
+      "OldIds": [
+        "1e418742-84be-333e-a7e7-6605493dc218",
+        "d618d146-9941-3212-9ea6-64cc4616c797"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2001\u201008\u201016: Liberty State Park, Jersey City, NJ, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "899b6d09-807e-4c18-a6d4-3642e00d6a3d",
+      "OldIds": [
+        "522fd5fc-d734-4268-8ac5-df6b19846e40"
+      ],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "The King of Limbs",
+      "Type": "Album"
+    },
+    {
+      "Id": "feb600b9-eb3a-4976-8cf3-d09a818bc01a",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "10 Great Songs \u2013 The Best Of",
+      "Type": "Album"
+    },
+    {
+      "Id": "32cb12e6-6003-4072-a235-16415d754cae",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2006\u201006\u201014: The Theater at Madison Square Garden, New York, NY, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "a1ce7465-e83e-4ac9-9b61-f2211c8281af",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Nottingham Rock City",
+      "Type": "Album"
+    },
+    {
+      "Id": "0bfc2674-d222-35d5-a5a8-da5162a4c170",
+      "OldIds": [
+        "478e11d2-eb5a-3229-b7fc-eee81292b250",
+        "489d1e8c-a990-39a0-92cb-ee537150d3cf"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2002-07-24: Coliseu de Lisboa, Lisbon, Portugal",
+      "Type": "Album"
+    },
+    {
+      "Id": "cdd404ae-f770-4b8a-8b1c-4f1ca9ef2206",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Reckoner (Johnny Miller remix)",
+      "Type": "Other"
+    },
+    {
+      "Id": "a20ef15b-50d7-457a-90ab-12c06038d2ca",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [
+        "Remix"
+      ],
+      "Title": "B\u2010Sides",
+      "Type": "EP"
+    },
+    {
+      "Id": "f7f9ce5a-230d-449a-8af1-4a9214ee5ebb",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "BBC In Concert 657: Live in Cambridge",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "dd4a4025-93a4-4468-a0b7-f84f6317a19b",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "BBC In Concert 725: Glastonbury 1997",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "7510af18-6d4a-444d-8a52-2a438f0191a8",
+      "OldIds": [
+        "43ae3810-ca51-4003-9fde-ed8897d8a8e7"
+      ],
+      "ReleaseStatuses": [
+        "Official",
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Spectre",
+      "Type": "Single"
+    },
+    {
+      "Id": "7e766aca-daef-45f6-afbc-9c8bdaed75e8",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation",
+        "Live"
+      ],
+      "Title": "Other Colors\u2026 BBC Sessions",
+      "Type": "Other"
+    },
+    {
+      "Id": "df82eb59-b4a1-4b8f-ac5f-be25b3318aeb",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2001\u201007\u201030: Stone Mountain Park, Stone Mountain, GA",
+      "Type": "Album"
+    },
+    {
+      "Id": "94c16a2f-6b99-42fe-a3a2-f429dfb00ce3",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Present Tense",
+      "Type": "Single"
+    },
+    {
+      "Id": "82b5bb0b-c57c-447c-8f7c-195206690f55",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Live From Planet Earth",
+      "Type": "Album"
+    },
+    {
+      "Id": "21028e69-d1a2-4bd6-8f0f-6f072d4b97c2",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Paragons of Virtue",
+      "Type": "Album"
+    },
+    {
+      "Id": "a9368cad-fd41-4a9b-8b13-bca07d75a4fa",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "The Kid A Theory",
+      "Type": "Album"
+    },
+    {
+      "Id": "b1392450-e666-3926-a536-22c65f834433",
+      "OldIds": [
+        "bfe5318f-90fe-427e-8b2f-2f61c5678448"
+      ],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "OK Computer",
+      "Type": "Album"
+    },
+    {
+      "Id": "bdb989b1-d05c-485e-88d9-80eacd494eb5",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Updated Experimentation",
+      "Type": "Album"
+    },
+    {
+      "Id": "99a28705-a3e5-477f-b364-ef41800620d5",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1993\u201007\u201012: Whiskey\u2010a\u2010Go\u2010Go, Los Angeles, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "6a7e474c-46ad-3e5c-a4cd-49834a3aa740",
+      "OldIds": [
+        "848bee6e-1131-4f1d-a941-041844801756",
+        "8241595b-9650-4523-a052-882285076475"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2006\u201006\u201017: What Stage, Bonnaroo Festival, Manchester, TN, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "54ec58a5-4149-4fa3-b395-052fede66730",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Unplugged and Unreleased",
+      "Type": "Other"
+    },
+    {
+      "Id": "d8758f15-65c9-3f34-baf9-475b30755e2b",
+      "OldIds": [
+        "d7b7f727-fe44-3d6b-85eb-6fbb74ec6c81",
+        "9f93f806-058f-3d32-b683-7fb5c9b0b8c5",
+        "9dd3477e-1b48-32f4-b3bb-e580c91c4f6c",
+        "045c3ad5-5bfb-49b1-b08b-05553e1cd138"
+      ],
+      "ReleaseStatuses": [
+        "Official",
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Karma Police",
+      "Type": "Single"
+    },
+    {
+      "Id": "15d9bd04-56cb-3fb3-9bdb-11375797e453",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1993\u201010\u201015: Riviera Theatre, Chicago, IL, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "84890322-0fa3-4fd8-b838-9155206a4d2c",
+      "OldIds": [
+        "be3f0755-90a8-4920-94f6-03334b01a144"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1998\u201004\u201002: Bill Graham Civic Auditorium, San Francisco, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "98088692-b303-4e94-9931-fe95b2352677",
+      "OldIds": [
+        "c358734c-26a8-39db-aad7-30a3057b9377"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Data Complete",
+      "Type": "Album"
+    },
+    {
+      "Id": "02efbd01-c830-42a8-b467-1045b290f79c",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Jonny, Thom & a CR78",
+      "Type": "Other"
+    },
+    {
+      "Id": "6ce5deab-be1a-4599-9e23-c21ea2ab10e8",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Kid Alive",
+      "Type": "Album"
+    },
+    {
+      "Id": "c61da894-4c25-3e7b-a211-cd674f979d9d",
+      "OldIds": [
+        "ee41063e-c34e-342f-a68d-6c428d57399f",
+        "a7b0d273-b3be-4db7-9632-3040ba9519c7",
+        "1a0c643b-fe69-37f0-ae8b-6c519cc17fe3",
+        "37d90bc3-0f63-4e95-a89b-c793bd9dcf7b"
+      ],
+      "ReleaseStatuses": [
+        "Official",
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Just",
+      "Type": "Single"
+    },
+    {
+      "Id": "30a0391a-01ab-42b1-a858-f22b1350e53a",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2009\u201008\u201030: Reading Festival, Reading, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "3b6f0d3b-f0db-38c9-b60e-25ed0b60695d",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003\u201007\u201011: Piazza Castello, Ferrara, Italy",
+      "Type": "Album"
+    },
+    {
+      "Id": "5b37c05f-dcec-471c-9639-ef3e27b74412",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2009\u201008\u201023: V\u00fdstavi\u0161te, Prague, Czechia",
+      "Type": "Album"
+    },
+    {
+      "Id": "4f386a4a-0cd3-40e4-b766-dfcebeff56e4",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [
+        "DJ-mix"
+      ],
+      "Title": "Optimistic / The National Anthem / In Limbo",
+      "Type": "Single"
+    },
+    {
+      "Id": "4b57df43-7519-3134-b887-bb1372dd45ee",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [
+        "Remix"
+      ],
+      "Title": "Climbing Up the Walls (remixes)",
+      "Type": "Single"
+    },
+    {
+      "Id": "c4ae4ebb-2d68-4ba7-9c81-18ad7cb9022f",
+      "OldIds": [
+        "0699cf03-e165-40f8-97fe-601a63fd1f95"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Greatest Hits",
+      "Type": "Album"
+    },
+    {
+      "Id": "bfd3541c-2ea6-3c85-acb7-d5501c3b45be",
+      "OldIds": [
+        "adedec4c-a4ca-4611-baf0-84a6037a65b7",
+        "62101afa-0ce8-3f43-a32d-fb42292be459",
+        "2a6e9cb5-9ecf-4308-92c0-5dd9c69e9d39",
+        "dff51535-cf92-3de4-b0a9-1cf7219ab884"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg",
+        "Promotion"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "not my fault.",
+      "Type": "Album"
+    },
+    {
+      "Id": "51f2d615-26d9-3352-8302-449c4f93618b",
+      "OldIds": [
+        "bd2da637-1fda-3127-beb2-cf97d5916e66",
+        "a5003315-37b1-3b05-8b20-f62150b473e7",
+        "977a201d-139d-3583-bd81-14582795f3e5",
+        "7cdbe3e4-4374-332d-a335-8f11b277e5a7"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1997-12-19: Hammerstein Ballroom, New York, NY, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "eb71feeb-1d1a-4131-b175-0b5e6999246c",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1996\u201004\u201004: Cabaret Metro, Chicago, IL, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "e9341ea6-73e3-4849-af41-d2fb0fea6477",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1993\u201006\u201030: Cabaret Metro, Chicago, IL, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "d944a7ba-e463-42d2-9097-e4184523977e",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003\u201005\u201019: Waterfront Hall, Belfast, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "0479139d-c3ed-4bc7-807a-bee5d2e66b62",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1992\u201011\u201011: Huddersfield University, Huddersfield, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "ef93e23d-85bf-43e0-a6e6-e820a525f4e6",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1995\u201008\u2010xx: Fort Apache Studios, Cambridge, MA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "820b718b-9292-45b1-b53d-6a9d3f4e69f4",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2006\u201005\u201009: Heineken Music Hall, Amsterdam, Netherlands",
+      "Type": "Album"
+    },
+    {
+      "Id": "d64274c2-827e-4e15-9446-194af6002d56",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2018\u201008\u201001: Wells Fargo Center, Philadelphia, PA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "dca931f5-835a-4415-bbab-b9b5053b3de0",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1995\u201004\u201004: KCRW Morning Becomes Eclectic, Santa Barbara, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "ef520047-4d03-387d-8ef1-9f91bc977326",
+      "OldIds": [
+        "1575f448-6101-3a24-8f39-eb18cfb3b510"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2000\u201009\u201016: Goffertpark, Nijmegen, Netherlands",
+      "Type": "Album"
+    },
+    {
+      "Id": "c21e3661-7339-4903-97ce-7a2830558ec6",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2016\u201009\u201011: Lollapalooza: Treptower Park, Berlin, Germany",
+      "Type": "Album"
+    },
+    {
+      "Id": "b3979f8d-573e-3a77-8b8f-6b5c47e15be7",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Live au Forum",
+      "Type": "EP"
+    },
+    {
+      "Id": "78828509-3c6d-44f5-8304-9c59fa1e9a5f",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Nulle part ailleurs LIVE 10",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "802b7f93-111d-4264-9ca4-7c1d1c26589e",
+      "OldIds": [
+        "31011eaa-807e-4dcd-88ee-6adfb040b4f4",
+        "932342f8-57cb-3f3b-9005-996d30fba904",
+        "9c2c2373-a3c6-45e3-82e4-805c25a867da",
+        "9629c46f-3946-401f-a2d2-0ad81e252054"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg",
+        "Promotion"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1997\u201012\u201019: MTV\u2019s Live at the 10 Spot, Hammerstein Ballroom, New York City, NY, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "02c5fa8c-1ea0-431a-a4cd-39af6c49d4ae",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2000\u201009\u201008: Valbyhallen, Copenhagen, Denmark",
+      "Type": "Album"
+    },
+    {
+      "Id": "f4302994-a6fa-4a4a-9605-355a750468e6",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Looking Back At\u2026",
+      "Type": "Album"
+    },
+    {
+      "Id": "d3429506-771a-4621-b9f3-7120b8cbcc56",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2000\u201006\u201017: Ar\u00e8nes de Frejus, Fr\u00e9jus, France",
+      "Type": "Album"
+    },
+    {
+      "Id": "d020b26d-0281-4c71-9f7f-d622a38f995c",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Live From Earl\u2019s Court in London",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "e9cf2244-560c-4450-9c13-7001090c71e3",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Harry Patch (In Memory Of)",
+      "Type": "Single"
+    },
+    {
+      "Id": "b2d5a782-f942-4a17-b6e3-efa19e43fa78",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2012\u201002\u201029: Tampa Bay Times Forum, Tampa, FL, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "3a7b7453-2752-4093-91d6-ccf27e8be618",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2018\u201007\u201007: United Center, Chicago, IL, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "473d2f88-ef10-3b34-8e93-793548e22aec",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1996\u201005\u201027: Pinkpop, Megaland, Landgraaf, Netherlands",
+      "Type": "Single"
+    },
+    {
+      "Id": "d1796636-f1ef-3ff5-8d19-681f313d8be7",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1995\u201008\u201006: Atlanta Cat\u2019s Paw Studios FM Broadcast",
+      "Type": "Album"
+    },
+    {
+      "Id": "38efc7b7-4672-41a3-8015-191e6bcee9c8",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2017\u201006\u201011: Northside Festival, Aarhus, Denmark",
+      "Type": "Album"
+    },
+    {
+      "Id": "af8b523c-a476-43d6-b365-de964157f083",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2016\u201008\u201006: Outside Lands Music & Arts Festival, San Francisco, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "e078a7ce-4147-4bbb-8909-0aaa2a7972ad",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2017\u201004\u201017: Greek Theatre, Berkely, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "5e61bebb-3740-4b29-b498-25f042172fd0",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2017\u201004\u201021: Coachella Valley Music & Arts Festival, Indio, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "0995c2b1-1974-4ebf-8773-576979bb4abe",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2017\u201007\u201007: TRNSMT Festival, Glasgow, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "2e2c8b44-3daa-4130-849e-62e926ce3633",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201006\u201027: Glasgow Green, Glasgow, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "b72db416-31dd-3fcb-adb7-eb9326d27864",
+      "OldIds": [
+        "d62f639f-722b-3e75-91a1-89a17f34953e"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003\u201008\u201023: Alpine Valley, East Troy, WI, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "8000fdf9-1238-33ef-926e-f924fa23e2b8",
+      "OldIds": [
+        "006ed42c-cb56-4936-9fc1-73180a294758"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201007\u201008: Kindl\u2010B\u00fchne Wuhlheide, Berlin, Germany",
+      "Type": "Album"
+    },
+    {
+      "Id": "65e2f202-d992-4fbd-80b4-d79049286e54",
+      "OldIds": [
+        "5d0611ed-a9f2-3e3d-825b-bf6cd629c82e",
+        "cb74255e-8b93-33fd-9b1a-cc9f580a2fda",
+        "aae2d189-469e-4c0d-8d29-439073d25c9d"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201008\u201025: Hollywood Bowl, Hollywood, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "fcc790c2-e243-36b2-a5e6-ab67f7119a99",
+      "OldIds": [
+        "d48b2a58-b43a-37bd-9e57-e593759ef156",
+        "9214982f-e5d5-394f-952c-cb042cdceb2d"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2002-07-30: Teatro Kursaal, San Sebastian, Spain",
+      "Type": "Album"
+    },
+    {
+      "Id": "c527b0d6-cd57-4424-ac0e-17dd9b544bac",
+      "OldIds": [
+        "e8bb68ed-725a-403c-90d1-cf8f8fe66e5e"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2017\u201006\u201028: Open\u2019er Festival, Lotnisko Gdynia\u2010Kosakowo, Gdynia, Poland",
+      "Type": "Album"
+    },
+    {
+      "Id": "bcd661c4-c932-464f-b403-a23bf286d2e8",
+      "OldIds": [
+        "6fc15ba8-2ad2-4fc2-9567-86d214281732"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2016\u201005\u201021: Heineken Music Hall, Amsterdam, Netherlands",
+      "Type": "Album"
+    },
+    {
+      "Id": "f279ac4f-7ea9-3b25-8ec4-94bd7d2b7316",
+      "OldIds": [
+        "988ed41f-6f4c-466b-82d4-b19226924b27"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1997\u201006\u201024: Interactive: Muziekcentrum Vredenburg, Utrecht, Netherlands",
+      "Type": "Album"
+    },
+    {
+      "Id": "0c1b0e92-c5ee-33a2-bec2-a187032ebcdf",
+      "OldIds": [
+        "744d6178-c93c-3f38-abf8-1fe7390e2088"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201006\u201025: Victoria Park, London, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "fa417d4f-5aaa-3435-9d20-0a60814ee3e8",
+      "OldIds": [
+        "5781cd33-52ac-3c4b-977b-19a142ad844d"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003\u201011\u201026: Earls Court, London, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "50693656-2f17-3246-9a9a-f0c69266b286",
+      "OldIds": [
+        "e8c34034-9003-3de1-98e4-3b2249fbd3d8",
+        "a447482b-5557-3c0d-b8ff-7a9bccb436f0"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2004\u201005\u201001: Coachella Festival, Empire Polo Field, Indio, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "6e1c9549-ec40-33d8-bb22-efcfeb4d56fb",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003\u201008\u201015: Parc Jean\u2010Drapeau, Montreal, QC, Canada",
+      "Type": "Album"
+    },
+    {
+      "Id": "3a0c4745-1240-475d-af14-17603c26a9e5",
+      "OldIds": [
+        "ea1a7c11-c32e-48c3-96f1-b456c4127b16"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003\u201008\u201030: Thunderbird Stadium, Vancouver, BC, Canada",
+      "Type": "Album"
+    },
+    {
+      "Id": "b886d253-0c71-4567-8e7d-c42fd43bbf46",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201008\u201001: XM Radio Broadcast, Live at Lollapalooza, Chicago, IL, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "f950742c-0616-42f3-8eab-010fd6927b75",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "On a Friday",
+      "Type": "Album"
+    },
+    {
+      "Id": "3a2701d4-a0df-48cd-8826-8227776badb2",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2011\u201009\u201028: Roseland Ballroom, New York, NY, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "c6a9b7a4-91a9-4e83-8a38-6e7cd98c4f19",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201005\u201003: From the Basement, Hospital Studio, London, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "720c7cb5-b089-4471-9f92-e2b6b4d0aabc",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2006\u201006\u201027: Bayside Embarcadero, San Diego, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "e6e2715c-cf04-42f6-b312-fae88b5b67df",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2012\u201003\u201003: Toyota Center, Houston, TX, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "9352dd0c-3619-40b8-a472-652b9e4f9979",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2012\u201003\u201009: Scottrade Center, St. Louis, MO, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "340dd217-2ebe-412b-8910-efc77a3d50f4",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2011\u201006\u201024: Glastonbury Festival, Pilton, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "2bb8d5ca-4f9c-4ffe-8770-99e2e5cd1ad8",
+      "OldIds": [
+        "a1b9d359-e0e4-38c7-9648-dcebf87c1f0a"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201010\u201005: Saitama Super Arena, Tokyo, Japan",
+      "Type": "Album"
+    },
+    {
+      "Id": "da112252-cafa-32f6-aa39-a67aebf66f4a",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2002\u201007\u201022\u201326: Portugal",
+      "Type": "Album"
+    },
+    {
+      "Id": "29cb656b-f419-3238-9c05-3b876e4c94b0",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003\u201009\u201030 Pre\u2010FM: KROQ Radio",
+      "Type": "Album"
+    },
+    {
+      "Id": "bdc59014-97be-3a31-bd6e-8ece1124170e",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003\u201009\u201029: Capitol Records Studio, Hollywood, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "763d7884-3839-4246-9483-313c3db69dfd",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Rounding The Bends",
+      "Type": "Album"
+    },
+    {
+      "Id": "e1bf4b7e-a895-395d-9ae9-2362b400a0ef",
+      "OldIds": [
+        "d3da30e0-b863-315b-bc41-ca619ac0f9db",
+        "813f44b3-87c1-46df-891b-2b42d2470a2f"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg",
+        "Promotion"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2000\u201007\u201004: Gro\u00dfer Sendesaal des SFB, Berlin, Germany",
+      "Type": "Album"
+    },
+    {
+      "Id": "bc6f3ac2-de99-46ce-b61f-28412510ae04",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2000\u201009\u201024: Victoria Park, London, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "bbb91ea4-b822-33ef-8836-80199dd70e7d",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1993\u201009\u201023: Florida Cameo Theatre, FL, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "72438363-80a6-3aa5-a683-a9e843c2f3d5",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1996\u201007\u201013: Planet Acoustic: T in the Park, Glasgow, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "029dedfd-aed0-3dc8-8c4b-4e1cee59f33d",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1992\u201011\u201014: University of Essex, Colchester, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "ed400b74-d7e3-390f-a9a0-fcc0736d0ec9",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1994\u201008\u201027: Reading Festival, Reading, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "f7e3becb-ce91-3c31-8d5c-5f93987e0816",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1993\u201012\u201001: The Barrowlands, Glasgow, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "ceb53c6b-8018-4fca-8989-adb83d59c58f",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1995\u201006\u201015 PRE\u2010FM: The Palace, Hollywood, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "1e14dc24-8a10-4ef2-885c-4b8a0d02f551",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1995\u201004\u201019: The Anson Rooms, Bristol, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "04f9826d-419a-4484-a282-7c3a571979dd",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1995\u201012\u201012: Warehouse, Toronto, ON, Canada",
+      "Type": "Album"
+    },
+    {
+      "Id": "0669c3f8-d3d8-4935-b21c-c47df4e0d966",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201008\u201013: Comcast Center, Mansfield, MA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "605f7f6d-0790-4c70-90ef-6680661fdcbf",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Music Planet 2nite",
+      "Type": "Album"
+    },
+    {
+      "Id": "aae30e09-d61e-4463-8532-5b79d9214dac",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2009\u201002\u201008: 51st Annual Grammy Awards, Staples Center, Los Angeles, CA, USA",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "f4eff0d1-d561-4bd1-9fc4-ed1b4e0441de",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Live in Rainbows",
+      "Type": "Album"
+    },
+    {
+      "Id": "68617d6e-7b30-49b2-b0bf-dd272c279844",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2011\u201009\u201023: Late Night With Jimmy Fallon, NBC Studios, New York, NY, USA",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "1cff2bbd-3a7e-447b-acb7-c25b36949772",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1996\u201007\u201007: Rock Werchter Festival, Werchter, Belgium",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "c6c27a4a-6a30-4cee-9934-6b07f5c06628",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2011\u201009\u201024: Saturday Night Live, NBC Studios, New York, NY, USA",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "1118b879-b8f0-4f25-9db9-3df2a7fe5c99",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1996\u201008\u201019: Continental Airlines Arena, East Rutherford, NJ, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "7553fe80-15a8-439b-b96b-687260fb9033",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2011\u201009\u201026 NEP Studio 54, New York City, New York",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "8053d9cd-f20d-4d0c-8fc9-66568eb66ea0",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003-06-09: Lamacq Live, Hail to the Thief Release Party, BBC Radio 1, Colin Greenwood's House, Oxford, England, UK",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "f4aa6b0c-77b7-4968-948b-7e627368bd5f",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2002\u201012\u201018: Inside Out Night Webcast, Radiohead Studio, Oxfordshire, England, UK",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "446514b8-0cf5-4807-a211-e09c2b1ed9a9",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003\u201010\u201017: Late Show With David Letterman, Ed Sullivan Theater, New York, NY, USA",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "7c4f721e-29cb-4475-942e-35a2828f6c60",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003\u201012\u201022: Gideon Coe Show, BBC 6 Music, BBC Broadcasting House, London, England, UK",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "c51c4861-7a63-434f-b68b-570b9a8978f9",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2001\u201005\u201017: Top of the Pops, BBC Studios, London, England, UK",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "74ffecfc-5feb-419b-9e04-ae603544e663",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Radiotick Tracks",
+      "Type": "Album"
+    },
+    {
+      "Id": "1d45cc8b-9dad-4171-8968-6006d3118f65",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201004\u201003: Friday Night With Jonathan Ross, London, England, UK",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "0aefae91-b60c-4560-a734-b79b0ae27668",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003\u201006\u201013: Hultsfredsfestivalen, Hultsfred, Sweden",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "b5bd29c8-f8a7-4dd1-b8ee-193081f2b255",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201006\u201006: Malahide Castle Grounds, Dublin, Ireland",
+      "Type": "Single"
+    },
+    {
+      "Id": "c72b7a0f-39ba-4201-97ed-ed2b37dda6af",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1993\u201006\u201004: Magasinet, G\u00f6teborg, Sweden",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "07910877-012c-4220-abe7-1c0508a2f841",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1997\u201005\u201028: BBC Radio 1 Evening Session, Maida Vale Studio, London, England, UK",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "e4bffb7b-aee2-47df-94f7-ca50b6695261",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003\u201006\u201020: Southside Festival, Neuhausen ob Eck, Tuttlingen, Germany",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "8ca62f76-4c50-477f-93b3-a0e60bba7dec",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1997\u201007\u201025: The Tonight Show With Jay Leno, NBC Studios, Los Angeles, CA, USA",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "d242ba28-3881-4009-b2cc-2e95d5f5442d",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Everything Is in Its Right Place (Afefe Iku re-edit)",
+      "Type": "EP"
+    },
+    {
+      "Id": "d7f2af49-9cf4-4e36-bb65-928cbba5decb",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2001\u201006\u201002: Rock im Park Festival, Frankenstadion, N\u00fcrnberg, Germany",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "cdfa212c-3a46-49b6-8041-9adb49d72f13",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1997\u201008\u201026: Hammerstein Ballroom, New York, NY, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "20e1fc39-3849-4fb3-aa00-5c1f8d1dc189",
+      "OldIds": [],
+      "ReleaseStatuses": [],
+      "SecondaryTypes": [],
+      "Title": "Menage A Trois: The Real Ultra Rare Tracks, Vol 3",
+      "Type": "Other"
+    },
+    {
+      "Id": "11a5cc29-6314-4e25-b83a-e90ee7917f1e",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1994\u201006\u201026: Glastonbury Festival, NME Stage, Worthy Farm, Glastonbury, England, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "733acfe3-2ffa-4fcd-a71f-0fc2257c159b",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1997\u201009\u201015: Nulle Part Ailleurs, Studio Canal+, Paris, France",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "fb037ccb-5bda-4db2-a16b-28f0aaac33aa",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2018\u201007\u201019: Scotiabank Arena, Toronto, ON, Canada",
+      "Type": "Album"
+    },
+    {
+      "Id": "2038e219-a81c-404f-af2e-ac5913c31f5f",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003\u201005\u201027: Later\u2026 With Jools Holland, BBC Television Centre, London, England, UK",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "e37b59e8-0772-449c-8bf9-c7d2d22b22f3",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1993\u201011\u201022 Le Transbordeur, Villeurbanne, France",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "b700d704-2505-4060-a699-9fda956e5663",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003\u201005\u201029: Friday Night with Jonathan Ross, BBC Television Centre, London, England, UK",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "d3268c86-5cc7-4542-a30f-9a84ca266384",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1994\u20100x\u2010xx: BBC GLR Radio, BBC Studios, London, England, UK",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "be5459f1-2d85-4f21-8be6-4fcef7dbda05",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1994\u201002\u201021: Royal Berks Social Club, Reading, England, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "6b6deba1-7b07-472d-b63c-2a1ba595de32",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2000\u201009\u201018: Nulle Part Ailleurs, Studio Canal+, Paris, France",
+      "Type": "Album"
+    },
+    {
+      "Id": "4435ba72-ce44-4ef6-956a-97bfefcccfde",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1993\u201006\u20132x: On the Edge, New York, NY, USA",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "61133334-4dbf-4a31-810e-a25f3341011f",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2000\u201010\u201006: Punchestown Racecourse, Dublin, Ireland",
+      "Type": "Album"
+    },
+    {
+      "Id": "1c202771-44e1-479e-95a9-2950a0508d4e",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003\u201008\u201003: Summer Sonic Festival, Chiba Marine Stadium, Tokyo, Japan",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "2f46f3fe-6739-4f00-a13c-09a511cf0c90",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2000\u201010\u201014: Saturday Night Live, NBC Studios, New York, NY, USA",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "c85f38ff-2736-4882-819d-b3e1fef176d1",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2012\u201007\u201029: Fuji Rock Festival, Naeba Ski Resort, Niigata, Japan",
+      "Type": "Album"
+    },
+    {
+      "Id": "70891f48-c078-4a84-8296-a57b9d0192b7",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Metreon, San Francisco CA, September 22, 2003",
+      "Type": "Album"
+    },
+    {
+      "Id": "8d99a7b6-0b7a-42e1-98d5-bf864a5598da",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2012\u201011\u201013: Sydney Entertainment Centre, Sydney, Australia",
+      "Type": "Album"
+    },
+    {
+      "Id": "cb134529-ca8c-4376-87ac-f051ac336f5d",
+      "OldIds": [
+        "a85068f0-f27c-4232-96c1-aa420ed53d0f"
+      ],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Present Tense: Jonny, Thom & a CR78",
+      "Type": "Single"
+    },
+    {
+      "Id": "1acb9dde-cbe0-3fc2-8011-79a7e7ad65e6",
+      "OldIds": [
+        "16089636-dd18-388d-ae28-4278f5ca6941",
+        "407c5963-e5d6-4466-b378-730ca83f1aa6"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201004\u201001, evening: BBC Radio 2, BBC Radio Theatre, Broadcasting House, London, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "0ef22186-e92d-4f03-9b05-500fa2d581ad",
+      "OldIds": [
+        "529183dd-0e17-379f-a4bd-16f0bdb65c98"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg",
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "27 5 94: The Astoria London Live",
+      "Type": "Album"
+    },
+    {
+      "Id": "46e271bd-5af7-4453-94bd-c5596e76b2b5",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Radiohead 1995\u201002\u201027: 2 Meter Session #493, Bullet Sound Studios, Nederhorst den Berg, Netherlands",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "009b469f-83e0-40c7-8d32-65e9b15d5f36",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Reckoner (Cubicolor remix)",
+      "Type": "Single"
+    },
+    {
+      "Id": "f8c12cd6-f8ac-37c2-b638-803c1bbcfda2",
+      "OldIds": [
+        "47bd5e64-f379-400f-be10-43f1e986c319"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1995\u201012\u201004: Planet Paradiso: Paradiso, Amsterdam, Netherlands",
+      "Type": "Album"
+    },
+    {
+      "Id": "3e3004b0-6e83-4efc-be35-58a801a4571b",
+      "OldIds": [
+        "1303568e-675c-4291-9355-fa8832916c88"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201008\u201028: Santa Barbara Bowl, Santa Barbara, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "7ebaa6b2-f766-33a3-b7f8-0a23e54c737b",
+      "OldIds": [
+        "46745fc1-d929-480b-89e7-77f3b529dc8c"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003\u201007\u201003: Acoustic at Le R\u00e9servoir, Paris, France",
+      "Type": "Album"
+    },
+    {
+      "Id": "10333b16-c430-4294-a192-e0893f83e1e8",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation",
+        "Live"
+      ],
+      "Title": "Take Me Back: Live Recordings 2000\u20132018",
+      "Type": "Album"
+    },
+    {
+      "Id": "270ff9af-bcfb-402c-8e6b-d1372a1e8824",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Interview"
+      ],
+      "Title": "The Interview",
+      "Type": "Album"
+    },
+    {
+      "Id": "5d419572-286d-4c41-a4ba-ec40bcd653cb",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1995\u201008\u201008: Galei Tzahal (Israel Army Radio), Tel Aviv, Israel",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "9aee20be-3512-4fa2-adb3-5ec08b80edcb",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1995\u201004\u201021: VPRO Villa 65, Hilversum, Netherlands",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "cb20e364-cbe8-48b2-ba76-fd9ba213ee76",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1995\u201008\u201018: MTV Most Wanted, MTV Studios, London, England, UK",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "2d7ecf2b-f568-4530-bbae-7043c57bbc21",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1995\u201010\u201028: XFM Session, XFM Studio, London, England, UK",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "47a316df-35c7-4c84-ac8c-7066e86b712d",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1993\u201007\u201014: The Arsenio Hall Show, Paramount Studios, Los Angeles, CA, USA",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "efd79369-d9e7-4c23-8239-7f60e2b9fe0f",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2018\u201004\u201014: Soundhearts Festival, Tecn\u00f3polis, Buenos Aires, Argentina",
+      "Type": "Album"
+    },
+    {
+      "Id": "9073853c-4df0-4f78-a0e0-7e17f33c2b0e",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1993\u201004\u201002: Roxane, Tel Aviv, Israel",
+      "Type": "Other"
+    },
+    {
+      "Id": "45c58a07-0f8c-47f5-9213-59c4b3337ffa",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1993\u201009\u201003: Barrowlands, Glasgow, Scotland, UK",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "51f99459-4245-4507-b984-14bbf65b8ef6",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1993\u201011\u201020: Salle des F\u00eates du Lignon, Vernier, Switzerland",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "97c152f4-8b39-3b3b-8a09-7f37212076ee",
+      "OldIds": [
+        "dea65881-597d-3636-8031-1d3f25a5df16",
+        "572b1e56-aa55-3306-b2e2-ac3513465951",
+        "704ee4e0-40f1-401f-a22e-21b1049610a7"
+      ],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "Go to Sleep",
+      "Type": "Single"
+    },
+    {
+      "Id": "332e47c7-2e7f-4acd-a92e-3130643396d1",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1995\u201004\u201010: MTV 120 Minutes, MTV Studios, New York, NY, USA",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "55663b6e-5d16-4a3a-ad41-731ca2d27c97",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1995\u201005\u201016: Later\u2026 With Jools Holland, BBC Television Centre, London, England, UK",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "01618034-2de5-4ace-a057-fcd0bca4cf08",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1995\u201006\u201010: Cabaret Metro, Chicago, IL, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "91decb29-1dfd-403d-a374-1314ef09d0dc",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2016\u201008\u201008: Shrine Auditorium, Los Angeles, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "02f0dd5e-65fc-4ef9-86b9-5188c546477d",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2001\u201005\u201030: Mark and Lard Show, BBC Radio 1, Due Torri Hotel, Verona, Italy",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "cfcc0382-8a43-4faf-99fb-3de282760235",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Capitol Records VHS",
+      "Type": "Album"
+    },
+    {
+      "Id": "8dbb48a5-0883-4a7a-b0a5-ba9ee0588aa3",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Capitol Records Promo DVD",
+      "Type": "Album"
+    },
+    {
+      "Id": "3f8b2893-8882-4a3b-8670-aaeb359d55d0",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2018\u201007\u201031: Wells Fargo Center, Philadelphia, PA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "d814a65a-707e-417d-a83e-89493356b206",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "B\u2010Sides, Vol. 2",
+      "Type": "Album"
+    },
+    {
+      "Id": "42b012bb-44f0-4a55-b8c8-d8141f74c497",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Remix"
+      ],
+      "Title": "Bloom (Jamie XX Rework) / Separator (Anstam RMX) / Lotus Flower (SBTRKT RMX)",
+      "Type": "Single"
+    },
+    {
+      "Id": "d0271409-f1a8-4b47-98d8-f61364f73354",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation"
+      ],
+      "Title": "Ground Control to Major Thom",
+      "Type": "Album"
+    },
+    {
+      "Id": "82e34c05-6892-456b-8182-f3d55106b1b6",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg",
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "The King of Limbs: Live From the Basement",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "e21e8bdb-c551-45d9-a5af-54a1d6aa98a2",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Remix"
+      ],
+      "Title": "Bloom (Jamie xx Rework, Pt. 3)",
+      "Type": "Single"
+    },
+    {
+      "Id": "9ee00cb6-9fc9-40f4-9ef7-aa321cac9040",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Compilation",
+        "Demo"
+      ],
+      "Title": "OK OUTTAKES",
+      "Type": "Album"
+    },
+    {
+      "Id": "6e78d500-67be-44e3-9aa5-e4d366e29f61",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2016\u201005\u201027: Roundhouse, London, UK",
+      "Type": "Other"
+    },
+    {
+      "Id": "038f527a-9dcf-4975-a52c-2d801fe0c714",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Heading for America",
+      "Type": "Other"
+    },
+    {
+      "Id": "4e4e560f-2b48-425d-93be-bf5b99035e60",
+      "OldIds": [
+        "2f35692e-1164-38c1-91e8-7a4df4af9ef4",
+        "242e2eb2-b738-3b6c-a241-86cac985dadd"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2001\u201008\u201014: Suffolk Downs, Boston, MA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "85899f04-5ca0-3bfe-8f48-acfe0e65873a",
+      "OldIds": [
+        "96b077e8-286d-3475-9606-676db767bc97",
+        "74cf5c71-da7e-4383-8116-bac494bf3368"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003-08-13: Tweeter Center, Mansfield, MA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "913f8b83-ad81-46c5-8965-f9a64ac4c8c0",
+      "OldIds": [
+        "6888b440-3d4f-4733-a439-de49f2fb8a8f"
+      ],
+      "ReleaseStatuses": [
+        "Promotion"
+      ],
+      "SecondaryTypes": [],
+      "Title": "The National Anthem",
+      "Type": "Single"
+    },
+    {
+      "Id": "13655d66-6d0c-4510-a59a-e87bb1cf1112",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Demo"
+      ],
+      "Title": "On a Friday Demos II",
+      "Type": "Album"
+    },
+    {
+      "Id": "fae41c74-25d6-4176-8510-dece68ebdf3d",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Demo"
+      ],
+      "Title": "On a Friday Demos 1",
+      "Type": "Album"
+    },
+    {
+      "Id": "1bafdf8d-81b6-47a0-a787-7183e00488c5",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Poznan for Earth (25/08/2009, Poland)",
+      "Type": "Album"
+    },
+    {
+      "Id": "96a87d03-c9cc-4db7-ad93-44311ef0c3a8",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Official"
+      ],
+      "SecondaryTypes": [],
+      "Title": "The Bends B-Sides",
+      "Type": "Other"
+    },
+    {
+      "Id": "58797add-8586-4d58-b7e7-bff236ca0bfd",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003\u201007\u201005: Montreux Jazz Festival, Stravinski Auditorium, Montreux, Switzerland",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "90d39e5b-0fe6-4574-aa75-3a95f3354dba",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1995\u201006\u201006: RPM Club, Toronto, ON, Canada",
+      "Type": "Album"
+    },
+    {
+      "Id": "84adb69a-ae1a-4c2f-801b-d6c61c659420",
+      "OldIds": [
+        "1ec77e69-7d62-46ca-bbe3-e131ede0fb2a"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1995\u201005\u201002: Planet Rock Session, RAI Studios, Rome, Italy",
+      "Type": "Album"
+    },
+    {
+      "Id": "bcd690a4-bd50-4be7-822b-138dd5c410b6",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1995\u201004\u201025: Live Europe 1",
+      "Type": "Album"
+    },
+    {
+      "Id": "cba3bc38-dbc2-408c-a29b-88d97929bc95",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1996\u201004\u201016: La Cigale, Paris, France",
+      "Type": "Album"
+    },
+    {
+      "Id": "5674317f-d24d-4e8e-806e-48c10c72fc71",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1997\u201005\u201031: Later\u2026 With Jools Holland",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "457cd28b-de76-41b2-85e1-d4a0bb9f3253",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1998\u201001\u201024: Akasaka Blitz, Tokyo, Japan",
+      "Type": "Album"
+    },
+    {
+      "Id": "9c247800-b4d4-3204-8309-f3b32aa1858e",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1998\u201012\u201010: Amnesty International Concert, Palais Omisport de Paris Bercy, Paris, France",
+      "Type": "Album"
+    },
+    {
+      "Id": "d337bfa9-cef3-460a-856a-b6437f285156",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2000\u201006\u201019: Villa Reale, Monza, Italy",
+      "Type": "Other"
+    },
+    {
+      "Id": "6be1f03a-3148-494e-b370-99b452cf45b2",
+      "OldIds": [
+        "0828f4df-47db-4b68-91d1-103f6de431a1"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2000\u201007\u201001: Meltdown Festival, Royal Festival Hall, London, England, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "dd667d25-74e8-4420-822d-36f795d54f97",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2000\u201006\u201015: Teatre Tivoli, Barcelona, Spain",
+      "Type": "Album"
+    },
+    {
+      "Id": "a78ca658-86f3-3415-b2d1-da502ff8e213",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2001\u201005\u201028: Vaison\u2010la\u2010Romaine, France",
+      "Type": "Album"
+    },
+    {
+      "Id": "a7448d43-e69d-3c7b-94cb-e18b8b66dc29",
+      "OldIds": [
+        "197f93fa-45c8-35ce-b595-64e82bf6aacf",
+        "62383072-702e-3d40-8913-35b83612566a"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2001\u201006\u201023: The Gorge Amphitheatre, George, WA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "eb4b754c-7a77-4b54-8d6e-7adbf8d29088",
+      "OldIds": [
+        "0cbeee33-94f0-415c-b95a-6bcc676c7613",
+        "1814de17-d823-43d1-bfc3-4b42ed56cdf2"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2010\u201001\u201024: Music Box Theater @ Fonda, Los Angeles, CA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "bbfcf0d4-fa9c-4783-abd5-44146862c992",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1993\u201009\u201002: Signal Radio Studios: Cheshire, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "4211c31e-06a6-4fad-a8eb-09e5fc2c7bb6",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1995\u201012\u201001: Gino, Stockholm, Sweden",
+      "Type": "Album"
+    },
+    {
+      "Id": "db47de38-6c31-495f-9023-9c8050067091",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2002\u201007\u201027: Coliseu dos Recreios de Lisboa, Lisbon, Portugal",
+      "Type": "Album"
+    },
+    {
+      "Id": "d40a2d79-5fb6-321a-a8bb-65ada7f51160",
+      "OldIds": [
+        "376f92b0-fbcb-3c5a-890a-94dbd6a83eae",
+        "608060ea-414f-4a7f-8cfa-3aa32a952f6b",
+        "42fd454b-a3ba-4dcf-ba6c-691f4d832a0f"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003\u201006\u201028: Glastonbury Festival, Pilton, UK (BBC Radio 1)",
+      "Type": "Album"
+    },
+    {
+      "Id": "7aa0683d-a68c-3db4-b50c-619ce2ddeff7",
+      "OldIds": [
+        "d975feeb-c724-36da-b06d-f0ae9ff703a1",
+        "ef076f75-a514-3bfb-8240-4563a285971b"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003\u201010\u201006: Hi\u2010Fi Buys Amphitheatre, Atlanta, GA, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "d3e76a24-d1a7-3823-9f99-e4117d5fe532",
+      "OldIds": [
+        "76dc9735-0e4c-3f1b-b33a-d513c54f3b25",
+        "62302d07-6bb7-3c5e-b729-31a8f6ee6a26",
+        "e902ee0d-0c35-40f8-b05a-0a697088a3f2"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003\u201011\u201027: Earls Court, London, UK",
+      "Type": "Album"
+    },
+    {
+      "Id": "131154ee-b46a-446b-87ef-8e2cd7752124",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2003\u201012\u201004: Point Theatre, Dublin, Ireland",
+      "Type": "Album"
+    },
+    {
+      "Id": "97d58ada-2409-49da-964f-d8067666f1d3",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2006\u201006\u201020: Auditorium Theatre, Chicago, IL, USA",
+      "Type": "Album"
+    },
+    {
+      "Id": "35118b37-816b-4e71-951f-dd3b41b42e70",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "2008\u201006\u201010: Palais Omnisports de Paris\u2010Bercy, Paris, France",
+      "Type": "Album"
+    },
+    {
+      "Id": "1fcc8c7c-235c-422d-86b1-e6bcab30e08f",
+      "OldIds": [
+        "93979d13-f717-4d97-88d5-155b873ca853"
+      ],
+      "ReleaseStatuses": [
+        "Bootleg",
+        "Official"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "Live @ Balelec, Lausanne, Switzerland, 20\u201005\u20101994",
+      "Type": "Broadcast"
+    },
+    {
+      "Id": "32037716-3ef9-4ec1-8d5d-af454e2738bb",
+      "OldIds": [],
+      "ReleaseStatuses": [
+        "Bootleg"
+      ],
+      "SecondaryTypes": [
+        "Live"
+      ],
+      "Title": "1998\u201004\u201017: Radio City Music Hall, New York, NY, USA",
+      "Type": "Album"
+    }
+  ],
+  "artistaliases": [
+    "\u30ec\u30c7\u30a3\u30aa\u30d8\u30c3\u30c9",
+    "\u7535\u53f0\u53f8\u4ee4"
+  ],
+  "artistname": "Radiohead",
+  "disambiguation": "",
+  "genres": [
+    "Alternative Rock",
+    "Art Rock",
+    "Britpop",
+    "Electronic",
+    "Electronic Rock",
+    "Experimental Rock",
+    "Indie Rock",
+    "Post-Grunge",
+    "Rock",
+    "Art Pop",
+    "Post-Britpop"
+  ],
+  "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+  "images": [],
+  "links": [
+    {
+      "target": "http://www.radiohead.com/",
+      "type": "radiohead"
+    },
+    {
+      "target": "http://musicmoz.org/Bands_and_Artists/R/Radiohead/",
+      "type": "musicmoz"
+    },
+    {
+      "target": "https://www.discogs.com/artist/3840",
+      "type": "discogs"
+    },
+    {
+      "target": "https://myspace.com/radiohead",
+      "type": "myspace"
+    },
+    {
+      "target": "http://www.purevolume.com/radiohead",
+      "type": "purevolume"
+    },
+    {
+      "target": "https://www.imdb.com/name/nm1955602/",
+      "type": "imdb"
+    },
+    {
+      "target": "https://www.bbc.co.uk/music/artists/a74b1b7f-71a5-4011-9441-d0b5e4122711",
+      "type": "bbc"
+    },
+    {
+      "target": "https://www.allmusic.com/artist/mn0000326249",
+      "type": "allmusic"
+    },
+    {
+      "target": "https://www.facebook.com/radiohead",
+      "type": "facebook"
+    },
+    {
+      "target": "https://soundcloud.com/radiohead",
+      "type": "soundcloud"
+    },
+    {
+      "target": "https://secondhandsongs.com/artist/2279",
+      "type": "secondhandsongs"
+    },
+    {
+      "target": "https://www.last.fm/music/Radiohead",
+      "type": "last"
+    },
+    {
+      "target": "https://rateyourmusic.com/artist/radiohead",
+      "type": "rateyourmusic"
+    },
+    {
+      "target": "https://twitter.com/radiohead",
+      "type": "twitter"
+    },
+    {
+      "target": "http://viaf.org/viaf/141028845",
+      "type": "viaf"
+    },
+    {
+      "target": "https://www.wikidata.org/wiki/Q44190",
+      "type": "wikidata"
+    },
+    {
+      "target": "http://muzikum.eu/en/122-3909/radiohead/lyrics.html",
+      "type": "muzikum"
+    },
+    {
+      "target": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb",
+      "type": "spotify"
+    },
+    {
+      "target": "https://genius.com/artists/Radiohead",
+      "type": "genius"
+    },
+    {
+      "target": "https://uk.7digital.com/artist/radiohead/",
+      "type": "7digital"
+    },
+    {
+      "target": "https://www.songkick.com/artists/253846",
+      "type": "songkick"
+    },
+    {
+      "target": "https://www.setlist.fm/setlists/radiohead-bd6bd12.html",
+      "type": "setlist"
+    },
+    {
+      "target": "https://www.deezer.com/artist/399",
+      "type": "deezer"
+    },
+    {
+      "target": "https://imvdb.com/n/radiohead",
+      "type": "imvdb"
+    },
+    {
+      "target": "https://ra.co/dj/radiohead",
+      "type": "ra"
+    },
+    {
+      "target": "https://play.google.com/store/music/artist?id=A3qpbllyfot4yhqo7isoomtctli",
+      "type": "google"
+    },
+    {
+      "target": "https://www.musik-sammler.de/artist/3211/",
+      "type": "musik-sammler"
+    },
+    {
+      "target": "https://www.bandsintown.com/a/25874",
+      "type": "bandsintown"
+    },
+    {
+      "target": "https://www.whosampled.com/Radiohead/",
+      "type": "whosampled"
+    },
+    {
+      "target": "http://www.spirit-of-rock.com/groupe-groupe-Radiohead-l-en.html",
+      "type": "spirit-of-rock"
+    },
+    {
+      "target": "https://www.45cat.com/artist/radiohead",
+      "type": "45cat"
+    },
+    {
+      "target": "https://www.dailymotion.com/Radiohead-vevo",
+      "type": "dailymotion"
+    },
+    {
+      "target": "https://plus.google.com/118195887388913664436",
+      "type": "google"
+    },
+    {
+      "target": "https://www.instagram.com/radiohead/",
+      "type": "instagram"
+    },
+    {
+      "target": "https://radiohead.tumblr.com/",
+      "type": "tumblr"
+    },
+    {
+      "target": "https://d-nb.info/gnd/1707341-8",
+      "type": "d-nb"
+    },
+    {
+      "target": "http://id.loc.gov/authorities/names/no97045991",
+      "type": "loc"
+    },
+    {
+      "target": "https://www.worldcat.org/identities/lccn-no97045991",
+      "type": "worldcat"
+    },
+    {
+      "target": "https://catalogue.bnf.fr/ark:/12148/cb139551041",
+      "type": "bnf"
+    },
+    {
+      "target": "https://vgmdb.net/artist/13395",
+      "type": "vgmdb"
+    },
+    {
+      "target": "https://radiohead.bandcamp.com/",
+      "type": "bandcamp"
+    },
+    {
+      "target": "https://tidal.com/artist/64518",
+      "type": "tidal"
+    },
+    {
+      "target": "https://www.tiktok.com/@radiohead",
+      "type": "tiktok"
+    },
+    {
+      "target": "http://www.btinternet.com/~r.j.arthur/rh/rhdisc.htm",
+      "type": "btinternet"
+    },
+    {
+      "target": "https://www.progarchives.com/artist.asp?id=1492",
+      "type": "progarchives"
+    },
+    {
+      "target": "https://music.youtube.com/channel/UCr_iyUANcn9OX_yy9piYoLw",
+      "type": "youtube"
+    },
+    {
+      "target": "https://www.qobuz.com/us-en/interpreter/radiohead/43840",
+      "type": "qobuz"
+    },
+    {
+      "target": "https://www.qobuz.com/us-en/interpreter/radiohead/43840",
+      "type": "qobuz"
+    },
+    {
+      "target": "https://citizeninsane.eu/",
+      "type": "citizeninsane"
+    },
+    {
+      "target": "https://music.apple.com/gb/artist/657515",
+      "type": "apple"
+    },
+    {
+      "target": "https://music.apple.com/gb/artist/657515",
+      "type": "apple"
+    },
+    {
+      "target": "https://www.beatport.com/artist/radiohead/112220",
+      "type": "beatport"
+    },
+    {
+      "target": "https://www.youtube.com/channel/UCq19-LqvG35A-30oyAiPiqA",
+      "type": "youtube"
+    },
+    {
+      "target": "https://music.amazon.co.uk/artists/B000QJXOGC",
+      "type": "amazon"
+    },
+    {
+      "target": "https://www.idref.fr/069877327",
+      "type": "idref"
+    },
+    {
+      "target": "https://jaxsta.com/profile/0e8bd208-ea18-4a75-853d-7391f4c715b2",
+      "type": "jaxsta"
+    }
+  ],
+  "oldids": [
+    "f108d105-aa71-4859-9770-46c2cd89bbcc"
+  ],
+  "overview": "",
+  "rating": {
+    "Count": 73,
+    "Value": 9.0
+  },
+  "sortname": "Radiohead",
+  "status": "active",
+  "type": "Group"
+}
