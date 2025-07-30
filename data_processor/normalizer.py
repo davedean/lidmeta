@@ -111,7 +111,7 @@ def normalize_radiohead_artist_data(artist, release_groups):
     return normalized_artist
 
 
-def normalize_album_data(release_group, artist, releases):
+def normalize_album_data(release_group, artist, releases, use_full_release_data=False):
     """Normalizes a release group into the Lidarr album schema."""
     if not release_group or not artist:
         return None
@@ -136,9 +136,10 @@ def normalize_album_data(release_group, artist, releases):
         "oldids": [],
     }
 
-    # If we don't have detailed release data, create a single, realistic placeholder release.
-    # This is crucial for local development mode to work without crashing Lidarr.
-    if not releases:
+    # If we are in "light" mode (not using full release data) and have no releases,
+    # create a single, realistic placeholder release. This is crucial for Lidarr to function.
+    # In "full" mode, we expect real data, so an empty list is accurate.
+    if not releases and not use_full_release_data:
         placeholder_tracks = []
         track_count = 1  # A reasonable guess for a standard album
         for i in range(1, track_count + 1):

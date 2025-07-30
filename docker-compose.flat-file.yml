@@ -13,7 +13,7 @@ services:
       - ARTIST_LIMIT=10000
     volumes:
       # Mount input data (MusicBrainz tar files)
-      - ./deploy/data/input:/data/current:ro
+      - ./deploy/data/input:/data/current
       # Mount output directory for processed data
       - ./deploy/data/processed:/data/processed
     command: >
