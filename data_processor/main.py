@@ -108,10 +108,30 @@ def create_artist_search_db(artists: Dict[str, Any], output_dir: Path) -> bool:
     try:
         conn = sqlite3.connect(db_path)
         cursor = conn.cursor()
-        cursor.execute("CREATE VIRTUAL TABLE artists_fts USING fts5(id, name, sort_name, unaccented_name, genres, type, country, disambiguation)")
+        cursor.execute("CREATE VIRTUAL TABLE artists_fts USING fts5(id, name, sort_name, unaccented_name, metaphone_primary, metaphone_secondary, genres, type, country, disambiguation)")
         for mbid, artist in artists.items():
-            cursor.execute("INSERT INTO artists_fts VALUES (?, ?, ?, ?, ?, ?, ?, ?)", (
-                mbid, artist.get("artistName", artist.get("artistname", "")), artist.get("sortName", artist.get("sortname", "")), (artist.get("artistName", artist.get("artistname", ""))).lower(),
+            artist_name = artist.get("artistName", artist.get("artistname", ""))
+            sort_name = artist.get("sortName", artist.get("sortname", ""))
+
+            # Generate metaphones
+            metaphone_primary = ""
+            metaphone_secondary = ""
+            try:
+                from fuzzy import DMetaphone
+                from unidecode import unidecode
+                dm = DMetaphone()
+                # Convert Unicode to ASCII for metaphone processing
+                artist_name_ascii = unidecode(artist_name)
+                sort_name_ascii = unidecode(sort_name) if sort_name else ""
+                metaphone_primary = dm(artist_name_ascii)[0] if dm(artist_name_ascii)[0] else ""
+                metaphone_secondary = dm(sort_name_ascii)[0] if sort_name_ascii and dm(sort_name_ascii)[0] else ""
+            except ImportError:
+                # Fallback if fuzzy library not available
+                pass
+
+            cursor.execute("INSERT INTO artists_fts VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", (
+                mbid, artist_name, sort_name, artist_name.lower(),
+                metaphone_primary, metaphone_secondary,
                 json.dumps(artist.get("genres", [])), artist.get("type", ""), "", artist.get("disambiguation", "")
             ))
         conn.commit()
@@ -161,7 +181,7 @@ def create_streaming_search_dbs(output_dir: Path) -> Tuple[sqlite3.Connection, s
 
     artist_conn = sqlite3.connect(artist_db_path)
     artist_cursor = artist_conn.cursor()
-    artist_cursor.execute("CREATE VIRTUAL TABLE artists_fts USING fts5(id, name, sort_name, unaccented_name, genres, type, country, disambiguation)")
+    artist_cursor.execute("CREATE VIRTUAL TABLE artists_fts USING fts5(id, name, sort_name, unaccented_name, metaphone_primary, metaphone_secondary, genres, type, country, disambiguation)")
 
     # Create album search database
     album_db_path = output_dir / "release-group.db"
@@ -200,11 +220,31 @@ def stream_to_databases(artist_conn: sqlite3.Connection, album_conn: sqlite3.Con
     from unidecode import unidecode
 
     artist_name = artist.get("artistName", artist.get("artistname", ""))
-    artist_cursor.execute("INSERT INTO artists_fts VALUES (?, ?, ?, ?, ?, ?, ?, ?)", (
+    sort_name = artist.get("sortName", artist.get("sortname", ""))
+
+    # Generate metaphones
+    metaphone_primary = ""
+    metaphone_secondary = ""
+    try:
+        from fuzzy import DMetaphone
+        from unidecode import unidecode
+        dm = DMetaphone()
+        # Convert Unicode to ASCII for metaphone processing
+        artist_name_ascii = unidecode(artist_name)
+        sort_name_ascii = unidecode(sort_name) if sort_name else ""
+        metaphone_primary = dm(artist_name_ascii)[0] if dm(artist_name_ascii)[0] else ""
+        metaphone_secondary = dm(sort_name_ascii)[0] if sort_name_ascii and dm(sort_name_ascii)[0] else ""
+    except ImportError:
+        # Fallback if fuzzy library not available
+        pass
+
+    artist_cursor.execute("INSERT INTO artists_fts VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", (
         artist["id"],
         artist_name,
-        artist.get("sortName", artist.get("sortname", "")),
+        sort_name,
         unidecode(artist_name),  # Properly remove accents
+        metaphone_primary,
+        metaphone_secondary,
         json.dumps(artist.get("genres", [])),
         artist.get("type", ""),
         "",
