@@ -1,6 +1,6 @@
 # Pre-Alpha Software!
 
-**This Work Is Pre-Alpha And Not for End Users**
+**This Work Is Pre-Alpha And Not Ready for End Users**
 
 # LidMeta: Lightweight Metadata Server for Lidarr
 
