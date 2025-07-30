@@ -109,6 +109,7 @@ services:
       - NO_PROXY=${no_proxy}
     volumes:
       - ./deploy/lidarr_config:/config
+      - ./deploy/music:/music
     ports:
       - "8686:8686"
     restart: unless-stopped

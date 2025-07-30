@@ -106,6 +106,14 @@ make up
 
 This will start the Caddy proxy, search service, and capture proxy using Docker Compose.
 
+## Configure Lidarr
+
+Tell Lidarr where to find our server by running `sqlite ./deploy/lidarr_config/lidarr.db`.
+
+```
+INSERT INTO Config (Key, Value) VALUES ('metadatasource', 'http://proxy:5000/api/v1/');
+```
+
 ## Usage
 The primary way to interact with the server is through the Lidarr interface. Once the services are running, you can configure Lidarr to use the local metadata provider.
 
