@@ -27,6 +27,7 @@ from typing import Optional, Dict, List, Any, Set, Tuple
 from collections import defaultdict
 import time
 import argparse
+import subprocess
 
 # Add the project root to the Python path
 project_root = Path(__file__).parent.parent
@@ -244,7 +245,8 @@ def process_single_artist(
     # Optional params for full release processing
     release_offset_index: Optional[Dict[str, int]] = None,
     rg_to_release_ids_index: Optional[Dict[str, List[str]]] = None,
-    release_file: Optional[Path] = None
+    release_file: Optional[Path] = None,
+    use_full_release_data: bool = False
 ):
     """
     Processes a single artist by performing targeted reads from data files.
@@ -339,7 +341,7 @@ def process_single_artist(
                                     continue
 
             from data_processor.normalizer import normalize_album_data
-            normalized_album = normalize_album_data(rg_data, artist_data, releases_for_rg)
+            normalized_album = normalize_album_data(rg_data, artist_data, releases_for_rg, use_full_release_data)
             if normalized_album:
                 if PROCESSING_CONFIG["test_1_filesystem_bottleneck"]:
                     # TEST 1: Append to temporary file instead of individual files
@@ -369,6 +371,34 @@ async def main(args):
     input_dir = Path("/data/current")
     output_dir = Path("/data/processed")
     index_dir = output_dir / "indexes"
+
+    # --- NEW: Early index existence check ----------------------------------------------------
+    def required_index_paths(use_full_release: bool):
+        core = [
+            index_dir / "artist_to_byte_offset.json",
+            index_dir / "rg_to_byte_offset.json",
+            index_dir / "artist_to_rg_ids.json",
+        ]
+        if not use_full_release:
+            return core
+        # include release indexes as well
+        core.extend([
+            index_dir / "release_to_byte_offset.json",
+            index_dir / "rg_to_release_ids.json",
+        ])
+        return core
+
+    missing_indexes = [p for p in required_index_paths(PROCESSING_CONFIG["use_full_release_data"]) if not p.exists()]
+    if missing_indexes:
+        logger.warning("🔍 Required index files missing. Running index builder (this will be idempotent)...")
+        cmd = [sys.executable, "-m", "data_processor.build_indexes"]
+        result = subprocess.run(cmd)
+        if result.returncode != 0:
+            logger.error("❌ Index builder failed. Cannot continue processing.")
+            sys.exit(1)
+        else:
+            logger.info("✅ Index builder completed successfully. Resuming pipeline start-up.")
+    # -----------------------------------------------------------------------------------------
 
     output_dir.mkdir(parents=True, exist_ok=True)
     (output_dir / "artist").mkdir(exist_ok=True)
@@ -422,7 +452,9 @@ async def main(args):
                 logger.info("📦 Found release.tar.xz - will extract if needed during processing")
             else:
                 release_file = None
-                logger.warning("⚠️  No release file available - albums will have limited track information")
+                logger.error("❌ CRITICAL: Full release data processing is enabled, but no release data source found.")
+                logger.error("Looked for: 'release.filtered', 'release', or 'release.tar.xz' in the data directories.")
+                sys.exit(1)
 
     # Log which files we're using
     if artist_file.name.endswith('.filtered'):
@@ -535,7 +567,8 @@ async def main(args):
             output_dir,
             release_offset_index=release_offset_index,
             rg_to_release_ids_index=rg_to_release_ids_index,
-            release_file=release_file
+            release_file=release_file,
+            use_full_release_data=PROCESSING_CONFIG["use_full_release_data"]
         )
 
         if normalized_artist and normalized_albums is not None:

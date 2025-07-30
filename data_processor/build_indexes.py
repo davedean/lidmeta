@@ -130,9 +130,11 @@ def build_release_indexes(release_file: Path, output_dir: Path):
     2. Release Group MBID to a list of its Release MBIDs.
     """
     release_offset_output_path = output_dir / "release_to_byte_offset.json"
+    rg_releases_output_path = output_dir / "rg_to_release_ids.json"
 
-    if release_offset_output_path.exists():
-        logger.info(f"-> Release index {release_offset_output_path} already exists. Skipping rebuild.")
+    # Skip rebuilding only if *both* release indexes already exist.
+    if release_offset_output_path.exists() and rg_releases_output_path.exists():
+        logger.info("✅ Both release index files already exist – skipping rebuild.")
         return
 
     logger.info(f"Building release byte offset indexes from {release_file.name}...")
@@ -156,7 +158,7 @@ def build_release_indexes(release_file: Path, output_dir: Path):
                 release_offset_index[release_id] = offset
 
                 # Index 2: Release Group ID to Release IDs
-                rg_id = data.get("release-group", {}).get("id")
+                rg_id = data.get("release-group", {}).get("id") or data.get("release_group_id")
                 if rg_id:
                     rg_to_releases[rg_id].append(release_id)
 
@@ -314,6 +316,110 @@ def build_artist_search_index(artist_dump_file: Path, output_dir: Path):
 #     logger.info(f"✅ Built artist search index with {artists_processed:,} artists at {db_path}")
 
 
+def should_rebuild_core_indexes(output_dir: Path, artist_file: Path, release_group_file: Path) -> bool:
+    """Determine if core indexes need to be rebuilt based on existence and source."""
+    core_indexes = [
+        output_dir / "artist_to_byte_offset.json",
+        output_dir / "rg_to_byte_offset.json",
+        output_dir / "artist_to_rg_ids.json"
+    ]
+    index_source_file = output_dir / "index_source.json"
+    core_indexes_exist = all(f.exists() for f in core_indexes)
+
+    if not core_indexes_exist:
+        logger.info("📝 Core indexes don't exist - rebuilding required.")
+        return True
+
+    if not index_source_file.exists():
+        logger.warning("Core indexes exist but source info is missing - rebuilding for safety.")
+        return True
+
+    try:
+        with open(index_source_file, 'r') as f:
+            source_info = json.load(f)
+
+        # Check if the source files recorded in the manifest match the current source files
+        last_artist_file = source_info.get("artist_file")
+        last_rg_file = source_info.get("release_group_file")
+
+        if last_artist_file != str(artist_file) or last_rg_file != str(release_group_file):
+            logger.info("🔄 Source file mismatch detected - rebuilding core indexes.")
+            logger.info(f"   Artist file changed: {last_artist_file} -> {artist_file}")
+            logger.info(f"   Release group file changed: {last_rg_file} -> {release_group_file}")
+            return True
+
+    except (json.JSONDecodeError, KeyError) as e:
+        logger.warning(f"Could not read index source info: {e}. Rebuilding core indexes.")
+        return True
+
+    logger.info("✅ Compatible core indexes already exist. Skipping rebuild.")
+    return False
+
+def should_rebuild_release_indexes(output_dir: Path, release_file: Path) -> bool:
+    """Determine if release indexes need to be rebuilt based on existence and source."""
+    if not PROCESSING_CONFIG.get("use_full_release_data"):
+        logger.info("Full release data processing is DISABLED. Skipping release index build.")
+        return False
+
+    release_indexes = [
+        output_dir / "release_to_byte_offset.json",
+        output_dir / "rg_to_release_ids.json"
+    ]
+    release_source_file = output_dir / "release_index_source.json"
+    release_indexes_exist = all(f.exists() for f in release_indexes)
+
+    if not release_indexes_exist:
+        logger.info("📝 Release indexes don't exist - rebuilding required.")
+        return True
+
+    if not release_source_file.exists():
+        logger.warning("Release indexes exist but source info is missing - rebuilding for safety.")
+        return True
+
+    try:
+        with open(release_source_file, 'r') as f:
+            source_info = json.load(f)
+
+        last_release_file = source_info.get("release_file")
+        last_mtime = source_info.get("release_file_mtime", 0)
+
+        if last_release_file != str(release_file):
+            logger.info(f"🔄 Release source file mismatch: {last_release_file} -> {release_file}. Rebuilding.")
+            return True
+
+        if release_file.exists() and release_file.stat().st_mtime > last_mtime:
+            logger.info(f"🔄 Release file {release_file.name} has been modified. Rebuilding.")
+            return True
+
+    except (json.JSONDecodeError, KeyError, OSError) as e:
+        logger.warning(f"Could not read release index source info: {e}. Rebuilding release indexes.")
+        return True
+
+    logger.info("✅ Compatible release indexes already exist and are up-to-date. Skipping rebuild.")
+    return False
+
+def save_core_index_source(output_dir: Path, artist_file: Path, release_group_file: Path):
+    """Save metadata about the source files used for the core indexes."""
+    source_info = {
+        "artist_file": str(artist_file),
+        "release_group_file": str(release_group_file),
+        "timestamp": time.time(),
+    }
+    with open(output_dir / "index_source.json", 'w') as f:
+        json.dump(source_info, f, indent=2)
+
+def save_release_index_source(output_dir: Path, release_file: Path, **kwargs):
+    """Save metadata about the source file used for the release indexes."""
+    source_info = {
+        "release_file": str(release_file),
+        "release_file_mtime": release_file.stat().st_mtime if release_file.exists() else 0,
+        "timestamp": time.time(),
+        **kwargs
+    }
+    with open(output_dir / "release_index_source.json", 'w') as f:
+        json.dump(source_info, f, indent=2)
+
+
 def main():
     """Main function to build all indexes."""
     logger.info("🚀 Starting index building process...")
@@ -321,323 +427,64 @@ def main():
     # These paths are relative to the docker-compose environment
     input_dir = Path("/data/current")
     output_dir = Path("/data/processed/indexes")
-    # The search index uses normalized data, which is one level up
     processed_dir = Path("/data/processed")
-    search_output_dir = processed_dir / "search"
-
-        # Use filtered files if available, fall back to original files
-    artist_file = processed_dir / "artist.filtered" if (processed_dir / "artist.filtered").exists() else input_dir / "artist"
-    release_group_file = processed_dir / "release-group.filtered" if (processed_dir / "release-group.filtered").exists() else input_dir / "release-group"
-    release_file = processed_dir / "release.filtered" if (processed_dir / "release.filtered").exists() else input_dir / "release"
-
-    # Log which files we're using
-    if artist_file.name.endswith('.filtered'):
-        logger.info("✅ Using pre-processed filtered artist file for index building")
-    else:
-        logger.info("⚠️  Using original artist file for index building")
-
-    if release_group_file.name.endswith('.filtered'):
-        logger.info("✅ Using pre-processed filtered release-group file for index building")
-    else:
-        logger.info("⚠️  Using original release-group file for index building")
-
-    if PROCESSING_CONFIG["use_full_release_data"]:
-        if release_file.name.endswith('.filtered'):
-            logger.info("✅ Using pre-processed filtered release file for index building")
-        else:
-            logger.info("⚠️  Using original release file for index building")
-
-        # --- Smart Idempotency Check with Source File Tracking ---
-    # Core indexes (always required)
-    core_indexes = [
-        output_dir / "artist_to_byte_offset.json",
-        output_dir / "rg_to_byte_offset.json",
-        output_dir / "artist_to_rg_ids.json"
-    ]
-
-    # Release indexes (optional - only required if release processing is working)
-    release_indexes = [
-        output_dir / "release_to_byte_offset.json",
-        output_dir / "rg_to_release_ids.json"
-    ]
-
-    # Check core indexes separately from release indexes
-    core_indexes_exist = all(f.exists() for f in core_indexes)
-    release_indexes_exist = all(f.exists() for f in release_indexes)
-
-    # For idempotency, only require core indexes - release indexes are handled separately
-    required_indexes = core_indexes
-
-    # Check which files we're currently using
-    using_filtered_files = artist_file.name.endswith('.filtered') or release_group_file.name.endswith('.filtered')
-
-        # Debug: Show status of core and release indexes
-    if core_indexes_exist:
-        logger.info(f"✅ All {len(core_indexes)} core index files exist")
-    else:
-        missing_core = [f for f in core_indexes if not f.exists()]
-        logger.info(f"🔍 Missing core index files ({len(missing_core)}/{len(core_indexes)}):")
-        for missing in missing_core:
-            logger.info(f"   ❌ {missing.name}")
-
-    if PROCESSING_CONFIG["use_full_release_data"]:
-        if release_indexes_exist:
-            logger.info(f"✅ All {len(release_indexes)} release index files exist")
-        else:
-            missing_release = [f for f in release_indexes if not f.exists()]
-            logger.info(f"🔍 Missing release index files ({len(missing_release)}/{len(release_indexes)}):")
-            for missing in missing_release:
-                logger.info(f"   ❌ {missing.name}")
-
-    # Track what files were used to build existing indexes
-    index_source_file = output_dir / "index_source.json"
-
-    if not index_source_file.exists():
-        logger.info(f"📝 Index source file not found: {index_source_file.name}")
-
-    # Check idempotency for core indexes only
-    if core_indexes_exist and index_source_file.exists():
-        # Load the source info for existing indexes
-        try:
-            with open(index_source_file, 'r') as f:
-                source_info = json.load(f)
-
-            indexes_built_from_filtered = source_info.get("using_filtered_files", False)
-
-            if using_filtered_files == indexes_built_from_filtered:
-                logger.info("✅ Compatible core index files already exist. Skipping core index building.")
-                logger.info(f"   Source: {'Filtered files' if using_filtered_files else 'Original files'}")
-
-                # Core indexes are good, but check release indexes separately
-                build_core_indexes = False
-            else:
-                logger.info("🔄 Core index source mismatch detected - rebuilding core indexes")
-                logger.info(f"   Current files: {'Filtered' if using_filtered_files else 'Original'}")
-                logger.info(f"   Existing indexes built from: {'Filtered' if indexes_built_from_filtered else 'Original'}")
-                # Remove existing core indexes to force rebuild with correct source
-                for index_file in core_indexes:
-                    if index_file.exists():
-                        index_file.unlink()
-                if index_source_file.exists():
-                    index_source_file.unlink()
-                build_core_indexes = True
-        except (json.JSONDecodeError, KeyError) as e:
-            logger.warning(f"Could not read index source info: {e}. Rebuilding core indexes.")
-            # Remove existing core indexes to be safe
-            for index_file in core_indexes:
-                if index_file.exists():
-                    index_file.unlink()
-            if index_source_file.exists():
-                index_source_file.unlink()
-            build_core_indexes = True
-    elif core_indexes_exist:
-        # Core indexes exist but no source info - assume they're from original files
-        if using_filtered_files:
-            logger.info("🔄 Using filtered files but core indexes lack source info - rebuilding for safety")
-            for index_file in core_indexes:
-                index_file.unlink()
-            build_core_indexes = True
-        else:
-            logger.info("✅ Existing core index files assumed compatible with original files. Skipping core index building.")
-            build_core_indexes = False
-    else:
-        # Core indexes don't exist - need to build them
-        logger.info("📝 Core index files don't exist - building them")
-        build_core_indexes = True
-
-    # Ensure input files exist (after extraction)
-    if not artist_file.exists() or not release_group_file.exists():
-        logger.error(f"❌ Input files not found in {input_dir}. Ensure you have run the initial extraction step.")
-        logger.error("You may need to run the main data processor once to trigger the extraction.")
-        return 1
 
     # Ensure output directory exists
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    logger.info(f"Reading from: {input_dir}")
-    logger.info(f"Writing indexes to: {output_dir}")
+    # --- Determine File Sources ---
+    artist_file = processed_dir / "artist.filtered" if (processed_dir / "artist.filtered").exists() else input_dir / "artist"
+    release_group_file = processed_dir / "release-group.filtered" if (processed_dir / "release-group.filtered").exists() else input_dir / "release-group"
 
-    # Build core indexes only if needed
-    if build_core_indexes:
+    logger.info(f"Using artist file: {artist_file}")
+    logger.info(f"Using release group file: {release_group_file}")
+
+    # --- Core Index Building ---
+    if should_rebuild_core_indexes(output_dir, artist_file, release_group_file):
+        if not artist_file.exists() or not release_group_file.exists():
+            logger.error(f"❌ Input files not found. Ensure artist/release-group files exist.")
+            return 1
+
         logger.info("🔧 Building core indexes...")
         build_artist_line_index(artist_file, output_dir)
         build_rg_indexes(release_group_file, output_dir)
-    else:
-        logger.info("⏭️  Skipping core index building (already exist and compatible)")
+        save_core_index_source(output_dir, artist_file, release_group_file)
+        logger.info("✅ Core indexes built successfully!")
 
-    # Build the FTS search index from the raw artist dump file (has its own idempotency)
-    build_artist_search_index(artist_file, search_output_dir)
+    # --- Release Index Building ---
+    release_file = processed_dir / "release.filtered" if (processed_dir / "release.filtered").exists() else input_dir / "release"
+    if should_rebuild_release_indexes(output_dir, release_file):
+        logger.info(f"Using release file: {release_file}")
 
-    if PROCESSING_CONFIG["use_full_release_data"]:
-        logger.info("Full release data processing is ENABLED. Checking release indexes...")
+        if not release_file.exists():
+            release_tar_path = input_dir / "release.tar.xz"
+            if not release_tar_path.exists():
+                logger.error("❌ No release data source found ('release', 'release.filtered', or 'release.tar.xz').")
+                return 1
 
-        # Smart idempotency check for release indexes
-        build_release_indexes_needed = True
-        release_source_file = output_dir / "release_index_source.json"
-
-        if release_indexes_exist and release_source_file.exists():
+            logger.info("🚀 Found compressed release.tar.xz. Running automatic preprocessing...")
             try:
-                with open(release_source_file, 'r') as f:
-                    release_source_info = json.load(f)
-
-                last_release_file = release_source_info.get("release_file", "")
-                current_release_file = str(release_file)
-
-                # Check if same source file and file hasn't changed
-                if (last_release_file == current_release_file and
-                    Path(current_release_file).exists()):
-
-                    # Check modification time if available
-                    last_mtime = release_source_info.get("release_file_mtime", 0)
-                    current_mtime = Path(current_release_file).stat().st_mtime
-
-                    if current_mtime <= last_mtime:
-                        logger.info("✅ Compatible release index files already exist and are up to date. Skipping release index building.")
-                        logger.info(f"   Source: {Path(current_release_file).name}")
-                        build_release_indexes_needed = False
-                    else:
-                        logger.info("🔄 Release file has been modified - rebuilding release indexes")
-                else:
-                    logger.info("🔄 Release source file mismatch - rebuilding release indexes")
-                    logger.info(f"   Previous: {Path(last_release_file).name if last_release_file else 'None'}")
-                    logger.info(f"   Current: {Path(current_release_file).name}")
-
-            except (json.JSONDecodeError, KeyError, OSError) as e:
-                logger.warning(f"Could not read release index source info: {e}. Rebuilding release indexes.")
-                build_release_indexes_needed = True
-        elif release_indexes_exist:
-            logger.info("🔍 Release indexes exist but no source info - checking if rebuild needed")
-            # If indexes exist but no source info, be conservative and rebuild if using different file type
-            if release_file.name.endswith('.filtered'):
-                logger.info("🔄 Using filtered file but release indexes lack source info - rebuilding for safety")
-                build_release_indexes_needed = True
-            else:
-                logger.info("✅ Assuming existing release indexes are compatible. Skipping rebuild.")
-                build_release_indexes_needed = False
-        else:
-            logger.info("📝 Release index files don't exist - building them")
-            build_release_indexes_needed = True
-
-        if build_release_indexes_needed:
-            # Check for release file in order of preference:
-            # 1. Filtered release file (fastest processing)
-            # 2. Decompressed release file (already extracted)
-            # 3. Compressed release.tar.xz file (extract on demand)
-
-            if release_file.exists():
-                if release_file.name.endswith('.filtered'):
-                    logger.info("✅ Using pre-processed filtered release file for fast index building")
-                else:
-                    logger.info("ℹ️  Using decompressed release file for index building")
-
-                logger.info("🔧 Building release indexes...")
-                build_release_indexes(release_file, output_dir)
-
-                # Save release index source info
-                release_source_info = {
-                    "release_file": str(release_file),
-                    "release_file_mtime": release_file.stat().st_mtime,
-                    "timestamp": time.time(),
-                    "release_file_type": "filtered" if release_file.name.endswith('.filtered') else "original"
-                }
-
-                with open(release_source_file, 'w') as f:
-                    json.dump(release_source_info, f, indent=2)
-
-                logger.info("✅ Release indexes built successfully and source info saved")
-
-            else:
-                # Check for compressed file and auto-run preprocessing
-                release_tar_path = input_dir / "release.tar.xz"
-                if release_tar_path.exists():
-                    logger.info("📦 Found compressed release.tar.xz file (285GB)")
-                    logger.info("🚀 Running automatic preprocessing to create filtered release file...")
-                    logger.info("   This avoids extracting 285GB and creates a 96% smaller filtered file")
-
-                    # Auto-run preprocessing to create filtered file
-                    try:
-                        from data_processor.preprocess import preprocess_release_file_schema_guided_streaming
-                        filtered_release_path = processed_dir / "release.filtered"
-
-                        logger.info(f"🔄 Processing {release_tar_path} → {filtered_release_path}")
-                        logger.info("⏳ This may take 20-30 minutes for the full 285GB file...")
-
-                        reduction = preprocess_release_file_schema_guided_streaming(release_tar_path, filtered_release_path)
-
-                        logger.info(f"✅ Preprocessing complete! {reduction:.1f}% data reduction achieved")
-                        logger.info(f"📁 Filtered release file: {filtered_release_path}")
-
-                        # Now use the filtered file for index building
-                        if filtered_release_path.exists():
-                            logger.info("🔧 Building release indexes from filtered file...")
-                            build_release_indexes(filtered_release_path, output_dir)
-
-                            # Save release index source info
-                            release_source_info = {
-                                "release_file": str(filtered_release_path),
-                                "release_file_mtime": filtered_release_path.stat().st_mtime,
-                                "timestamp": time.time(),
-                                "release_file_type": "filtered",
-                                "created_from_compressed": str(release_tar_path)
-                            }
-
-                            with open(release_source_file, 'w') as f:
-                                json.dump(release_source_info, f, indent=2)
-
-                            logger.info("✅ Release indexes built successfully from filtered data")
-                        else:
-                            logger.error("❌ Failed to create filtered release file")
-                            return 1
-
-                    except Exception as e:
-                        logger.error(f"❌ Failed to run preprocessing: {e}")
-                        logger.error("💡 You can run preprocessing manually:")
-                        logger.error("   docker-compose -f docker-compose.flat-file.yml run data-processor python data_processor/preprocess.py")
-                        return 1
-                else:
-                    logger.error("❌ No release file found. Looked for:")
-                    logger.error(f"   • Filtered: {release_file}")
-                    logger.error(f"   • Decompressed: {input_dir / 'release'}")
-                    logger.error(f"   • Compressed: {release_tar_path}")
-                    logger.error("")
-                    logger.error("💡 To enable release processing:")
-                    logger.error("   • Add release.tar.xz to /data/current/ (285GB compressed)")
-                    logger.error("   • System will automatically create filtered file")
+                from data_processor.preprocess import preprocess_release_file_schema_guided_streaming
+                filtered_release_path = processed_dir / "release.filtered"
+                preprocess_release_file_schema_guided_streaming(release_tar_path, filtered_release_path)
+                release_file = filtered_release_path # Use the newly created file
+                if not release_file.exists():
+                    logger.error("❌ Preprocessing finished but filtered release file not found.")
                     return 1
-        else:
-            logger.info("⏭️  Skipping release index building (already exist and compatible)")
-    else:
-        logger.info("Full release data processing is DISABLED. Skipping release index build.")
+            except Exception as e:
+                logger.error(f"❌ Failed to run preprocessing: {e}")
+                return 1
 
+        logger.info("🔧 Building release indexes...")
+        build_release_indexes(release_file, output_dir)
+        save_release_index_source(output_dir, release_file)
+        logger.info("✅ Release indexes built successfully!")
 
-        # Save source information for future compatibility checks (only if we built core indexes)
-    if build_core_indexes:
-        source_info = {
-            "using_filtered_files": using_filtered_files,
-            "artist_file": str(artist_file),
-            "release_group_file": str(release_group_file),
-            "timestamp": time.time(),
-            "processing_config": {
-                "use_full_release_data": PROCESSING_CONFIG["use_full_release_data"]
-            }
-        }
-
-        # Include release file info if release processing is enabled
-        if PROCESSING_CONFIG["use_full_release_data"]:
-            source_info["release_file"] = str(release_file)
-
-        with open(index_source_file, 'w') as f:
-            json.dump(source_info, f, indent=2)
-
-        logger.info("💾 Saved index source information for future compatibility checks")
-
-    if build_core_indexes:
-        logger.info("🎉 Core indexes built successfully!")
-    else:
-        logger.info("✅ Index building completed (core indexes skipped, release indexes handled separately)")
-
+    logger.info("🎉 Index building process completed.")
     return 0
 
 
 if __name__ == "__main__":
+    # Temporarily override config for testing to ensure release data is processed
+    PROCESSING_CONFIG['use_full_release_data'] = True
     sys.exit(main())

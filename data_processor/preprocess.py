@@ -337,6 +337,8 @@ def preprocess_release_file_schema_guided_streaming(release_tar_xz_path: Path, o
                         'date': data.get('date'),                                # → Release.releaseDate
                         'country': [data.get('country')] if data.get('country') else [],  # → Release.country
                         'disambiguation': data.get('disambiguation', ''),        # → Release.disambiguation
+                        # Preserve release-group id for downstream indexing
+                        'release_group_id': (data.get('release-group') or {}).get('id'),
 
                         # Label extraction (simplified for Release.label)
                         'labels': [
@@ -460,6 +462,7 @@ def preprocess_release_file_from_sample(sample_file_path: Path, output_path: Pat
                     'date': data.get('date'),                                # → Release.releaseDate
                     'country': [data.get('country')] if data.get('country') else [],  # → Release.country
                     'disambiguation': data.get('disambiguation', ''),        # → Release.disambiguation
+                    'release_group_id': (data.get('release-group') or {}).get('id'),
 
                     # Label extraction (simplified for Release.label)
                     'labels': [
