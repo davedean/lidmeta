@@ -76,7 +76,7 @@ async def health_check():
 @app.get("/search/artists")
 async def search_artists(
     q: str = Query(..., description="Search query for artist name"),
-    limit: int = Query(10, ge=1, le=100, description="Maximum number of results")
+    limit: int = Query(100, ge=1, le=100, description="Maximum number of results")
 ) -> List[Dict[str, Any]]:
     """Search artists and return schema-compliant SearchResult objects."""
     start_time = time.time()
@@ -103,27 +103,65 @@ async def search_artists(
         """
         logger.info(f"Executing query: {query} with params: ({q}, {limit})")
         cursor.execute(query, (q, limit))
-
         raw_results = cursor.fetchall()
         logger.info(f"SQLite returned {len(raw_results)} results: {raw_results}")
 
         results = []
         for row in raw_results:
             artist_id, name, sort_name, bm25_rank = row
-            logger.info(f"Processing artist: {artist_id} - {name}")
+            logger.info(f"Processing artist: {artist_id} - {name} (BM25: {bm25_rank})")
 
             # Load full artist data from flat files
             artist_data = load_artist_data(artist_id)
             if artist_data:
                 logger.info(f"Loaded artist data for {artist_id}")
                 # Convert BM25 rank to score (BM25 is negative, lower is better)
-                # Convert to 1-100 scale where higher is better
-                score = max(1, min(100, int(100 + bm25_rank))) if bm25_rank else 50
+                # Convert to 1-100+ scale where higher is better
+                # Since BM25 is negative and lower is better, we need to invert it
+                # Allow scores above 100 for very good matches
+                base_score = max(1, int(100 - bm25_rank)) if bm25_rank else 50
+
+                # Boost exact matches and name starts
+                boost = 0
+                query_lower = q.lower()
+                name_lower = name.lower()
+
+                # Import unidecode for accent-insensitive comparison
+                try:
+                    from unidecode import unidecode
+                    query_unaccented = unidecode(query_lower)
+                    name_unaccented = unidecode(name_lower)
+                except ImportError:
+                    # Fallback to lowercase comparison if unidecode not available
+                    query_unaccented = query_lower
+                    name_unaccented = name_lower
+
+                # Exact name match gets highest boost (accent-insensitive)
+                if name_unaccented == query_unaccented:
+                    boost = 50
+                    logger.info(f"  Exact name match: '{name}' == '{q}' (unaccented)")
+                # Name starts with query gets high boost (accent-insensitive)
+                elif name_unaccented.startswith(query_unaccented + " "):
+                    boost = 30
+                    logger.info(f"  Name starts with query: '{name}' starts with '{q} ' (unaccented)")
+                # Name contains query as a word gets medium boost (accent-insensitive)
+                elif f" {query_unaccented} " in f" {name_unaccented} ":
+                    boost = 20
+                    logger.info(f"  Name contains query as word: '{name}' contains '{q}' (unaccented)")
+                # Name ends with query gets small boost (accent-insensitive)
+                elif name_unaccented.endswith(" " + query_unaccented):
+                    boost = 10
+                    logger.info(f"  Name ends with query: '{name}' ends with ' {q}' (unaccented)")
+
+                score = base_score + boost
                 search_result = map_artist_for_search(artist_data, score)
                 results.append(search_result)
-                logger.info(f"Added result for {artist_id} with score {score}")
+                logger.info(f"Added result for {artist_id} with score {score} (BM25: {bm25_rank}, boost: {boost})")
             else:
                 logger.warning(f"Could not load data for artist {artist_id}")
+
+        # Sort results by final score descending so best matches appear first
+        results.sort(key=lambda r: r["score"], reverse=True)
 
         conn.close()
 
@@ -147,7 +185,7 @@ async def search(
         raise HTTPException(status_code=400, detail="Only 'artist' and 'all' search types supported")
 
     # For now, all searches return artist results
-    return await search_artists(q=query, limit=10)
+    return await search_artists(q=query, limit=100)
 
 
 @app.get("/stats")

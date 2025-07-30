@@ -217,13 +217,15 @@ def build_artist_search_index(artist_dump_file: Path, output_dir: Path):
         for n, line in enumerate(fp, 1):
             try:
                 data = json.loads(line)
-                aid, name = data.get("id"), data.get("name")
+                aid = data.get("id")
+                name = data.get("name") or data.get("artistName") or data.get("artistname")
                 if not aid or not name:
                     continue
+                sort_name = data.get("sort-name") or data.get("sortName") or data.get("sortname")
                 cur.execute(
                     "INSERT INTO artists_fts(id,name,sort_name,unaccented_name)"
                     "VALUES(?,?,?,?)",
-                    (aid, name, data.get("sort-name"), unidecode(name)),
+                    (aid, name, sort_name, unidecode(name)),
                 )
                 if n % 100_000 == 0:
                     logger.info(f"  …inserted {n:,} rows")

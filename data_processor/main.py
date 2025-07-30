@@ -111,7 +111,7 @@ def create_artist_search_db(artists: Dict[str, Any], output_dir: Path) -> bool:
         cursor.execute("CREATE VIRTUAL TABLE artists_fts USING fts5(id, name, sort_name, unaccented_name, genres, type, country, disambiguation)")
         for mbid, artist in artists.items():
             cursor.execute("INSERT INTO artists_fts VALUES (?, ?, ?, ?, ?, ?, ?, ?)", (
-                mbid, artist.get("artistName", ""), artist.get("sortName", ""), artist.get("artistName", "").lower(),
+                mbid, artist.get("artistName", artist.get("artistname", "")), artist.get("sortName", artist.get("sortname", "")), (artist.get("artistName", artist.get("artistname", ""))).lower(),
                 json.dumps(artist.get("genres", [])), artist.get("type", ""), "", artist.get("disambiguation", "")
             ))
         conn.commit()
@@ -196,11 +196,15 @@ def stream_to_databases(artist_conn: sqlite3.Connection, album_conn: sqlite3.Con
     """Stream single artist and albums to databases immediately."""
     # Insert artist to search database
     artist_cursor = artist_conn.cursor()
+    # Import unidecode for proper accent removal
+    from unidecode import unidecode
+
+    artist_name = artist.get("artistName", artist.get("artistname", ""))
     artist_cursor.execute("INSERT INTO artists_fts VALUES (?, ?, ?, ?, ?, ?, ?, ?)", (
         artist["id"],
-        artist.get("artistName", ""),
-        artist.get("sortName", ""),
-        artist.get("artistName", "").lower(),
+        artist_name,
+        artist.get("sortName", artist.get("sortname", "")),
+        unidecode(artist_name),  # Properly remove accents
         json.dumps(artist.get("genres", [])),
         artist.get("type", ""),
         "",
