@@ -129,7 +129,8 @@ def normalize_album_data(release_group, artist, releases, use_full_release_data=
         "genres": extract_genres(release_group.get("tags", [])) or [],
         "releases": [],  # Default to empty list, populated below
         "secondarytypes": release_group.get("secondary-types", []),  # must always be present
-        "artists": [_create_normalized_artist_base(artist)] or [],
+        # Artists will be populated after scanning tracks to ensure all referenced artists are included
+        "artists": [],
         "images": [],
         "links": extract_links(release_group.get("relations", [])) or [],
         "aliases": [a.get("name") for a in release_group.get("aliases", []) if a.get("name")] or [],
@@ -170,11 +171,19 @@ def normalize_album_data(release_group, artist, releases, use_full_release_data=
             "track_count": track_count
         }
         normalized_album["releases"].append(placeholder_release)
+        # Even in placeholder mode, ensure artists includes the album artist
+        normalized_album["artists"] = [_create_normalized_artist_base(artist)]
         return normalized_album
 
     # 2. Find and normalize all releases associated with this release group
     # from the individual releases under it.
     all_release_statuses = set()
+
+    # Track the set of all artist IDs referenced by this album (album artist + any track artists)
+    all_artist_ids = set()
+    album_artist_id = artist.get("id")
+    if album_artist_id:
+        all_artist_ids.add(album_artist_id)
 
     for release in releases:
         # Normalize tracks for this release
@@ -226,6 +235,10 @@ def normalize_album_data(release_group, artist, releases, use_full_release_data=
                     }
                     normalized_tracks.append(track_object)
 
+                    # Record artist ID for inclusion in album artists array
+                    if track_artist_id:
+                        all_artist_ids.add(track_artist_id)
+
         # Assemble media list for this release (Format/Name/Position)
         media_list = []
         for medium in release.get("media", []):
@@ -269,11 +282,29 @@ def normalize_album_data(release_group, artist, releases, use_full_release_data=
             "media": media_list,
             "track_count": sum(len(m.get("tracks", [])) for m in release.get("media", [])),
             "tracks": normalized_tracks,
+            "oldids": [],
         })
 
     # Update the album summary with all found release statuses
     if normalized_album.get("artists") and normalized_album["artists"][0].get("Albums"):
         normalized_album["artists"][0]["Albums"][0]["ReleaseStatuses"] = sorted(list(all_release_statuses))
+
+    # Populate album artists array now that we've collected all referenced artist IDs
+    # Ensure album artist is first, followed by any additional artists (deterministic order)
+    artists_list = []
+    if album_artist_id:
+        artists_list.append(_create_normalized_artist_base(artist))
+    # Add any other artist IDs, excluding the album artist
+    for aid in sorted(a for a in all_artist_ids if a != album_artist_id):
+        # Minimal ArtistBase entry; detailed info for non-album artists is not required by schema
+        artists_list.append({
+            "id": aid,
+            "artistid": aid,
+            "artistname": "",
+            "artistaliases": [],
+        })
+
+    normalized_album["artists"] = artists_list
 
     return normalized_album
 
