@@ -2,6 +2,14 @@
 
 **This Work Is Pre-Alpha And Not Ready for End Users**
 
+Public test server:
+
+*https://lidmeta.174db.com/api/v1/*
+
+Warnings: You should expect lidmeta to ruin your Lidarr install and your music collection !!
+
+No support or assistance will be available.
+
 # LidMeta: Lightweight Metadata Server for Lidarr
 
 A high-performance metadata provider for Lidarr that processes MusicBrainz dump data into a normalized, efficient format.

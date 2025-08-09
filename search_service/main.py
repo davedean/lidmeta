@@ -223,13 +223,12 @@ async def health_check():
         "timestamp": time.time()
     }
 
-@app.get("/search/artists")
-async def search_artists(
-    q: str = Query(..., description="Search query for artist name"),
-    limit: int = Query(100, ge=1, le=100, description="Maximum number of results"),
-    request: Optional[Request] = None
+async def _search_artists_impl(
+    q: str,
+    limit: int,
+    request: Optional[Request]
 ) -> List[Dict[str, Any]]:
-    """Search artists and return schema-compliant SearchResult objects."""
+    """Internal implementation for artist search with cancellation, cache and metrics."""
     start_time = time.time()
     logger.info(f"Search request: q='{q}', limit={limit}")
 
@@ -382,9 +381,6 @@ async def search_artists(
             logger.info(f"Few results ({len(results)}), attempting fuzzy search fallback")
             METRICS['fuzzy_invocations'] += 1
             fuzzy_hits = fuzzy_search_artists(cursor, q)
-        elif len(results) < 20 and len(q.strip()) < FUZZY_MIN_LEN:
-            METRICS['fuzzy_skipped_short'] += 1
-
             for artist_id, name, similarity in fuzzy_hits:
                 # Skip if we already processed this artist from FTS5 results
                 if artist_id in processed_artist_ids:
@@ -407,6 +403,8 @@ async def search_artists(
                     logger.info(f"Added fuzzy result for {artist_id} with score {score} (similarity: {similarity:.1f}%, penalty: {fuzzy_penalty})")
                 else:
                     logger.warning(f"Could not load data for fuzzy artist {artist_id}")
+        elif len(results) < 20 and len(q.strip()) < FUZZY_MIN_LEN:
+            METRICS['fuzzy_skipped_short'] += 1
 
         # Sort results by final score descending so best matches appear first
         results.sort(key=lambda r: r["score"], reverse=True)
@@ -455,8 +453,19 @@ async def search_artists(
                 METRICS['requests_active'] -= 1
 
 
+@app.get("/search/artists")
+async def search_artists(
+    request: Request,
+    q: str = Query(..., description="Search query for artist name"),
+    limit: int = Query(100, ge=1, le=100, description="Maximum number of results")
+) -> List[Dict[str, Any]]:
+    """Search artists and return schema-compliant SearchResult objects."""
+    return await _search_artists_impl(q=q, limit=limit, request=request)
+
+
 @app.get("/api/v1/search")
 async def search(
+    request: Request,
     type: str = Query("all", alias="type"),
     query: str = Query(..., min_length=1, alias="query")
 ) -> List[Dict[str, Any]]:
@@ -465,7 +474,7 @@ async def search(
         raise HTTPException(status_code=400, detail="Only 'artist' and 'all' search types supported")
 
     # For now, all searches return artist results
-    return await search_artists(q=query, limit=100)
+    return await _search_artists_impl(q=query, limit=100, request=request)
 
 
 @app.get("/stats")
