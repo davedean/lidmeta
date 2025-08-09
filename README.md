@@ -6,9 +6,11 @@ Public test server:
 
 *https://lidmeta.174db.com/api/v1/*
 
-Warnings: You should expect lidmeta to ruin your Lidarr install and your music collection !!
+Warnings: 
 
-No support or assistance will be available.
+- You should expect lidmeta to ruin your Lidarr install and your music collection !!
+- No support or assistance will be available.
+- No guarantees of service availability are made.
 
 # LidMeta: Lightweight Metadata Server for Lidarr
 
