@@ -296,12 +296,14 @@ def normalize_album_data(release_group, artist, releases, use_full_release_data=
         artists_list.append(_create_normalized_artist_base(artist))
     # Add any other artist IDs, excluding the album artist
     for aid in sorted(a for a in all_artist_ids if a != album_artist_id):
-        # Minimal ArtistBase entry; detailed info for non-album artists is not required by schema
+        # Minimal ArtistBase entry; include non-nullable fields expected by Lidarr's ArtistMetadata
         artists_list.append({
             "id": aid,
             "artistid": aid,
             "artistname": "",
             "artistaliases": [],
+            "images": [],
+            "links": [],
         })
 
     normalized_album["artists"] = artists_list
