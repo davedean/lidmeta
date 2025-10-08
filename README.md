@@ -2,13 +2,9 @@
 
 **This Work Is Pre-Alpha And Not Ready for End Users**
 
-Public test server:
-
-*https://lidmeta.174db.com/api/v1/*
-
 You can use `https://raw.githubusercontent.com/davedean/lidmeta/refs/heads/main/scripts/switch_metadata_server.sh` to switch.
 
-eg: `./switch_metadata_erver.sh --db ./lidarr.db --url https://lidmeta.174db.com/api/v1/`
+eg: `./switch_metadata_erver.sh --db ./lidarr.db --url https://example.com/api/v1/`
 
 Warnings: 
 
